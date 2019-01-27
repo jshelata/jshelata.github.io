@@ -1,0 +1,83 @@
+Return-Path: <abejeansamuel@gmail.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com (Dovecot) with LMTP id mYjbA3/zv1q0cgwAV+VKPg
+	for <jack@jackshelata.com>; Sat, 31 Mar 2018 15:45:51 -0500
+Return-path: <abejeansamuel@gmail.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Sat, 31 Mar 2018 15:45:51 -0500
+Received: from mail-io0-f180.google.com ([209.85.223.180]:43281)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <abejeansamuel@gmail.com>)
+	id 1f2NNm-003RB4-Jb
+	for jack@jackshelata.com; Sat, 31 Mar 2018 15:45:51 -0500
+Received: by mail-io0-f180.google.com with SMTP id q84so14256487iod.10
+        for <jack@jackshelata.com>; Sat, 31 Mar 2018 13:45:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :references:in-reply-to:to;
+        bh=3h70t+QybqGCnZPcjO4EdMc21iV6uR+ir/qPdEEiyF8=;
+        b=HzQyKGEB/YysT7huWwsTNDnaj3zRRwBv4z9YtYbnfoXYrRXOqGlIMrj6lEsOOq8hI4
+         4FwBctgk2w/8Yhc3nfV2PMpkvZ4So5ACxxSrjolM3ZzG/8Y/7e5mbjG0mGZ0HFu9Ab9+
+         Gpihtg0pUcu+AEgcCHGWOyOWUenhGrdug3R4/D8p7sg4+L/OR/eDogOyd4/6n1yUpZwA
+         YhdZnLekckvS0PFMhQ7BoUKCur1xZOQSqV70FqaoUWJUVoCx/e68FSl5cbfP2Jt/OO6+
+         B1bBt2v/0HIFyteNYlSpC/RwEaWgZ8rkz627KYgksx31QTO1CIm9aIZZORgB7fC3dYmc
+         t1+g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:references:in-reply-to:to;
+        bh=3h70t+QybqGCnZPcjO4EdMc21iV6uR+ir/qPdEEiyF8=;
+        b=CH4NaKluNRhuix7YPo0jHtXUs38a/z43Ma8n0fuBll/EQJOJEzoIua04druaoovH1v
+         FExljZP+ZmoyYIvdnh/zD97fqz2LkK5pTCMFZ62cM/h8aed4Q4BDXiDVE+AIo6nIZyoR
+         qDzRZu6FnNHr8jxGhcCp31a13//ra2+uY8mLrnDfMcimMJnx2Ez9IV+VrgEv9c77pwrC
+         pNxZR2Rb2mGy79723f7p0oOQz9KYJ3aNnoAGEnnBRU7a2YwL6wMp+LYhRX7RGouWEp2+
+         PV98N4vAUp19ZFZVyI8g1hBV8iNLMUJBdHUg0u3ezWtgTsfuLEiG24Pc5C/rcb081HdL
+         ZbhA==
+X-Gm-Message-State: AElRT7H9PO/O1la6Gjva+ylmDJTJqnu50+/YPwaD+xn26RcFtwB9P2AP
+	/5QDap93aHAd08O0cZ4gy7QyQKFY
+X-Google-Smtp-Source: AIpwx48wvW4nJ7EPjUwM1LjdkiHtWYoRNVY/wfDs0sfUM8Umm+gJ4lbYCCpteoixHEmUsSZUdfzC6Q==
+X-Received: by 10.107.136.131 with SMTP id s3mr3459959ioi.177.1522529139310;
+        Sat, 31 Mar 2018 13:45:39 -0700 (PDT)
+Received: from [192.168.86.246] (c-68-43-84-92.hsd1.mi.comcast.net. [68.43.84.92])
+        by smtp.gmail.com with ESMTPSA id p77sm6567891iop.61.2018.03.31.13.45.38
+        for <jack@jackshelata.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 31 Mar 2018 13:45:38 -0700 (PDT)
+From: samuel abejan <abejeansamuel@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+Date: Sat, 31 Mar 2018 16:45:37 -0400
+Subject: Re:
+Message-Id: <07A75B0B-FD70-41D1-97C2-23D045AB7E29@gmail.com>
+References: <1321E2EB-EC9A-4D7D-ABAF-3B95BD50AA2F@gmail.com> <5A0399BA-79F1-4FC5-904B-96AF086545E4@jackshelata.com>
+In-Reply-To: <5A0399BA-79F1-4FC5-904B-96AF086545E4@jackshelata.com>
+To: "jack@jackshelata.com" <jack@jackshelata.com>
+X-Mailer: iPhone Mail (15D100)
+X-Spam-Status: No, score=-0.6
+X-Spam-Score: -5
+X-Spam-Bar: /
+X-Spam-Flag: NO
+
+I am swell, why are you in Texas?=20
+
+Sent from my iPhone
+
+> On Mar 31, 2018, at 9:47 AM, "jack@jackshelata.com" <jack@jackshelata.com>=
+ wrote:
+>=20
+> hey,
+>=20
+> How are you?
+>=20
+>> On Mar 30, 2018, at 9:01 PM, samuel abejan <abejeansamuel@gmail.com> wrot=
+e:
+>>=20
+>> Hey
+>>=20
+>> Sent from my iPhone
+>=20

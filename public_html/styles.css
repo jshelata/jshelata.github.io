@@ -1,0 +1,23 @@
+body {
+	background-color: LightYellow;
+}
+h1 {
+	color: DodgerBlue;
+	font-family: verdana;
+	font-size: 300%;
+}
+p {
+	color: Pink;
+	font-family: courier;
+	font-size: 160%;
+	border: 1px solid orange;
+	padding: 30px;
+	margin: 50px;
+}
+#p01 {
+	color: teal;
+}
+p.error {
+	color: red;
+}
+

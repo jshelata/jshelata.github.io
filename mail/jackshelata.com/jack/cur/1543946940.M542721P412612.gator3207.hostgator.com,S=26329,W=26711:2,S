@@ -1,0 +1,382 @@
+Return-Path: <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl34b3xo8ja7x6dg11@bounce.linkedin.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id 2KBDILzCBlzESwYAV+VKPg
+	for <jack@jackshelata.com>; Tue, 04 Dec 2018 12:09:00 -0600
+Return-path: <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl34b3xo8ja7x6dg11@bounce.linkedin.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Tue, 04 Dec 2018 12:09:00 -0600
+Received: from mailc-ce.linkedin.com ([108.174.6.165]:57935)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl34b3xo8ja7x6dg11@bounce.linkedin.com>)
+	id 1gUF7z-001tVf-U0
+	for jack@jackshelata.com; Tue, 04 Dec 2018 12:09:00 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=d2048-201806-01; t=1543946928;
+	bh=wJOpyHXbyRNEEx8iEi1JFMt2U+hBNuoSwmprhHG8nQo=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=iHibOWHA/kDgNTlnW+dgCuS4aTvmVSvTdhFFp2+mVQz7tFyz2X9K8rCyPVH0IK1By
+	 vz9wgF4ImfQwcZKDXpeP0henxTfUkBmHswpfonpa/Bc+ETtsgz0iC+klr5N+D9hng9
+	 vTb5/ZEcetdqU0yQdtlI+sWMHG3GFGqw5iT/AbJQ6SGOIlJaKQCPWJnaC/avm53Vh8
+	 3WILA3A4rJ0cywSAbeyxq1Fj5ZS8DPVpAZU+OS8JzycLYPgLFs2Iw2+Vq4ESyBoM78
+	 oqeF6WPKRTUd0FGvaQ8FKeR7Y4eRLT18yamJvJfOeUhXgCfRrgGWuf6TYfc8c9IaqI
+	 XrzDluYL7PWlA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mailc.linkedin.com;
+	s=proddkim1024; t=1543946928;
+	bh=wJOpyHXbyRNEEx8iEi1JFMt2U+hBNuoSwmprhHG8nQo=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=uvlRorKxCatQRoLyAYaFMQWYsyeoLc2SKQH4bD4cydgq9710Jb2KnXMKhDl3T3Ys5
+	 Usvu2Pcek0KWMiJ394QE90JPQkbhD/kcuKDi9ZB7CunCfwtr/b9ppGrAsAjEC0odwE
+	 R0F6mdARAuGVsh/Il+ZOCCDqfQcCuffwB1Ey6im8=
+From: LinkedIn <notifications-noreply@linkedin.com>
+Message-ID: <293402556.11742131.1543946928547.JavaMail.app@lva1-app0271.prod.linkedin.com>
+Subject: Congratulate Sam Lefkowitz and 2 others for starting new positions
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_11742129_662816585.1543946928544"
+To: Jack Shelata <jack@jackshelata.com>
+Date: Tue, 4 Dec 2018 18:08:48 +0000 (UTC)
+X-LinkedIn-Class: NETWORKDIGEST
+X-LinkedIn-Template: email_notification_digest_01
+X-LinkedIn-fbl: m2-aszp38ynkujpaewna91r9qjhzdfuv7oohd2ud2jp1xrxpxqqz35jatw2f1ed8fe6hkjjhat489f1x7opzfil3gwa879vgu8w23ii55
+X-LinkedIn-Id: 6r5gpt-jpa24vcr-le
+List-Unsubscribe: <https://www.linkedin.com/e/v2?e=6r5gpt-jpa24vcr-le&t=lun&midToken=AQGmOgFoL_CRRg&ek=email_notification_digest_01&li=10&m=unsub&ts=unsub&loid=AQHXQmJ8x95h3QAAAWd6aIE2JSGI7gZ3FTkLUbqixnn1FNvFZhwZu013R7k4XZsT9EDfBy0nGMSj4p-Pfdd7r8GXEla-0leWQuqe7211&eid=6r5gpt-jpa24vcr-le>
+Require-Recipient-Valid-Since: jack@jackshelata.com; Mon, 13 Aug 2018 19:54:41 +0000
+X-Spam-Status: No, score=-0.7
+X-Spam-Score: -6
+X-Spam-Bar: /
+X-Spam-Flag: NO
+
+------=_Part_11742129_662816585.1543946928544
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+Jack, this is what you've missed on LinkedIn
+
+-----------------------------------------
+ https://www.linkedin.com/comm/in/samlefkowitz?midToken=3DAQGmOgFoL_CRRg&am=
+p;trk=3Deml-email_notification_digest_01-notifications-1-prof_photo&amp;trk=
+Email=3Deml-email_notification_digest_01-notifications-1-prof_photo-null-6r=
+5gpt%7Ejpa24vcr%7Ele-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%=
+3Ali%3Apage%3Aemail_email_notification_digest_01%3B0X1zD5oFREyiKNBuym2eLA%3=
+D%3D
+ https://www.linkedin.com/comm/in/laurence-horowitz-25245549?midToken=3DAQG=
+mOgFoL_CRRg&amp;trk=3Deml-email_notification_digest_01-notifications-2-prof=
+_photo&amp;trkEmail=3Deml-email_notification_digest_01-notifications-2-prof=
+_photo-null-6r5gpt%7Ejpa24vcr%7Ele-null-neptune%2Fprofile%7Evanity%2Eview&a=
+mp;lipi=3Durn%3Ali%3Apage%3Aemail_email_notification_digest_01%3B0X1zD5oFRE=
+yiKNBuym2eLA%3D%3D
+
+
+Congratulate Sam Lefkowitz and 2 others for starting new positions
+
+See new positions: https://www.linkedin.com/comm/notifications/New%20positi=
+ons/urn%3Ali%3AnotificationV2%3A%28urn%3Ali%3Amember%3A408401633%2CJOB%5FCH=
+ANGE%5FPROP%2Curn%3Ali%3AuniqueSuffix%3A%28urn%3Ali%3Anone%2Co2wbyyneTo2cfY=
+hsUXp4pg%29%29?title=3DNew%20positions&midToken=3DAQGmOgFoL_CRRg&trk=3Deml-=
+email_notification_digest_01-notifications-4-null&trkEmail=3Deml-email_noti=
+fication_digest_01-notifications-4-null-null-6r5gpt%7Ejpa24vcr%7Ele-null-vo=
+yagerOffline&lipi=3Durn%3Ali%3Apage%3Aemail_email_notification_digest_01%3B=
+0X1zD5oFREyiKNBuym2eLA%3D%3D
+
+-----------------------------------------
+
+
+.....................................
+
+Unsubscribe: https://www.linkedin.com/e/v2?e=3D6r5gpt-jpa24vcr-le&t=3Dlun&m=
+idToken=3DAQGmOgFoL_CRRg&ek=3Demail_notification_digest_01&li=3D10&m=3Dunsu=
+b&ts=3Dunsub&loid=3DAQHXQmJ8x95h3QAAAWd6aIE2JSGI7gZ3FTkLUbqixnn1FNvFZhwZu01=
+3R7k4XZsT9EDfBy0nGMSj4p-Pfdd7r8GXEla-0leWQuqe7211&eid=3D6r5gpt-jpa24vcr-le
+
+Help: https://www.linkedin.com/e/v2?e=3D6r5gpt-jpa24vcr-le&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_notification_digest_01%3B0X1zD5oFREyiKNBuym2eLA%3D%3D&=
+a=3DcustomerServiceUrl&midToken=3DAQGmOgFoL_CRRg&ek=3Demail_notification_di=
+gest_01&li=3D9&m=3Dfooter&ts=3Dhelp&articleId=3D67
+
+
+You are receiving LinkedIn notification emails.
+
+This email was intended for Jack Shelata (Computer Science Student -- Unive=
+rsity of Michigan College of Engineering).
+Learn why we included this: https://www.linkedin.com/e/v2?e=3D6r5gpt-jpa24v=
+cr-le&lipi=3Durn%3Ali%3Apage%3Aemail_email_notification_digest_01%3B0X1zD5o=
+FREyiKNBuym2eLA%3D%3D&a=3DcustomerServiceUrl&midToken=3DAQGmOgFoL_CRRg&ek=
+=3Demail_notification_digest_01&articleId=3D4788
+
+=C2=A9 2018 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 940=
+85. LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+------=_Part_11742129_662816585.1543946928544
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml" lang=3D"en" xml:lang=3D"en"> <head> <meta http-equiv=3D"Co=
+ntent-Type" content=3D"text/html;charset=3Dutf-8"> <meta name=3D"HandheldFr=
+iendly" content=3D"true"> <meta name=3D"viewport" content=3D"width=3Ddevice=
+-width; initial-scale=3D0.666667; maximum-scale=3D0.666667; user-scalable=
+=3D0"> <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <title></t=
+itle> <!--[if mso]><style type=3D"text/css">body {font-family: 'Helvetica N=
+eue', Helvetica, Arial, sans-serif;}.phoenix-email-container {width: 512px =
+!important;}</style><![endif]--> <!--[if IE]><style type=3D"text/css">.phoe=
+nix-email-container {width: 512px !important;}</style><![endif]--> <style t=
+ype=3D"text/css">@media only screen and (max-width:32em) { .phoenix-email-c=
+ontainer { width:100% !important; } } @media only screen and (max-width:20e=
+m) {} @media only screen and (max-device-width:30em) {} @media screen and (=
+device-width:30em) and (device-height:22.5em), screen and (device-width:22.=
+5em) and (device-height:30em), screen and (device-width:20em) and (device-h=
+eight:15em) {} @media screen and (-webkit-min-device-pixel-ratio:0) {} @med=
+ia screen and (max-device-width:25.88em) and (max-device-height:48.5em) {} =
+@media only screen and (min-width:30.06em) { .phoenix-app-activation-footer=
+-content&gt;tbody&gt;tr&gt;td { text-align:left; } .phoenix-app-activation-=
+footer-screenshot&gt;tbody&gt;tr&gt;td { padding:16px 0 0 0; } } </style> <=
+/head> <body style=3D"padding:0;margin:0 auto;-webkit-text-size-adjust:100%=
+;width:100% !important;-ms-text-size-adjust:100%;font-family:'Helvetica Neu=
+e',Helvetica,Arial,sans-serif;"> <div style=3D"overflow:hidden;color:transp=
+arent;visibility:hidden;mso-hide:all;width:0;font-size:0;opacity:0;height:0=
+;"> Here's what's happened since you were last on LinkedIn </div> <table al=
+ign=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"10=
+0%" bgcolor=3D"#EDF0F3" style=3D"background-color:#EDF0F3;table-layout:fixe=
+d;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-=
+ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"center" style=3D"-web=
+kit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-tex=
+t-size-adjust:100%;"> <center style=3D"width:100%;"> <table border=3D"0" cl=
+ass=3D"phoenix-email-container" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"512" bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;margin:0 aut=
+o;max-width:512px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;width:=
+inherit;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td =
+bgcolor=3D"#F6F8FA" style=3D"background-color:#F6F8FA;padding:5px 16px 13px=
+;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;border-bottom:1px solid #ECECEC;"> <table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;width:100% !important;mso-table-lsp=
+ace:0pt;-ms-text-size-adjust:100%;min-width:100% !important;"> <tbody> <tr>=
+ <td align=3D"left" valign=3D"middle" style=3D"-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a =
+href=3D"https://www.linkedin.com/comm/feed/?midToken=3DAQGmOgFoL_CRRg&amp;t=
+rk=3Deml-email_notification_digest_01-header-5-home&amp;trkEmail=3Deml-emai=
+l_notification_digest_01-header-5-home-null-6r5gpt%7Ejpa24vcr%7Ele-null-nep=
+tune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_notification_digest_01=
+%3B0X1zD5oFREyiKNBuym2eLA%3D%3D" style=3D"cursor:pointer;color:#008CC9;-web=
+kit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-tex=
+t-size-adjust:100%;"> <img alt=3D"LinkedIn" border=3D"0" src=3D"https://www=
+.linkedin.com/comm/dms/logo?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_n=
+otification_digest_01-null-12-null&amp;trkEmail=3Deml-email_notification_di=
+gest_01-null-12-null-null-6r5gpt%7Ejpa24vcr%7Ele-null-comms%7Ebadging%7Edyn=
+amic&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_notification_digest_01%3B0X1z=
+D5oFREyiKNBuym2eLA%3D%3D&amp;_sig=3D3Fq1qlP_pwFow1" height=3D"42" style=3D"=
+outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:n=
+one;"></a></td> <td valign=3D"middle" width=3D"100%" align=3D"right" style=
+=3D"padding:0 0 0 10px;padding-top:7px;-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"=
+https://www.linkedin.com/comm/in/jackshelata?midToken=3DAQGmOgFoL_CRRg&amp;=
+trk=3Deml-email_notification_digest_01-header-13-profile&amp;trkEmail=3Deml=
+-email_notification_digest_01-header-13-profile-null-6r5gpt%7Ejpa24vcr%7Ele=
+-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_=
+email_notification_digest_01%3B0X1zD5oFREyiKNBuym2eLA%3D%3D" style=3D"curso=
+r:pointer;margin:0;color:#008CC9;-webkit-text-size-adjust:100%;display:inli=
+ne-block;text-decoration:none;-ms-text-size-adjust:100%;"> <span style=3D"w=
+ord-wrap:break-word;color:#4C4C4C;word-break:break-word;font-weight:400;-ms=
+-word-break:break-all;font-size:14px;line-height:1.429;overflow-wrap:break-=
+word;">Jack Shelata</span></a></td> <td valign=3D"middle" width=3D"40" styl=
+e=3D"padding-top:7px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;pad=
+ding-left:10px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <a href=3D=
+"https://www.linkedin.com/comm/in/jackshelata?midToken=3DAQGmOgFoL_CRRg&amp=
+;trk=3Deml-email_notification_digest_01-header-13-profile&amp;trkEmail=3Dem=
+l-email_notification_digest_01-header-13-profile-null-6r5gpt%7Ejpa24vcr%7El=
+e-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail=
+_email_notification_digest_01%3B0X1zD5oFREyiKNBuym2eLA%3D%3D" style=3D"bord=
+er-radius:50%;cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;di=
+splay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><img al=
+t=3D"" border=3D"0" height=3D"36" width=3D"36" src=3D"https://media.licdn.c=
+om/dms/image/C4E03AQHvz9UfxV0d_Q/profile-displayphoto-shrink_100_100/0?e=3D=
+2159024400&amp;v=3Dbeta&amp;t=3DvoTV1lizwaePgFekSeHoLtAnlaRcXUCYI5M4d3rwmxs=
+" style=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubic;co=
+lor:#FFFFFF;text-decoration:none;"></a></td> <td width=3D"1" style=3D"-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;">&nbsp;</td> </tr> </tbody> </table></td> </tr> <tr> <td=
+ style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspa=
+ce:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-=
+table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> =
+<tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-ta=
+ble-lspace:0pt;-ms-text-size-adjust:100%;"><h2 style=3D"background-color:#0=
+073B1;padding:24px 20px;margin:0;color:#FFFFFF;font-weight:700;font-size:20=
+px;line-height:1.2;text-align:center;">Jack, this is what you've missed on =
+LinkedIn</h2> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"padd=
+ing:16px 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-=
+lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;=
+mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbo=
+dy> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;ms=
+o-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table align=3D"center" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" style=3D"-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;"> <tbody> <tr> <td style=3D"-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <a=
+ href=3D"https://www.linkedin.com/comm/in/samlefkowitz?midToken=3DAQGmOgFoL=
+_CRRg&amp;trk=3Deml-email_notification_digest_01-notifications-1-prof_photo=
+&amp;trkEmail=3Deml-email_notification_digest_01-notifications-1-prof_photo=
+-null-6r5gpt%7Ejpa24vcr%7Ele-null-neptune%2Fprofile%7Evanity%2Eview&amp;lip=
+i=3Durn%3Ali%3Apage%3Aemail_email_notification_digest_01%3B0X1zD5oFREyiKNBu=
+ym2eLA%3D%3D" style=3D"border-radius:50%;cursor:pointer;color:#008CC9;-webk=
+it-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text=
+-size-adjust:100%;"><img alt=3D"" border=3D"0" height=3D"70" width=3D"70" s=
+rc=3D"https://media.licdn.com/dms/image/C4E03AQE9N0J_wWStaw/profile-display=
+photo-shrink_100_100/0?e=3D1549497600&amp;v=3Dbeta&amp;t=3DfajJh54Sp2HeIi6Z=
+bvJT2msxCcHkEbFdScc-KEktQ98" style=3D"border-radius:50%;outline:none;-ms-in=
+terpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></a></td> <td=
+ style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspa=
+ce:0pt;-ms-text-size-adjust:100%;"> <a href=3D"https://www.linkedin.com/com=
+m/in/laurence-horowitz-25245549?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-ema=
+il_notification_digest_01-notifications-2-prof_photo&amp;trkEmail=3Deml-ema=
+il_notification_digest_01-notifications-2-prof_photo-null-6r5gpt%7Ejpa24vcr=
+%7Ele-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Ae=
+mail_email_notification_digest_01%3B0X1zD5oFREyiKNBuym2eLA%3D%3D" style=3D"=
+border-radius:50%;cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100=
+%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><im=
+g alt=3D"" border=3D"0" height=3D"70" width=3D"70" src=3D"https://media.lic=
+dn.com/dms/image/C5603AQGg5zvIbGq_xQ/profile-displayphoto-shrink_100_100/0?=
+e=3D1549497600&amp;v=3Dbeta&amp;t=3DcDHsaPjB_2fooGKxaLnPZmAiXMQJ8jyWOy2XozJ=
+xaTw" style=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubi=
+c;color:#FFFFFF;text-decoration:none;"></a></td> </tr> </tbody> </table></t=
+d> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0=
+pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"center" style=3D"=
+max-width:396px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tabl=
+e-lspace:0pt;-ms-text-size-adjust:100%;padding-bottom:4px;text-align:center=
+;"> <tbody> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><h2 style=3D"margin:=
+0;color:#262626;font-weight:400;font-size:16px;line-height:1.5;">Congratula=
+te <a href=3D"https://www.linkedin.com/comm/in/samlefkowitz?midToken=3DAQGm=
+OgFoL_CRRg&amp;trk=3Deml-email_notification_digest_01-settings-3-prof_photo=
+&amp;trkEmail=3Deml-email_notification_digest_01-settings-3-prof_photo-null=
+-6r5gpt%7Ejpa24vcr%7Ele-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Du=
+rn%3Ali%3Apage%3Aemail_email_notification_digest_01%3B0X1zD5oFREyiKNBuym2eL=
+A%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100=
+%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">Sam=
+ Lefkowitz</a> and 2 others <strong>for starting new positions</strong></h2=
+></td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"-webkit-text-si=
+ze-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adju=
+st:100%;"></td> </tr> <tr> <td align=3D"center" style=3D"padding-top:8px;-w=
+ebkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-t=
+ext-size-adjust:100%;text-align:center;"><span style=3D"padding-right:6px;d=
+irection:ltr;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;display:inline-blo=
+ck;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=
+=3D"center" valign=3D"middle" style=3D"-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"=
+https://www.linkedin.com/comm/notifications/New%20positions/urn%3Ali%3Anoti=
+ficationV2%3A%28urn%3Ali%3Amember%3A408401633%2CJOB%5FCHANGE%5FPROP%2Curn%3=
+Ali%3AuniqueSuffix%3A%28urn%3Ali%3Anone%2Co2wbyyneTo2cfYhsUXp4pg%29%29?titl=
+e=3DNew%20positions&amp;midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_notif=
+ication_digest_01-notifications-4-null&amp;trkEmail=3Deml-email_notificatio=
+n_digest_01-notifications-4-null-null-6r5gpt%7Ejpa24vcr%7Ele-null-voyagerOf=
+fline&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_notification_digest_01%3B0X1=
+zD5oFREyiKNBuym2eLA%3D%3D" target=3D"_blank" style=3D"cursor:pointer;word-w=
+rap:normal;color:#008CC9;word-break:normal;white-space:nowrap;-webkit-text-=
+size-adjust:100%;display:block;text-decoration:none;-ms-text-size-adjust:10=
+0%;overflow-wrap:normal;"> <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso-table-rsp=
+ace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td =
+bgcolor=3D"#008CC9" style=3D"padding:6px 16px;color:#FFFFFF;-webkit-text-si=
+ze-adjust:100%;font-weight:500;font-size:16px;-ms-text-size-adjust:100%;bor=
+der-color:#008CC9;background-color:#008CC9;border-radius:2px;mso-table-rspa=
+ce:0pt;mso-table-lspace:0pt;border-width:1px;border-style:solid;"><a href=
+=3D"https://www.linkedin.com/comm/notifications/New%20positions/urn%3Ali%3A=
+notificationV2%3A%28urn%3Ali%3Amember%3A408401633%2CJOB%5FCHANGE%5FPROP%2Cu=
+rn%3Ali%3AuniqueSuffix%3A%28urn%3Ali%3Anone%2Co2wbyyneTo2cfYhsUXp4pg%29%29?=
+title=3DNew%20positions&amp;midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_n=
+otification_digest_01-notifications-4-null&amp;trkEmail=3Deml-email_notific=
+ation_digest_01-notifications-4-null-null-6r5gpt%7Ejpa24vcr%7Ele-null-voyag=
+erOffline&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_notification_digest_01%3=
+B0X1zD5oFREyiKNBuym2eLA%3D%3D" target=3D"_blank" style=3D"cursor:pointer;co=
+lor:#FFFFFF;-webkit-text-size-adjust:100%;display:inline-block;text-decorat=
+ion:none;-ms-text-size-adjust:100%;">See new positions</a></td> </tr> </tbo=
+dy> </table></a></td> </tr> </tbody> </table></span></td> </tr> </tbody> </=
+table></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr>=
+ <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#EDF0F3" align=3D"cente=
+r" style=3D"background-color:#EDF0F3;padding:0 24px;color:#6A6C6D;-webkit-t=
+ext-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-siz=
+e-adjust:100%;text-align:center;"> <tbody> <tr> <td align=3D"center" style=
+=3D"padding:16px 0 0 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;m=
+so-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <table a=
+lign=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-=
+lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td valign=3D"middle" =
+align=3D"center" style=3D"padding:0 0 16px 0;-webkit-text-size-adjust:100%;=
+mso-table-rspace:0pt;vertical-align:middle;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;text-align:center;"><a href=3D"https://www.linkedin.com/e/v2=
+?e=3D6r5gpt-jpa24vcr-le&amp;t=3Dlun&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3D=
+email_notification_digest_01&amp;li=3D10&amp;m=3Dunsub&amp;ts=3Dunsub&amp;l=
+oid=3DAQHXQmJ8x95h3QAAAWd6aIE2JSGI7gZ3FTkLUbqixnn1FNvFZhwZu013R7k4XZsT9EDfB=
+y0nGMSj4p-Pfdd7r8GXEla-0leWQuqe7211&amp;eid=3D6r5gpt-jpa24vcr-le" style=3D"=
+cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decoration:=
+underline;display:inline-block;-ms-text-size-adjust:100%;"> <span style=3D"=
+color:#6A6C6D;font-weight:400;text-decoration:underline;font-size:12px;line=
+-height:1.333;">Unsubscribe</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D"h=
+ttps://www.linkedin.com/e/v2?e=3D6r5gpt-jpa24vcr-le&amp;lipi=3Durn%3Ali%3Ap=
+age%3Aemail_email_notification_digest_01%3B0X1zD5oFREyiKNBuym2eLA%3D%3D&amp=
+;a=3DcustomerServiceUrl&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_notifi=
+cation_digest_01&amp;li=3D9&amp;m=3Dfooter&amp;ts=3Dhelp&amp;articleId=3D67=
+" style=3D"cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:100%;text-=
+decoration:underline;display:inline-block;-ms-text-size-adjust:100%;"> <spa=
+n style=3D"color:#6A6C6D;font-weight:400;text-decoration:underline;font-siz=
+e:12px;line-height:1.333;">Help</span></a></td> </tr> </tbody> </table></td=
+> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0p=
+t;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-=
+adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:=
+100%;"> <tbody> <tr> <td align=3D"center" style=3D"padding:0 0 12px 0;-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;text-align:center;"> <p style=3D"margin:0;color:#6A6C6D;f=
+ont-weight:400;font-size:12px;line-height:1.333;">You are receiving LinkedI=
+n notification emails.</p></td> </tr> <tr> <td align=3D"center" style=3D"pa=
+dding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tab=
+le-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <p style=3D"ma=
+rgin:0;word-wrap:break-word;color:#6A6C6D;word-break:break-word;font-weight=
+:400;-ms-word-break:break-all;font-size:12px;line-height:1.333;overflow-wra=
+p:break-word;">This email was intended for Jack Shelata (Computer Science S=
+tudent -- University of Michigan College of Engineering). <a href=3D"https:=
+//www.linkedin.com/e/v2?e=3D6r5gpt-jpa24vcr-le&amp;lipi=3Durn%3Ali%3Apage%3=
+Aemail_email_notification_digest_01%3B0X1zD5oFREyiKNBuym2eLA%3D%3D&amp;a=3D=
+customerServiceUrl&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_notificatio=
+n_digest_01&amp;articleId=3D4788" style=3D"cursor:pointer;color:#6A6C6D;-we=
+bkit-text-size-adjust:100%;text-decoration:underline;display:inline-block;-=
+ms-text-size-adjust:100%;">Learn why we included this.</a></p></td> </tr> <=
+tr> <td align=3D"center" style=3D"padding:0 0 8px 0;-webkit-text-size-adjus=
+t:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;=
+text-align:center;"><a href=3D"https://www.linkedin.com/comm/feed/?midToken=
+=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_notification_digest_01-footer-7-home&=
+amp;trkEmail=3Deml-email_notification_digest_01-footer-7-home-null-6r5gpt%7=
+Ejpa24vcr%7Ele-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email=
+_notification_digest_01%3B0X1zD5oFREyiKNBuym2eLA%3D%3D" style=3D"cursor:poi=
+nter;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decoration:underline;=
+display:inline-block;-ms-text-size-adjust:100%;"><img alt=3D"LinkedIn" bord=
+er=3D"0" height=3D"14" src=3D"https://static.licdn.com/scds/common/u/images=
+/email/phoenix/logos/logo_phoenix_footer_darkgray_197x48_v1.png" width=3D"5=
+8" style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;displ=
+ay:block;text-decoration:none;"></a></td> </tr> <tr> <td align=3D"center" s=
+tyle=3D"padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0=
+pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <p s=
+tyle=3D"margin:0;color:#6A6C6D;font-weight:400;font-size:12px;line-height:1=
+.333;">=C2=A9 2018 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale,=
+ CA 94085. LinkedIn and the LinkedIn logo are registered trademarks of Link=
+edIn.</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </=
+tr> </tbody> </table> </center></td> </tr> </tbody> </table> <img src=3D"ht=
+tp://www.linkedin.com/emimp/ip_Tm5JMVozQjBMV3B3WVRJMGRtTnlMV3hsOlpXMWhhV3hm=
+Ym05MGFXWnBZMkYwYVc5dVgyUnBaMlZ6ZEY4d01RPT06.gif" style=3D"outline:none;-ms=
+-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;width:1px;he=
+ight:1px;"> </body> </html>
+------=_Part_11742129_662816585.1543946928544--
+

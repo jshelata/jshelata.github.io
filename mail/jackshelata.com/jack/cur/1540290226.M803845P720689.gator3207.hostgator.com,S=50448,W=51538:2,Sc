@@ -1,0 +1,1090 @@
+Return-Path: <linkedin@e.linkedin.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id KAzJL7L2zlsx/woAV+VKPg
+	for <jack@jackshelata.com>; Tue, 23 Oct 2018 05:23:46 -0500
+Return-path: <linkedin@e.linkedin.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Tue, 23 Oct 2018 05:23:46 -0500
+Received: from omp.e.linkedin.com ([199.7.202.92]:42178)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <linkedin@e.linkedin.com>)
+	id 1gEtqk-0034eU-60
+	for jack@jackshelata.com; Tue, 23 Oct 2018 05:23:46 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=linkedin; d=e.linkedin.com;
+ h=MIME-Version:Content-Type:Date:To:From:Reply-To:Subject:List-Unsubscribe:
+ Message-ID; i=linkedin@e.linkedin.com;
+ bh=noQfMrtUXYNq4vbjHdED4lb4ee65EcgYr1YQbu+/mFI=;
+ b=OQFI5HSrTkbu3wP+JRpS3T7oeTEVSOqNhTfjVwDquoFSwsQxOGzH+04dXxi74VJCAtswHBYaBJCE
+   ku59MuqO5Whs53HkfoZNnntDfYTsNNY4iVp+zVCdEUanf+Q7DBJ6S07nT8WmJhIGxSIlrTb1GYqe
+   E2O1YxPnr+Q2Pm51p18=
+Received: by omp.e.linkedin.com id hprrb42b6109 for <jack@jackshelata.com>; Tue, 23 Oct 2018 03:23:35 -0700 (envelope-from <linkedin@e.linkedin.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----msg_border_qlu37qOZcn"
+Date: Tue, 23 Oct 2018 03:23:35 -0700
+To: jack@jackshelata.com
+From: =?UTF-8?B?TmlraXRhIEAgTGlua2VkSW4gTGVhcm5pbmc=?= <linkedin@e.linkedin.com>
+Reply-To: =?UTF-8?B?TmlraXRhIEAgTGlua2VkSW4gTGVhcm5pbmc=?= <donotreply@e.linkedin.com>
+Subject: Jack, free course on Strategic Thinking - limited time only!
+Feedback-ID: 50563:9061415:oraclersys
+List-Unsubscribe: <https://e.linkedin.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcX&_ei_=EolaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm2LgDIpw81PMUQrWhPrUzsqud7bJq5XwYvOwsFu8sX0U9wnM47FktYhnJLVVUmk>, <mailto:unsubscribe-YQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcX@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: rHJsxrHJskoLtHlHQJhu
+X-rext: 5.interact5.EunKlP0qErqpu5OSta5aXA3y9goIeA0n1tdClVA0ZqCo59cbPnX_
+X-cid: linkedin.7032455
+X-CSA-Complaints: whitelist-complaints@eco.de
+Message-ID: <0.1.DE.DAB.1D46ABA74B402E8.0@omp.e.linkedin.com>
+X-Spam-Status: No, score=-1.4
+X-Spam-Score: -13
+X-Spam-Bar: -
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------msg_border_qlu37qOZcn
+Date: Tue, 23 Oct 2018 03:23:35 -0700
+Content-Type: multipart/alternative; boundary="----alt_border_vunzhU3bAn_1"
+
+
+
+------alt_border_vunzhU3bAn_1
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please view this email in a browser:=20
+https://e=2Elinkedin=2Ecom/pub/sf/FormLink?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmg=
+dtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXMtX%3DYQpglLjHJlY=
+QGsT24mzeOicL2Knk2pYUOgcyM6nzb1gkhIfPze13WgGae7qyvjk4zczdt&_ei_=3DEgkqxaPel=
+WEoSujAeHvVt69ZDQvTHcPabl-I5qsJdziDIYPPo-XBtg=2EJg%3D%3D
+
+If you need assistance or have questions, please contact LinkedIn Customer =
+Service:=20
+https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjz=
+bimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCYBUY&_ei_=3DEola=
+GGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm2LgDIpw81PMUQr=
+WhPrUzsqud7bJq5XwYvOwsFu8sX0U9wnM47FktYhnJLVVUmk=2EJg%3D%3D=20
+
+This is an occasional email to help you get the most out of LinkedIn=2E Uns=
+ubscribe: https://www=2Elinkedin=2Ecom/settings/li-announcements
+
+This email was intended for Jack Shelata=2E Learn why we include this:=20
+https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjz=
+bimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCYBBY&_ei_=3DEola=
+GGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm2LgDIpw81PMUQr=
+WhPrUzsqud7bJq5XwYvOwsFu8sX0U9wnM47FktYhnJLVVUmk=2EJg%3D%3D
+
+Copyright 2018, LinkedIn Corporation=2E All rights reserved=2E LinkedIn Cor=
+p=2E 1000 West Maude Avenue, Sunnyvale CA 94085
+=2E
+
+------alt_border_vunzhU3bAn_1
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Strict//EN=22 =22http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-strict=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22 xmlns:v=3D=22urn:schem=
+as-microsoft-com:vml=22 xmlns:o=3D=22urn:schemas-microsoft-com:office:offic=
+e=22>
+ <head>
+ </head>
+ <body class=3D=22tli=22 style=3D=22-webkit-text-size-adjust: none;-ms-text=
+-size-adjust: none; margin: 0; padding: 0; width: 100%; background-color: =
+=23EDF0F3;=22>
+  <p>
+  <meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3Du=
+tf-8=22>
+  <meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22>    <=
+=21--=5Bif =21mso><=21-- -->
+  <meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22>    <=
+=21--<=21=5Bendif-->
+  <meta content=3D=22width=3Ddevice-width; initial-scale=3D1=2E0; maximum-s=
+cale=3D1=2E0; user-scalable=3Dno;=22 name=3D=22viewport=22>
+  <meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22>
+  <meta name=3D=22ROBOTS=22 content=3D=22NOINDEX, NOFOLLOW=22>
+  <title>LinkedIn</title>
+  <style type=3D=22text/css=22>
+=2EExternalClass =7B width:100%; =7D
+=2EExternalClass, =2EExternalClass p, =2EExternalClass span, =2EExternalCla=
+ss font, =2EExternalClass td, =2EExternalClass div =7B line-height: 100%; =
+=7D
+table td =7B border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; =7D
+h1, h2, h3, h4, h5, h6 =7B font-size: inherit; padding: 0; margin: 0; color=
+: black; line-height: 100%; =7D
+=2Eapplelinks a =7B text-decoration: none; color: inherit =21important; =7D
+a =7B color: black; text-decoration: none; =7D
+a, a:link, a:visited =7B color: inherit; text-decoration: none; =7D
+span=2EMsoHyperlink =7B mso-style-priority: 99; color: inherit; =7D
+span=2EMsoHyperlinkFollowed =7B mso-style-priority: 99; color: inherit; =7D
+=2Eoutlook div =7B font-size: 0px =21important; display: block =21important=
+; =7D
+
+body =7B
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	-webkit-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+	-webkit-font-smoothing: antialiased;
+	margin: 0;
+	padding: 0;
+width: 100%;
+	=7D
+
+=40media only screen and (max-width: 480px) =7B
+=2Ew100m, =2Ecolumn50, =2Ecolumn33, =2Ecolumn25, =2Ecolumn75, =2Ecolumn66 =
+=7B width: 100% =21important;=7D
+=2Ew90m =7B width: 90% =21important;=7D
+=2Ew85m =7B width: 85% =21important;=7D
+=2Eexpandm =7B width: 100% =21important; display: block =21important; =7D
+=2Eresizem =7B width: 100% =21important; height: auto =21important; =7D
+=2Ehidem =7B display: none =21important; =7D
+=2Eh1m =7B font-size: 20px =21important;=7D
+=2Eh2m =7B font-size: 14px =21important;=7D
+=2Ecenterm =7B text-align: center =21important; =7D
+=2Eleftm =7B text-align: left =21important; =7D
+=2Epadt0m =7B padding-top: 0px =21important; =7D
+=2Epadt5m =7B padding-top: 5px =21important; =7D
+=2Epadt10m =7B padding-top: 10px =21important; =7D
+=2Epadt20m =7B padding-top: 20px =21important; =7D
+=2Epadt30m =7B padding-top: 30px =21important; =7D
+=2Epadb5m =7B padding-bottom: 5px =21important;=7D
+=2Epadb10m =7B padding-bottom: 10px =21important;=7D
+=2Epadb20m =7B padding-bottom: 20px =21important;=7D
+=2Epadb30m =7B padding-bottom: 30px =21important;=7D
+=2Ewidth320 =7B width: 320px =21important;=7D
+=2Ecell12x15 =7B width: 12px; height: 15px =21important;=7D
+=2Ewidth296 =7B width: 296px =21important;=7D
+=2Ewidth12 =7B width: 12px =21important;=7D
+=7D
+
+=40media only screen and (max-width: 512px) =7B
+=2Ew100 =7B width: 100% =21important;=7D
+=2Ew90 =7B width: 90% =21important;=7D
+=2Ew85 =7B width: 85% =21important; =7D
+=2Eminwidth =7B min-width: 100% =21important;=7D
+=2Ehide =7B display: none =21important; =7D
+=2Eresize =7B width: 100% =21important; height: auto =21important; =7D
+=2Eresize img =7B width: 100% =21important; height: auto =21important; =7D
+=2Eexpand =7B width: 100% =21important; display: block =21important; =7D
+=2Eheight0 =7B height: 0 =21important; =7D
+=2Ecolumn50 =7B width: 50%; =7D
+=2Ecolumn33 =7B width: 33=2E33%; =7D
+=2Ecolumn25 =7B width: 25%; =7D
+=2Ecolumn75 =7B width: 75%; =7D
+=2Ecolumn66 =7B width: 66%; =7D
+=2Ecenter =7B text-align: center =21important; =7D
+=2Eborderr0 =7B border-right: 0px =21important; =7D
+=2Epadt0 =7B padding-top: 0px =21important; =7D
+=2Epadt5 =7B padding-top: 5px =21important; =7D
+=2Epadt10 =7B padding-top: 10px =21important; =7D
+=2Epadt20 =7B padding-top: 20px =21important; =7D
+=2Epadt30 =7B padding-top: 30px =21important; =7D
+=2Epadb0 =7B padding-bottom: 0px =21important;=7D
+=2Epadb5 =7B padding-bottom: 5px =21important;=7D
+=2Epadb10 =7B padding-bottom: 10px =21important;=7D
+=2Epadb20 =7B padding-bottom: 20px =21important;=7D
+=2Epadb30 =7B padding-bottom: 30px =21important;=7D
+=7D</style>  <=21--=5Bif mso>
+<style type=3D=22text/css=22>
+body =7B
+	margin: 0 =21important;
+    padding: 0 =21important;
+    font-family: Segoe UI, Arial, sans-serif;
+    =7D
+
+table, td, div, p =7B
+	font-family: Segoe UI, Arial, sans-serif;
+    line-height: normal;
+    =7D
+</style>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<=21=5Bendif-->                                                            =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                     </meta>
+  </meta>
+  </meta>
+  </meta>
+  </meta>
+  </meta>
+  </p>
+  <table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpadd=
+ing=3D=220=22>
+   <tbody>
+    <tr>
+     <td align=3D=22center=22 style=3D=22background-color: =23EDF0F3;=22><=
+=21-- TABLES START -->                      <=21-- =7C=7C=7C MAIN BODY TABL=
+E START =7C=7C=7C -->
+     <table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22>
+      <tbody>
+       <tr>
+        <td align=3D=22center=22>
+        <table class=3D=22w100=22 align=3D=22center=22 width=3D=22512=22 bo=
+rder=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <=21-- ADD ROW(S) HERE START -->                    <=21-- /// PRE=
+HEADER START /// -->
+         <tbody>
+          <tr>
+           <td class=3D=22hide=22 align=3D=22center=22 style=3D=22padding-t=
+op: 10px; padding-bottom: 15px; =22>
+           <table width=3D=2295%=22 border=3D=220=22 align=3D=22center=22 c=
+ellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tbody>
+             <tr>
+              <=21-- COPY START -->
+              <td class=3D=22hidem=22 style=3D=22padding-bottom: 5px; font-=
+family: Helvetica Neue, Arial, sans-serif; color: =23333333; text-align: ce=
+nter; font-size: 10px; -webkit-text-size-adjust:none; -ms-text-size-adjust:=
+ none;=22>30-day free trial</td>
+              <=21-- COPY END -->
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- /// PREHEADER END /// -->                       <=21-- ///=
+ 1 UNIVERSAL HEADER ROW START /// -->
+          <tr>
+           <td class=3D=22padt10m padb10m=22 align=3D=22center=22 style=3D=
+=22background-color: white; padding-top: 15px; padding-bottom: 15px;=22>
+           <table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 c=
+ellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tbody>
+             <tr>
+              <=21-- * LOGO START * -->
+              <td width=3D=2236=22 align=3D=22left=22><a href=3D=22https://=
+e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lH=
+YHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRBDY&_ei_=3DEiwLKaCq3fBW=
+gqzDPVJI26bl1xDRlRlFZHxmrjucFfJ1whjKbElcEHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4=
+L8sGi1O-6Cu44g5o6VQtbkZQbBEOEBoKfRtypgz41ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGv=
+yvO3NrSKV-m1WxKck=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Ene=
+t/i5/responsysimages/linkedin/contentlibrary/jeangrey/iconography/jean-grey=
+-linkedin-logo=2Epng=22 width=3D=2241=22 alt=3D=22LinkedIn=22 style=3D=22di=
+splay: block; border: 0; font-size: 20px; font-weight: bold; font-family: s=
+ans-serif; color: =230D0D0D;=22 class=3D=22resizem=22 /></a></td>
+              <=21-- * LOGO END * -->
+              <td style=3D=22padding-left: 20px;=22>
+              <table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22>
+               <tbody>
+                <tr>
+                 <=21-- * NAME START * -->
+                 <td class=3D=22h3m=22 style=3D=22padding-right: 10px; font=
+-family: Helvetica Neue, Arial, sans-serif; font-size: 14px; text-align: ri=
+ght; color: =23737373;=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb=
+8hYDJIygzcXVXtpKX%3DDYCRCSY&_ei_=3DEiwLKaCq3fBWgqzDPVJI26bl1xDRlRlFZHxmrjuc=
+FfJ1whjKbElcEHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L8sGi1O-6Cu44g5o6VQtbkZQbBEO=
+EBoKfRtypgz41ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvyvO3NrSKV-m1WxKck=2E=22 styl=
+e=3D=22color:=237e7e7e; text-decoration:none;=22>Jack Shelata</a></td>
+                 <=21-- * NAME END * -->
+                 <td width=3D=2236=22 align=3D=22center=22>
+                 <table border=3D=220=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <=21-- * IMAGE START * -->
+                    <td align=3D=22center=22 style=3D=22-webkit-border-radi=
+us: 50%;&=2310;-moz-border-radius: 50%;&=2310;border-radius: 50%; overflow:=
+ hidden;=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3=
+DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXt=
+pKX%3DDYCRCSY&_ei_=3DEiwLKaCq3fBWgqzDPVJI26bl1xDRlRlFZHxmrjucFfJ1whjKbElcEH=
+tVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L8sGi1O-6Cu44g5o6VQtbkZQbBEOEBoKfRtypgz41e=
+cjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvyvO3NrSKV-m1WxKck=2E=22><img src=3D=22http=
+s://media=2Elicdn=2Ecom/dms/image/C4E03AQHvz9UfxV0d_Q/profile-displayphoto-=
+shrink_400_400/0?e=3D1545264000&v=3Dbeta&t=3DvO-FZaL6kny3tQ54f_04f9du22MYKw=
+PlhTmp5vqbZS8=22 width=3D=2236=22 style=3D=22display: block; border: 0; bac=
+kground-color: =230077B5;=22 class=3D=22resizem=22 alt=3D=22=22 /></a></td>
+                    <=21-- * IMAGE END * -->
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- /// 1 UNIVERSAL HEADER ROW END /// -->        <=21-- /// 7=
+0 SECTION DIVIDER START /// -->
+          <tr>
+           <td align=3D=22center=22 style=3D=22background-color: white;=22>
+           <table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tbody>
+             <tr>
+              <td style=3D=22border-top: 1px solid =23D9D9D9;=22></td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- /// 70 SECTION DIVIDER END /// -->                        =
+                               <=21-- /// 2 EMAIL LOCKUPS DEFAULT START ///=
+ -->
+          <tr>
+           <td align=3D=22center=22 style=3D=22background-color: white; pad=
+ding-top: 25px; padding-bottom: 0px;=22>
+           <table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 c=
+ellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tbody>
+             <tr>
+              <=21-- HEADLINE START -->
+              <td class=3D=22h2m=22 style=3D=22font-size: 14px; font-family=
+: Helvetica Neue, Arial, sans-serif; color: =230087be; text-align: center;=
+=22><b>LinkedIn</b> <span style=3D=22letter-spacing: 2px;=22>LEARNING</span=
+></td>
+              <=21-- HEADLINE END -->
+             </tr>
+             <=21-- / DIVIDER START / -->
+             <tr>
+              <td align=3D=22center=22 style=3D=22padding-top: 10px; =22>
+              <table width=3D=2248=22 border=3D=220=22 align=3D=22center=22=
+ cellpadding=3D=220=22 cellspacing=3D=220=22>
+               <tbody>
+                <tr>
+                 <td style=3D=22border-top: 1px solid =23D9D9D9;=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <=21-- / DIVIDER END / -->
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- /// 2 EMAIL LOCKUPS DEFAULT END /// -->                   =
+      <=21-- /// 25 BODY CENTERED IMAGE BUTTON SECONDARY START /// -->
+          <tr>
+           <td align=3D=22center=22 style=3D=22background-color: white; pad=
+ding-top: 25px; padding-bottom: 25px;=22>
+           <table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22>
+              <table width=3D=2290%=22 border=3D=220=22 align=3D=22center=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+               <tbody>
+                <tr>
+                 <=21-- HEADLINE START -->
+                 <td class=3D=22h1m=22 style=3D=22font-size: 23px; font-fam=
+ily: Helvetica Neue, Arial, sans-serif; color: black; text-align: center;=
+=22>57% of leaders say soft skills are more important than hard skills=2E*<=
+/td>
+                 <=21-- HEADLINE END -->
+                </tr>
+                <tr>
+                 <=21-- COPY START -->
+                 <td class=3D=22h2m=22 style=3D=22padding-top: 5px; padding=
+-bottom: 15px; font-size: 15px; font-family: Helvetica Neue, Arial, sans-se=
+rif; color: black; text-align: center; line-height: 1=2E4em;=22>Advance you=
+r career with unlimited access to expert-led courses=2E</td>
+                 <=21-- COPY END -->
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <table width=3D=2285%=22 border=3D=220=22 align=3D=22center=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+               <=21-- / OUTLINE BUTTON START / -->
+               <tbody>
+                <tr>
+                 <td align=3D=22center=22 style=3D=22padding-top: 10px; pad=
+ding-bottom: 10px;=22>
+                 <table border=3D=220=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td style=3D=22border: 1px solid =230084BF; -webkit-bor=
+der-radius: 2px;&=2310;-moz-border-radius: 2px;&=2310;border-radius: 2px; o=
+verflow: hidden;=22>
+                    <table width=3D=22100%=22 border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                     <tbody>
+                      <tr>
+                       <=21-- COPY START -->
+                       <td class=3D=22height0=22 height=3D=2225=22 style=3D=
+=22padding-left: 16px; padding-right: 16px; font-family: Helvetica Neue, Ar=
+ial, sans-serif; font-size: 14px; text-align: center; color: =230084BF; =22=
+><span style=3D=22text-decoration: none; display: block; width: 100%; paddi=
+ng-top: 5px; padding-bottom: 5px; color: rgb(0, 132, 191);=22><a href=3D=22=
+https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjz=
+bimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRCUY&_ei_=3DEiwL=
+KaCq3fBWgqzDPVJI26bl1xDRlRlFZHxmrjucFfJ1whjKbElcEHtVvBWoCCeC0bUpRQVeu1NEdKP=
+iZcqhBZ4L8sGi1O-6Cu44g5o6VQtbkZQbBEOEBoKfRtypgz41ecjtQlLHxlWecKRAMLYv3T6iys=
+-zfcjoGvyvO3NrSKV-m1WxKck=2E=22 style=3D=22text-decoration: none; color: rg=
+b(0, 132, 191);=22><strong>Watch Strategic Thinking</strong></a></span></td>
+                       <=21-- COPY END -->
+                      </tr>
+                     </tbody>
+                    </table>
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+                <=21-- / OUTLINE BUTTON END / -->
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <=21-- HEADLINE START -->
+              <td class=3D=22h1m=22 style=3D=22 padding-top:15px; padding-b=
+ottom: 15px; font-size: 15px; font-family: Helvetica Neue, Arial, sans-seri=
+f; color: =230084BF; text-align: center;=22><a href=3D=22https://e=2Elinked=
+in=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnh=
+bL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRCUY&_ei_=3DEiwLKaCq3fBWgqzDPVJI26=
+bl1xDRlRlFZHxmrjucFfJ1whjKbElcEHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L8sGi1O-6C=
+u44g5o6VQtbkZQbBEOEBoKfRtypgz41ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvyvO3NrSKV-=
+m1WxKck=2E=22 style=3D=22color: =230084BF; text-decoration: none; font-weig=
+ht: bold;=22>This course is free</a></td>
+              <=21-- HEADLINE END -->
+             </tr>
+             <tr>
+              <td align=3D=22center=22><=21-- IMAGE START -->            <a=
+ href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQG=
+mgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRCUY&=
+_ei_=3DEiwLKaCq3fBWgqzDPVJI26bl1xDRlRlFZHxmrjucFfJ1whjKbElcEHtVvBWoCCeC0bUp=
+RQVeu1NEdKPiZcqhBZ4L8sGi1O-6Cu44g5o6VQtbkZQbBEOEBoKfRtypgz41ecjtQlLHxlWecKR=
+AMLYv3T6iys-zfcjoGvyvO3NrSKV-m1WxKck=2E=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/content/linkedin/hs-clark=2Ejpg=22 =
+width=3D=22412=22 style=3D=22display: block; border: 0; background-color: =
+=23d0edfa; text-align:center; max-width: 100%;=22 class=3D=22resize=22 alt=
+=3D=22=22 /></a>       <=21-- IMAGE END --></td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- /// 25 BODY CENTERED IMAGE BUTTON SECONDARY END /// -->   =
+            <=21-- /// 60 BASIC CARD RIGHT RESOURCE BUTTON SECONDARY ICON O=
+VERLAY START /// -->      <=21-- /// 60 BASIC CARD RIGHT RESOURCE BUTTON SE=
+CONDARY ICON OVERLAY END /// -->               <=21-- /// 72=20
+          </tr>
+          <=21-- /// 70 SECTION DIVIDER START /// -->
+          <tr>
+           <td align=3D=22center=22 style=3D=22background-color: white;=22>
+           <table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tbody>
+             <tr>
+              <td style=3D=22border-top: 1px solid =23D9D9D9;=22></td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- /// 70 SECTION DIVIDER END /// -->          <=21-- /// 72 =
+TYPOGRAPHIC DIVIDER END /// -->        <=21-- /// 18 SUB BANNER CENTERED BU=
+TTON TERTIARY START /// -->
+          <tr>
+           <td align=3D=22center=22 style=3D=22background-color: white; pad=
+ding-top: 25px; padding-bottom: 10px;=22>
+           <table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 c=
+ellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tbody>
+             <tr>
+              <=21-- HEADLINE START -->
+              <td class=3D=22h1m=22 style=3D=22font-size: 20px; font-family=
+: Helvetica Neue, Arial, sans-serif; color: =23262626; text-align: center; =
+=22>Other popular courses:</td>
+              <=21-- HEADLINE END -->
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- /// 18 SUB BANNER CENTERED BUTTON TERTIARY END /// -->    =
+                 <=21-- /// 55 BASIC CARD RESOURCE BUTTON TERTIARY ICON OVE=
+RLAY START /// -->
+          <tr>
+           <td class=3D=22padt0=22 align=3D=22center=22 style=3D=22backgrou=
+nd-color: white; padding-top: 5px; padding-bottom: 25px;=22>
+           <table class=3D=22w100=22 width=3D=2285%=22 border=3D=220=22 ali=
+gn=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tbody>
+             <tr>
+              <td valign=3D=22top=22>
+              <table class=3D=22w100=22 width=3D=22216=22 border=3D=220=22 =
+align=3D=22left=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+               <tbody>
+                <tr>
+                 <td class=3D=22padt0=22 align=3D=22center=22 style=3D=22pa=
+dding-top: 20px;=22>
+                 <table class=3D=22w100=22 width=3D=2290%=22 border=3D=220=
+=22 align=3D=22left=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <=21-- 204x138 BACKGROUND-IMAGE - Note: Apply link to b=
+oth TD and MSO code -->
+                    <td background=3D=22https://static=2Ecdn=2Eresponsys=2E=
+net/i5/responsysimages/content/linkedin/Copy-of-hs-bodylanguage=2Ejpg=22 al=
+ign=3D=22center=22 style=3D=22background-size: cover; background-position: =
+center; background-repeat: no-repeat;=22><=21--=5Bif gte mso 9=5D>
+  <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:vml=22 fill=3D=22true=22 s=
+troke=3D=22false=22 style=3D=22width: 194px; height: 128px; float: center;=
+=22>
+    <v:fill type=3D=22frame=22 src=3D=22https://static=2Ecdn=2Eresponsys=2E=
+net/i5/responsysimages/content/linkedin/Copy-of-hs-bodylanguage=2Ejpg=22 co=
+lor=3D=22=23FFFFFF=22 />
+    <v:textbox inset=3D=220,0,0,0=22>
+  <=21=5Bendif=5D-->
+                    <div>
+                    <table width=3D=22100%=22 border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                     <tbody>
+                      <tr>
+                       <=21-- TRANSPARENT PLAY IMAGE START -->
+                       <td align=3D=22center=22><a href=3D=22https://e=2Eli=
+nkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6U=
+PDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRCYY&_ei_=3DEiwLKaCq3fBWgqzDPV=
+JI26bl1xDRlRlFZHxmrjucFfJ1whjKbElcEHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L8sGi1=
+O-6Cu44g5o6VQtbkZQbBEOEBoKfRtypgz41ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvyvO3Nr=
+SKV-m1WxKck=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/r=
+esponsysimages/content/linkedin/Copy-of-hs-bodylanguage=2Ejpg=22 width=3D=
+=22192=22 style=3D=22display: block; border: 0;=22 class=3D=22resize=22 alt=
+=3D=22=22 /></a></td>
+                       <=21-- TRANSPARENT PLAY IMAGE END -->
+                      </tr>
+                     </tbody>
+                    </table>
+                    </div>
+                    <=21--=5Bif gte mso 9=5D>
+    </v:textbox>
+  </v:rect>
+  <=21=5Bendif=5D--></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+              <=21--=5Bif mso=5D></td><td valign=3D=22top=22><=21=5Bendif=
+=5D-->
+              <table class=3D=22w100=22 width=3D=22216=22 border=3D=220=22 =
+align=3D=22left=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+               <tbody>
+                <tr>
+                 <td align=3D=22center=22 style=3D=22padding-top: 20px;=22>
+                 <table class=3D=22w85=22 width=3D=22100%=22 border=3D=220=
+=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <=21-- HEADLINE START -->
+                    <td class=3D=22h1m center=22 style=3D=22font-size: 18px=
+; font-family: Helvetica Neue, Arial, sans-serif; color: =23262626; text-al=
+ign: left;=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXV=
+XtpKX%3DDYCRCYY&_ei_=3DEiwLKaCq3fBWgqzDPVJI26bl1xDRlRlFZHxmrjucFfJ1whjKbElc=
+EHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L8sGi1O-6Cu44g5o6VQtbkZQbBEOEBoKfRtypgz4=
+1ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvyvO3NrSKV-m1WxKck=2E=22 style=3D=22color=
+: =23262626; text-decoration: none;=22>Body Language for Leaders</a></td>
+                    <=21-- HEADLINE END -->
+                   </tr>
+                   <tr>
+                    <=21-- COPY START -->
+                    <td class=3D=22h2m center=22 style=3D=22padding-top: 5p=
+x; font-size: 14px; font-family: Helvetica Neue, Arial, sans-serif; color: =
+=234D4D4D; text-align: left; line-height: 1=2E4em;=22>Learn the six nonverb=
+al signals you need to know to make a good first impression=2E</td>
+                    <=21-- COPY END -->
+                   </tr>
+                   <tr>
+                    <=21-- LINK START -->
+                    <td class=3D=22h2m center=22 style=3D=22padding-top: 15=
+px; font-size: 14px; font-family: Helvetica Neue, Arial, sans-serif; color:=
+ =230084BF; text-align: left; font-weight: bold;=22><a href=3D=22https://e=
+=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHY=
+Hzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRCYY&_ei_=3DEiwLKaCq3fBWg=
+qzDPVJI26bl1xDRlRlFZHxmrjucFfJ1whjKbElcEHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L=
+8sGi1O-6Cu44g5o6VQtbkZQbBEOEBoKfRtypgz41ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvy=
+vO3NrSKV-m1WxKck=2E=22 style=3D=22color: =230084BF; text-decoration: none;=
+=22>Watch now</a></td>
+                    <=21-- LINK END -->
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- /// 55 BASIC CARD RESOURCE BUTTON TERTIARY ICON OVERLAY EN=
+D /// -->               <=21-- /// 55 BASIC CARD RESOURCE BUTTON TERTIARY I=
+CON OVERLAY START /// -->
+          <tr>
+           <td class=3D=22padt0=22 align=3D=22center=22 style=3D=22backgrou=
+nd-color: white; padding-top: 5px; padding-bottom: 25px;=22>
+           <table class=3D=22w100=22 width=3D=2285%=22 border=3D=220=22 ali=
+gn=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tbody>
+             <tr>
+              <td valign=3D=22top=22>
+              <table class=3D=22w100=22 width=3D=22216=22 border=3D=220=22 =
+align=3D=22left=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+               <tbody>
+                <tr>
+                 <td class=3D=22padt0=22 align=3D=22center=22 style=3D=22pa=
+dding-top: 20px;=22>
+                 <table class=3D=22w100=22 width=3D=2290%=22 border=3D=220=
+=22 align=3D=22left=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <=21-- 204x138 BACKGROUND-IMAGE - Note: Apply link to b=
+oth TD and MSO code -->
+                    <td background=3D=22https://static=2Ecdn=2Eresponsys=2E=
+net/i5/responsysimages/content/linkedin/tn-havingdifficultconversations=2Ej=
+pg=22 align=3D=22center=22 style=3D=22background-size: cover; background-po=
+sition: center; background-repeat: no-repeat;=22><=21--=5Bif gte mso 9=5D>
+  <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:vml=22 fill=3D=22true=22 s=
+troke=3D=22false=22 style=3D=22width: 194px; height: 128px; float: center;=
+=22>
+    <v:fill type=3D=22frame=22 src=3D=22https://static=2Ecdn=2Eresponsys=2E=
+net/i5/responsysimages/content/linkedin/tn-havingdifficultconversations=2Ej=
+pg=22 color=3D=22=23FFFFFF=22 />
+    <v:textbox inset=3D=220,0,0,0=22>
+  <=21=5Bendif=5D-->
+                    <div>
+                    <table width=3D=22100%=22 border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                     <tbody>
+                      <tr>
+                       <=21-- TRANSPARENT PLAY IMAGE START -->
+                       <td align=3D=22center=22><a href=3D=22https://e=2Eli=
+nkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6U=
+PDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRCBY&_ei_=3DEiwLKaCq3fBWgqzDPV=
+JI26bl1xDRlRlFZHxmrjucFfJ1whjKbElcEHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L8sGi1=
+O-6Cu44g5o6VQtbkZQbBEOEBoKfRtypgz41ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvyvO3Nr=
+SKV-m1WxKck=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/r=
+esponsysimages/content/linkedin/tn-havingdifficultconversations=2Ejpg=22 wi=
+dth=3D=22192=22 style=3D=22display: block; border: 0;=22 class=3D=22resize=
+=22 alt=3D=22=22 /></a></td>
+                       <=21-- TRANSPARENT PLAY IMAGE END -->
+                      </tr>
+                     </tbody>
+                    </table>
+                    </div>
+                    <=21--=5Bif gte mso 9=5D>
+    </v:textbox>
+  </v:rect>
+  <=21=5Bendif=5D--></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+              <=21--=5Bif mso=5D></td><td valign=3D=22top=22><=21=5Bendif=
+=5D-->
+              <table class=3D=22w100=22 width=3D=22216=22 border=3D=220=22 =
+align=3D=22left=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+               <tbody>
+                <tr>
+                 <td align=3D=22center=22 style=3D=22padding-top: 20px;=22>
+                 <table class=3D=22w85=22 width=3D=22100%=22 border=3D=220=
+=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <=21-- HEADLINE START -->
+                    <td class=3D=22h1m center=22 style=3D=22font-size: 18px=
+; font-family: Helvetica Neue, Arial, sans-serif; color: =23262626; text-al=
+ign: left;=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXV=
+XtpKX%3DDYCRCBY&_ei_=3DEiwLKaCq3fBWgqzDPVJI26bl1xDRlRlFZHxmrjucFfJ1whjKbElc=
+EHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L8sGi1O-6Cu44g5o6VQtbkZQbBEOEBoKfRtypgz4=
+1ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvyvO3NrSKV-m1WxKck=2E=22 style=3D=22color=
+: =23262626; text-decoration: none;=22>Having Difficult Conversations</a></=
+td>
+                    <=21-- HEADLINE END -->
+                   </tr>
+                   <tr>
+                    <=21-- COPY START -->
+                    <td class=3D=22h2m center=22 style=3D=22padding-top: 5p=
+x; font-size: 14px; font-family: Helvetica Neue, Arial, sans-serif; color: =
+=234D4D4D; text-align: left; line-height: 1=2E4em;=22>Improve your professi=
+onal and personal relationships using this four-phase model=2E</td>
+                    <=21-- COPY END -->
+                   </tr>
+                   <tr>
+                    <=21-- LINK START -->
+                    <td class=3D=22h2m center=22 style=3D=22padding-top: 15=
+px; font-size: 14px; font-family: Helvetica Neue, Arial, sans-serif; color:=
+ =230084BF; text-align: left; font-weight: bold;=22><a href=3D=22https://e=
+=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHY=
+Hzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRCBY&_ei_=3DEiwLKaCq3fBWg=
+qzDPVJI26bl1xDRlRlFZHxmrjucFfJ1whjKbElcEHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L=
+8sGi1O-6Cu44g5o6VQtbkZQbBEOEBoKfRtypgz41ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvy=
+vO3NrSKV-m1WxKck=2E=22 style=3D=22color: =230084BF; text-decoration: none;=
+=22>Watch now</a></td>
+                    <=21-- LINK END -->
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- /// 55 BASIC CARD RESOURCE BUTTON TERTIARY ICON OVERLAY EN=
+D /// -->                       <=21-- /// 7 BANNER CENTERED BUTTON PRIMARY=
+ START /// -->
+          <tr>
+           <=21-- 522x155 BACKGROUND-IMAGE - Note: Apply link to both TD an=
+d MSO code and measure height for MSO code -->
+           <td background=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/re=
+sponsysimages/linkedin/contentlibrary/jeangrey/gradients/jean-grey-banners-=
+darkbluedarkteal=2Epng=22 align=3D=22center=22 style=3D=22background-size: =
+cover; background-position: center; background-repeat: no-repeat; backgroun=
+d-color: =23094b7c;=22><=21--=5Bif gte mso 9=5D>
+  <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:vml=22 fill=3D=22true=22 s=
+troke=3D=22false=22 style=3D=22width: 512px; height: 170px; float: center;=
+=22>
+    <v:fill type=3D=22frame=22 src=3D=22https://static=2Ecdn=2Eresponsys=2E=
+net/i5/responsysimages/linkedin/contentlibrary/jeangrey/gradients/jean-grey=
+-banners-darkbluedarkteal=2Epng=22 color=3D=22=23094b7c=22 />
+    <v:textbox inset=3D=220,0,0,0=22>
+  <=21=5Bendif=5D-->
+           <div>
+           <table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22 style=3D=22padding-top: 25px; paddin=
+g-bottom: 25px;=22>
+              <table width=3D=2290%=22 border=3D=220=22 align=3D=22center=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+               <tbody>
+                <tr>
+                 <=21-- HEADLINE START -->
+                 <td class=3D=22h1m=22 style=3D=22font-size: 18px; font-fam=
+ily: Helvetica Neue, Arial, sans-serif; color: white; text-align: center;=
+=22>Explore our library of 10,000+ courses and videos=2E</td>
+                 <=21-- HEADLINE END -->
+                </tr>
+                <=21-- / WHITE BUTTON START / -->
+                <tr>
+                 <td align=3D=22center=22 style=3D=22padding-top: 20px;=22>
+                 <table border=3D=220=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td style=3D=22background-color: white; -webkit-border-=
+radius: 2px;&=2310;-moz-border-radius: 2px;&=2310;border-radius: 2px; overf=
+low: hidden;=22>
+                    <table width=3D=22100%=22 border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                     <tbody>
+                      <tr>
+                       <=21-- COPY START -->
+                       <td class=3D=22height0=22 height=3D=2225=22 style=3D=
+=22padding-left: 16px; padding-right: 16px; font-family: Helvetica Neue, Ar=
+ial, sans-serif; font-size: 14px; text-align: center; color: =23464646; fon=
+t-weight: bold;=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0=
+Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIy=
+gzcXVXtpKX%3DDYCRCDY&_ei_=3DEiwLKaCq3fBWgqzDPVJI26bl1xDRlRlFZHxmrjucFfJ1whj=
+KbElcEHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L8sGi1O-6Cu44g5o6VQtbkZQbBEOEBoKfRt=
+ypgz41ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvyvO3NrSKV-m1WxKck=2E=22 style=3D=22=
+text-decoration: none; color: =23464646;=22>Explore&nbsp;now</a></td>
+                       <=21-- COPY END -->
+                      </tr>
+                     </tbody>
+                    </table>
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+                <=21-- / WHITE BUTTON END / -->
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </div>
+           <=21--=5Bif gte mso 9=5D>
+    </v:textbox>
+  </v:rect>
+  <=21=5Bendif=5D--></td>
+          </tr>
+          <=21-- /// 7 BANNER CENTERED BUTTON PRIMARY END /// -->          =
+                                      <=21-- /// Dan Meyer =40 Amdian, dan=
+=40webandgraphics=2Ecom
+   8-16-17, =22MODIFIED MODULE=22 17,24 SUB BANNERS CENTERED BUTTON1 SECOND=
+ARY ROW START /// -->
+          <tr>
+           <td style=3D=22=22>
+           <table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+            <tbody>
+             <tr>
+              <=21-- *** DEFAULT BACKGROUND-COLOR *** -->
+              <td style=3D=22background-color: =23ffffff;=22>
+              <table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22>
+               <tbody>
+                <tr>
+                 <=21-- *** PADDING OF MODULE *** -->
+                 <td align=3D=22center=22 style=3D=22background-color: =23f=
+afafb; padding-top: 10px; padding-bottom: 10px;=22>
+                 <table class=3D=22w90m=22 width=3D=2260%=22 border=3D=220=
+=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                  <=21-- / COPY ROW START / -->
+                  <tbody>
+                   <tr>
+                    <td align=3D=22center=22>
+                    <table width=3D=22100%=22 border=3D=220=22 align=3D=22c=
+enter=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                     <tbody>
+                      <tr>
+                       <=21-- * COPY START * -->
+                       <td style=3D=22font-size: 11px; line-height: 20px; f=
+ont-family: 'HelveticaNeue', 'Helvetica Neue', Helvetica Neue, Helvetica, T=
+ahoma, Geneva, Arial, sans-serif; color: =23737373; font-weight: normal; te=
+xt-align: center;=22>*Based on a LinkedIn study to 2k business leaders</td>
+                       <=21-- * COPY END * -->
+                      </tr>
+                     </tbody>
+                    </table>
+                    </td>
+                   </tr>
+                   <=21-- * COPY ROW END * -->
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- /// TITLE, CENTER LIST, BUTTON ROW END /// -->       <=21-=
+- ADD ROW(S) HERE END -->
+         </tbody>
+        </table>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <=21-- =7C=7C=7C MAIN BODY TABLE END =7C=7C=7C -->   <=21-- =7C=7C=7C =
+FOOTER TABLE START =7C=7C=7C -->
+     <table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22>
+      <tbody>
+       <tr>
+        <td align=3D=22center=22>
+<=21-- Footer -->
+<table class=3D=22width320=22 width=3D=22512=22 border=3D=220=22 align=3D=
+=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22backgro=
+und-color:=23f2f2f2;=22>
+<tr>
+    <td class=3D=22width320=22 width=3D=22512=22 colspan=3D=223=22 align=3D=
+=22left=22 valign=3D=22top=22 bgcolor=3D=22=23f2f2f2=22 style=3D=22backgrou=
+nd-color:=23f2f2f2;=22>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 height=3D=2224=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22font-family:Helvetica, Arial, sans-serif; font-siz=
+e:12px; font-weight:normal; color:=23737373; line-height:normal;=22><a href=
+=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdty=
+RzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRDSY&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm2LgDIpw=
+81PMUQrWhPrUzsrIl1t3F6NlL7CHW2q8zPQoDX6ni4vpXOlZlVoRrHOGqR4AZJyqPnazF4w1Xtn=
+r2bl2rtE_qu6WB9I9kfDrJrOBSMiEDHs4eOJX5yD0dmjh15mNmuYimkRCH7ncbJ3AoA_c3M_EFc=
+Ql2Rw3V1xkklxEJLCe7M=2E=22 style=3D=22color:=23737373; text-decoration:unde=
+rline;=22>Unsubscribe</a>&nbsp;&nbsp;&nbsp;=7C&nbsp;&nbsp;&nbsp;<a href=3D=
+=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzb=
+GjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRDUY&_ei_=3DE=
+olaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm2LgDIpw81PM=
+UQrWhPrUzsqud7bJq5XwYvOwsFu8sX0U9wnM47FktYhnJLVVUmk=2E=22 style=3D=22color:=
+=23737373; text-decoration:underline;=22>Help</a></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22font-family:Helvetica, Arial, sans-serif; font-siz=
+e:12px; font-weight:normal; color:=23737373; line-height:normal;=22>This is=
+ an occasional email to help you get the most out of LinkedIn=2E</td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22><=21-- ***EDIT NOTE: Adjust the width on the table below to c=
+hange where the new lines wrap in the copy=2E  The width must be between 28=
+8 and 464=2E -->
+      <table class=3D=22width296=22 width=3D=22464=22 border=3D=220=22 alig=
+n=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-famil=
+y:Helvetica, Arial, sans-serif; font-size:12px; font-weight:normal; color:=
+=23737373; line-height:normal;=22>This email was intended for  Jack Shelata=
+ (Computer Science Student -- University of Michigan College of Engineering=
+)=2E <a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXtpKX%3DD=
+YCRDYY&_ei_=3DEolaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x=
+-rkm2LgDIpw81PMUQrWhPrUzsqud7bJq5XwYvOwsFu8sX0U9wnM47FktYhnJLVVUmk=2E=22 st=
+yle=3D=22color:=23008cc9; text-decoration:none;=22>Learn why we included th=
+is</a>=2E</td>
+        </tr>
+      </table></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width320=22 width=3D=22512=22 colspan=3D=223=22 align=3D=
+=22center=22 valign=3D=22top=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze=
+6Rzdzb8hYDJIygzcXVXtpKX%3DDYCRBDY&_ei_=3DEiwLKaCq3fBWgqzDPVJI26bl1xDRlRlFZH=
+xmrjucFfJ1whjKbElcEHtVvBWoCCeC0bUpRQVeu1NEdKPiZcqhBZ4L8sGi1O-6Cu44g5o6VQtbk=
+ZQbBEOEBoKfRtypgz41ecjtQlLHxlWecKRAMLYv3T6iys-zfcjoGvyvO3NrSKV-m1WxKck=2E=
+=22 rilt=3D=22LOGO=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/=
+i5/responsysimages/linkedin/contentlibrary/oldcontent/cm_footer_and_text/fo=
+oter_phoenix_english=2Eimages/logo=2Epng=22 alt=3D=22LinkedIn Logo=22 borde=
+r=3D=220=22 style=3D=22display:block; border:none;=22  /></a></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22><=21-- ***EDIT NOTE: Adjust the width on the table below to c=
+hange where the new lines wrap in the copy=2E  The width must be between 28=
+8 and 464=2E -->
+      <table class=3D=22width296=22 width=3D=22450=22 border=3D=220=22 alig=
+n=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-famil=
+y:Helvetica, Arial, sans-serif; font-size:12px; font-weight:normal; color:=
+=23737373; line-height:normal;=22>&=23169; 2018, LinkedIn Corporation=2E Al=
+l rights reserved=2E LinkedIn Corporation&=2344; 1000 West Maude Ave=2E&=23=
+44; Sunnyvale&=2344; CA 94085 </td>
+        </tr>
+      </table></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 height=3D=2230=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+</td>
+  </tr></table></td>
+       </tr>
+      </tbody>
+     </table>
+     <=21-- =7C=7C=7C FOOTER TABLE END =7C=7C=7C -->               <=21-- T=
+ABLES END --></td>
+    </tr>
+   </tbody>
+  </table>
+  <p></p><br>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border: 0px; =
+padding: 0px; margin: 0px; position: absolute; display: none; float: left=
+=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img src=3D=22https://e=2Elinkedin=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGmgdtyRzbGjzbimYw1lHYHzc6UPDnhbL6RgSlK8tze6Rzdzb8hYDJIygzcXVXHkMX%3Dw=
+&_ei_=3DEolaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm2L=
+gDIpw81PMUQrWhPrUzsqud7bJq5XwYvOwsFu8sX0U9wnM47FktYhnJLVVUmk=2E=22></img>
+</td>
+</tr>
+</table>
+ </body>
+</html>
+
+------alt_border_vunzhU3bAn_1--
+
+------msg_border_qlu37qOZcn--
+

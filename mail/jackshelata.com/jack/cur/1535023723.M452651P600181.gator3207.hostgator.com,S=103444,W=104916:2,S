@@ -1,0 +1,1472 @@
+Return-Path: <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl313quxooyht482g6@bounce.linkedin.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id GALaGmuaflt1KAkAV+VKPg
+	for <jack@jackshelata.com>; Thu, 23 Aug 2018 06:28:43 -0500
+Return-path: <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl313quxooyht482g6@bounce.linkedin.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Thu, 23 Aug 2018 06:28:43 -0500
+Received: from mailc-df.linkedin.com ([108.174.6.174]:60112)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl313quxooyht482g6@bounce.linkedin.com>)
+	id 1fsnn7-002hr4-Vq
+	for jack@jackshelata.com; Thu, 23 Aug 2018 06:28:43 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=d2048-201806-01; t=1535023710;
+	bh=7jBnni5i2gSG6XNNgMgkkKbqA0LA9kDY9DVeftUwNh8=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=wRWWQ8oEsNN1ByRaQTgeCPpDuf2K0sdQK+jHWsnn3kYOPEd1OO4P8q6o+s3xXNcQj
+	 YE5UWlYBp36kFfdktl+9Vcv3SjgX6g+3k+5NLcFlUn/v5pYnyFMgp5vyFg33mzCpWZ
+	 5kmqxya8REri/JTcnUu9a6UfyegzRLnjA3KyCVsPulIoLdhDaVL8iKsdWTGcsXmQJx
+	 MTxd66tKU9oBbh+NjpRjyuq+jqSEYHCNnmM7xSfHJ+aa+bYF9dkxt409oVQFq/qI4F
+	 371or3fs0pfCmXBccjpgXErVLbxaSUFB7AEVftXLl84LQXxsLS/x11CairBptE4yxQ
+	 86xYaSMesnR0Q==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mailc.linkedin.com;
+	s=proddkim1024; t=1535023710;
+	bh=7jBnni5i2gSG6XNNgMgkkKbqA0LA9kDY9DVeftUwNh8=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=ApOBOBEqNxNm5tjy50toqHPa0/AExsnNXv7wbfhSR4Oa5up3S/4J5e3juZb5VTk5N
+	 cV4phsppdPFGdSf1+ilEQrFZzPb+hbjhl/yOhcq9kwEU82yLxEwshLVIhSXizM9dwg
+	 tS28ZLBOr9IGNiMl6r2SeFFGeKpZVHVSKHFZ8yGk=
+From: LinkedIn <news@linkedin.com>
+Message-ID: <628203055.5116699.1535023709824.JavaMail.app@lor1-app5739.prod.linkedin.com>
+Subject: Young people know they have a phone addiction
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_5116697_868570620.1535023709817"
+To: Jack Shelata <jack@jackshelata.com>
+Date: Thu, 23 Aug 2018 11:28:29 +0000 (UTC)
+X-LinkedIn-Class: CED
+X-LinkedIn-Template: email_feed_ecosystem_digest_01
+X-LinkedIn-fbl: m2-aszzevtga0xafz51yyzkp1rqo2dgvvqs9qjogejnsq0hjfykr15ibmqdjualohz7e1fic2vacmimcuw14vckz88nlhun186d2w3om1
+X-LinkedIn-Id: 6r5gpt-jl6g0g26-ff
+List-Unsubscribe: <https://www.linkedin.com/e/v2?e=6r5gpt-jl6g0g26-ff&t=lun&midToken=AQGmOgFoL_CRRg&ek=email_feed_ecosystem_digest_01&li=31&m=unsub&ts=unsub&loid=AQFwF9SgqQ3BzgAAAWVmiv29QYq3AgihGrev8ITz_5HwyJpf18m9Tk-gCPYHSwbgw_jDRZ_htz_iiVOwLlWizvCAxCtPijxsE2Mhbw&eid=6r5gpt-jl6g0g26-ff>
+Require-Recipient-Valid-Since: jack@jackshelata.com; Mon, 13 Aug 2018 19:54:41 +0000
+X-Spam-Status: No, score=-0.5
+X-Spam-Score: -4
+X-Spam-Bar: /
+X-Spam-Flag: NO
+
+------=_Part_5116697_868570620.1535023709817
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+Young people know they have a phone addiction
+
+4 people are talking about this
+
+https://www.linkedin.com/comm/feed/news/2251987?midToken=3DAQGmOgFoL_CRRg&t=
+rk=3Deml-email_feed_ecosystem_digest_01-hero-1-null&trkEmail=3Deml-email_fe=
+ed_ecosystem_digest_01-hero-1-null-null-6r5gpt%7Ejl6g0g26%7Eff-null-neptune=
+%2Ffeed%2Enews&lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_0=
+1%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D
+
+ =20
+-----------------------------------
+
+Recommended for you
+-------
+Kofi Annan 1938 - 2018
+Kofi Annan on LinkedIn
+It is with immense sadness that the Annan family and the Kofi Annan Foundat=
+ion announce that Kofi Annan, former Secretary General...
+
+51313 people are talking about this
+
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&a=3Dpulse_web_view_article_detail_new_url&midToken=3DAQGmOgFoL_CRRg&ek=
+=3Demail_feed_ecosystem_digest_01&li=3D6&m=3Drecommended_articles&ts=3DUnkn=
+own&permLink=3Dkofi-annan-1938-2018-kofi-annan
+ =20
+-----------------------------------
+
+Recommended for you
+-------
+Best People Quit If They Do Not Trust Their Boss. Integrity is by far the m=
+ost important asset of a leader.=20
+Oleg Vishnepolsky on LinkedIn
+Deal-breaking behaviors that break trust and make best people quit: 1) Fals=
+e promises to get someone to do something, e. g. to...
+
+19998 people are talking about this
+
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&a=3Dpulse_web_view_article_detail_new_url&midToken=3DAQGmOgFoL_CRRg&ek=
+=3Demail_feed_ecosystem_digest_01&li=3D7&m=3Drecommended_articles&ts=3DUnkn=
+own&permLink=3Dbest-people-quit-do-trust-boss-integrity-far-most-oleg-vishn=
+epolsky
+ =20
+-----------------------------------
+
+Recommended for you
+-------
+A Study of 600,000 People Shows the Secret to Managing Millennials Is to Qu=
+it Thinking of Them as Millennials
+inc.com
+Because 98 percent of how we think, feel, and act has nothing to do with ou=
+r age group.
+
+730 people are talking about this
+
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&t=3Dplh&midToken=3DAQGmOgFoL_CRRg&ek=3Demail_feed_ecosystem_digest_01&l=
+i=3D18&m=3Drecommended_articles&ts=3DUnknown&urlhash=3D8SW_&url=3Dhttps%3A%=
+2F%2Fwww%2Einc%2Ecom%2Fjeff-haden%2Fa-study-of-600000-people-shows-secret-t=
+o-managing-millennials-is-to-quit-thinking-of-them-as-millennials%2Ehtml
+ =20
+-----------------------------------
+
+Trending in the Computer Software Industry
+-------
+BBVA Bets Big On Fintech, But Must Focus On The Turkey Situation First
+seekingalpha.com
+BBVA has a lot of exposure to risky countries such as Turkey and Argentina.=
+ This has dragged down the stock. The bank seems to be...
+
+81 people are talking about this
+
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&t=3Dplh&midToken=3DAQGmOgFoL_CRRg&ek=3Demail_feed_ecosystem_digest_01&l=
+i=3D19&m=3Drecommended_articles&ts=3DTixIndustry&urlhash=3Dn_BJ&url=3Dhttps=
+%3A%2F%2Fseekingalpha%2Ecom%2Farticle%2F4200487-bbva-bets-big-fintech-must-=
+focus-turkey-situation-first
+ =20
+-----------------------------------
+
+Trending in the Computer Software Industry
+-------
+Fitbit=E2=80=99s Charge 3 adds a better screen, swim tracking, and smartwat=
+ch-style features
+theverge.com
+Can a fitness tracker survive in a world of smartwatches?
+
+2 people are talking about this
+
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&t=3Dplh&midToken=3DAQGmOgFoL_CRRg&ek=3Demail_feed_ecosystem_digest_01&l=
+i=3D20&m=3Drecommended_articles&ts=3DTixIndustry&urlhash=3DFUuC&url=3Dhttps=
+%3A%2F%2Fwww%2Etheverge%2Ecom%2Fcircuitbreaker%2F2018%2F8%2F20%2F17725558%2=
+Ffitbit-charge-3-fitness-tracker-swim-running-waterproof-smartwatch-notific=
+ations-update
+ =20
+-----------------------------------
+
+Recommended for you
+-------
+End of Greek bailouts offers little hope to young
+bbc.co.uk
+Politicians hail the end of Greece&#39;s emergency credit, but ordinary Gre=
+eks see little change.
+
+74 people are talking about this
+
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&t=3Dplh&midToken=3DAQGmOgFoL_CRRg&ek=3Demail_feed_ecosystem_digest_01&l=
+i=3D21&m=3Drecommended_articles&ts=3DUnknown&urlhash=3DGUEc&url=3Dhttps%3A%=
+2F%2Fwww%2Ebbc%2Eco%2Euk%2Fnews%2Fworld-europe-45207092
+ =20
+-----------------------------------
+
+Recommended for you
+-------
+A Bad Boss Can Destroy Everything
+Brigette Hyacinth on LinkedIn
+Employees don&#39;t leave organizations, They leave bad bosses. The worst p=
+lace an employee can be, is stuck in an organization...
+
+22901 people are talking about this
+
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&a=3Dpulse_web_view_article_detail_new_url&midToken=3DAQGmOgFoL_CRRg&ek=
+=3Demail_feed_ecosystem_digest_01&li=3D12&m=3Drecommended_articles&ts=3DUnk=
+nown&permLink=3Dbad-boss-can-destroy-everything-brigette-hyacinth
+ =20
+-----------------------------------
+
+Recommended for you
+-------
+The Three Key Ingredients to Employee Giving: People, Passion and Authentic=
+ity
+Tim Walbert on LinkedIn
+PEOPLE Magazine=C2=A0and Great Place to Work=C2=A0recently=C2=A0named Horiz=
+on to its=C2=A0=E2=80=9C50 Companies that Care=E2=80=9D=C2=A0list,=C2=A0a=
+=C2=A0significant recognition...
+
+521 people are talking about this
+
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&a=3Dpulse_web_view_article_detail_new_url&midToken=3DAQGmOgFoL_CRRg&ek=
+=3Demail_feed_ecosystem_digest_01&li=3D13&m=3Drecommended_articles&ts=3DUnk=
+nown&permLink=3Dthree-key-ingredients-employee-giving-people-passion-tim-wa=
+lbert
+ =20
+-----------------------------------
+
+Recommended for you
+-------
+Want to help students graduate? Make it personal
+Melinda Gates on LinkedIn
+When Dr. Tammy Muhs, an associate lecturer at the University of Central Flo=
+rida, sat down to write her new algebra course, she...
+
+3309 people are talking about this
+
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&a=3Dpulse_web_view_article_detail_new_url&midToken=3DAQGmOgFoL_CRRg&ek=
+=3Demail_feed_ecosystem_digest_01&li=3D14&m=3Drecommended_articles&ts=3DUnk=
+nown&permLink=3Dwant-help-students-graduate-make-personal-melinda-gates
+ =20
+-----------------------------------
+
+Recommended for you
+-------
+IBM=E2=80=99s Watson Was Supposed to Change the Way We Treat Cancer. Here=
+=E2=80=99s What Happened Instead.
+slate.com
+How the A.I. project to improve oncology went wrong.
+
+12 people are talking about this
+
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&t=3Dplh&midToken=3DAQGmOgFoL_CRRg&ek=3Demail_feed_ecosystem_digest_01&l=
+i=3D25&m=3Drecommended_articles&ts=3DUnknown&urlhash=3DSwp6&url=3Dhttps%3A%=
+2F%2Fslate%2Ecom%2Fbusiness%2F2018%2F08%2Fibms-watson-how-the-ai-project-to=
+-improve-cancer-treatment-went-wrong%2Ehtml
+-----------------------------------
+
+Check out the rest of your feed
+Go to LinkedIn
+https://www.linkedin.com/comm/feed/?midToken=3DAQGmOgFoL_CRRg&trk=3Deml-ema=
+il_feed_ecosystem_digest_01-footer_promo-5-null&trkEmail=3Deml-email_feed_e=
+cosystem_digest_01-footer_promo-5-null-null-6r5gpt%7Ejl6g0g26%7Eff-null-nep=
+tune%2Ffeed&lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3=
+BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D
+
+-----------------------------------
+
+.....................................
+
+Unsubscribe: https://www.linkedin.com/e/v2?e=3D6r5gpt-jl6g0g26-ff&t=3Dlun&m=
+idToken=3DAQGmOgFoL_CRRg&ek=3Demail_feed_ecosystem_digest_01&li=3D31&m=3Dun=
+sub&ts=3Dunsub&loid=3DAQFwF9SgqQ3BzgAAAWVmiv29QYq3AgihGrev8ITz_5HwyJpf18m9T=
+k-gCPYHSwbgw_jDRZ_htz_iiVOwLlWizvCAxCtPijxsE2Mhbw&eid=3D6r5gpt-jl6g0g26-ff
+
+Help: https://www.linkedin.com/e/v2?e=3D6r5gpt-jl6g0g26-ff&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&a=3DcustomerServiceUrl&midToken=3DAQGmOgFoL_CRRg&ek=3Demail_feed_ecosys=
+tem_digest_01&li=3D30&m=3Dfooter&ts=3Dhelp&articleId=3D67
+
+
+You are receiving highlight emails.
+
+This email was intended for Jack Shelata (Software Engineer Intern at Comau=
+).
+Learn why we included this: https://www.linkedin.com/e/v2?e=3D6r5gpt-jl6g0g=
+26-ff&lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo=
+%2BGLSsW0kCBZCe6S6A%3D%3D&a=3DcustomerServiceUrl&midToken=3DAQGmOgFoL_CRRg&=
+ek=3Demail_feed_ecosystem_digest_01&articleId=3D4788
+
+=C2=A9 2018 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 940=
+85. LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+------=_Part_5116697_868570620.1535023709817
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml" lang=3D"en" xml:lang=3D"en"> <head> <meta http-equiv=3D"Co=
+ntent-Type" content=3D"text/html;charset=3Dutf-8"> <meta name=3D"HandheldFr=
+iendly" content=3D"true"> <meta name=3D"viewport" content=3D"width=3Ddevice=
+-width; initial-scale=3D0.666667; maximum-scale=3D0.666667; user-scalable=
+=3D0"> <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <title></t=
+itle> <!--[if mso]><style type=3D"text/css">body {font-family: 'Helvetica N=
+eue', Helvetica, Arial, sans-serif;}.phoenix-email-container {width: 512px =
+!important;}</style><![endif]--> <!--[if IE]><style type=3D"text/css">.phoe=
+nix-email-container {width: 512px !important;}</style><![endif]--> <style t=
+ype=3D"text/css">@media only screen and (max-width:32em) { .phoenix-email-c=
+ontainer { width:100% !important; } } @media only screen and (max-width:20e=
+m) {} @media only screen and (max-device-width:30em) {} @media screen and (=
+device-width:30em) and (device-height:22.5em), screen and (device-width:22.=
+5em) and (device-height:30em), screen and (device-width:20em) and (device-h=
+eight:15em) {} @media screen and (-webkit-min-device-pixel-ratio:0) {} @med=
+ia screen and (max-device-width:25.88em) and (max-device-height:48.5em) {} =
+</style> </head> <body style=3D"padding:0;margin:0 auto;-webkit-text-size-a=
+djust:100%;width:100% !important;-ms-text-size-adjust:100%;font-family:'Hel=
+vetica Neue',Helvetica,Arial,sans-serif;"> <div style=3D"overflow:hidden;co=
+lor:transparent;visibility:hidden;mso-hide:all;width:0;font-size:0;opacity:=
+0;height:0;"></div> <table align=3D"center" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" bgcolor=3D"#EDF0F3" style=3D"background-co=
+lor:#EDF0F3;table-layout:fixed;-webkit-text-size-adjust:100%;mso-table-rspa=
+ce:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separ=
+ate;"> <tbody> <tr> <td align=3D"center" style=3D"-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">=
+ <center style=3D"width:100%;"> <table border=3D"0" class=3D"phoenix-email-=
+container" cellspacing=3D"0" cellpadding=3D"0" width=3D"512" bgcolor=3D"#FF=
+FFFF" style=3D"background-color:#FFFFFF;margin:0 auto;max-width:512px;-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;width:inherit;mso-table-lspac=
+e:0pt;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> <tr> <t=
+d bgcolor=3D"#F6F8FA" style=3D"background-color:#F6F8FA;padding:5px 16px 13=
+px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;=
+-ms-text-size-adjust:100%;border-bottom:1px solid #ECECEC;"> <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;width:100% !important;mso-table-=
+lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separate;min-width:100=
+% !important;"> <tbody> <tr> <td align=3D"left" valign=3D"middle" style=3D"=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms=
+-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/feed/?mid=
+Token=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_feed_ecosystem_digest_01-header-=
+26-home&amp;trkEmail=3Deml-email_feed_ecosystem_digest_01-header-26-home-nu=
+ll-6r5gpt%7Ejl6g0g26%7Eff-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3A=
+email_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D" styl=
+e=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inl=
+ine-block;text-decoration:none;-ms-text-size-adjust:100%;"> <img alt=3D"Lin=
+kedIn" border=3D"0" src=3D"https://www.linkedin.com/comm/dms/logo?midToken=
+=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_feed_ecosystem_digest_01-null-33-null=
+&amp;trkEmail=3Deml-email_feed_ecosystem_digest_01-null-33-null-null-6r5gpt=
+%7Ejl6g0g26%7Eff-null-comms%7Ebadging%7Edynamic&amp;lipi=3Durn%3Ali%3Apage%=
+3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp=
+;_sig=3D2OK5Gkt_9Mo8o1" height=3D"42" style=3D"outline:none;-ms-interpolati=
+on-mode:bicubic;color:#FFFFFF;text-decoration:none;"></a></td> <td valign=
+=3D"middle" width=3D"100%" align=3D"right" style=3D"padding:0 0 0 10px;padd=
+ing-top:7px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-ls=
+pace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/co=
+mm/in/jackshelata?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_feed_ecosys=
+tem_digest_01-header-34-profile&amp;trkEmail=3Deml-email_feed_ecosystem_dig=
+est_01-header-34-profile-null-6r5gpt%7Ejl6g0g26%7Eff-null-neptune%2Fprofile=
+%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_di=
+gest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D" style=3D"cursor:pointer;margin:0;=
+color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decor=
+ation:none;-ms-text-size-adjust:100%;"> <span style=3D"word-wrap:break-word=
+;color:#4C4C4C;word-break:break-word;font-weight:400;-ms-word-break:break-a=
+ll;font-size:14px;line-height:1.429;overflow-wrap:break-word;">Jack Shelata=
+</span></a></td> <td valign=3D"middle" width=3D"40" style=3D"padding-top:7p=
+x;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:10px;mso-=
+table-lspace:0pt;-ms-text-size-adjust:100%;"> <a href=3D"https://www.linked=
+in.com/comm/in/jackshelata?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_fe=
+ed_ecosystem_digest_01-header-34-profile&amp;trkEmail=3Deml-email_feed_ecos=
+ystem_digest_01-header-34-profile-null-6r5gpt%7Ejl6g0g26%7Eff-null-neptune%=
+2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_eco=
+system_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D" style=3D"border-radius:5=
+0%;cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inlin=
+e-block;text-decoration:none;-ms-text-size-adjust:100%;"><img alt=3D"" bord=
+er=3D"0" height=3D"36" width=3D"36" src=3D"https://media.licdn.com/dms/imag=
+e/C4E03AQHvz9UfxV0d_Q/profile-displayphoto-shrink_100_100/0?e=3D2159024400&=
+amp;v=3Dbeta&amp;t=3DvoTV1lizwaePgFekSeHoLtAnlaRcXUCYI5M4d3rwmxs" style=3D"=
+border-radius:50%;outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF=
+;text-decoration:none;"></a></td> <td width=3D"1" style=3D"-webkit-text-siz=
+e-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjus=
+t:100%;">&nbsp;</td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"-=
+webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-=
+text-size-adjust:100%;"> <table bgcolor=3D"#EDF0F3" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;bo=
+rder-collapse:separate;"> <tbody> <tr> <td style=3D"-webkit-text-size-adjus=
+t:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;=
+"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" s=
+tyle=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace=
+:0pt;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody></tbody> =
+</table> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;padding:12px 24p=
+x;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-=
+ms-text-size-adjust:100%;border-collapse:separate;border-bottom:1px solid #=
+E5E5E5;"> <tbody> <tr> <td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"back=
+ground-color:#FFFFFF;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso=
+-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linked=
+in.com/comm/feed/news/2251987?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email=
+_feed_ecosystem_digest_01-hero-1-null&amp;trkEmail=3Deml-email_feed_ecosyst=
+em_digest_01-hero-1-null-null-6r5gpt%7Ejl6g0g26%7Eff-null-neptune%2Ffeed%2E=
+news&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrL=
+dYo%2BGLSsW0kCBZCe6S6A%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit=
+-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-s=
+ize-adjust:100%;"> <h2 style=3D"margin:0;color:#0077B5;font-weight:400;font=
+-size:18px;line-height:1.3;mso-line-height-alt:115%;">Young people know the=
+y have a phone addiction</h2> <p style=3D"padding:0 0 4px 0;margin:0;color:=
+#737373;font-weight:400;font-size:12px;line-height:1.333;text-align:left;">=
+</p></a></td> </tr> </tbody> </table></td> </tr> <tr> <td align=3D"middle" =
+style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspac=
+e:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/=
+feed/news/2251987?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_feed_ecosys=
+tem_digest_01-hero-1-null&amp;trkEmail=3Deml-email_feed_ecosystem_digest_01=
+-hero-1-null-null-6r5gpt%7Ejl6g0g26%7Eff-null-neptune%2Ffeed%2Enews&amp;lip=
+i=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0=
+kCBZCe6S6A%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-a=
+djust:100%;display:block;text-decoration:none;width:100%;-ms-text-size-adju=
+st:100%;"><img width=3D"512" border=3D"0" src=3D"https://media.licdn.com/dm=
+s/image/C4E19AQFms6pkZTAtMA/fedemailimage-shrink_512_341/0?e=3D2159024400&a=
+mp;v=3Dbeta&amp;t=3DKL8QRI_T0naSgNHMkbkOs18muQuFmLw7mGeYV_4aVs4" style=3D"o=
+utline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:no=
+ne;display:block;width:100%;"></a></td> </tr> </tbody> </table> <table bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"paddin=
+g:12px 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-ls=
+pace:0pt;-ms-text-size-adjust:100%;border-collapse:separate;border-bottom:1=
+px solid #E5E5E5;"> <tbody> <tr> <td style=3D"-webkit-text-size-adjust:100%=
+;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><p s=
+tyle=3D"margin:0;color:#737373;font-weight:400;padding-left:6px;font-size:1=
+2px;line-height:1.333;text-align:left;">4 people are talking about this</p>=
+ <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" sty=
+le=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> </tbody> <=
+/table></td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"padding:0=
+ 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;border-color:#EDF0F3;border-width:6px;border-s=
+tyle:solid;"></td> </tr> <tr> <td bgcolor=3D"#FFFFFF" style=3D"background-c=
+olor:#FFFFFF;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-l=
+space:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"100%" style=3D"padding:12px 24px;-webkit-text-=
+size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-ad=
+just:100%;border-collapse:separate;border-bottom:1px solid #E5E5E5;"> <tbod=
+y> <tr> <td align=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"m=
+argin:0;color:#737373;font-weight:400;font-size:12px;line-height:1.333;">Re=
+commended for you</p></td> </tr> </tbody> </table> <table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"padding:8px 24px;-w=
+ebkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;width=
+:100%;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> <tr sty=
+le=3D"mso-line-height-alt:0;"> <td style=3D"-webkit-text-size-adjust:100%;m=
+so-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;mso-padd=
+ing-bottom-alt:0;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt=
+;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separate;">=
+ <tbody> <tr style=3D"mso-line-height-alt:0;"> <td align=3D"left" style=3D"=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms=
+-text-size-adjust:100%;padding-bottom:6px;text-align:left;"><a href=3D"http=
+s://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&amp;a=3Dpulse_web_view_article_detail_new_url&amp;midToken=3DAQGmOgFoL_=
+CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D6&amp;m=3Drecommended=
+_articles&amp;ts=3DUnknown&amp;permLink=3Dkofi-annan-1938-2018-kofi-annan" =
+style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display=
+:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"> <h2 style=
+=3D"margin:0;color:#0077B5;font-weight:400;font-size:18px;line-height:1.3;m=
+so-line-height-alt:115%;">Kofi Annan 1938 - 2018</h2></a></td> </tr> <tr st=
+yle=3D"mso-line-height-alt:0;"> <td style=3D"-webkit-text-size-adjust:100%;=
+mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D=
+"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;border-collapse:separate;"> <tbody> <tr style=3D"ms=
+o-line-height-alt:0;"> <td width=3D"100%" valign=3D"top" align=3D"left" sty=
+le=3D"padding:0 16px 10px 0;-webkit-text-size-adjust:100%;mso-table-rspace:=
+0pt;mso-table-lspace:0pt;width:100%;vertical-align:top;-ms-text-size-adjust=
+:100%;text-align:left;"><a href=3D"https://www.linkedin.com/e/v2/pulse?e=3D=
+6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_=
+digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_d=
+etail_new_url&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_d=
+igest_01&amp;li=3D6&amp;m=3Drecommended_articles&amp;ts=3DUnknown&amp;permL=
+ink=3Dkofi-annan-1938-2018-kofi-annan" style=3D"cursor:pointer;color:#008CC=
+9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-=
+ms-text-size-adjust:100%;"> <p style=3D"padding:0 0 4px 0;margin:0;color:#7=
+37373;font-weight:400;font-size:12px;line-height:1.333;text-align:left;">Ko=
+fi Annan on LinkedIn</p> <p style=3D"margin:0;color:#737373;font-weight:300=
+;font-size:14px;line-height:1.4;mso-line-height-alt:120%;text-align:left;">=
+It is with immense sadness that the Annan family and the Kofi Annan Foundat=
+ion announce that Kofi Annan, former Secretary General...</p></a></td> <td =
+valign=3D"top" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;vertical-align:top;-ms-text-size-adjust:100%;"> <div s=
+tyle=3D"overflow:hidden;width:80px;height:80px;"> <a href=3D"https://www.li=
+nkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Ae=
+mail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;a=
+=3Dpulse_web_view_article_detail_new_url&amp;midToken=3DAQGmOgFoL_CRRg&amp;=
+ek=3Demail_feed_ecosystem_digest_01&amp;li=3D6&amp;m=3Drecommended_articles=
+&amp;ts=3DUnknown&amp;permLink=3Dkofi-annan-1938-2018-kofi-annan" style=3D"=
+cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-b=
+lock;text-decoration:none;-ms-text-size-adjust:100%;"><img src=3D"https://m=
+edia.licdn.com/dms/image/C4D12AQHh-Lxq4pK2Vw/article-cover_image-shrink_720=
+_1280/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3D6s3HDIEm_th43oUXDch6YpHU7ElY_IG=
+Nt4md_sxJrrg" alt=3D"" width=3D"148" style=3D"margin-left:-40%;max-height:8=
+0px;outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;max-width:175=
+px;text-decoration:none;width:auto;height:80px;"></a> </div></td> </tr> </t=
+body> </table></td> </tr> </tbody> </table></td> </tr> <tr style=3D"mso-lin=
+e-height-alt:0;"> <td style=3D"mso-padding-top-alt:0;-webkit-text-size-adju=
+st:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%=
+;mso-padding-bottom-alt:0;"> <hr style=3D"background-color:#E5E5E5;margin:0=
+ 0 8px 0;color:#D9D9D9;width:20%;border-color:#D9D9D9;border-width:0;border=
+-style:solid;height:1px;text-align:left;"></td> </tr> <tr style=3D"mso-line=
+-height-alt:0;"> <td style=3D"mso-padding-top-alt:0;-webkit-text-size-adjus=
+t:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;=
+"><p style=3D"margin:0;color:#737373;font-weight:400;padding-left:6px;font-=
+size:12px;line-height:1.333;text-align:left;">51313 people are talking abou=
+t this</p> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tabl=
+e-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> =
+</tbody> </table></td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D=
+"padding:0 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tabl=
+e-lspace:0pt;-ms-text-size-adjust:100%;border-color:#EDF0F3;border-width:6p=
+x;border-style:solid;"></td> </tr> <tr> <td bgcolor=3D"#FFFFFF" style=3D"ba=
+ckground-color:#FFFFFF;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;m=
+so-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"padding:12px 24px;-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-te=
+xt-size-adjust:100%;border-collapse:separate;border-bottom:1px solid #E5E5E=
+5;"> <tbody> <tr> <td align=3D"left" style=3D"-webkit-text-size-adjust:100%=
+;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p =
+style=3D"margin:0;color:#737373;font-weight:400;font-size:12px;line-height:=
+1.333;">Recommended for you</p></td> </tr> </tbody> </table> <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"padding:=
+8px 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspac=
+e:0pt;width:100%;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbo=
+dy> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"-webkit-text-size-ad=
+just:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:10=
+0%;mso-padding-bottom-alt:0;"> <table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:=
+separate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td align=3D"left=
+" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lsp=
+ace:0pt;-ms-text-size-adjust:100%;padding-bottom:6px;text-align:left;"><a h=
+ref=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0k=
+CBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_detail_new_url&amp;midToken=
+=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D7&amp;m=
+=3Drecommended_articles&amp;ts=3DUnknown&amp;permLink=3Dbest-people-quit-do=
+-trust-boss-integrity-far-most-oleg-vishnepolsky" style=3D"cursor:pointer;c=
+olor:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decora=
+tion:none;-ms-text-size-adjust:100%;"> <h2 style=3D"margin:0;color:#0077B5;=
+font-weight:400;font-size:18px;line-height:1.3;mso-line-height-alt:115%;">B=
+est People Quit If They Do Not Trust Their Boss. Integrity is by far the mo=
+st important asset of a leader. </h2></a></td> </tr> <tr style=3D"mso-line-=
+height-alt:0;"> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace=
+:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-si=
+ze-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adju=
+st:100%;border-collapse:separate;"> <tbody> <tr style=3D"mso-line-height-al=
+t:0;"> <td width=3D"100%" valign=3D"top" align=3D"left" style=3D"padding:0 =
+16px 10px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-ls=
+pace:0pt;width:100%;vertical-align:top;-ms-text-size-adjust:100%;text-align=
+:left;"><a href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-=
+ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdY=
+o%2BGLSsW0kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_detail_new_url&am=
+p;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=
+=3D7&amp;m=3Drecommended_articles&amp;ts=3DUnknown&amp;permLink=3Dbest-peop=
+le-quit-do-trust-boss-integrity-far-most-oleg-vishnepolsky" style=3D"cursor=
+:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;t=
+ext-decoration:none;-ms-text-size-adjust:100%;"> <p style=3D"padding:0 0 4p=
+x 0;margin:0;color:#737373;font-weight:400;font-size:12px;line-height:1.333=
+;text-align:left;">Oleg Vishnepolsky on LinkedIn</p> <p style=3D"margin:0;c=
+olor:#737373;font-weight:300;font-size:14px;line-height:1.4;mso-line-height=
+-alt:120%;text-align:left;">Deal-breaking behaviors that break trust and ma=
+ke best people quit: 1) False promises to get someone to do something, e. g=
+. to...</p></a></td> <td valign=3D"top" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;vertical-align:top;-ms-text-s=
+ize-adjust:100%;"> <div style=3D"overflow:hidden;width:80px;height:80px;"> =
+<a href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;l=
+ipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSs=
+W0kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_detail_new_url&amp;midTok=
+en=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D7&amp;=
+m=3Drecommended_articles&amp;ts=3DUnknown&amp;permLink=3Dbest-people-quit-d=
+o-trust-boss-integrity-far-most-oleg-vishnepolsky" style=3D"cursor:pointer;=
+color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decor=
+ation:none;-ms-text-size-adjust:100%;"><img src=3D"https://media.licdn.com/=
+dms/image/C4E12AQEsa8U_-gCkqw/article-cover_image-shrink_600_2000/0?e=3D215=
+9024400&amp;v=3Dbeta&amp;t=3D_wJbXnt9O0Mh58yNk71LzS3jplpWZiQjW0Q02KufZVc" a=
+lt=3D"" width=3D"148" style=3D"margin-left:-40%;max-height:80px;outline:non=
+e;-ms-interpolation-mode:bicubic;color:#FFFFFF;max-width:175px;text-decorat=
+ion:none;width:auto;height:80px;"></a> </div></td> </tr> </tbody> </table><=
+/td> </tr> </tbody> </table></td> </tr> <tr style=3D"mso-line-height-alt:0;=
+"> <td style=3D"mso-padding-top-alt:0;-webkit-text-size-adjust:100%;mso-tab=
+le-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;mso-padding-bo=
+ttom-alt:0;"> <hr style=3D"background-color:#E5E5E5;margin:0 0 8px 0;color:=
+#D9D9D9;width:20%;border-color:#D9D9D9;border-width:0;border-style:solid;he=
+ight:1px;text-align:left;"></td> </tr> <tr style=3D"mso-line-height-alt:0;"=
+> <td style=3D"mso-padding-top-alt:0;-webkit-text-size-adjust:100%;mso-tabl=
+e-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><p style=3D"m=
+argin:0;color:#737373;font-weight:400;padding-left:6px;font-size:12px;line-=
+height:1.333;text-align:left;">19998 people are talking about this</p> <tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D=
+"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;border-collapse:separate;"> <tbody> </tbody> </tabl=
+e></td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"padding:0 24px=
+;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;border-color:#EDF0F3;border-width:6px;border-style:=
+solid;"></td> </tr> <tr> <td bgcolor=3D"#FFFFFF" style=3D"background-color:=
+#FFFFFF;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace=
+:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" width=3D"100%" style=3D"padding:12px 24px;-webkit-text-size-=
+adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:=
+100%;border-collapse:separate;border-bottom:1px solid #E5E5E5;"> <tbody> <t=
+r> <td align=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspa=
+ce:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin=
+:0;color:#737373;font-weight:400;font-size:12px;line-height:1.333;">Video: =
+Member video highlight</p></td> </tr> </tbody> </table> <table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"padding:8px 24=
+px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;=
+width:100%;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> <t=
+r style=3D"mso-line-height-alt:0;"> <td style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;mso=
+-padding-bottom-alt:0;"> <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspa=
+ce:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separ=
+ate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"-webkit-t=
+ext-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-siz=
+e-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;ms=
+o-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separate;"> <t=
+body> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <div style=3D"padding-bot=
+tom:5px;padding-right:15px;"> <a href=3D"" style=3D"cursor:pointer;margin:0=
+;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-deco=
+ration:none;width:36px;-ms-text-size-adjust:100%;float:left;padding-right:5=
+px;"> <img alt=3D"Harrison Barnes" border=3D"0" height=3D"36" width=3D"36" =
+src=3D"https://media.licdn.com/dms/image/C5103AQG44L0ux7senA/profile-displa=
+yphoto-shrink_100_100/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DKAIFom3hdHyIVVz=
+t1SmDyWIHqd4vjqSnesHuVNdCdfk" style=3D"border-radius:50%;outline:none;-ms-i=
+nterpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></a> <span><=
+span style=3D"display:block;font-size:90%;"><a href=3D"https://www.linkedin=
+.com/comm/feed/update/urn:li:activity:6435489058306211840?midToken=3DAQGmOg=
+FoL_CRRg&amp;trk=3Deml-email_feed_ecosystem_digest_01-recommended_articles-=
+2-EditorialVideo&amp;trkEmail=3Deml-email_feed_ecosystem_digest_01-recommen=
+ded_articles-2-EditorialVideo-null-6r5gpt%7Ejl6g0g26%7Eff-null-neptune%2Ffe=
+ed%2Eupdate&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_=
+01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D" style=3D"cursor:pointer;color:#008CC9;=
+-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms=
+-text-size-adjust:100%;"> <h2 style=3D"margin:0;color:#262626;font-weight:7=
+00;font-size:14px;line-height:1.429;">Harrison Barnes</h2></a></span><span =
+style=3D"display:block;font-size:80%;mso-line-height-alt:0;"><a href=3D"htt=
+ps://www.linkedin.com/comm/feed/update/urn:li:activity:6435489058306211840?=
+midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_feed_ecosystem_digest_01-reco=
+mmended_articles-2-EditorialVideo&amp;trkEmail=3Deml-email_feed_ecosystem_d=
+igest_01-recommended_articles-2-EditorialVideo-null-6r5gpt%7Ejl6g0g26%7Eff-=
+null-neptune%2Ffeed%2Eupdate&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_=
+ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D" style=3D"cursor:point=
+er;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-de=
+coration:none;-ms-text-size-adjust:100%;"> <h2 style=3D"margin:0;color:#737=
+373;font-weight:400;font-size:12px;line-height:1.333;">Professional Athlete=
+ for Dallas Mavericks</h2></a></span></span> </div> <div style=3D"clear:bot=
+h;"></div><a href=3D"https://www.linkedin.com/comm/feed/update/urn:li:activ=
+ity:6435489058306211840?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_feed_=
+ecosystem_digest_01-recommended_articles-2-EditorialVideo&amp;trkEmail=3Dem=
+l-email_feed_ecosystem_digest_01-recommended_articles-2-EditorialVideo-null=
+-6r5gpt%7Ejl6g0g26%7Eff-null-neptune%2Ffeed%2Eupdate&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3=
+D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;disp=
+lay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;padding-bot=
+tom:6px;mso-line-height-alt:0;"> <p style=3D"margin:0;color:#737373;font-we=
+ight:300;font-size:14px;line-height:1.4;mso-line-height-alt:120%;text-align=
+:left;">Investing in family business.</p></a></td> </tr> </tbody> </table><=
+/td> </tr> <tr style=3D"mso-line-height-alt:0;"> <td align=3D"middle" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/feed/=
+update/urn:li:activity:6435489058306211840?midToken=3DAQGmOgFoL_CRRg&amp;tr=
+k=3Deml-email_feed_ecosystem_digest_01-recommended_articles-2-EditorialVide=
+o&amp;trkEmail=3Deml-email_feed_ecosystem_digest_01-recommended_articles-2-=
+EditorialVideo-null-6r5gpt%7Ejl6g0g26%7Eff-null-neptune%2Ffeed%2Eupdate&amp=
+;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGL=
+SsW0kCBZCe6S6A%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-si=
+ze-adjust:100%;display:block;text-decoration:none;width:100%;-ms-text-size-=
+adjust:100%;"><img width=3D"512" border=3D"0" src=3D"https://media.licdn.co=
+m/dms/image/C4E19AQF6YqFMVk6ZPA/fedemailimage-shrink_512_341/0?e=3D21590244=
+00&amp;v=3Dbeta&amp;t=3DjOORyvTnslIqbmQvZ1cPwpEy1nvHNPcLBXH3YZ-NFtI" alt=3D=
+"" style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-=
+decoration:none;display:block;width:100%;"></a></td> </tr> </tbody> </table=
+></td> </tr> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding=
+-top-alt:0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lsp=
+ace:0pt;-ms-text-size-adjust:100%;mso-padding-bottom-alt:0;"> <hr style=3D"=
+background-color:#E5E5E5;margin:0 0 8px 0;color:#D9D9D9;width:20%;border-co=
+lor:#D9D9D9;border-width:0;border-style:solid;height:1px;text-align:left;">=
+</td> </tr> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-=
+top-alt:0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspa=
+ce:0pt;-ms-text-size-adjust:100%;"><p style=3D"margin:0;color:#737373;font-=
+weight:400;padding-left:6px;font-size:12px;line-height:1.333;text-align:lef=
+t;">387 people are talking about this</p> <table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;bor=
+der-collapse:separate;"> <tbody> </tbody> </table></td> </tr> </tbody> </ta=
+ble></td> </tr> <tr> <td style=3D"padding:0 24px;-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;bor=
+der-color:#EDF0F3;border-width:6px;border-style:solid;"></td> </tr> <tr> <t=
+d bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;-webkit-text-size-a=
+djust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:1=
+00%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+%" style=3D"padding:12px 24px;-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separa=
+te;border-bottom:1px solid #E5E5E5;"> <tbody> <tr> <td align=3D"left" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weigh=
+t:400;font-size:12px;line-height:1.333;">Recommended for you</p></td> </tr>=
+ </tbody> </table> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"padding:8px 24px;-webkit-text-size-adjust:100%;mso-=
+table-rspace:0pt;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;=
+border-collapse:separate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <=
+td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-ls=
+pace:0pt;-ms-text-size-adjust:100%;mso-padding-bottom-alt:0;"> <table borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-s=
+ize-adjust:100%;border-collapse:separate;"> <tbody> <tr style=3D"mso-line-h=
+eight-alt:0;"> <td align=3D"left" style=3D"-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-b=
+ottom:6px;text-align:left;"><a href=3D"https://www.linkedin.com/e/v2/pulse?=
+e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosys=
+tem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;t=3Dplh&amp;midToken=3DA=
+QGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D18&amp;m=3Dr=
+ecommended_articles&amp;ts=3DUnknown&amp;urlhash=3D8SW_&amp;url=3Dhttps%3A%=
+2F%2Fwww%2Einc%2Ecom%2Fjeff-haden%2Fa-study-of-600000-people-shows-secret-t=
+o-managing-millennials-is-to-quit-thinking-of-them-as-millennials%2Ehtml" s=
+tyle=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:=
+inline-block;text-decoration:none;-ms-text-size-adjust:100%;"> <h2 style=3D=
+"margin:0;color:#0077B5;font-weight:400;font-size:18px;line-height:1.3;mso-=
+line-height-alt:115%;">A Study of 600,000 People Shows the Secret to Managi=
+ng Millennials Is to Quit Thinking of Them as Millennials</h2></a></td> </t=
+r> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"-webkit-text-size-adj=
+ust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100=
+%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"=
+ style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspa=
+ce:0pt;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> <tr st=
+yle=3D"mso-line-height-alt:0;"> <td width=3D"100%" valign=3D"top" align=3D"=
+left" style=3D"padding:0 16px 10px 0;-webkit-text-size-adjust:100%;mso-tabl=
+e-rspace:0pt;mso-table-lspace:0pt;width:100%;vertical-align:top;-ms-text-si=
+ze-adjust:100%;text-align:left;"><a href=3D"https://www.linkedin.com/e/v2/p=
+ulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_e=
+cosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;t=3Dplh&amp;midToke=
+n=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D18&amp;=
+m=3Drecommended_articles&amp;ts=3DUnknown&amp;urlhash=3D8SW_&amp;url=3Dhttp=
+s%3A%2F%2Fwww%2Einc%2Ecom%2Fjeff-haden%2Fa-study-of-600000-people-shows-sec=
+ret-to-managing-millennials-is-to-quit-thinking-of-them-as-millennials%2Eht=
+ml" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;dis=
+play:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"> <p styl=
+e=3D"padding:0 0 4px 0;margin:0;color:#737373;font-weight:400;font-size:12p=
+x;line-height:1.333;text-align:left;">inc.com</p> <p style=3D"margin:0;colo=
+r:#737373;font-weight:300;font-size:14px;line-height:1.4;mso-line-height-al=
+t:120%;text-align:left;">Because 98 percent of how we think, feel, and act =
+has nothing to do with our age group.</p></a></td> <td valign=3D"top" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;vertical-align:top;-ms-text-size-adjust:100%;"> <div style=3D"overflow:hid=
+den;width:80px;height:80px;"> <a href=3D"https://www.linkedin.com/e/v2/puls=
+e?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecos=
+ystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;t=3Dplh&amp;midToken=
+=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D18&amp;m=
+=3Drecommended_articles&amp;ts=3DUnknown&amp;urlhash=3D8SW_&amp;url=3Dhttps=
+%3A%2F%2Fwww%2Einc%2Ecom%2Fjeff-haden%2Fa-study-of-600000-people-shows-secr=
+et-to-managing-millennials-is-to-quit-thinking-of-them-as-millennials%2Ehtm=
+l" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;disp=
+lay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><img src=
+=3D"https://www.incimages.com/uploaded_files/image/970x450/getty_913556984_=
+2000133320009280196_367000.jpg" alt=3D"" width=3D"148" style=3D"margin-left=
+:-40%;max-height:80px;outline:none;-ms-interpolation-mode:bicubic;color:#FF=
+FFFF;max-width:175px;text-decoration:none;width:auto;height:80px;"></a> </d=
+iv></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr> <t=
+r style=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-top-alt:0;-web=
+kit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-tex=
+t-size-adjust:100%;mso-padding-bottom-alt:0;"> <hr style=3D"background-colo=
+r:#E5E5E5;margin:0 0 8px 0;color:#D9D9D9;width:20%;border-color:#D9D9D9;bor=
+der-width:0;border-style:solid;height:1px;text-align:left;"></td> </tr> <tr=
+ style=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-top-alt:0;-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;"><p style=3D"margin:0;color:#737373;font-weight:400;padd=
+ing-left:6px;font-size:12px;line-height:1.333;text-align:left;">730 people =
+are talking about this</p> <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rsp=
+ace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:sepa=
+rate;"> <tbody> </tbody> </table></td> </tr> </tbody> </table></td> </tr> <=
+tr> <td style=3D"padding:0 24px;-webkit-text-size-adjust:100%;mso-table-rsp=
+ace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-color:#EDF0F3=
+;border-width:6px;border-style:solid;"></td> </tr> <tr> <td bgcolor=3D"#FFF=
+FFF" style=3D"background-color:#FFFFFF;-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"paddi=
+ng:12px 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-l=
+space:0pt;-ms-text-size-adjust:100%;border-collapse:separate;border-bottom:=
+1px solid #E5E5E5;"> <tbody> <tr> <td align=3D"left" style=3D"-webkit-text-=
+size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-ad=
+just:100%;"> <p style=3D"margin:0;color:#737373;font-weight:400;font-size:1=
+2px;line-height:1.333;">Trending in the Computer Software Industry</p></td>=
+ </tr> </tbody> </table> <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"padding:8px 24px;-webkit-text-size-adjust:10=
+0%;mso-table-rspace:0pt;mso-table-lspace:0pt;width:100%;-ms-text-size-adjus=
+t:100%;border-collapse:separate;"> <tbody> <tr style=3D"mso-line-height-alt=
+:0;"> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;mso-padding-bottom-alt:0;"> <tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms=
+-text-size-adjust:100%;border-collapse:separate;"> <tbody> <tr style=3D"mso=
+-line-height-alt:0;"> <td align=3D"left" style=3D"-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;pa=
+dding-bottom:6px;text-align:left;"><a href=3D"https://www.linkedin.com/e/v2=
+/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed=
+_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;t=3Dplh&amp;midTo=
+ken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D19&am=
+p;m=3Drecommended_articles&amp;ts=3DTixIndustry&amp;urlhash=3Dn_BJ&amp;url=
+=3Dhttps%3A%2F%2Fseekingalpha%2Ecom%2Farticle%2F4200487-bbva-bets-big-finte=
+ch-must-focus-turkey-situation-first" style=3D"cursor:pointer;color:#008CC9=
+;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-m=
+s-text-size-adjust:100%;"> <h2 style=3D"margin:0;color:#0077B5;font-weight:=
+400;font-size:18px;line-height:1.3;mso-line-height-alt:115%;">BBVA Bets Big=
+ On Fintech, But Must Focus On The Turkey Situation First</h2></a></td> </t=
+r> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"-webkit-text-size-adj=
+ust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100=
+%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"=
+ style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspa=
+ce:0pt;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> <tr st=
+yle=3D"mso-line-height-alt:0;"> <td width=3D"100%" valign=3D"top" align=3D"=
+left" style=3D"padding:0 16px 10px 0;-webkit-text-size-adjust:100%;mso-tabl=
+e-rspace:0pt;mso-table-lspace:0pt;width:100%;vertical-align:top;-ms-text-si=
+ze-adjust:100%;text-align:left;"><a href=3D"https://www.linkedin.com/e/v2/p=
+ulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_e=
+cosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;t=3Dplh&amp;midToke=
+n=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D19&amp;=
+m=3Drecommended_articles&amp;ts=3DTixIndustry&amp;urlhash=3Dn_BJ&amp;url=3D=
+https%3A%2F%2Fseekingalpha%2Ecom%2Farticle%2F4200487-bbva-bets-big-fintech-=
+must-focus-turkey-situation-first" style=3D"cursor:pointer;color:#008CC9;-w=
+ebkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-t=
+ext-size-adjust:100%;"> <p style=3D"padding:0 0 4px 0;margin:0;color:#73737=
+3;font-weight:400;font-size:12px;line-height:1.333;text-align:left;">seekin=
+galpha.com</p> <p style=3D"margin:0;color:#737373;font-weight:300;font-size=
+:14px;line-height:1.4;mso-line-height-alt:120%;text-align:left;">BBVA has a=
+ lot of exposure to risky countries such as Turkey and Argentina. This has =
+dragged down the stock. The bank seems to be...</p></a></td> <td valign=3D"=
+top" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-=
+lspace:0pt;vertical-align:top;-ms-text-size-adjust:100%;"> <div style=3D"ov=
+erflow:hidden;width:80px;height:80px;"> <a href=3D"https://www.linkedin.com=
+/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email=
+_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;t=3Dplh&amp;=
+midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D=
+19&amp;m=3Drecommended_articles&amp;ts=3DTixIndustry&amp;urlhash=3Dn_BJ&amp=
+;url=3Dhttps%3A%2F%2Fseekingalpha%2Ecom%2Farticle%2F4200487-bbva-bets-big-f=
+intech-must-focus-turkey-situation-first" style=3D"cursor:pointer;color:#00=
+8CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:non=
+e;-ms-text-size-adjust:100%;"><img src=3D"https://static.seekingalpha.com/i=
+mages/marketing_images/banks_credit_cards/pin_pad_greeting.jpeg" alt=3D"" w=
+idth=3D"148" style=3D"margin-left:-40%;max-height:80px;outline:none;-ms-int=
+erpolation-mode:bicubic;color:#FFFFFF;max-width:175px;text-decoration:none;=
+width:auto;height:80px;"></a> </div></td> </tr> </tbody> </table></td> </tr=
+> </tbody> </table></td> </tr> <tr style=3D"mso-line-height-alt:0;"> <td st=
+yle=3D"mso-padding-top-alt:0;-webkit-text-size-adjust:100%;mso-table-rspace=
+:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;mso-padding-bottom-alt:=
+0;"> <hr style=3D"background-color:#E5E5E5;margin:0 0 8px 0;color:#D9D9D9;w=
+idth:20%;border-color:#D9D9D9;border-width:0;border-style:solid;height:1px;=
+text-align:left;"></td> </tr> <tr style=3D"mso-line-height-alt:0;"> <td sty=
+le=3D"mso-padding-top-alt:0;-webkit-text-size-adjust:100%;mso-table-rspace:=
+0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><p style=3D"margin:0;c=
+olor:#737373;font-weight:400;padding-left:6px;font-size:12px;line-height:1.=
+333;text-align:left;">81 people are talking about this</p> <table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-=
+adjust:100%;border-collapse:separate;"> <tbody> </tbody> </table></td> </tr=
+> </tbody> </table></td> </tr> <tr> <td style=3D"padding:0 24px;-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-=
+adjust:100%;border-color:#EDF0F3;border-width:6px;border-style:solid;"></td=
+> </tr> <tr> <td bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;-web=
+kit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-tex=
+t-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100%" style=3D"padding:12px 24px;-webkit-text-size-adjust:100%;=
+mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-=
+collapse:separate;border-bottom:1px solid #E5E5E5;"> <tbody> <tr> <td align=
+=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin:0;color:#73=
+7373;font-weight:400;font-size:12px;line-height:1.333;">Trending in the Com=
+puter Software Industry</p></td> </tr> </tbody> </table> <table border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"padding:8px 2=
+4px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;width:100%;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> <=
+tr style=3D"mso-line-height-alt:0;"> <td style=3D"-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;ms=
+o-padding-bottom-alt:0;"> <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspa=
+ce:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separ=
+ate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td align=3D"left" sty=
+le=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;padding-bottom:6px;text-align:left;"><a href=
+=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Du=
+rn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZC=
+e6S6A%3D%3D&amp;t=3Dplh&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_e=
+cosystem_digest_01&amp;li=3D20&amp;m=3Drecommended_articles&amp;ts=3DTixInd=
+ustry&amp;urlhash=3DFUuC&amp;url=3Dhttps%3A%2F%2Fwww%2Etheverge%2Ecom%2Fcir=
+cuitbreaker%2F2018%2F8%2F20%2F17725558%2Ffitbit-charge-3-fitness-tracker-sw=
+im-running-waterproof-smartwatch-notifications-update" style=3D"cursor:poin=
+ter;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-d=
+ecoration:none;-ms-text-size-adjust:100%;"> <h2 style=3D"margin:0;color:#00=
+77B5;font-weight:400;font-size:18px;line-height:1.3;mso-line-height-alt:115=
+%;">Fitbit=E2=80=99s Charge 3 adds a better screen, swim tracking, and smar=
+twatch-style features</h2></a></td> </tr> <tr style=3D"mso-line-height-alt:=
+0;"> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-ta=
+ble-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;bor=
+der-collapse:separate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td =
+width=3D"100%" valign=3D"top" align=3D"left" style=3D"padding:0 16px 10px 0=
+;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;wi=
+dth:100%;vertical-align:top;-ms-text-size-adjust:100%;text-align:left;"><a =
+href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0k=
+CBZCe6S6A%3D%3D&amp;t=3Dplh&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_fe=
+ed_ecosystem_digest_01&amp;li=3D20&amp;m=3Drecommended_articles&amp;ts=3DTi=
+xIndustry&amp;urlhash=3DFUuC&amp;url=3Dhttps%3A%2F%2Fwww%2Etheverge%2Ecom%2=
+Fcircuitbreaker%2F2018%2F8%2F20%2F17725558%2Ffitbit-charge-3-fitness-tracke=
+r-swim-running-waterproof-smartwatch-notifications-update" style=3D"cursor:=
+pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;te=
+xt-decoration:none;-ms-text-size-adjust:100%;"> <p style=3D"padding:0 0 4px=
+ 0;margin:0;color:#737373;font-weight:400;font-size:12px;line-height:1.333;=
+text-align:left;">theverge.com</p> <p style=3D"margin:0;color:#737373;font-=
+weight:300;font-size:14px;line-height:1.4;mso-line-height-alt:120%;text-ali=
+gn:left;">Can a fitness tracker survive in a world of smartwatches?</p></a>=
+</td> <td valign=3D"top" style=3D"-webkit-text-size-adjust:100%;mso-table-r=
+space:0pt;mso-table-lspace:0pt;vertical-align:top;-ms-text-size-adjust:100%=
+;"> <div style=3D"overflow:hidden;width:80px;height:80px;"> <a href=3D"http=
+s://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D=
+%3D&amp;t=3Dplh&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem=
+_digest_01&amp;li=3D20&amp;m=3Drecommended_articles&amp;ts=3DTixIndustry&am=
+p;urlhash=3DFUuC&amp;url=3Dhttps%3A%2F%2Fwww%2Etheverge%2Ecom%2Fcircuitbrea=
+ker%2F2018%2F8%2F20%2F17725558%2Ffitbit-charge-3-fitness-tracker-swim-runni=
+ng-waterproof-smartwatch-notifications-update" style=3D"cursor:pointer;colo=
+r:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoratio=
+n:none;-ms-text-size-adjust:100%;"><img src=3D"https://cdn.vox-cdn.com/thum=
+bor/xGlX_hrSJGvNn6a1sy1JqPQpYXY=3D/0x246:1772x1174/fit-in/1200x630/cdn.vox-=
+cdn.com/uploads/chorus_asset/file/12319825/Screen_Shot_2018_08_20_at_9.04.2=
+0_AM.png" alt=3D"" width=3D"148" style=3D"margin-left:-40%;max-height:80px;=
+outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;max-width:175px;t=
+ext-decoration:none;width:auto;height:80px;"></a> </div></td> </tr> </tbody=
+> </table></td> </tr> </tbody> </table></td> </tr> <tr style=3D"mso-line-he=
+ight-alt:0;"> <td style=3D"mso-padding-top-alt:0;-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;mso=
+-padding-bottom-alt:0;"> <hr style=3D"background-color:#E5E5E5;margin:0 0 8=
+px 0;color:#D9D9D9;width:20%;border-color:#D9D9D9;border-width:0;border-sty=
+le:solid;height:1px;text-align:left;"></td> </tr> <tr style=3D"mso-line-hei=
+ght-alt:0;"> <td style=3D"mso-padding-top-alt:0;-webkit-text-size-adjust:10=
+0%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><p=
+ style=3D"margin:0;color:#737373;font-weight:400;padding-left:6px;font-size=
+:12px;line-height:1.333;text-align:left;">2 people are talking about this</=
+p> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" s=
+tyle=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace=
+:0pt;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> </tbody>=
+ </table></td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"padding=
+:0 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace=
+:0pt;-ms-text-size-adjust:100%;border-color:#EDF0F3;border-width:6px;border=
+-style:solid;"></td> </tr> <tr> <td bgcolor=3D"#FFFFFF" style=3D"background=
+-color:#FFFFFF;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table=
+-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"100%" style=3D"padding:12px 24px;-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-=
+adjust:100%;border-collapse:separate;border-bottom:1px solid #E5E5E5;"> <tb=
+ody> <tr> <td align=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-tab=
+le-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D=
+"margin:0;color:#737373;font-weight:400;font-size:12px;line-height:1.333;">=
+Recommended for you</p></td> </tr> </tbody> </table> <table border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"padding:8px 24px;=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;wid=
+th:100%;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> <tr s=
+tyle=3D"mso-line-height-alt:0;"> <td style=3D"-webkit-text-size-adjust:100%=
+;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;mso-pa=
+dding-bottom-alt:0;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0=
+pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separate;=
+"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td align=3D"left" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;padding-bottom:6px;text-align:left;"><a href=3D"=
+https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3=
+Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6=
+A%3D%3D&amp;t=3Dplh&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosy=
+stem_digest_01&amp;li=3D21&amp;m=3Drecommended_articles&amp;ts=3DUnknown&am=
+p;urlhash=3DGUEc&amp;url=3Dhttps%3A%2F%2Fwww%2Ebbc%2Eco%2Euk%2Fnews%2Fworld=
+-europe-45207092" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-a=
+djust:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:1=
+00%;"> <h2 style=3D"margin:0;color:#0077B5;font-weight:400;font-size:18px;l=
+ine-height:1.3;mso-line-height-alt:115%;">End of Greek bailouts offers litt=
+le hope to young</h2></a></td> </tr> <tr style=3D"mso-line-height-alt:0;"> =
+<td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-l=
+space:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;m=
+so-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-c=
+ollapse:separate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td width=
+=3D"100%" valign=3D"top" align=3D"left" style=3D"padding:0 16px 10px 0;-web=
+kit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;width:1=
+00%;vertical-align:top;-ms-text-size-adjust:100%;text-align:left;"><a href=
+=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Du=
+rn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZC=
+e6S6A%3D%3D&amp;t=3Dplh&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_e=
+cosystem_digest_01&amp;li=3D21&amp;m=3Drecommended_articles&amp;ts=3DUnknow=
+n&amp;urlhash=3DGUEc&amp;url=3Dhttps%3A%2F%2Fwww%2Ebbc%2Eco%2Euk%2Fnews%2Fw=
+orld-europe-45207092" style=3D"cursor:pointer;color:#008CC9;-webkit-text-si=
+ze-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adju=
+st:100%;"> <p style=3D"padding:0 0 4px 0;margin:0;color:#737373;font-weight=
+:400;font-size:12px;line-height:1.333;text-align:left;">bbc.co.uk</p> <p st=
+yle=3D"margin:0;color:#737373;font-weight:300;font-size:14px;line-height:1.=
+4;mso-line-height-alt:120%;text-align:left;">Politicians hail the end of Gr=
+eece's emergency credit, but ordinary Greeks see little change.</p></a></td=
+> <td valign=3D"top" style=3D"-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;mso-table-lspace:0pt;vertical-align:top;-ms-text-size-adjust:100%;"> =
+<div style=3D"overflow:hidden;width:80px;height:80px;"> <a href=3D"https://=
+www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apa=
+ge%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&=
+amp;t=3Dplh&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_dig=
+est_01&amp;li=3D21&amp;m=3Drecommended_articles&amp;ts=3DUnknown&amp;urlhas=
+h=3DGUEc&amp;url=3Dhttps%3A%2F%2Fwww%2Ebbc%2Eco%2Euk%2Fnews%2Fworld-europe-=
+45207092" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:10=
+0%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><i=
+mg src=3D"https://ichef.bbci.co.uk/news/1024/branded_news/DF42/production/_=
+103045175_gettyimages-138879441.jpg" alt=3D"" width=3D"148" style=3D"margin=
+-left:-40%;max-height:80px;outline:none;-ms-interpolation-mode:bicubic;colo=
+r:#FFFFFF;max-width:175px;text-decoration:none;width:auto;height:80px;"></a=
+> </div></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </t=
+r> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-top-alt:0=
+;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;mso-padding-bottom-alt:0;"> <hr style=3D"background=
+-color:#E5E5E5;margin:0 0 8px 0;color:#D9D9D9;width:20%;border-color:#D9D9D=
+9;border-width:0;border-style:solid;height:1px;text-align:left;"></td> </tr=
+> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-top-alt:0;=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms=
+-text-size-adjust:100%;"><p style=3D"margin:0;color:#737373;font-weight:400=
+;padding-left:6px;font-size:12px;line-height:1.333;text-align:left;">74 peo=
+ple are talking about this</p> <table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:=
+separate;"> <tbody> </tbody> </table></td> </tr> </tbody> </table></td> </t=
+r> <tr> <td style=3D"padding:0 24px;-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-color:#ED=
+F0F3;border-width:6px;border-style:solid;"></td> </tr> <tr> <td bgcolor=3D"=
+#FFFFFF" style=3D"background-color:#FFFFFF;-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"p=
+adding:12px 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tab=
+le-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separate;border-bot=
+tom:1px solid #E5E5E5;"> <tbody> <tr> <td align=3D"left" style=3D"-webkit-t=
+ext-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-siz=
+e-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weight:400;font-si=
+ze:12px;line-height:1.333;">Recommended for you</p></td> </tr> </tbody> </t=
+able> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" style=3D"padding:8px 24px;-webkit-text-size-adjust:100%;mso-table-rspace:=
+0pt;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;border-collap=
+se:separate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"-=
+webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-=
+text-size-adjust:100%;mso-padding-bottom-alt:0;"> <table border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-ad=
+just:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:10=
+0%;border-collapse:separate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"=
+> <td align=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-bottom:6px;tex=
+t-align:left;"><a href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl=
+6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01=
+%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_detail_new=
+_url&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&=
+amp;li=3D12&amp;m=3Drecommended_articles&amp;ts=3DUnknown&amp;permLink=3Dba=
+d-boss-can-destroy-everything-brigette-hyacinth" style=3D"cursor:pointer;co=
+lor:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decorat=
+ion:none;-ms-text-size-adjust:100%;"> <h2 style=3D"margin:0;color:#0077B5;f=
+ont-weight:400;font-size:18px;line-height:1.3;mso-line-height-alt:115%;">A =
+Bad Boss Can Destroy Everything</h2></a></td> </tr> <tr style=3D"mso-line-h=
+eight-alt:0;"> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:=
+0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-siz=
+e-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjus=
+t:100%;border-collapse:separate;"> <tbody> <tr style=3D"mso-line-height-alt=
+:0;"> <td width=3D"100%" valign=3D"top" align=3D"left" style=3D"padding:0 1=
+6px 10px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lsp=
+ace:0pt;width:100%;vertical-align:top;-ms-text-size-adjust:100%;text-align:=
+left;"><a href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-f=
+f&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo=
+%2BGLSsW0kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_detail_new_url&amp=
+;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=
+=3D12&amp;m=3Drecommended_articles&amp;ts=3DUnknown&amp;permLink=3Dbad-boss=
+-can-destroy-everything-brigette-hyacinth" style=3D"cursor:pointer;color:#0=
+08CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:no=
+ne;-ms-text-size-adjust:100%;"> <p style=3D"padding:0 0 4px 0;margin:0;colo=
+r:#737373;font-weight:400;font-size:12px;line-height:1.333;text-align:left;=
+">Brigette Hyacinth on LinkedIn</p> <p style=3D"margin:0;color:#737373;font=
+-weight:300;font-size:14px;line-height:1.4;mso-line-height-alt:120%;text-al=
+ign:left;">Employees don't leave organizations, They leave bad bosses. The =
+worst place an employee can be, is stuck in an organization...</p></a></td>=
+ <td valign=3D"top" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace=
+:0pt;mso-table-lspace:0pt;vertical-align:top;-ms-text-size-adjust:100%;"> <=
+div style=3D"overflow:hidden;width:80px;height:80px;"> <a href=3D"https://w=
+ww.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apag=
+e%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&a=
+mp;a=3Dpulse_web_view_article_detail_new_url&amp;midToken=3DAQGmOgFoL_CRRg&=
+amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D12&amp;m=3Drecommended_art=
+icles&amp;ts=3DUnknown&amp;permLink=3Dbad-boss-can-destroy-everything-brige=
+tte-hyacinth" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjus=
+t:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;=
+"><img src=3D"https://media.licdn.com/dms/image/C4E12AQG_0slUJMxZJA/article=
+-cover_image-shrink_600_2000/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3D6orVArPk=
+n1RYzf6lQpOJ8TtmHAou90Lk5ajLB0rzAsQ" alt=3D"" width=3D"148" style=3D"margin=
+-left:-40%;max-height:80px;outline:none;-ms-interpolation-mode:bicubic;colo=
+r:#FFFFFF;max-width:175px;text-decoration:none;width:auto;height:80px;"></a=
+> </div></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </t=
+r> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-top-alt:0=
+;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;mso-padding-bottom-alt:0;"> <hr style=3D"background=
+-color:#E5E5E5;margin:0 0 8px 0;color:#D9D9D9;width:20%;border-color:#D9D9D=
+9;border-width:0;border-style:solid;height:1px;text-align:left;"></td> </tr=
+> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-top-alt:0;=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms=
+-text-size-adjust:100%;"><p style=3D"margin:0;color:#737373;font-weight:400=
+;padding-left:6px;font-size:12px;line-height:1.333;text-align:left;">22901 =
+people are talking about this</p> <table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collap=
+se:separate;"> <tbody> </tbody> </table></td> </tr> </tbody> </table></td> =
+</tr> <tr> <td style=3D"padding:0 24px;-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-color:=
+#EDF0F3;border-width:6px;border-style:solid;"></td> </tr> <tr> <td bgcolor=
+=3D"#FFFFFF" style=3D"background-color:#FFFFFF;-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <t=
+able border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=
+=3D"padding:12px 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;ms=
+o-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separate;borde=
+r-bottom:1px solid #E5E5E5;"> <tbody> <tr> <td align=3D"left" style=3D"-web=
+kit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-tex=
+t-size-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weight:400;fo=
+nt-size:12px;line-height:1.333;">Recommended for you</p></td> </tr> </tbody=
+> </table> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100%" style=3D"padding:8px 24px;-webkit-text-size-adjust:100%;mso-table-rs=
+pace:0pt;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;border-c=
+ollapse:separate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;mso-padding-bottom-alt:0;"> <table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-si=
+ze-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adju=
+st:100%;border-collapse:separate;"> <tbody> <tr style=3D"mso-line-height-al=
+t:0;"> <td align=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-=
+rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-bottom:6p=
+x;text-align:left;"><a href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5g=
+pt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_dige=
+st_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_detai=
+l_new_url&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_diges=
+t_01&amp;li=3D13&amp;m=3Drecommended_articles&amp;ts=3DUnknown&amp;permLink=
+=3Dthree-key-ingredients-employee-giving-people-passion-tim-walbert" style=
+=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inli=
+ne-block;text-decoration:none;-ms-text-size-adjust:100%;"> <h2 style=3D"mar=
+gin:0;color:#0077B5;font-weight:400;font-size:18px;line-height:1.3;mso-line=
+-height-alt:115%;">The Three Key Ingredients to Employee Giving: People, Pa=
+ssion and Authenticity</h2></a></td> </tr> <tr style=3D"mso-line-height-alt=
+:0;"> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;bo=
+rder-collapse:separate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td=
+ width=3D"100%" valign=3D"top" align=3D"left" style=3D"padding:0 16px 10px =
+0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;w=
+idth:100%;vertical-align:top;-ms-text-size-adjust:100%;text-align:left;"><a=
+ href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lip=
+i=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0=
+kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_detail_new_url&amp;midToken=
+=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D13&amp;m=
+=3Drecommended_articles&amp;ts=3DUnknown&amp;permLink=3Dthree-key-ingredien=
+ts-employee-giving-people-passion-tim-walbert" style=3D"cursor:pointer;colo=
+r:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoratio=
+n:none;-ms-text-size-adjust:100%;"> <p style=3D"padding:0 0 4px 0;margin:0;=
+color:#737373;font-weight:400;font-size:12px;line-height:1.333;text-align:l=
+eft;">Tim Walbert on LinkedIn</p> <p style=3D"margin:0;color:#737373;font-w=
+eight:300;font-size:14px;line-height:1.4;mso-line-height-alt:120%;text-alig=
+n:left;">PEOPLE Magazine&nbsp;and Great Place to Work&nbsp;recently&nbsp;na=
+med Horizon to its&nbsp;=E2=80=9C50 Companies that Care=E2=80=9D&nbsp;list,=
+&nbsp;a&nbsp;significant recognition...</p></a></td> <td valign=3D"top" sty=
+le=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0=
+pt;vertical-align:top;-ms-text-size-adjust:100%;"> <div style=3D"overflow:h=
+idden;width:80px;height:80px;"> <a href=3D"https://www.linkedin.com/e/v2/pu=
+lse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ec=
+osystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_a=
+rticle_detail_new_url&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_eco=
+system_digest_01&amp;li=3D13&amp;m=3Drecommended_articles&amp;ts=3DUnknown&=
+amp;permLink=3Dthree-key-ingredients-employee-giving-people-passion-tim-wal=
+bert" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;d=
+isplay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><img s=
+rc=3D"https://media.licdn.com/dms/image/C5612AQHY0J4teXVMcw/article-cover_i=
+mage-shrink_600_2000/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DyCvvmMQH7LGxvcut=
+HpnhKtOn4d5epCp2ohYrlBMSSM4" alt=3D"" width=3D"148" style=3D"margin-left:-4=
+0%;max-height:80px;outline:none;-ms-interpolation-mode:bicubic;color:#FFFFF=
+F;max-width:175px;text-decoration:none;width:auto;height:80px;"></a> </div>=
+</td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr> <tr s=
+tyle=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-top-alt:0;-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-s=
+ize-adjust:100%;mso-padding-bottom-alt:0;"> <hr style=3D"background-color:#=
+E5E5E5;margin:0 0 8px 0;color:#D9D9D9;width:20%;border-color:#D9D9D9;border=
+-width:0;border-style:solid;height:1px;text-align:left;"></td> </tr> <tr st=
+yle=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-top-alt:0;-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;"><p style=3D"margin:0;color:#737373;font-weight:400;padding=
+-left:6px;font-size:12px;line-height:1.333;text-align:left;">521 people are=
+ talking about this</p> <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspa=
+ce:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separ=
+ate;"> <tbody> </tbody> </table></td> </tr> </tbody> </table></td> </tr> <t=
+r> <td style=3D"padding:0 24px;-webkit-text-size-adjust:100%;mso-table-rspa=
+ce:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-color:#EDF0F3;=
+border-width:6px;border-style:solid;"></td> </tr> <tr> <td bgcolor=3D"#FFFF=
+FF" style=3D"background-color:#FFFFFF;-webkit-text-size-adjust:100%;mso-tab=
+le-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"paddin=
+g:12px 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-ls=
+pace:0pt;-ms-text-size-adjust:100%;border-collapse:separate;border-bottom:1=
+px solid #E5E5E5;"> <tbody> <tr> <td align=3D"left" style=3D"-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adj=
+ust:100%;"> <p style=3D"margin:0;color:#737373;font-weight:400;font-size:12=
+px;line-height:1.333;">Recommended for you</p></td> </tr> </tbody> </table>=
+ <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" sty=
+le=3D"padding:8px 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;m=
+so-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;border-collapse:se=
+parate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"-webki=
+t-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-=
+size-adjust:100%;mso-padding-bottom-alt:0;"> <table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;bo=
+rder-collapse:separate;"> <tbody> <tr style=3D"mso-line-height-alt:0;"> <td=
+ align=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt=
+;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-bottom:6px;text-ali=
+gn:left;"><a href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g2=
+6-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrL=
+dYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_detail_new_url&=
+amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;l=
+i=3D14&amp;m=3Drecommended_articles&amp;ts=3DUnknown&amp;permLink=3Dwant-he=
+lp-students-graduate-make-personal-melinda-gates" style=3D"cursor:pointer;c=
+olor:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decora=
+tion:none;-ms-text-size-adjust:100%;"> <h2 style=3D"margin:0;color:#0077B5;=
+font-weight:400;font-size:18px;line-height:1.3;mso-line-height-alt:115%;">W=
+ant to help students graduate? Make it personal</h2></a></td> </tr> <tr sty=
+le=3D"mso-line-height-alt:0;"> <td style=3D"-webkit-text-size-adjust:100%;m=
+so-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms=
+-text-size-adjust:100%;border-collapse:separate;"> <tbody> <tr style=3D"mso=
+-line-height-alt:0;"> <td width=3D"100%" valign=3D"top" align=3D"left" styl=
+e=3D"padding:0 16px 10px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0=
+pt;mso-table-lspace:0pt;width:100%;vertical-align:top;-ms-text-size-adjust:=
+100%;text-align:left;"><a href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6=
+r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_d=
+igest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_de=
+tail_new_url&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_di=
+gest_01&amp;li=3D14&amp;m=3Drecommended_articles&amp;ts=3DUnknown&amp;permL=
+ink=3Dwant-help-students-graduate-make-personal-melinda-gates" style=3D"cur=
+sor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-bloc=
+k;text-decoration:none;-ms-text-size-adjust:100%;"> <p style=3D"padding:0 0=
+ 4px 0;margin:0;color:#737373;font-weight:400;font-size:12px;line-height:1.=
+333;text-align:left;">Melinda Gates on LinkedIn</p> <p style=3D"margin:0;co=
+lor:#737373;font-weight:300;font-size:14px;line-height:1.4;mso-line-height-=
+alt:120%;text-align:left;">When Dr. Tammy Muhs, an associate lecturer at th=
+e University of Central Florida, sat down to write her new algebra course, =
+she...</p></a></td> <td valign=3D"top" style=3D"-webkit-text-size-adjust:10=
+0%;mso-table-rspace:0pt;mso-table-lspace:0pt;vertical-align:top;-ms-text-si=
+ze-adjust:100%;"> <div style=3D"overflow:hidden;width:80px;height:80px;"> <=
+a href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;li=
+pi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW=
+0kCBZCe6S6A%3D%3D&amp;a=3Dpulse_web_view_article_detail_new_url&amp;midToke=
+n=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D14&amp;=
+m=3Drecommended_articles&amp;ts=3DUnknown&amp;permLink=3Dwant-help-students=
+-graduate-make-personal-melinda-gates" style=3D"cursor:pointer;color:#008CC=
+9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-=
+ms-text-size-adjust:100%;"><img src=3D"https://media.licdn.com/dms/image/C4=
+D12AQFqCnHhrOlwqg/article-cover_image-shrink_720_1280/0?e=3D2159024400&amp;=
+v=3Dbeta&amp;t=3DoSx8g5gsk71ISbRo-gouB0AvYY3TUhBWdapqCNqlIuc" alt=3D"" widt=
+h=3D"148" style=3D"margin-left:-40%;max-height:80px;outline:none;-ms-interp=
+olation-mode:bicubic;color:#FFFFFF;max-width:175px;text-decoration:none;wid=
+th:auto;height:80px;"></a> </div></td> </tr> </tbody> </table></td> </tr> <=
+/tbody> </table></td> </tr> <tr style=3D"mso-line-height-alt:0;"> <td style=
+=3D"mso-padding-top-alt:0;-webkit-text-size-adjust:100%;mso-table-rspace:0p=
+t;mso-table-lspace:0pt;-ms-text-size-adjust:100%;mso-padding-bottom-alt:0;"=
+> <hr style=3D"background-color:#E5E5E5;margin:0 0 8px 0;color:#D9D9D9;widt=
+h:20%;border-color:#D9D9D9;border-width:0;border-style:solid;height:1px;tex=
+t-align:left;"></td> </tr> <tr style=3D"mso-line-height-alt:0;"> <td style=
+=3D"mso-padding-top-alt:0;-webkit-text-size-adjust:100%;mso-table-rspace:0p=
+t;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><p style=3D"margin:0;col=
+or:#737373;font-weight:400;padding-left:6px;font-size:12px;line-height:1.33=
+3;text-align:left;">3309 people are talking about this</p> <table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-=
+adjust:100%;border-collapse:separate;"> <tbody> </tbody> </table></td> </tr=
+> </tbody> </table></td> </tr> <tr> <td style=3D"padding:0 24px;-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-=
+adjust:100%;border-color:#EDF0F3;border-width:6px;border-style:solid;"></td=
+> </tr> <tr> <td bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;-web=
+kit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-tex=
+t-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100%" style=3D"padding:12px 24px;-webkit-text-size-adjust:100%;=
+mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-=
+collapse:separate;border-bottom:1px solid #E5E5E5;"> <tbody> <tr> <td align=
+=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin:0;color:#73=
+7373;font-weight:400;font-size:12px;line-height:1.333;">Recommended for you=
+</p></td> </tr> </tbody> </table> <table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" width=3D"100%" style=3D"padding:8px 24px;-webkit-text-size-a=
+djust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;width:100%;-ms-text-si=
+ze-adjust:100%;border-collapse:separate;"> <tbody> <tr style=3D"mso-line-he=
+ight-alt:0;"> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0=
+pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;mso-padding-bottom-alt:0;=
+"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" s=
+tyle=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace=
+:0pt;-ms-text-size-adjust:100%;border-collapse:separate;"> <tbody> <tr styl=
+e=3D"mso-line-height-alt:0;"> <td align=3D"left" style=3D"-webkit-text-size=
+-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust=
+:100%;padding-bottom:6px;text-align:left;"><a href=3D"https://www.linkedin.=
+com/e/v2/pulse?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_em=
+ail_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;t=3Dplh&a=
+mp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=
+=3D25&amp;m=3Drecommended_articles&amp;ts=3DUnknown&amp;urlhash=3DSwp6&amp;=
+url=3Dhttps%3A%2F%2Fslate%2Ecom%2Fbusiness%2F2018%2F08%2Fibms-watson-how-th=
+e-ai-project-to-improve-cancer-treatment-went-wrong%2Ehtml" style=3D"cursor=
+:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;t=
+ext-decoration:none;-ms-text-size-adjust:100%;"> <h2 style=3D"margin:0;colo=
+r:#0077B5;font-weight:400;font-size:18px;line-height:1.3;mso-line-height-al=
+t:115%;">IBM=E2=80=99s Watson Was Supposed to Change the Way We Treat Cance=
+r. Here=E2=80=99s What Happened Instead.</h2></a></td> </tr> <tr style=3D"m=
+so-line-height-alt:0;"> <td style=3D"-webkit-text-size-adjust:100%;mso-tabl=
+e-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-s=
+ize-adjust:100%;border-collapse:separate;"> <tbody> <tr style=3D"mso-line-h=
+eight-alt:0;"> <td width=3D"100%" valign=3D"top" align=3D"left" style=3D"pa=
+dding:0 16px 10px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-=
+table-lspace:0pt;width:100%;vertical-align:top;-ms-text-size-adjust:100%;te=
+xt-align:left;"><a href=3D"https://www.linkedin.com/e/v2/pulse?e=3D6r5gpt-j=
+l6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_0=
+1%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;t=3Dplh&amp;midToken=3DAQGmOgFoL_CRR=
+g&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D25&amp;m=3Drecommended_a=
+rticles&amp;ts=3DUnknown&amp;urlhash=3DSwp6&amp;url=3Dhttps%3A%2F%2Fslate%2=
+Ecom%2Fbusiness%2F2018%2F08%2Fibms-watson-how-the-ai-project-to-improve-can=
+cer-treatment-went-wrong%2Ehtml" style=3D"cursor:pointer;color:#008CC9;-web=
+kit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-tex=
+t-size-adjust:100%;"> <p style=3D"padding:0 0 4px 0;margin:0;color:#737373;=
+font-weight:400;font-size:12px;line-height:1.333;text-align:left;">slate.co=
+m</p> <p style=3D"margin:0;color:#737373;font-weight:300;font-size:14px;lin=
+e-height:1.4;mso-line-height-alt:120%;text-align:left;">How the A.I. projec=
+t to improve oncology went wrong.</p></a></td> <td valign=3D"top" style=3D"=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;ver=
+tical-align:top;-ms-text-size-adjust:100%;"> <div style=3D"overflow:hidden;=
+width:80px;height:80px;"> <a href=3D"https://www.linkedin.com/e/v2/pulse?e=
+=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosyst=
+em_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;t=3Dplh&amp;midToken=3DAQ=
+GmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D25&amp;m=3Dre=
+commended_articles&amp;ts=3DUnknown&amp;urlhash=3DSwp6&amp;url=3Dhttps%3A%2=
+F%2Fslate%2Ecom%2Fbusiness%2F2018%2F08%2Fibms-watson-how-the-ai-project-to-=
+improve-cancer-treatment-went-wrong%2Ehtml" style=3D"cursor:pointer;color:#=
+008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:n=
+one;-ms-text-size-adjust:100%;"><img src=3D"https://compote.slate.com/image=
+s/43fc49f9-7a5a-4091-aa19-af7cca34cc4a.jpeg?width=3D780&amp;height=3D520&am=
+p;rect=3D3552x2368&amp;offset=3D0x0" alt=3D"" width=3D"148" style=3D"margin=
+-left:-40%;max-height:80px;outline:none;-ms-interpolation-mode:bicubic;colo=
+r:#FFFFFF;max-width:175px;text-decoration:none;width:auto;height:80px;"></a=
+> </div></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </t=
+r> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-top-alt:0=
+;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;mso-padding-bottom-alt:0;"> <hr style=3D"background=
+-color:#E5E5E5;margin:0 0 8px 0;color:#D9D9D9;width:20%;border-color:#D9D9D=
+9;border-width:0;border-style:solid;height:1px;text-align:left;"></td> </tr=
+> <tr style=3D"mso-line-height-alt:0;"> <td style=3D"mso-padding-top-alt:0;=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms=
+-text-size-adjust:100%;"><p style=3D"margin:0;color:#737373;font-weight:400=
+;padding-left:6px;font-size:12px;line-height:1.333;text-align:left;">12 peo=
+ple are talking about this</p> <table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:=
+separate;"> <tbody> </tbody> </table></td> </tr> </tbody> </table></td> </t=
+r> <tr> <td style=3D"padding:0 24px;-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-color:#ED=
+F0F3;border-width:6px;border-style:solid;"></td> </tr> <tr> <td align=3D"ce=
+nter" bgcolor=3D"#F6F8FA" style=3D"background-color:#F6F8FA;padding:48px 12=
+px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;=
+-ms-text-size-adjust:100%;"> <h2 style=3D"margin:0;color:#262626;font-weigh=
+t:400;font-size:16px;padding-bottom:16px;line-height:1.2;mso-line-height-al=
+t:200%;">Check out the rest of your feed</h2> <table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;display:inline-block;mso-table-lspace:0pt;-ms-text-size-adjust:=
+100%;border-collapse:separate;"> <tbody> <tr> <td align=3D"center" valign=
+=3D"middle" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso=
+-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linked=
+in.com/comm/feed/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_feed_ecosys=
+tem_digest_01-footer_promo-5-null&amp;trkEmail=3Deml-email_feed_ecosystem_d=
+igest_01-footer_promo-5-null-null-6r5gpt%7Ejl6g0g26%7Eff-null-neptune%2Ffee=
+d&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo=
+%2BGLSsW0kCBZCe6S6A%3D%3D" target=3D"_blank" style=3D"cursor:pointer;word-w=
+rap:normal;color:#008CC9;word-break:normal;white-space:nowrap;-webkit-text-=
+size-adjust:100%;display:block;text-decoration:none;-ms-text-size-adjust:10=
+0%;overflow-wrap:normal;"> <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso-table-rsp=
+ace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:sepa=
+rate;"> <tbody> <tr> <td bgcolor=3D"#008CC9" style=3D"padding:6px 16px;colo=
+r:#FFFFFF;-webkit-text-size-adjust:100%;font-weight:500;font-size:16px;-ms-=
+text-size-adjust:100%;border-color:#008CC9;background-color:#008CC9;border-=
+radius:2px;mso-table-rspace:0pt;mso-table-lspace:0pt;border-width:1px;borde=
+r-style:solid;"><a href=3D"https://www.linkedin.com/comm/feed/?midToken=3DA=
+QGmOgFoL_CRRg&amp;trk=3Deml-email_feed_ecosystem_digest_01-footer_promo-5-n=
+ull&amp;trkEmail=3Deml-email_feed_ecosystem_digest_01-footer_promo-5-null-n=
+ull-6r5gpt%7Ejl6g0g26%7Eff-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3=
+Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D" tar=
+get=3D"_blank" style=3D"cursor:pointer;color:#FFFFFF;-webkit-text-size-adju=
+st:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%=
+;">Go to LinkedIn</a></td> </tr> </tbody> </table></a></td> </tr> </tbody> =
+</table></td> </tr> </tbody> </table> </center></td> </tr> </tbody> </table=
+> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bg=
+color=3D"#EDF0F3" align=3D"center" style=3D"background-color:#EDF0F3;paddin=
+g:0 24px;color:#6A6C6D;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;m=
+so-table-lspace:0pt;-ms-text-size-adjust:100%;border-collapse:separate;text=
+-align:center;"> <tbody> <tr> <td align=3D"center" style=3D"padding:16px 0 =
+0 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;text-align:center;"> <table align=3D"center" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;border-collapse:separate;"> <tbody> <tr> <td valign=3D"mi=
+ddle" align=3D"center" style=3D"padding:0 0 16px 0;-webkit-text-size-adjust=
+:100%;mso-table-rspace:0pt;vertical-align:middle;mso-table-lspace:0pt;-ms-t=
+ext-size-adjust:100%;text-align:center;"><a href=3D"https://www.linkedin.co=
+m/e/v2?e=3D6r5gpt-jl6g0g26-ff&amp;t=3Dlun&amp;midToken=3DAQGmOgFoL_CRRg&amp=
+;ek=3Demail_feed_ecosystem_digest_01&amp;li=3D31&amp;m=3Dunsub&amp;ts=3Duns=
+ub&amp;loid=3DAQFwF9SgqQ3BzgAAAWVmiv29QYq3AgihGrev8ITz_5HwyJpf18m9Tk-gCPYHS=
+wbgw_jDRZ_htz_iiVOwLlWizvCAxCtPijxsE2Mhbw&amp;eid=3D6r5gpt-jl6g0g26-ff" sty=
+le=3D"cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decor=
+ation:underline;display:inline-block;-ms-text-size-adjust:100%;"> <span sty=
+le=3D"color:#6A6C6D;font-weight:400;text-decoration:underline;font-size:12p=
+x;line-height:1.333;">Unsubscribe</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a hre=
+f=3D"https://www.linkedin.com/e/v2?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3A=
+li%3Apage%3Aemail_email_feed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A=
+%3D%3D&amp;a=3DcustomerServiceUrl&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Dem=
+ail_feed_ecosystem_digest_01&amp;li=3D30&amp;m=3Dfooter&amp;ts=3Dhelp&amp;a=
+rticleId=3D67" style=3D"cursor:pointer;color:#6A6C6D;-webkit-text-size-adju=
+st:100%;text-decoration:underline;display:inline-block;-ms-text-size-adjust=
+:100%;"> <span style=3D"color:#6A6C6D;font-weight:400;text-decoration:under=
+line;font-size:12px;line-height:1.333;">Help</span></a></td> </tr> </tbody>=
+ </table></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;border-collapse:separate;"> <tbody> <tr> <td align=3D"cen=
+ter" style=3D"padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rs=
+pace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"=
+> <p style=3D"margin:0;color:#6A6C6D;font-weight:400;font-size:12px;line-he=
+ight:1.333;">You are receiving highlight emails.</p></td> </tr> <tr> <td al=
+ign=3D"center" style=3D"padding:0 0 12px 0;-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-alig=
+n:center;"> <p style=3D"margin:0;word-wrap:break-word;color:#6A6C6D;word-br=
+eak:break-word;font-weight:400;-ms-word-break:break-all;font-size:12px;line=
+-height:1.333;overflow-wrap:break-word;">This email was intended for Jack S=
+helata (Software Engineer Intern at Comau). <a href=3D"https://www.linkedin=
+.com/e/v2?e=3D6r5gpt-jl6g0g26-ff&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_f=
+eed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D&amp;a=3DcustomerSe=
+rviceUrl&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_feed_ecosystem_digest=
+_01&amp;articleId=3D4788" style=3D"cursor:pointer;color:#6A6C6D;-webkit-tex=
+t-size-adjust:100%;text-decoration:underline;display:inline-block;-ms-text-=
+size-adjust:100%;">Learn why we included this.</a></p></td> </tr> <tr> <td =
+align=3D"center" style=3D"padding:0 0 8px 0;-webkit-text-size-adjust:100%;m=
+so-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-ali=
+gn:center;"><a href=3D"https://www.linkedin.com/comm/feed/?midToken=3DAQGmO=
+gFoL_CRRg&amp;trk=3Deml-email_feed_ecosystem_digest_01-footer-28-home&amp;t=
+rkEmail=3Deml-email_feed_ecosystem_digest_01-footer-28-home-null-6r5gpt%7Ej=
+l6g0g26%7Eff-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_f=
+eed_ecosystem_digest_01%3BrLdYo%2BGLSsW0kCBZCe6S6A%3D%3D" style=3D"cursor:p=
+ointer;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decoration:underlin=
+e;display:inline-block;-ms-text-size-adjust:100%;"><img alt=3D"LinkedIn" bo=
+rder=3D"0" height=3D"14" src=3D"https://static.licdn.com/scds/common/u/imag=
+es/email/phoenix/logos/logo_phoenix_footer_darkgray_197x48_v1.png" width=3D=
+"58" style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;dis=
+play:block;text-decoration:none;"></a></td> </tr> <tr> <td align=3D"center"=
+ style=3D"padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace=
+:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <p=
+ style=3D"margin:0;color:#6A6C6D;font-weight:400;font-size:12px;line-height=
+:1.333;">=C2=A9 2018 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyval=
+e, CA 94085. LinkedIn and the LinkedIn logo are registered trademarks of Li=
+nkedIn.</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table> <img =
+src=3D"http://www.linkedin.com/emimp/ip_Tm5JMVozQjBMV3BzTm1jd1p6STJMV1ptOlp=
+XMWhhV3hmWm1WbFpGOWxZMjl6ZVhOMFpXMWZaR2xuWlhOMFh6QXg6.gif" style=3D"outline=
+:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;wid=
+th:1px;height:1px;"> </body> </html>
+------=_Part_5116697_868570620.1535023709817--
+

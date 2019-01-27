@@ -1,0 +1,671 @@
+Return-Path: <linkedin@e.linkedin.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id wH4NMUc3fVuffAEAV+VKPg
+	for <jack@jackshelata.com>; Wed, 22 Aug 2018 05:13:27 -0500
+Return-path: <linkedin@e.linkedin.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Wed, 22 Aug 2018 05:13:27 -0500
+Received: from omp.e.linkedin.com ([199.7.202.92]:37072)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <linkedin@e.linkedin.com>)
+	id 1fsQ8l-000PtX-9s
+	for jack@jackshelata.com; Wed, 22 Aug 2018 05:13:27 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=linkedin; d=e.linkedin.com;
+ h=MIME-Version:Content-Type:Date:To:From:Reply-To:Subject:List-Unsubscribe:
+ Message-ID; i=linkedin@e.linkedin.com;
+ bh=oCeHHc4vjF7QKeY0Zm1HF6gunBketGpmdxQX0P5Xobo=;
+ b=JumVy3+mpOA1Xvdj1GmVP6e5C4mLU9l9U7xCBDX7JIHlzf54KYGigic5fIq5UjbibDFu6PkT3HAw
+   qxrQKRH1WcPNRuhvIiUN3uy85HaqncAyg52VFQx5+r6JWPQKmvSnkX/O+nNd09Ba3TV/hxMEEeFY
+   oeem+Bhp6uTWUb8s4cA=
+Received: by omp.e.linkedin.com id hfkrke2b6105 for <jack@jackshelata.com>; Wed, 22 Aug 2018 03:13:16 -0700 (envelope-from <linkedin@e.linkedin.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----msg_border_G5MGKRc27G"
+Date: Wed, 22 Aug 2018 03:13:16 -0700
+To: jack@jackshelata.com
+From: =?UTF-8?B?TGlua2VkSW4gUHJlbWl1bQ==?= <linkedin@e.linkedin.com>
+Reply-To: =?UTF-8?B?TGlua2VkSW4gUHJlbWl1bQ==?= <donotreply@e.linkedin.com>
+Subject: Jack, thanks for being an active member
+Feedback-ID: 50563:8419455:oraclersys
+List-Unsubscribe: <https://e.linkedin.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DYQpglLjHJlYQGhAzcYzgyyv7wdNYFzbffqfzaOTargjzdKOjzcqCbCaAwol1r7hD23hO&_ei_=EolaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm3adoiOiXMKu1r9X200_2NkGaN1fu-hHNABT4X8k0pg8Uflio-KaI4CBiZZrbgXJiJFbcmB9rI_xc7RQ36HJRIHCB7TG6MFKfnvwfSpaG6692OvcrLNCzw>, <mailto:unsubscribe-YQpglLjHJlYQGhAzcYzgyyv7wdNYFzbffqfzaOTargjzdKOjzcqCbCaAwol1r7hD23hO@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: rHJsxrHJskoLtHlHQJhu
+X-rext: 5.interact5.Eo6X5FPPNBOKv5zqMM-MQw2HjnrZdwrX-8I8H6OhtSjBo9TUow
+X-cid: linkedin.3752
+Require-Recipient-Valid-Since: jack@jackshelata.com; Tue, 10 Mar 2015 18:28:00 -0700
+Message-ID: <0.1.30F.276.1D43A00BE17402A.0@omp.e.linkedin.com>
+X-Spam-Status: No, score=-1.4
+X-Spam-Score: -13
+X-Spam-Bar: -
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------msg_border_G5MGKRc27G
+Date: Wed, 22 Aug 2018 03:13:16 -0700
+Content-Type: multipart/alternative; boundary="----alt_border_wBxQTytsdQ_1"
+
+
+
+------alt_border_wBxQTytsdQ_1
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please view this email in a browser:=20
+https://e=2Elinkedin=2Ecom/pub/sf/FormLink?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGhA=
+zcYzgyyv7wdNYFzbffqfzaOTargjzdKOjzcqCbCaAwol1r7hD23hOVXMtX%3DYQpglLjHJlYQGi=
+SzeXzezesCw9fTI3dOzdkFjXjGFHjpFLSJ9Dsmlezd7zdzczaBhzbk&_ei_=3DEgkqxaPelWEoS=
+ujAeHvVt69ZDQvTHcPabl-I5qsJdziDIYPPo-XBtg=2EJg%3D%3D
+
+If you need assistance or have questions, please contact LinkedIn Customer =
+Service:=20
+https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGhAzcYzgyyv7=
+wdNYFzbffqfzaOTargjzdKOjzcqCbCaAwol1r7hD23hOVXtpKX%3DSURBR&_ei_=3DEolaGGF4S=
+NMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm3adoiOiXMKu1r9X200_=
+2NkGaN1fu-hHNABT4X8k0pg8Uflio-KaI4CBiZZrbgXJiJFbcmB9rI_xc7RQ36HJRIHCB7TG6MF=
+KfnvwfSpaG6692OvcrLNCzw=2EJg%3D%3D=20
+
+This is an occasional email to help you get the most out of LinkedIn=2E Uns=
+ubscribe: https://www=2Elinkedin=2Ecom/settings/li-announcements
+
+This email was intended for Jack Shelata=2E Learn why we include this: http=
+://help=2Elinkedin=2Ecom/app/answers/global/id/4788/ft/eng
+
+Copyright 2018, LinkedIn Corporation=2E All rights reserved=2E LinkedIn Cor=
+p=2E 1000 West Maude Avenue, Sunnyvale, CA 94085
+=2E
+
+------alt_border_wBxQTytsdQ_1
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3DUTF=
+-8=22 />
+</head>
+<title>LinkedIn</title><body>
+
+
+<style type=3D=22text/css=22>
+=2EExternalClass =7B width:100%; =7D
+=2EExternalClass, =2EExternalClass p, =2EExternalClass span, =2EExternalCla=
+ss font, =2EExternalClass td, =2EExternalClass div =7B line-height: 100%; =
+=7D
+table td =7B border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; =7D=20
+h1, h2, h3, h4, h5, h6 =7B font-size: inherit; padding: 0; margin: 0; color=
+: black; line-height: 100%; =7D=20
+
+=2Eapplelinks a =7B text-decoration: none; color: inherit =21important; =7D
+a =7B color: black; text-decoration: none; =7D
+a, a:link, a:visited =7B color: inherit; text-decoration: none; =7D
+
+=2Egmailfix =7B display: none; display: none =21important; =7D
+
+body =7B
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	-webkit-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+	-webkit-font-smoothing: antialiased;
+	margin: 0;
+	padding: 0;
+	=7D
+
+
+=2Eow100 =7B width: 100% =21important;=7D
+
+=40media only screen and (max-width: 480px) =7B
+=2Ew100m, =2Ecolumn50, =2Ecolumn33, =2Ecolumn25, =2Ecolumn75, =2Ecolumn66 =
+=7B width: 100% =21important;=7D
+=2Ew90m =7B width: 90% =21important;=7D
+=2Ew85m =7B width: 85% =21important;=7D
+=2Eexpandm =7B width: 100% =21important; display: block =21important; =7D
+=2Eresizem =7B max-width: 100%; height: auto; width: auto=5C9 /* ie8 */  =
+=21important; =7D
+=2Ehidem =7B display: none =21important; =7D
+=2Eh1m =7B font-size: 20px =21important;=7D
+=2Eh2m =7B font-size: 14px =21important;=7D
+=2Ecenterm =7B text-align: center =21important; =7D
+=2Eleftm =7B text-align: left =21important; =7D
+
+=2Epadt0m =7B padding-top: 0px =21important; =7D
+=2Epadt5m =7B padding-top: 5px =21important; =7D
+=2Epadt10m =7B padding-top: 10px =21important; =7D
+=2Epadt20m =7B padding-top: 20px =21important; =7D
+=2Epadt30m =7B padding-top: 30px =21important; =7D
+=2Epadb5m =7B padding-bottom: 5px =21important;=7D
+=2Epadb10m =7B padding-bottom: 10px =21important;=7D
+=2Epadb20m =7B padding-bottom: 20px =21important;=7D
+=2Epadb30m =7B padding-bottom: 30px =21important;=7D
+=2Ewidth320 =7B width: 320px =21important;=7D
+=2Ecell12x15 =7B width: 12px; height: 15px =21important;=7D
+=2Ewidth296 =7B width: 296px =21important;=7D
+=2Ewidth12 =7B width: 12px =21important;=7D
+=7D
+
+
+=40media only screen and (max-width: 512px) =7B
+=2Ew100 =7B width: 100% =21important;=7D
+=2Ew90 =7B width: 90% =21important;=7D
+=2Ew85 =7B width: 85% =21important; =7D
+=2Eminwidth =7B min-width: 100% =21important;=7D
+=2Ehide =7B display: none =21important; =7D
+=2Eresize =7B width: 100% =21important; height: auto =21important; =7D
+=2Eresize img =7B width: 100% =21important; height: auto =21important; =7D
+=2Eexpand =7B width: 100% =21important; display: block =21important; =7D
+=2Eheight0 =7B height: 0 =21important; =7D
+=2Ecolumn50 =7B width: 50%; =7D
+=2Ecolumn33 =7B width: 33=2E33%; =7D
+=2Ecolumn25 =7B width: 25%; =7D
+=2Ecolumn75 =7B width: 75%; =7D
+=2Ecolumn66 =7B width: 66%; =7D
+
+=2Ecenter =7B text-align: center =21important; =7D
+=2Eborderr0 =7B border-right: 0px =21important; =7D
+
+=2Epadt0 =7B padding-top: 0px =21important; =7D
+=2Epadt5 =7B padding-top: 5px =21important; =7D
+=2Epadt10 =7B padding-top: 10px =21important; =7D
+=2Epadt20 =7B padding-top: 20px =21important; =7D
+=2Epadt30 =7B padding-top: 30px =21important; =7D
+=2Epadb0 =7B padding-bottom: 0px =21important;=7D
+=2Epadb5 =7B padding-bottom: 5px =21important;=7D
+=2Epadb10 =7B padding-bottom: 10px =21important;=7D
+=2Epadb20 =7B padding-bottom: 20px =21important;=7D
+=2Epadb30 =7B padding-bottom: 30px =21important;=7D
+=7D
+</style>
+
+<span style=3D=22display:none;font-size:0;max-height:0;width:0;line-height:=
+0;mso-hide:all=22> </span>
+
+
+<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22>
+    <tr>
+      <td class=3D=22minwidth=22 align=3D=22center=22 style=3D=22min-width:=
+ 512px; background-color: =23f3f3f3;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td>
+ <=21-- TABLES START -->=20
+    =20
+     =20
+     =20
+<=21-- =7C=7C=7C MAIN BODY TABLE START =7C=7C=7C -->      =20
+<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td align=3D=22center=22>
+      	<table class=3D=22w100=22 align=3D=22center=22 width=3D=22512=22 bor=
+der=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<=21-- ADD ROW(S) HERE START -->
+       =20
+   =20
+    <=21-- /// PREHEADER ROW START /// -->   =20
+    <tr>
+    	<td class=3D=22hide=22 align=3D=22center=22 style=3D=22padding-top: 10=
+px; padding-bottom: 15px; =22>
+        	<table width=3D=2295%=22 border=3D=220=22 align=3D=22center=22 cel=
+lpadding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- * COPY START * -->
+      <td style=3D=22font-size: 12px; font-family: Arial, sans-serif; color=
+: =23696969; text-align: center;=22>Enjoy your free trial=2E</td>
+      	<=21-- * COPY END * -->
+     =20
+    </tr>
+</table>
+        </td>
+    </tr>
+    <=21-- /// PREHEADER ROW END /// -->
+    =20
+    =20
+    =20
+    <=21-- /// 1 UNIVERSAL HEADER ROW START /// -->   =20
+    <tr>
+      <td class=3D=22padt10m padb10m=22 align=3D=22center=22 style=3D=22bac=
+kground-color: white; padding-top: 15px; padding-bottom: 15px;=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- * LOGO START * -->
+      <td width=3D=2236=22 align=3D=22left=22><a href=3D=22https://e=2Elink=
+edin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGhAzcYzgyyv7wdNYFzbffqfzaOTa=
+rgjzdKOjzcqCbCaAwol1r7hD23hOVXtpKX%3DSAUWRB&_ei_=3DEu5WKocu6kQojHJ5hW-eHG3A=
+bAzbYRXxX1AV5i7vxKmtQJShMyQDxL-aVPucTqasxMzjRYA9h5RXD3p4jiLitL0oxvwmXSeVtqv=
+-WZPbJwsXtfUctUTLMjoO5cgG-Lc_BfFlVC8CVrGWZ2PeYXURsSaFuhfxdsj5P8bTQh2Z-1px_H=
+EWZG_hI-BgS9eh0RVMPtO3jVQvDAlwlRENmOXzTI65IGXr63zjZxyUgG0a2YXNQrI=2E=22><im=
+g src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/conten=
+t/linkedin/35x35PremiumBug=2Epng=22 width=3D=2241=22 alt=3D=22LinkedIn=22 s=
+tyle=3D=22display: block; border: 0; font-size: 20px; font-weight: bold; fo=
+nt-family: sans-serif; color: =230D0D0D; max-width: 100%;=22></a></td>
+      	<=21-- * LOGO END * -->
+     =20
+      <td style=3D=22padding-left: 20px;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- * NAME START * -->
+      <td class=3D=22h3m=22 style=3D=22padding-right: 10px; font-family: He=
+lvetica Neue, Arial, sans-serif; font-size: 14px; text-align: right; color:=
+ =23737373;=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2=
+X%3DYQpglLjHJlYQGhAzcYzgyyv7wdNYFzbffqfzaOTargjzdKOjzcqCbCaAwol1r7hD23hOVXt=
+pKX%3DSWTCCSY&_ei_=3DEu5WKocu6kQojHJ5hW-eHG3AbAzbYRXxX1AV5i7vxKmtQJShMyQDxL=
+-aVPucTqasxMzjRYA9h5RXD3p4jiLitL0oxvwmXSeVtqv-WZPbJwsXtfUctUTLMjoO5cgG-Lc_B=
+fFlVC8CVrGWZ2PeYXURsSaFuhfxdsj5P8bTQh2Z-1px_HEWZG_hI-BgS9eh0RVMPtO3jVQvDAlw=
+lRENmOXzTI65IGXr63zjZxyUgG0a2YXNQrI=2E=22 style=3D=22color:=237e7e7e; text-=
+decoration:none;=22>Jack Shelata</a></td>
+      	<=21-- * NAME END * -->
+     =20
+      <td width=3D=2236=22 align=3D=22center=22>
+      	<table border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- * IMAGE START * -->
+    <td align=3D=22center=22 style=3D=22-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+border-radius: 50%; overflow: hidden;=22><a href=3D=22https://e=2Elinkedin=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGhAzcYzgyyv7wdNYFzbffqfzaOTargjz=
+dKOjzcqCbCaAwol1r7hD23hOVXtpKX%3DSWTCCSY&_ei_=3DEu5WKocu6kQojHJ5hW-eHG3AbAz=
+bYRXxX1AV5i7vxKmtQJShMyQDxL-aVPucTqasxMzjRYA9h5RXD3p4jiLitL0oxvwmXSeVtqv-WZ=
+PbJwsXtfUctUTLMjoO5cgG-Lc_BfFlVC8CVrGWZ2PeYXURsSaFuhfxdsj5P8bTQh2Z-1px_HEWZ=
+G_hI-BgS9eh0RVMPtO3jVQvDAlwlRENmOXzTI65IGXr63zjZxyUgG0a2YXNQrI=2E=22><img s=
+rc=3D=22https://media=2Elicdn=2Ecom/dms/image/C4E03AQHvz9UfxV0d_Q/profile-d=
+isplayphoto-shrink_400_400/0?e=3D1535587200&v=3Dbeta&t=3D8UFfmMtQuC6VSn3hdD=
+VjUxEU8ipYPIGP_80_fGS4EQE=22 width=3D=2236=22 style=3D=22display: block; bo=
+rder: 0; background-color: =230077B5; max-width: 100%;=22 /></a></td>
+		<=21-- * IMAGE END * -->
+
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+  </tr>
+  <=21-- /// 1 UNIVERSAL HEADER ROW END /// -->
+
+
+<=21-- ADD ROW(S) HERE START --> =20
+  <=21-- /// 70 SECTION DIVIDER ROW START /// -->
+  <tr>
+  	<td align=3D=22center=22 style=3D=22background-color: white; padding-top=
+: 5px; padding-bottom: 5px;=22>
+    	<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpa=
+dding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td height=3D=221=22 style=3D=22background-color: =23D9D9D9; =22></td>
+    </tr>
+</table>
+    </td>
+  </tr>
+  <=21-- /// 70 SECTION DIVIDER ROW END /// -->
+  =20
+    <=21-- /// 27 BODY CENTERED ROW START /// -->
+  <tr>
+  	<td style=3D=22=22>
+    	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+    <tr>
+ =20
+  		<=21-- ** DEFAULT BACKGROUND-COLOR ** -->
+      <td style=3D=22background-color: white;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- ** PADDING OF MODULE ** -->
+      <td align=3D=22center=22 style=3D=22padding-top: 10px; padding-bottom=
+: 20px;=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22>
+   =20
+    <=21-- / COPY ROW START / -->
+    <tr>
+   =20
+    	<=21-- * COPY START * -->
+      <td class=3D=22h2m=22 style=3D=22padding-top: 10px; font-size: 14px; =
+font-family: Helvetica Neue, Arial, sans-serif; color: =234D4D4D; text-alig=
+n: left; line-height: 1=2E4em;=22>
+		  Hi Jack,<br /><br />
+		  Based on your recent activity, I'd like to give you a special offer - a=
+ one month free upgrade to <a href=3D=22https://e=2Elinkedin=2Ecom/pub/acc?=
+_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGhAzcYzgyyv7wdNYFzbffqfzaOTargjzdKOjzcqCbCaAwo=
+l1r7hD23hOVXtpKX%3DSYWDCDY&_ei_=3DEu5WKocu6kQojHJ5hW-eHG3AbAzbYRXxX1AV5i7vx=
+KmtQJShMyQDxL-aVPucTqasxMzjRYA9h5RXD3p4jiLitL0oxvwmXSeVtqv-WZPbJwsXtfUctUTL=
+MjoO5cgG-Lc_BfFlVC8CVrGWZ2PeYXURsSaFuhfxdsj5P8bTQh2Z-1px_HEWZG_hI-BgS9eh0RV=
+MPtO3jVQvDAlwlRENmOXzTI65IGXr63zjZxyUgG0a2YXNQrI=2E=22 style=3D=22color: =
+=23008CC9; text-decoration: none;=22>LinkedIn&nbsp;Premium</a>=2E<br /><br =
+/>
+		  LinkedIn Premium gives you the following additional&nbsp;features:
+		  <ul>
+			  <li><strong>InMail Messaging</strong> so you can reach out to anyone, =
+including peers, industry leaders, potential partners, even if you're not&n=
+bsp;connected=2E</li>
+			  <li><strong>Who's Viewed Your Profile</strong>, to see everyone who vi=
+ewed your profile over the last 90&nbsp;days=2E</li>
+			  <li><strong>Exclusive Insights on Company Pages</strong>, so you can s=
+tay up-to-date on competitors or other companies of&nbsp;interest=2E</li>
+			  <li><strong>Unlimited Profile Browsing</strong> up to 3rd degree, so y=
+ou can find the right people to help you get&nbsp;ahead=2E</li>
+		  </ul>
+		  Start your 1 month free trial&nbsp;today=2E
+	  </td>
+      	<=21-- * COPY END * -->
+     =20
+    </tr>
+    <=21-- / COPY ROW END / -->
+   =20
+  <=21-- / BLUE BUTTON ROW START / -->
+    <tr>
+      <td style=3D=22padding-top: 10px;=22>
+     =20
+      	<=21-- ** BUTTON WIDTH ** -->
+      	<table border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- ** BUTTON BACKGROUND-COLOR ** -->
+      <td style=3D=22background-color: =230084BF; -webkit-border-radius: 4p=
+x;
+-moz-border-radius: 4px;
+border-radius: 4px; overflow: hidden;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- * COPY START * -->
+      <td class=3D=22height0=22 height=3D=2225=22 style=3D=22padding-left: =
+16px; padding-right: 16px; font-family: Helvetica Neue, Arial, sans-serif; =
+font-size: 14px; text-align: center; color: white; font-weight: bold;=22><a=
+ href=3D=22https://e=2Elinkedin=2Ecom/pub/acc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQ=
+GhAzcYzgyyv7wdNYFzbffqfzaOTargjzdKOjzcqCbCaAwol1r7hD23hOVXtpKX%3DSYWDCDY&_e=
+i_=3DEu5WKocu6kQojHJ5hW-eHG3AbAzbYRXxX1AV5i7vxKmtQJShMyQDxL-aVPucTqasxMzjRY=
+A9h5RXD3p4jiLitL0oxvwmXSeVtqv-WZPbJwsXtfUctUTLMjoO5cgG-Lc_BfFlVC8CVrGWZ2PeY=
+XURsSaFuhfxdsj5P8bTQh2Z-1px_HEWZG_hI-BgS9eh0RVMPtO3jVQvDAlwlRENmOXzTI65IGXr=
+63zjZxyUgG0a2YXNQrI=2E=22 style=3D=22display: block; width: 100%; padding-t=
+op: 5px; padding-bottom: 5px; color: white; text-decoration: none;=22>Upgra=
+de Free</a></td>
+      	<=21-- * COPY END * -->
+       =20
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+    <=21-- / BLUE BUTTON ROW END / -->
+   =20
+       <=21-- / COPY ROW START / -->
+    <tr>
+   =20
+    	<=21-- * COPY START * -->
+      <td class=3D=22h2m=22 style=3D=22padding-top: 15px; font-size: 14px; =
+font-family: Helvetica Neue, Arial, sans-serif; color: =234D4D4D; text-alig=
+n: left; line-height: 1=2E4em;=22>
+		  Sincerely,<br />
+		  Angela & the LinkedIn Premium Team
+</td>
+      	<=21-- * COPY END * -->
+     =20
+    </tr>
+    <=21-- / COPY ROW END / -->
+   =20
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+  </tr>
+</table>
+    </td>
+  </tr>
+  <=21-- /// 27 BODY CENTERED ROW END /// -->
+ =20
+  =20
+<=21-- ADD ROW(S) HERE END -->   =20
+</table>
+      </td>
+  </tr>
+</table>
+<=21-- =7C=7C=7C MAIN BODY TABLE END =7C=7C=7C -->=20
+
+
+
+
+
+
+<=21-- =7C=7C=7C FOOTER TABLE START =7C=7C=7C -->
+<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td align=3D=22center=22>
+<=21-- Footer -->
+<table class=3D=22width320=22 width=3D=22512=22 border=3D=220=22 align=3D=
+=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22backgro=
+und-color:=23f2f2f2;=22>
+<tr>
+    <td class=3D=22width320=22 width=3D=22512=22 colspan=3D=223=22 align=3D=
+=22left=22 valign=3D=22top=22 bgcolor=3D=22=23f2f2f2=22 style=3D=22backgrou=
+nd-color:=23f2f2f2;=22>
+ =20
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2230=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+=20
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22font-family:Helvetica, Arial, sans-serif; font-siz=
+e:12px; font-weight:normal; color:=23737373; line-height:normal;=22>
+    After your promotional period, you automatically will be charged for a =
+subscription on a monthly or annual basis (at your choice) unless you  canc=
+el=2E This promotion ends on August 30 2018=2E  <a href=3D=22https://e=2Eli=
+nkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGhAzcYzgyyv7wdNYFzbffqfzaO=
+TargjzdKOjzcqCbCaAwol1r7hD23hOVXtpKX%3DSWTCCUY&_ei_=3DEolaGGF4SNMvxFF7KucKu=
+WPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm3adoiOiXMKu1r9X200_2NkGaN1fu-hH=
+NABT4X8k0pg8Uflio-KaI4CBiZZrbgXJiJFbcmB9rI_xc7RQ36HJRIHCB7TG6MFKfnvwfSpaG66=
+92OvcrLNCzw=2E=22 style=3D=22color:=23008cc9; text-decoration:none;=22>Lear=
+n more=2E</a> =20
+
+<br><br>
+
+For Who's Viewed Your Profile, first & last name may not be listed for prof=
+ile viewers who have chosen to remain semi- or fully-anonymous via their pr=
+ivacy settings=2E=20
+
+</td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+ =20
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22font-family:Helvetica, Arial, sans-serif; font-siz=
+e:12px; font-weight:normal; color:=23737373; line-height:normal;=22><a href=
+=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGhAzcY=
+zgyyv7wdNYFzbffqfzaOTargjzdKOjzcqCbCaAwol1r7hD23hOVXtpKX%3DSURBS&_ei_=3DEol=
+aGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm3adoiOiXMKu1r=
+9X200_2NkGaN1fu-hHNABT4X8k0pg8Uflio-KaI4CBiZZrbgXJiJFbcmB9rI_xc7RQ36HJRIE4v=
+1EsirGDuwKFmyBnrm4zfIuldmeYDcyFWi2mXGtIE4j-DuRMYV7f0mmT5FEOwmujQv3ymoaCgyWK=
+D4pizMHz5QQsxRK2NsTBKlT6LDEngyo4yfmnCduGGU-94xT_zdcaTRmaCiHJsUcGyMFJ=2E=22 =
+style=3D=22color:=23737373; text-decoration:underline;=22>Unsubscribe</a>&n=
+bsp;&nbsp;&nbsp;=7C&nbsp;&nbsp;&nbsp;<a href=3D=22https://e=2Elinkedin=2Eco=
+m/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGhAzcYzgyyv7wdNYFzbffqfzaOTargjzdKOjz=
+cqCbCaAwol1r7hD23hOVXtpKX%3DSAWSUB&_ei_=3DEolaGGF4SNMvxFF7KucKuWPHmTL0UBM56=
+BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm3adoiOiXMKu1r9X200_2NkGaN1fu-hHNABT4X8k0pg8=
+Uflio-KaI4CBiZZrbgXJiJFbcmB9rI_xc7RQ36HJRIHCB7TG6MFKfnvwfSpaG6692OvcrLNCzw=
+=2E=22 style=3D=22color:=23737373; text-decoration:underline;=22>Help</a></=
+td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+ =20
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+ =20
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22><=21-- ***EDIT NOTE: Adjust the width on the table below to c=
+hange where the new lines wrap in the copy=2E  The width must be between 28=
+8 and 464=2E -->
+      <table class=3D=22width296=22 width=3D=22464=22 border=3D=220=22 alig=
+n=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+       =20
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-famil=
+y:Helvetica, Arial, sans-serif; font-size:12px; font-weight:normal; color:=
+=23737373; line-height:normal;=22>
+          This is an occasional email to help you get the most out of Linke=
+dIn=2E
+         <br><br>=20
+          This email was intended for  Jack Shelata (Software Engineer Inte=
+rn at Comau)=2E <a href=3D=22https://e=2Elinkedin=2Ecom/pub/acc?_ri_=3DX0Gz=
+c2X%3DYQpglLjHJlYQGhAzcYzgyyv7wdNYFzbffqfzaOTargjzdKOjzcqCbCaAwol1r7hD23hOV=
+XtpKX%3DSAWSUC&_ei_=3DEu5WKocu6kQojHJ5hW-eHG3AbAzbYRXxX1AV5i7vxKmtQJShMyQDx=
+L-aVPucTqasxMzjRYA9h5RXD3p4jiLitL0oxvwmXSeVtqv-WZPbJwsXtfUctUTLMjoO5cgG-Lc_=
+BfFlVC8CVrGWZ2PeYXURsSaFuhfxdsj5P8bTQh2Z-1px_HEWZG_hI-BgS9eh0RVMPtO3jVQvDAl=
+wlRENmOXzTI65IGXr63zjZxyUgG0a2YXNQrI=2E=22 style=3D=22color:=23008cc9; text=
+-decoration:none;=22>Learn why we included this</a>=2E</td>
+        </tr>
+      </table></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width320=22 width=3D=22512=22 colspan=3D=223=22 align=3D=
+=22center=22 valign=3D=22top=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGhAzcYzgyyv7wdNYFzbffqfzaOTargjzdKOjzcqCbC=
+aAwol1r7hD23hOVXtpKX%3DSAUWRB&_ei_=3DEu5WKocu6kQojHJ5hW-eHG3AbAzbYRXxX1AV5i=
+7vxKmtQJShMyQDxL-aVPucTqasxMzjRYA9h5RXD3p4jiLitL0oxvwmXSeVtqv-WZPbJwsXtfUct=
+UTLMjoO5cgG-Lc_BfFlVC8CVrGWZ2PeYXURsSaFuhfxdsj5P8bTQh2Z-1px_HEWZG_hI-BgS9eh=
+0RVMPtO3jVQvDAlwlRENmOXzTI65IGXr63zjZxyUgG0a2YXNQrI=2E=22 rilt=3D=22LOGO=22=
+><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/li=
+nkedin/contentlibrary/oldcontent/CM_Footer_and_Text/Footer_Phoenix_English=
+=2Eimages/logo2=2Epng=22 alt=3D=22LinkedIn Logo=22 border=3D=220=22 style=
+=3D=22display:block; border:none;=22  /></a></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22><=21-- ***EDIT NOTE: Adjust the width on the table below to c=
+hange where the new lines wrap in the copy=2E  The width must be between 28=
+8 and 464=2E -->
+      <table class=3D=22width296=22 width=3D=22450=22 border=3D=220=22 alig=
+n=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-famil=
+y:Helvetica, Arial, sans-serif; font-size:12px; font-weight:normal; color:=
+=23737373; line-height:normal;=22>&=23169; 2018, LinkedIn Corporation=2E Al=
+l rights reserved=2E LinkedIn Corporation&=2344; 1000 West Maude Ave=2E&=23=
+44; Sunnyvale&=2344; CA 94085 </td>
+        </tr>
+      </table></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 height=3D=2230=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+</td>
+  </tr></table></td>
+    </tr>
+</table>
+<=21-- =7C=7C=7C FOOTER TABLE END =7C=7C=7C -->=20
+
+
+    =20
+     =20
+     =20
+<=21-- TABLES END -->     =20
+      </td>
+    </tr>
+</table>
+      </td>
+  </tr>
+</table>
+
+
+
+
+<div class=3D=22gmailfix=22 style=3D=22white-space:nowrap; font:15px courie=
+r; line-height:0;=22>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div><br>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border: 0px; =
+padding: 0px; margin: 0px; position: absolute; display: none; float: left=
+=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img src=3D=22https://e=2Elinkedin=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGhAzcYzgyyv7wdNYFzbffqfzaOTargjzdKOjzcqCbCaAwol1r7hD23hOVXHkMX%3Dw&_e=
+i_=3DEolaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0nb3HvR4_-T9OfDRr6x-rkm3adoi=
+OiXMKu1r9X200_2NkGaN1fu-hHNABT4X8k0pg8Uflio-KaI4CBiZZrbgXJiJFbcmB9rI_xc7RQ3=
+6HJRIHCB7TG6MFKfnvwfSpaG6692OvcrLNCzw=2E=22></img>
+</td>
+</tr>
+</table></body>
+</html>
+
+------alt_border_wBxQTytsdQ_1--
+
+------msg_border_G5MGKRc27G--
+

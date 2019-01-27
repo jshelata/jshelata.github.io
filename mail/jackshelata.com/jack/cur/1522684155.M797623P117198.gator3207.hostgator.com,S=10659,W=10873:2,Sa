@@ -1,0 +1,214 @@
+Return-Path: <abejeansamuel@gmail.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com (Dovecot) with LMTP id iQB1L/tQwlrOyQEAV+VKPg
+	for <jack@jackshelata.com>; Mon, 02 Apr 2018 10:49:15 -0500
+Return-path: <abejeansamuel@gmail.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Mon, 02 Apr 2018 10:49:15 -0500
+Received: from mail-it0-f41.google.com ([209.85.214.41]:35809)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <abejeansamuel@gmail.com>)
+	id 1f31hr-000XeP-4a
+	for jack@jackshelata.com; Mon, 02 Apr 2018 10:49:15 -0500
+Received: by mail-it0-f41.google.com with SMTP id v194-v6so18868557itb.0
+        for <jack@jackshelata.com>; Mon, 02 Apr 2018 08:49:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :references:in-reply-to:to;
+        bh=49KGYD+zIzujHQqc5P/I/Y5ohMuhVXlxckySeVzdgEg=;
+        b=fUMTp1DdjKapkrzzQDIO2zJzkLRV0TwgNP7C3xAR/o5WqzJ1MxlKXFP3/1gFuD7BNI
+         ebdxebo99QpiSDtK0BC/2gcUgw7KtkQtHfRa1ToCP5EEgeFSfDco6mYCfRZ47I8v6kbu
+         fVtRtQKxwclW9wjYRwCuBJJdfXA8Q7HdrslScOgsc7+AVHFTmkdP/iywc16jSf17cgnH
+         Ub25/WBT/VfdX4wbrNZrJA+Bwga1oJHjGX0oPIQQKco7NTPL/bCf9vIObMikzeXArTWB
+         NtTp4f513QiF999TqNoUqOiCFic5PiMmopogFfP4OEVhJ0GD0D/pEEpchnzdAwBrxpjH
+         GA5g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:references:in-reply-to:to;
+        bh=49KGYD+zIzujHQqc5P/I/Y5ohMuhVXlxckySeVzdgEg=;
+        b=fijZ/lYvW7Pc0Diy2jD5ZDWH/tmm8IKEHbViIZUJcHeOgvqmtRgMTV2ixYicbI5uxP
+         1yMN8jVLheBTFaStIzjNY2eqV9SrHzBYgmG5NrzU7IPxN3UVdJeGOn4QTH9Qk1vZVoGq
+         LDRPG+3i5zZ1TJrGULV6xlXxtrZBcfjH8GNcgo4G1urvzz2xoMzYBQ9UyehhZvQGkXOv
+         Wn4LcY6mh2YxEZ5LEXtDerT6RIWPQpnPQzDYYTllybzHVWVxKoeWib+RS72ZW8S1nZ03
+         wukGGWeGV+nNTjOFdHQh8ancHZbCfHvIkev9t5ba94HHFWRcPoViIES/D+TTGhojBhsN
+         T8zQ==
+X-Gm-Message-State: ALQs6tCD2Z6Geg4oW7CMIG2wQJucAOsxddIzGYOr8YXlXs7pX4yEgaoh
+	PygRvZJ1UM7bUbG3hmIaW34XpNLK
+X-Google-Smtp-Source: AIpwx4+DTEJoL1DyT/0rfMD4TkgOgHj7J46z4Tiu0R+mDh3X9U/ToUWGcdbESV6804GcFQ5Zpm/EIQ==
+X-Received: by 2002:a24:4707:: with SMTP id t7-v6mr1618885itb.105.1522684143458;
+        Mon, 02 Apr 2018 08:49:03 -0700 (PDT)
+Received: from [10.253.16.203] ([204.38.30.199])
+        by smtp.gmail.com with ESMTPSA id t186-v6sm458278ita.32.2018.04.02.08.49.02
+        for <jack@jackshelata.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Apr 2018 08:49:02 -0700 (PDT)
+From: samuel abejan <abejeansamuel@gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-F03005C6-595E-4B43-8434-3E45FF60EE0B
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Date: Mon, 2 Apr 2018 11:49:02 -0400
+Subject: Re:
+Message-Id: <81B646A8-CC55-457A-A2AB-85D4CE6F307D@gmail.com>
+References: <1321E2EB-EC9A-4D7D-ABAF-3B95BD50AA2F@gmail.com> <5A0399BA-79F1-4FC5-904B-96AF086545E4@jackshelata.com> <07A75B0B-FD70-41D1-97C2-23D045AB7E29@gmail.com> <B7501CF1-CDFD-4B84-992E-2A266D0635BD@jackshelata.com>
+In-Reply-To: <B7501CF1-CDFD-4B84-992E-2A266D0635BD@jackshelata.com>
+To: "jack@jackshelata.com" <jack@jackshelata.com>
+X-Mailer: iPhone Mail (15D100)
+X-Spam-Status: No, score=-1.6
+X-Spam-Score: -15
+X-Spam-Bar: -
+X-Spam-Flag: NO
+
+
+--Apple-Mail-F03005C6-595E-4B43-8434-3E45FF60EE0B
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+I will now write a prayer for your safety today,=20
+
+Dear lord almighty Jesus, our messiah, big J, lil Jew, and guy who has that p=
+arty trick where he can walk on water.=20
+
+Today I pray for my friend Jack Lawrence Shelata. For his safety, his well-b=
+eing, business dealings, school and sex life. Today you will either have a v=
+ery memorable day or a really shitty one, let=E2=80=99s hope god is graceful=
+ and it=E2=80=99s the first option. Regardless of the outcome I pray you hav=
+e a swell day and remember.=20
+
+All sex is rape.=20
+
+(Closing line)=20
+
+Fuckers in school telling me, always in the barber shop
+Chief Keef ain=E2=80=99t bout this, Chief Keef ain=E2=80=99t bout that
+My boy a BD on fucking Lamron and them (BD =3D Black Disciple and Lamron =3D=
+ Normal backwards (South Normal Blvd))
+He, he they say that nigga don=E2=80=99t be putting in no work
+SHUT THE FUCK UP!
+Y'all niggas ain=E2=80=99t know shit
+All ya motherfuckers talk about
+Chief Keef ain=E2=80=99t no hitta
+Chief Keef ain=E2=80=99t this
+Chief Keef a fake
+SHUT THE FUCK UP
+Y'all don=E2=80=99t live with that nigga
+Y'all know that nigga got caught with a ratchet
+Shootin' at the police and shit
+Nigga been on probation since fuckin, I don=E2=80=99t know when!
+Motherfuckers stop fuckin' playin' him like that
+Them niggas savages out there
+If I catch another motherfucker talking sweet about Chief Keef
+I=E2=80=99m fucking beating they ass!
+I=E2=80=99m not fucking playing no more
+You know those niggas role with Lil' Reese and them
+(Young Chop on the beat)
+
+> On Apr 1, 2018, at 12:30 PM, "jack@jackshelata.com" <jack@jackshelata.com>=
+ wrote:
+>=20
+> Michigan basketball is playing in the championship tomorrow.
+>=20
+>> On Mar 31, 2018, at 3:45 PM, samuel abejan <abejeansamuel@gmail.com> wrot=
+e:
+>>=20
+>> I am swell, why are you in Texas?=20
+>>=20
+>> Sent from my iPhone
+>>=20
+>>> On Mar 31, 2018, at 9:47 AM, "jack@jackshelata.com" <jack@jackshelata.co=
+m> wrote:
+>>>=20
+>>> hey,
+>>>=20
+>>> How are you?
+>>>=20
+>>>> On Mar 30, 2018, at 9:01 PM, samuel abejan <abejeansamuel@gmail.com> wr=
+ote:
+>>>>=20
+>>>> Hey
+>>>>=20
+>>>> Sent from my iPhone
+>>>=20
+>=20
+
+--Apple-Mail-F03005C6-595E-4B43-8434-3E45FF60EE0B
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">I will now write a prayer for your safety t=
+oday,&nbsp;<br><br><div>Dear lord almighty Jesus, our messiah, big J, lil Je=
+w, and guy who has that party trick where he can walk on water.&nbsp;</div><=
+div><br></div><div>Today I pray for my friend Jack Lawrence Shelata. For his=
+ safety, his well-being, business dealings, school and sex life. Today you w=
+ill either have a very memorable day or a really shitty one, let=E2=80=99s h=
+ope god is graceful and it=E2=80=99s the first option. Regardless of the out=
+come I pray you have a swell day and remember.&nbsp;</div><div><br></div><di=
+v>All sex is rape.&nbsp;</div><div><br></div><div>(Closing line)&nbsp;</div>=
+<div><br></div><div><p style=3D"margin: 0px; font-stretch: normal; font-size=
+: 12px; line-height: normal; font-family: Helvetica;"><span style=3D"font-si=
+ze: 12pt;">Fuckers in school telling me, always in the barber shop<br>
+Chief Keef ain=E2=80=99t bout this, Chief Keef ain=E2=80=99t bout that<br>
+My boy a BD on fucking Lamron and them (BD =3D Black Disciple and Lamron =3D=
+ Normal backwards (South Normal Blvd))<br>
+He, he they say that nigga don=E2=80=99t be putting in no work<br>
+SHUT THE FUCK UP!<br>
+Y'all niggas ain=E2=80=99t know shit<br>
+All ya motherfuckers talk about<br>
+Chief Keef ain=E2=80=99t no hitta<br>
+Chief Keef ain=E2=80=99t this<br>
+Chief Keef a fake<br>
+SHUT THE FUCK UP<br>
+Y'all don=E2=80=99t live with that nigga<br>
+Y'all know that nigga got caught with a ratchet<br>
+Shootin' at the police and shit<br>
+Nigga been on probation since fuckin, I don=E2=80=99t know when!<br>
+Motherfuckers stop fuckin' playin' him like that<br>
+Them niggas savages out there<br>
+If I catch another motherfucker talking sweet about Chief Keef<br>
+I=E2=80=99m fucking beating they ass!<br>
+I=E2=80=99m not fucking playing no more<br>
+You know those niggas role with Lil' Reese and them<br>
+(Young Chop on the beat)</span></p></div><div><br>On Apr 1, 2018, at 12:30 P=
+M, "<a href=3D"mailto:jack@jackshelata.com">jack@jackshelata.com</a>" &lt;<a=
+ href=3D"mailto:jack@jackshelata.com">jack@jackshelata.com</a>&gt; wrote:<br=
+><br></div><blockquote type=3D"cite"><div><span>Michigan basketball is playi=
+ng in the championship tomorrow.</span><br><span></span><br><blockquote type=
+=3D"cite"><span>On Mar 31, 2018, at 3:45 PM, samuel abejan &lt;<a href=3D"ma=
+ilto:abejeansamuel@gmail.com">abejeansamuel@gmail.com</a>&gt; wrote:</span><=
+br></blockquote><blockquote type=3D"cite"><span></span><br></blockquote><blo=
+ckquote type=3D"cite"><span>I am swell, why are you in Texas? </span><br></b=
+lockquote><blockquote type=3D"cite"><span></span><br></blockquote><blockquot=
+e type=3D"cite"><span>Sent from my iPhone</span><br></blockquote><blockquote=
+ type=3D"cite"><span></span><br></blockquote><blockquote type=3D"cite"><bloc=
+kquote type=3D"cite"><span>On Mar 31, 2018, at 9:47 AM, "<a href=3D"mailto:j=
+ack@jackshelata.com">jack@jackshelata.com</a>" &lt;<a href=3D"mailto:jack@ja=
+ckshelata.com">jack@jackshelata.com</a>&gt; wrote:</span><br></blockquote></=
+blockquote><blockquote type=3D"cite"><blockquote type=3D"cite"><span></span>=
+<br></blockquote></blockquote><blockquote type=3D"cite"><blockquote type=3D"=
+cite"><span>hey,</span><br></blockquote></blockquote><blockquote type=3D"cit=
+e"><blockquote type=3D"cite"><span></span><br></blockquote></blockquote><blo=
+ckquote type=3D"cite"><blockquote type=3D"cite"><span>How are you?</span><br=
+></blockquote></blockquote><blockquote type=3D"cite"><blockquote type=3D"cit=
+e"><span></span><br></blockquote></blockquote><blockquote type=3D"cite"><blo=
+ckquote type=3D"cite"><blockquote type=3D"cite"><span>On Mar 30, 2018, at 9:=
+01 PM, samuel abejan &lt;<a href=3D"mailto:abejeansamuel@gmail.com">abejeans=
+amuel@gmail.com</a>&gt; wrote:</span><br></blockquote></blockquote></blockqu=
+ote><blockquote type=3D"cite"><blockquote type=3D"cite"><blockquote type=3D"=
+cite"><span></span><br></blockquote></blockquote></blockquote><blockquote ty=
+pe=3D"cite"><blockquote type=3D"cite"><blockquote type=3D"cite"><span>Hey</s=
+pan><br></blockquote></blockquote></blockquote><blockquote type=3D"cite"><bl=
+ockquote type=3D"cite"><blockquote type=3D"cite"><span></span><br></blockquo=
+te></blockquote></blockquote><blockquote type=3D"cite"><blockquote type=3D"c=
+ite"><blockquote type=3D"cite"><span>Sent from my iPhone</span><br></blockqu=
+ote></blockquote></blockquote><blockquote type=3D"cite"><blockquote type=3D"=
+cite"><span></span><br></blockquote></blockquote><span></span><br></div></bl=
+ockquote></body></html>=
+
+--Apple-Mail-F03005C6-595E-4B43-8434-3E45FF60EE0B--

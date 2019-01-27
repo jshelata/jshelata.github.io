@@ -1,0 +1,2011 @@
+Return-Path: <156-OFN-742.0.87989.0.0.32559.9.184068179-0-1413@em-sj-77.mktomail.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id 6JdRH4fXQFwe2QkAV+VKPg
+	for <jack@jackshelata.com>; Thu, 17 Jan 2019 13:29:11 -0600
+Return-path: <156-OFN-742.0.87989.0.0.32559.9.184068179-0-1413@em-sj-77.mktomail.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Thu, 17 Jan 2019 13:29:11 -0600
+Received: from dove.mktdns.com ([199.15.215.50]:43759)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <156-OFN-742.0.87989.0.0.32559.9.184068179-0-1413@em-sj-77.mktomail.com>)
+	id 1gkDLi-002lXU-PF
+	for jack@jackshelata.com; Thu, 17 Jan 2019 13:29:11 -0600
+X-MSFBL: amFja0BqYWNrc2hlbGF0YS5jb21AZHZwLTE5OS0xNS0yMTUtNTBAYmctc2pkLTQ0
+	QDE1Ni1PRk4tNzQyOjUwNjI0OjI3MjE1OjE0OTMwMjowOjMyNTU5Ojk6ODc5ODk6
+	MTg0MDY4MTc5LTAtMTQxMw==
+Received: from [10.0.87.249] ([10.0.87.249:53847] helo=sjmas02.marketo.org)
+	by sjmta09.marketo.org (envelope-from <news@nvidia.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 0E/4D-30261-B77D04C5; Thu, 17 Jan 2019 13:28:59 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1547753339;
+	s=m1; d=nvidia.com; i=@nvidia.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=o7YLNxgM1Z6xpi4ahAyed84uTb2dXfz0wZM+jeDjKCg=;
+	b=P3gbs31H3JweP6PJk1RPrGD22EELpuG42xzkR/ZIfz/Nixd80w+79JSQ2xMk8WTB
+	1xQZQulqcjCUBccEWohw6SMbQyqnUMDlDCzbLlhXQmr7fxnXJ08V0DscWFACGWO/+jE
+	4VEjfpEtID5fFlZ29hN7zAtRqYBLJjfrLLr5QUyg=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1547753339;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=o7YLNxgM1Z6xpi4ahAyed84uTb2dXfz0wZM+jeDjKCg=;
+	b=KvxDhkHi8pqQ2ZHFN4YUcZbHTw5Zn6ZzPh40WquOOA+AwaIxLQ1fAI7iVhJXxOyv
+	yRYTsEUzqXQxQmhvG0sJGBGb6Aiq3czKGsMQWQ7qcm2Nf3xslmJ9hnMYLWlr1GVyINw
+	6I+xgb4zH1EkgPB0gYctI5cFaDEJANW2+WZHw88M=
+Date: Thu, 17 Jan 2019 13:28:59 -0600 (CST)
+From: GTC 2019 <news@nvidia.com>
+Reply-To: news@nvidia.com
+To: jack@jackshelata.com
+Message-ID: <538891848.1167607130.1547753339931.JavaMail.root@sjmas02.marketo.org>
+Subject: Check Out AI and Deep Learning Sessions and Early Savings at The
+ Premier AI Conference
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1167607129_1289333261.1547753339930"
+X-PVIQ: mkto-156OFN742-000001-000000-087989
+X-Binding: bg-sjd-44
+X-MarketoID: 156-OFN-742:50624:27215:149302:0:32559:9:87989:184068179-0-1413
+X-MktArchive: false
+List-Unsubscribe: <mailto:KM4GG5DKNJ2FMOBUG5AVCWCLKQWVG32KOVDGOQ3HHB3XEVZNKBIHOOLLJVRU2ZTQOBCTQPI.87989.32559.9@unsub-sj.mktomail.com>
+X-Mailfrom: 156-OFN-742.0.87989.0.0.32559.9.184068179-0-1413@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+X-Spam-Status: No, score=3.5
+X-Spam-Score: 35
+X-Spam-Bar: +++
+X-Spam-Flag: NO
+
+------=_Part_1167607129_1289333261.1547753339930
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+
+-
+
+------=_Part_1167607129_1289333261.1547753339930
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />=
+=20
+<meta name=3D"viewport" content=3D"initial-scale=3D1.0" />=20
+<title>Check Out AI and Deep Learning Sessions and Early Savings at The Pre=
+mier AI Conference</title>=20
+<link href=3D"http://info.nvidianews.com/rs/156-OFN-742/images/dinpro-regul=
+ar.css" rel=3D"stylesheet" type=3D"text/css" />=20
+<!--[if mso]>
+    <style type=3D=E2=80=9Dtext/css=E2=80=9D>
+    body {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !importan=
+t;}
+    .text-center, .btn, .remove, .blockRight{font-family: Trebuchet MS, Ari=
+al, Helvetica, Sans-Serif !important;}
+    table {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !importa=
+nt;}
+    td {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !important;=
+}
+    sup {font-size: 100% !important;}
+    </style>
+    <![endif]-->=20
+<!--[if gte mso 12]>
+    <style type=3D"text/css">
+    body {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !importan=
+t;}
+    .text-center, .btn, .remove, .blockRight{font-family: Trebuchet MS, Ari=
+al, Helvetica, Sans-Serif !important;}
+    table {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !importa=
+nt;}
+    td {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !important;=
+}
+    sup {font-size: 100% !important;}
+    </style>
+    <![endif]-->=20
+<!--[if gte mso 14]>
+    <style type=3D"text/css">
+    body {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !importan=
+t;}
+    .text-center, .btn, .remove, .blockRight{font-family: Trebuchet MS, Ari=
+al, Helvetica, Sans-Serif !important;}
+    table {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !importa=
+nt;}
+    td {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !important;=
+}
+    sup {font-size: 100% !important;}
+    </style>
+    <![endif]-->=20
+<!--[if gte mso 15]>
+    <style type=3D"text/css">
+    body {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !importan=
+t;}
+    .text-center, .btn, .remove, .blockRight{font-family: Trebuchet MS, Ari=
+al, Helvetica, Sans-Serif !important;}
+    table {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !importa=
+nt;}
+    td {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !important;=
+}
+    sup {font-size: 100% !important;}
+    </style>
+    <![endif]-->=20
+<!--[if gte mso 16]>
+    <style type=3D"text/css">
+    body {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !importan=
+t;}
+    .text-center, .btn, .remove, .blockRight{font-family: Trebuchet MS, Ari=
+al, Helvetica, Sans-Serif !important;}
+    table {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !importa=
+nt;}
+    td {font-family: Trebuchet MS, Arial, Helvetica, Sans-Serif !important;=
+}
+    sup {font-size: 100% !important;}
+    </style>
+    <![endif]-->=20
+<style type=3D"text/css">
+   =20
+    @font-face {
+        font-family: 'DINPro-Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('DINPro-Regular'), url(http://www.nvidia.co.uk/content/n=
+ewsletter/fonts/DINPro_Regular.woff2) format('woff2'), url(http://images.nv=
+idia.com/newsletters/fonts/DINPro_Regular.otf)  format('embedded-opentype')=
+, url(http://images.nvidia.com/newsletters/fonts/DINPro_Regular.ttf) format=
+('truetype'), url(http://images.nvidia.com/newsletters/fonts/DINPro_Regular=
+.woff) format('woff'), url(http://images.nvidia.com/newsletters/fonts/DINPr=
+o_Regular.svg) format('svg');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, =
+U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+        }=20
+
+        html {
+            width: 100%
+        }
+        body {
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+            margin: 0;
+            padding: 0;
+            font-family: 'DINPro-Regular', Trebuchet MS, Arial, Helvetica, =
+Sans-Serif!important;
+=09=09=09background-color: #cccccc;
+        }
+        table {
+            border-spacing: 0
+        }
+       =20
+        table td {
+            border-collapse: collapse
+        }
+        img {
+            display: block;
+            height: auto
+        }
+=09=09.td-margin-remove{
+=09=09=09=09padding-left:25px !important;
+=09=09=09=09
+=09=09=09}
+=09 =09.mobile-module-2{
+=09=09=09=09padding-left:25px !important;
+=09=09=09=09
+=09=09=09}
+        @media only screen and (max-width: 640px) {          =20
+            body {
+                width: auto !important
+            }
+            .container {
+                width: 100% !important;
+                padding-left: 20px;
+                padding-right: 20px
+            }
+=09=09=09.mobile-header {
+                width: 100% !important;
+                padding-left: 0px;
+                padding-right: 0px;
+            }
+            .container-banner {
+                width: 90% !important;
+                text-align: center;
+                align-content: center
+            }
+            .image-100-percent,
+            .small-image-100-percent {
+                width: 100%;
+                height: auto
+            }
+            .image-100-percent {
+                max-width: 100% !important;
+                min-width: 124px !important
+            }
+            .small-image-100-percent {
+                width: 100%;
+                height: auto;
+                max-width: 100% !important;
+                min-width: 124px
+            }
+            .full-width,
+            .btn {
+                width: 100%!important;
+                min-width: 124px !important
+            }
+            .full-width-center {
+                width: 100% !important;
+                text-align: center !important;
+                        }
+            .full-width-view-online {
+                width: 100%;
+                background-color: #76b900 !important;
+                font-size: 12px !important;
+                line-height: 12px !important;
+                text-transform: none !important;
+                border-left: 0px !important;
+                font-weight: bold !important;
+                text-align: center !important;
+                min-width: 124px !important
+            }
+            .full-width-logo {
+                width: 95%!important;
+                padding-left: 30%;
+                padding-right: 30%;
+                padding-top: 5px;
+                align-content: center
+                        }
+            .full-width-logo-2 {
+                padding-left: 30%;
+                padding-right: 30%;
+                padding-top: 5px;
+                align-content: center
+            }
+            .var-height {
+                height: 20px
+            }
+            .vspace {
+                height: 20px
+            }
+            .col-2,
+            .col-3 {
+                width: 100% !important;
+                margin-right: 0
+            }
+            .col-3-last,
+            .col-2-last,
+            .full-width {
+                width: 100% !important;
+                min-width: 124px !important
+            }
+            .text-center {
+                text-align: center !important
+            }
+            .remove {
+                display: none;
+                width: 0px;
+                line-height: 0px;
+                height: 0px
+            }
+            .fix-box
+            {
+                padding-left: 20px;
+                padding-right: 20px
+            }
+            .space-scale {
+                width: 100% !important;
+                float: none
+            }
+            .blockCenter {
+                text-align: center;
+                width: 100%
+            }
+=09=09=09.td-margin-remove{
+=09=09=09=09padding-left:0 !important;
+=09=09=09=09width:100% !important;
+=09=09=09}
+=09=09=09.mobile-module-2{
+=09=09=09=09padding-left:15px !important;
+=09=09=09=09width:100%
+=09=09=09=09
+=09=09=09}
+=09=09=09
+=09=09=09.br-remove{
+=09=09=09=09display: none;
+=09=09=09=09
+=09=09=09}
+=09=09=09
+=09=09=09
+        }
+       =20
+
+               =20
+        @media only screen and (max-width: 479px) {
+            body {
+                font-size: 10px
+            }
+            .container {
+                width: 100%;
+                padding-left: 10px;
+                padding-right: 10px
+            }
+            .container-banner {
+                width: 90%;
+                text-align: center;
+                align-content: center
+            }
+            var-height {
+                height: 20px
+            }
+            .vspace {
+                display: none;
+                width: 0px;
+                line-height: 0px;
+                height: 0px
+            }
+            .image-100-percent,
+            .small-image-100-percent {
+                width: 100%;
+                height: auto;
+                max-width: 100% !important;
+                min-width: 124px !important
+            }
+            .col-2,
+            .col-3 {
+                width: 100%;
+                margin-right: 0
+            }
+            .col-3-last,
+            .col-2-last,
+            .full-width {
+                width: 100%;
+                min-width: 124px !important
+            }
+            .full-width-center {
+            width: 100%;
+            text-align: center !important;
+            }
+            .full-width-view-online {
+                width: 100%;
+                background-color: #76b900 !important;
+                font-size: 12px !important;
+                line-height: 12px !important;
+                text-transform: none !important;
+                border-left: 0px !important;
+                font-weight: bold !important;
+                text-align: center !important;
+                min-width: 124px !important
+            }
+            .full-width-logo {
+                width: 95%;
+                padding-left: 20%;
+                padding-right: 20%;
+                padding-top: 5px;
+                align-content: center
+                        }
+            .full-width-logo-2 {
+                padding-left: 30%;
+                padding-right: 30%;
+                padding-top: 5px;
+                align-content: center
+            }
+            .clear-padding {
+                padding: 0
+            }
+            .fix-box {
+                padding-left: 0;
+                padding-right: 0
+            }
+            .text-center {
+                text-align: center !important
+            }
+            .btn {
+                width: 100% !important;
+                min-width: 124px !important
+            }
+=09=09=09.td-margin-remove{
+=09=09=09=09padding-left:0 !important;
+=09=09=09=09width:100% !important;
+=09=09=09}
+=09=09=09.mobile-module-2{
+=09=09=09=09padding-left:15px !important;
+=09=09=09=09width:100%
+=09=09=09}
+=09=09=09*[class~=3Dhide_on_mobile] {=20
+=09=09=09=09display: none !important;
+=09=09=09}      =20
+    =09=09*[class~=3Dshow_on_mobile] {
+        =09=09display : block !important;
+        =09=09width : auto !important;
+        =09=09max-height: inherit !important;
+        =09=09overflow : visible !important;
+        =09=09float : none !important;
+    =09=09}
+=09=09=09
+=09=09=09
+=09=09=09.br-remove{
+=09=09=09=09display: none;
+=09=09=09=09
+=09=09=09}
+=09=09=09
+        }
+
+    </style>=20
+</head>=20
+<body style=3D"font-size:12px;">=20
+<div style=3D"display:none; width:0px; height:0px; max-width:0px; max-heigh=
+t:0px; overflow:hidden; opacity:0; mso-hide:all;">=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center" style=3D"display:none; mso-hide:all; padding:8px 0px;"=
+>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"responsive=
+-table" width=3D"640">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center" style=3D"padding:0; display:none; mso-hide:all;"><a hr=
+ef=3D"#" style=3D"font-size:14px; line-height:20px; font-family:'DINPro-Reg=
+ular', Trebuchet MS, Arial, Helvetica, Sans-Serif; color:#ededed; text-deco=
+ration:none;">View top AI sessions, with many more to come. Connect with ex=
+perts at GTC 2019.</a></td>=20
+</tr>=20
+</tbody>
+</table></td>=20
+</tr>=20
+</tbody>
+</table>=20
+</div>=20
+<!-- start 100% wrapper (black background) -->=20
+<table width=3D"100%" id=3D"mainStructure" align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" style=3D"font-size:12px;">=20
+<!-- START HEADER VIEW ONLINE -->=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start header view online container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"20" class=3D"vspace"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table>=20
+<!-- end header view online container width 640px --></td>=20
+</tr>=20
+<!-- END START HEADER VIEW ONLINE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start header view online container width 600px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container">=20
+<tbody>
+<tr align=3D"center">=20
+<td>
+<!-- start logo footer and address -->=20
+<table width=3D"100%" align=3D"right" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0">=20
+<tbody>
+<tr align=3D"center">=20
+<td style=3D"font-size: 11px; line-height: 18px; text-align:right;font-fami=
+ly:'DINPro-Regular', Helvetica, Arial, San-Serif;" class=3D"text-center"><a=
+ href=3D"http://go.nvidianews.com/v/aNkc02s0000500FyMPN0BO9Emx060" target=
+=3D"_blank" style=3D"text-decoration:none;color:#000000;font-weight:normal"=
+>FORWARD TO A FRIEND</a> | <a href=3D"https://info.nvidia.com/index.php/ema=
+il/emailWebview?mkt_tok=3DeyJpIjoiTTJNNVpXRmlaRGcyTVdWbCIsInQiOiJCaE54b0xWU=
+EV6NXc2Z2pqb09JaUhXVGg4N1BaQUdzdURDYXN0cjZUQUdrcjBybVJoVjIzek5lQlhzUzlJcXQ2=
+YzROSE9nT3V1ZmhKTE9oWnBubGdma2p3WDFFeG5UU3IxWVd3aEUvUTE0bFRVbDZ2MVVGS05URis=
+3Tmw1TW0vSnRPMlgvWTRXL2FHVVAwNmFsNmNiMTFMZk5RcHJOakpsL3lHSWwycnBGbVk9In0%3D=
+" target=3D"_blank" style=3D"text-decoration:none;color:#000000;font-weight=
+:normal">VIEW ONLINE</a> <span><a href=3D"https://info.nvidia.com/index.php=
+/email/emailWebview?mkt_tok=3DeyJpIjoiTTJNNVpXRmlaRGcyTVdWbCIsInQiOiJCaE54b=
+0xWUEV6NXc2Z2pqb09JaUhXVGg4N1BaQUdzdURDYXN0cjZUQUdrcjBybVJoVjIzek5lQlhzUzlJ=
+cXQ2YzROSE9nT3V1ZmhKTE9oWnBubGdma2p3WDFFeG5UU3IxWVd3aEUvUTE0bFRVbDZ2MVVGS05=
+URis3Tmw1TW0vSnRPMlgvWTRXL2FHVVAwNmFsNmNiMTFMZk5RcHJOakpsL3lHSWwycnBGbVk9In=
+0%3D" target=3D"_blank" style=3D"font-size:14px;line-height:18px;text-decor=
+ation:none;color:#76b900;font-weight:normal">=E2=96=BA</a></span></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end logo footer and address --></td>=20
+</tr>=20
+<!-- start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table>=20
+<!-- end header view online container width 600px --></td>=20
+</tr>=20
+<!-- START IMAGE HEADER LAYOUT -->=20
+<!--END FULL WIDTH BANNER BLOCK -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start full width block 1 container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" bgcolor=3D"#f1f1f1" style=3D"background-col=
+or:#f1f1f1;padding-left: 0px !important; padding-right: 0px !important;max-=
+width:640px;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa;bo=
+rder-top:1px solid #aaaaaa;">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">
+<!-- start full width block 1 container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<!-- start text content -->=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center"><a href=3D
+"http://go.nvidianews.com/Y000M02B0kFN60mkOx0Fs0N0x5c0E" target=3D"_blank"
+><img class=3D"image-100-percent" src=3D"https://images.nvidia.com/content/=
+newsletters/email/images-new/2019/NALA/GTC/banners/gtc2019-SV-alumni-last-c=
+hance-email-header-640x200.jpg" alt=3D"" style=3D"display:block;min-width:6=
+38px;" width=3D"638" vspace=3D"0" hspace=3D"0" border=3D"0" /></a></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end full width block 1 container width 560px --></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end full width block 1 container width 640px --></td>=20
+</tr>=20
+<!-- START OUTER SPACE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">=20
+<!-- start article block left container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" bgcolor=3D"#f1f1f1" style=3D"background-col=
+or:#f1f1f1;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa;">=
+=20
+<tbody>=20
+<tr align=3D"center">=20
+<td align=3D"center">=20
+<!-- start article block left container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<!--start space height -->=20
+<tbody>=20
+<!-- start image content -->=20
+<tr align=3D"center">=20
+<td height=3D"10" class=3D"show-on-mobile"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td width=3D"100%">=20
+<!-- start content left -->=20
+<table width=3D"390" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"left" class=3D"full-width" style=3D"min-width:205px">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td>=20
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"left">=20
+<tbody>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"15" class=3D"mobile-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td style=3D"font-size:27px;line-height:27px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:left;color:#000000;fo=
+nt-weight:normal; " class=3D"text-center">Join Us for the Biggest and Best =
+GTC Yet. </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"remove"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>=20
+</table>=20
+<!-- end content left -->=20
+<!-- start space width -->=20
+<table class=3D"remove" width=3D"1" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" align=3D"left" style=3D"font-size:0;line-height:0;border-collapse=
+:collapse;">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td width=3D"0" height=3D"2" style=3D"font-size:0;line-height:0;border-coll=
+apse:collapse;"> <p style=3D"padding-left: 30px;">&nbsp;</p> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- end space width -->=20
+<!-- start content left -->=20
+<table width=3D"170" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"right" class=3D"full-width">=20
+<!-- start text content -->=20
+<tbody>=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"right" cla=
+ss=3D"blockCenter">=20
+<tbody>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"15" class=3D"mobile-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td width=3D"auto">=20
+<!-- start button -->=20
+<table border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"btn">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td width=3D"auto" bgcolor=3D"#76b900" align=3D"center" valign=3D"middle" h=
+eight=3D"auto" style=3D"background-clip:padding-box;font-size:13px;padding-=
+left:28px;padding-right:28px;padding-top:12px;padding-bottom:12px;font-fami=
+ly:'DINPro-Regular', Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:=
+center;background:#76b900;background-color:#76b900;border:1px solid #76b900=
+;" class=3D"blockRight"> <span><a href=3D
+"http://go.nvidianews.com/Y000M02B0kFN60mkOx0Fs0N0x5c0E" target=3D"_blank" =
+style=3D"text-decoration:none;color:#ffffff;font-weight:bold;display:block;=
+text-transform:none;"
+>LEARN MORE</a></span></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- end button --> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!-- end text content -->=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>=20
+</table>=20
+<!-- end content left --> </td>=20
+</tr>=20
+<!-- end image content -->=20
+</tbody>=20
+</table>=20
+<!-- end article block left container width 560px --> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- end article block left container width 640px --> </td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start outer top space container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" style=3D"border-top:1px solid #aaaaaa;borde=
+r-bottom:1px solid #aaaaaa; ">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table>=20
+<!-- end outer bottom space container width 640px --> </td>=20
+</tr>=20
+<!-- END OUTER SPACE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">=20
+<!-- start full width block 2 container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" bgcolor=3D"#ffffff" style=3D"background-col=
+or:#ffffff;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa;">=
+=20
+<tbody>=20
+<tr align=3D"center">=20
+<td align=3D"center">=20
+<!-- start full width block 2 container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<!-- start space height -->=20
+<tbody>=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:center;color:#76b900;=
+font-weight:normal;  text-transform:uppercase;" class=3D"text-center"><span=
+>DON=E2=80=99T MISS DYNAMIC SESSIONS, TOPICS, AND TRAINING AT GTC</span></t=
+d>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"15"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=
+=20
+<tbody>=20
+<tr align=3D"center">=20
+<td style=3D"font-size:13px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;font-weight:normal=
+;text-align:center;" class=3D"text-center">Come connect with industry exper=
+ts to explore how advances in AI, deep learning, and machine learning can t=
+ransform your work. <br /> <br /> GTC 2019 brings together a one-of-a-kind =
+cross section of innovators discussing the latest topics in AI training and=
+ inference, industry-changing technologies, and successful implementations =
+from research to production. See for yourself. Sort and browse sessions on =
+deep learning, data science, HPC, developer tools, and more below. </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=
+=20
+<tbody>=20
+<tr align=3D"center">=20
+<td align=3D"center">=20
+<!-- start layout-3 container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width" style=3D"min-width:580px">=20
+<!-- start image and content -->=20
+<tbody>=20
+<tr align=3D"center">=20
+<td align=3D"center">=20
+<!-- start content left -->=20
+<table width=3D"170" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"left" class=3D"col-3">=20
+<!--start space height -->=20
+<tbody>=20
+<tr align=3D"center">=20
+<td height=3D"60" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td width=3D"100%" align=3D"left" bgcolor=3D"#ffffff"> <a href=3D
+"http://go.nvidianews.com/ll02G0sB0x50kF0m000M60N0NxEcO" target=3D"_blank"
+> <img class=3D"image-100-percent" src=3D"http://images.nvidia.com/content/=
+newsletters/email/images-new/2019/NALA/GTC/speakers/Carlos_Escapa_480x480.j=
+pg" width=3D"170" alt=3D"" style=3D"max-width:170px;display:block;" border=
+=3D"0" hspace=3D"0" vspace=3D"0" /> </a></td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"20"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td style=3D"font-size:13px;line-height:17px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;text-align:center;=
+" class=3D"text-center">Carlos Escapa<br /> <strong>AWS</strong><br /> Glob=
+al Lead, AI/ML Consulting Practice </td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td height=3D"15" class=3D"var-height"></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" clas=
+s=3D"btn">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:center;color:#76b900;=
+font-weight:normal;" class=3D"text-center"><a href=3D
+"http://go.nvidianews.com/ll02G0sB0x50kF0m000M60N0NxEcO" target=3D"_blank" =
+style=3D"text-decoration: none;color: #76b900;"
+><span style=3D"color:#76b900;">Framing Business Problems as Machine Learni=
+ng Problems</span></a></td>=20
+</tr>=20
+<!--start space height -->=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>=20
+</table>=20
+<!-- end content left -->=20
+<!-- start space width  -->=20
+<table class=3D"remove" width=3D"14" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" align=3D"left" style=3D"font-size:0;line-height:0;border-collaps=
+e:collapse;">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td width=3D"32" height=3D"3" style=3D"font-size:0;line-height:0;border-col=
+lapse:collapse;"> <p style=3D"width:32px;"></p> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- end space width  -->=20
+<!-- start content center -->=20
+<table width=3D"170" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"left" class=3D"col-3">=20
+<!--start space height -->=20
+<tbody>=20
+<tr align=3D"center">=20
+<td height=3D"60" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td width=3D"100%" align=3D"left" bgcolor=3D"#ffffff"> <a href=3D
+"http://go.nvidianews.com/c60000HFNB050mN2kcxmxMO0000Es" target=3D"_blank"
+> <img class=3D"image-100-percent" src=3D"http://images.nvidia.com/content/=
+newsletters/email/images-new/2019/NALA/GTC/speakers/Elad-Eban-480x480.jpg" =
+width=3D"170" alt=3D"" style=3D"max-width:170px;display:block;" border=3D"0=
+" hspace=3D"0" vspace=3D"0" /> </a> </td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"20"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td style=3D"font-size:13px;line-height:17px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;text-align:center;=
+" class=3D"text-center">Elad Eban<br /> <strong>Google</strong><br /> Resea=
+rch Scientist </td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" clas=
+s=3D"btn">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:center;color:#76b900;=
+font-weight:normal;" class=3D"text-center"><a href=3D
+"http://go.nvidianews.com/c60000HFNB050mN2kcxmxMO0000Es" target=3D"_blank" =
+style=3D"text-decoration: none;color: #76b900;"
+> <span style=3D"color:#76b900;">Faster Neural Nets with Hardware-Aware Arc=
+hitecture Learning </span></a></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td height=3D"30"></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--start space height -->=20
+<!--end space height -->=20
+</tbody>=20
+</table>=20
+<!-- end content center -->=20
+<!-- start space width  -->=20
+<table class=3D"remove" width=3D"14" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" align=3D"left" style=3D"font-size:0;line-height:0;border-collaps=
+e:collapse;">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td width=3D"32" height=3D"3" style=3D"font-size:0;line-height:0;border-col=
+lapse:collapse;"> <p style=3D"width:32px;"></p> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- end space width  -->=20
+<!-- start content right -->=20
+<table width=3D"169" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"left" class=3D"col-3">=20
+<!--start space height -->=20
+<tbody>=20
+<tr align=3D"center">=20
+<td height=3D"60" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td width=3D"100%" align=3D"left" bgcolor=3D"#ffffff"> <a href=3D
+"http://go.nvidianews.com/bF00xN00Ns05E2O00xnIkm06B00cM" target=3D"_blank"
+> <img class=3D"image-100-percent" src=3D"http://images.nvidia.com/content/=
+newsletters/email/images-new/2019/NALA/GTC/speakers/Carl-Case-480x480.jpg" =
+width=3D"170" alt=3D"" style=3D"max-width:170px;display:block" border=3D"0"=
+ hspace=3D"0" vspace=3D"0" /> </a> </td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"20"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td style=3D"font-size:13px;line-height:17px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;text-align:center;=
+ " class=3D"text-center">Carl Case<br /> <strong>NVIDIA</strong><br /> Seni=
+or Architect </td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" clas=
+s=3D"btn">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:center;color:#76b900;=
+font-weight:normal;" class=3D"text-center"> <a href=3D
+"http://go.nvidianews.com/bF00xN00Ns05E2O00xnIkm06B00cM" target=3D"_blank" =
+style=3D"text-decoration: none;color: #76b900;"
+><span style=3D"color:#76b900;">Mixed Precision Training of Deep Neural Net=
+works </span></a> </td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td height=3D"30"></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--start space height -->=20
+<!--end space height -->=20
+</tbody>=20
+</table>=20
+<!-- end content right --> </td>=20
+</tr>=20
+<!-- end image and content -->=20
+</tbody>=20
+</table>=20
+<!-- end article three column block container width 560px --></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- end space height -->=20
+<!-- start text content -->=20
+<tr align=3D"center">=20
+<td>=20
+<!-- start button container width 560px -->=20
+<table width=3D"auto" align=3D"center" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" class=3D"full-width">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" cl=
+ass=3D"blockCenter">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td width=3D"auto">=20
+<!-- start button -->=20
+<table border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"btn">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td width=3D"auto" bgcolor=3D"#76b900" align=3D"center" valign=3D"middle" h=
+eight=3D"auto" style=3D"background-clip:padding-box;font-size:13px;padding-=
+left:28px;padding-right:28px;padding-top:12px;padding-bottom:12px;font-fami=
+ly:'DINPro-Regular', Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:=
+center;background:#76b900;background-color:#76b900;border:1px solid #76b900=
+;" class=3D"blockRight"> <span><a href=3D
+"http://go.nvidianews.com/o2NOomksN0M50EFxB000J0c0600x0" target=3D"_blank" =
+style=3D"text-decoration:none;color:#ffffff;font-weight:bold;display:block;=
+text-transform:uppercase;"
+>VIEW ALL SESSIONS</a></span></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- end button --></td>=20
+</tr>=20
+<!-- start space height -->=20
+<!-- end space height -->=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- end button container width 560px --></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<tbody>=20
+<tr align=3D"center">=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- end full width block 3 container width 640px --></td>=20
+</tr>=20
+<!-- START OUTER SPACE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start outer top space container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" style=3D" border-top:1px solid #aaaaaa;bord=
+er-bottom:1px solid #aaaaaa; ">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table>=20
+<!-- end outer bottom space container width 640px --></td>=20
+</tr>=20
+<!-- END OUTER SPACE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">=20
+<!-- start article two column block container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" bgcolor=3D"#ffffff" style=3D"background-col=
+or:#ffffff;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa">=
+=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">=20
+<!-- start article two column block container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width" style=3D"min-width:580px">=20
+<!-- start image and content -->=20
+<tbody>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td width=3D"100%">=20
+<!-- start content left -->=20
+<table width=3D"275" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"left" class=3D"col-2">=20
+<!--start space height -->=20
+<tbody>=20
+<tr align=3D"center">=20
+<td align=3D"center" bgcolor=3D"#ffffff"> <a href=3D
+"http://go.nvidianews.com/ENx00O00mMFs0050pkc60N0x0KBE2" target=3D"_blank"
+> <img class=3D"image-100-percent" src=3D"https://images.nvidia.com/content=
+/newsletters/email/images-new/2019/NALA/GTC/thumbnails/earn-ai-certificate-=
+in-workshops-480x320.jpg" width=3D"275" alt=3D"" style=3D"display:block;max=
+-width:275px;" border=3D"0" hspace=3D"0" vspace=3D"0" /> </a> </td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"20"></td>=20
+</tr>=20
+<!--end space height -->=20
+<!-- start text content -->=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=
+=20
+<tbody>
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:left;color:#76b900;fo=
+nt-weight:normal;" class=3D"text-center"> <span>EARN AI CERTIFICATION IN FU=
+LL-DAY WORKSHOPS</span> </td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"15"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td style=3D"font-size:13px;line-height:17px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;text-align:left;" =
+class=3D"text-center">Get certified in deep learning for computer vision, n=
+atural language processing, multi-GPUs, intelligent video analytics, roboti=
+cs, and more. Add the DLI Workshop pass to your conference registration to =
+attend a full-day, instructor-led workshop on Sunday, March 17.</td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td width=3D"auto">=20
+<!-- start button -->=20
+<table border=3D"0" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"btn">=20
+<tbody>
+<tr align=3D"center">=20
+<td width=3D"auto" bgcolor=3D"#76b900" align=3D"center" valign=3D"middle" h=
+eight=3D"auto" style=3D"background-clip:padding-box;font-size:13px;padding-=
+left:28px;padding-right:28px;padding-top:12px;padding-bottom:12px;font-fami=
+ly:'DINPro-Regular', Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:=
+center;background:#76b900;background-color:#76b900;border:1px solid #76b900=
+;" class=3D"blockRight"> <span><a href=3D
+"http://go.nvidianews.com/ENx00O00mMFs0050pkc60N0x0KBE2" target=3D"_blank" =
+style=3D"text-decoration:none;color:#ffffff;font-weight:bold;display:block;=
+text-transform:none;"
+>LEARN MORE</a></span> </td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end button --> </td>=20
+</tr>=20
+</tbody>
+</table> </td>=20
+</tr>=20
+<!-- end text content -->=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>
+</table>=20
+<!-- end content left -->=20
+<!-- start space width -->=20
+<table class=3D"remove" width=3D"1" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" align=3D"left" style=3D"font-size:0;line-height:0;border-collapse=
+:collapse;">=20
+<tbody>
+<tr align=3D"center">=20
+<td width=3D"0" height=3D"2" style=3D"font-size:0;line-height:0;border-coll=
+apse:collapse;"> <p style=3D"padding-left: 27px;">&nbsp;</p> </td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end space width -->=20
+<!-- start content right -->=20
+<table width=3D"275" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"right" class=3D"col-2-last">=20
+<!--start space height -->=20
+<tbody>=20
+<tr align=3D"center">=20
+<td width=3D"100%" align=3D"center" bgcolor=3D"#ffffff"> <a href=3D
+"http://go.nvidianews.com/WxL6sk0q020mO000EM0BNFc005N0x" target=3D"_blank"
+> <img class=3D"image-100-percent" src=3D"https://images.nvidia.com/content=
+/newsletters/email/images-new/2019/NALA/GTC/thumbnails/buy-your-conference-=
+training-pass-480x320.jpg" width=3D"275" alt=3D"" style=3D"display:block;ma=
+x-width:275px;" border=3D"0" hspace=3D"0" vspace=3D"0" /> </a> </td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"20"></td>=20
+</tr>=20
+<!--end space height -->=20
+<!-- start text content -->=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=
+=20
+<tbody>
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:left;color:#76b900;fo=
+nt-weight:normal;" class=3D"text-center"> <span>BUY YOUR CONFERENCE + TRAIN=
+ING PASS TODAY</span> </td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"15" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td style=3D"font-size:13px;line-height:17px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;text-align:left;" =
+class=3D"text-center">Register for a Conference + Training pass to attend i=
+nstructor-led training on <br class=3D"remove" />March 18 - 21. These hands=
+-on, two-hour sessions will cover deep learning and accelerated computing a=
+cross autonomous vehicles, digital content creation, healthcare, and more. =
+</td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"15" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td width=3D"auto">=20
+<!-- start button -->=20
+<table border=3D"0" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"btn">=20
+<tbody>
+<tr align=3D"center">=20
+<td width=3D"auto" bgcolor=3D"#76b900" align=3D"center" valign=3D"middle" h=
+eight=3D"auto" style=3D"background-clip:padding-box;font-size:13px;padding-=
+left:28px;padding-right:28px;padding-top:12px;padding-bottom:12px;font-fami=
+ly:'DINPro-Regular', Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:=
+center;background:#76b900;background-color:#76b900;border:1px solid #76b900=
+;" class=3D"blockRight"> <span><a href=3D
+"http://go.nvidianews.com/WxL6sk0q020mO000EM0BNFc005N0x" target=3D"_blank" =
+style=3D"text-decoration:none;color:#ffffff;font-weight:bold;display:block;=
+text-transform:none;"
+>REGISTER</a></span> </td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end button --> </td>=20
+</tr>=20
+</tbody>
+</table> </td>=20
+</tr>=20
+<!-- end text content -->=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>
+</table>=20
+<!-- end content right --> </td>=20
+</tr>=20
+<!-- end image and content -->=20
+</tbody>
+</table>=20
+<!-- end article two column block container width 560px --> </td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end article two column block container width 640px --> </td>=20
+</tr>=20
+<!-- START OUTER SPACE -->=20
+<!-- START OUTER SPACE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start outer top space container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" style=3D" border-top:1px solid #aaaaaa;bord=
+er-bottom:1px solid #aaaaaa; ">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table>=20
+<!-- end outer bottom space container width 640px --></td>=20
+</tr>=20
+<!-- END OUTER SPACE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">=20
+<!-- start full width block 2 container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" bgcolor=3D"#666666" style=3D"background-col=
+or:#333333;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa">=
+=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">=20
+<!-- start full width block 2 container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<!-- end space height -->=20
+<!-- start text content -->=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=
+=20
+<tbody>
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:center;color:#76b900;=
+font-weight:normal;" class=3D"text-center"> <span>REGISTER NOW AND SAVE</sp=
+an> </td>=20
+</tr>=20
+<!-- start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"15"></td>=20
+</tr>=20
+<!-- end space height -->=20
+<tr align=3D"center">=20
+<td style=3D"font-size:13px;line-height:17px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:center;color:#ffffff;=
+font-weight:normal;" class=3D"text-center">Use code <span style=3D"color: #=
+76b900;">CMDLAI </span> to save 20%.</td>=20
+</tr>=20
+<!-- start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"15"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table> </td>=20
+</tr>=20
+<!-- end text content -->=20
+<!-- end text content -->=20
+<tr align=3D"center">=20
+<td>
+<!-- start button container width 560px -->=20
+<table width=3D"auto" align=3D"center" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" class=3D"full-width">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" cl=
+ass=3D"blockCenter">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td width=3D"auto">
+<!-- start button -->=20
+<table border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"btn">=20
+<tbody>=20
+<tr align=3D"center">=20
+<td width=3D"auto" bgcolor=3D"#76b900" align=3D"center" valign=3D"middle" h=
+eight=3D"auto" style=3D"background-clip:padding-box;font-size:13px;padding-=
+left:28px;padding-right:28px;padding-top:12px;padding-bottom:12px;font-fami=
+ly:'DINPro-Regular', Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:=
+center;background:#76b900;background-color:#76b900;border:1px solid #76b900=
+;" class=3D"blockRight"> <span><a href=3D
+"http://go.nvidianews.com/hxFx0NM0s05mE0002k0NB00cr0M6O" target=3D"_blank" =
+style=3D"text-decoration:none;color:#ffffff;font-weight:bold;display:block;=
+text-transform:none;"
+>REGISTER </a></span></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- end button --></td>=20
+</tr>=20
+<!-- start space height -->=20
+<!-- end space height -->=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- end button container width 560px --></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table> </td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end full width block 2 container width 640px --> </td>=20
+</tr>=20
+<!-- START OUTER SPACE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start outer top space container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" style=3D" border-top:1px solid #aaaaaa;bord=
+er-bottom:1px solid #aaaaaa; ">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table>=20
+<!-- end outer bottom space container width 640px --></td>=20
+</tr>=20
+<!-- END OUTER SPACE -->=20
+<!-- START SOCIAL ICON BLOCK -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start social icon block container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width" style=3D"border-left:1px solid #aaaaaa;bor=
+der-right:1px solid #aaaaaa;background-color:#76b900;max-width:640px;">=20
+<!--start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"30"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td>
+<!-- start logo footer and address -->=20
+<table width=3D"250" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0">=20
+<!--end space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td>
+<table border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"container">=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"25" align=3D"center" valign=3D"middle" class=3D"clear-padding=
+-2"><a href=3D
+"http://go.nvidianews.com/HEx602B0kx000N0s0MmsON0c05NF0" target=3D"_blank"
+> <img src=3D"http://images.nvidia.com/content/newsletters/email/logo/gtc-1=
+9.jpg" width=3D"70" alt=3D"Twitter" style=3D"max-width:70px;" border=3D"0" =
+hspace=3D"0" vspace=3D"0" /> </a></td>=20
+<td style=3D"padding-left:10px;" height=3D"25" align=3D"center" valign=3D"m=
+iddle" class=3D"clear-padding-2"><a href=3D
+"http://go.nvidianews.com/p62BctEk05x00Mx00F0O0m0NO0s0N" target=3D"_blank"
+> <img src=3D"http://images.nvidia.com/content/newsletters/email/images/gtc=
+/call-for-submissions/2015/linkedin-logo.png" width=3D"18" alt=3D"LinkedIn"=
+ style=3D"max-width:18px;" border=3D"0" hspace=3D"0" vspace=3D"0" /> </a></=
+td>=20
+<td style=3D"padding-left:10px; " height=3D"25" align=3D"center" valign=3D"=
+middle" class=3D"clear-padding-2"><a href=3D
+"http://go.nvidianews.com/f00EB50sM02NF0m0OxPNkcux60000" target=3D"_blank"
+> <img src=3D"http://images.nvidia.com/content/newsletters/email/images/gtc=
+/call-for-submissions/2015/twitter-logo.png" width=3D"18" alt=3D"Twitter" s=
+tyle=3D"max-width:18px;" border=3D"0" hspace=3D"0" vspace=3D"0" /> </a></td=
+>=20
+<td style=3D"padding-left:10px;" height=3D"25" align=3D"center" valign=3D"m=
+iddle" class=3D"clear-padding-2"><a href=3D
+"http://go.nvidianews.com/Pmc00Q00s0E26xO5NNF0000k0MxvB" target=3D"_blank"
+> <img src=3D"http://images.nvidia.com/content/newsletters/email/images/gtc=
+/call-for-submissions/2015/facebook-logo.png" width=3D"8" alt=3D"Facebook" =
+style=3D"max-width:8px;" border=3D"0" hspace=3D"0" vspace=3D"0" /> </a></td=
+>=20
+</tr>=20
+</tbody>
+</table></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end logo footer and address --></td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>
+</table>=20
+<!-- end social icon block --></td>=20
+</tr>=20
+<!-- END SOCIAL ICON BLOCK -->=20
+<!-- START OUTER SPACE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start outer top space container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" style=3D" border-top:1px solid #aaaaaa;bord=
+er-bottom:1px solid #aaaaaa; ">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table>=20
+<!-- end outer bottom space container width 640px --></td>=20
+</tr>=20
+<!-- END OUTER SPACE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start full width block 2 container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" bgcolor=3D"#ffffff" style=3D"background-col=
+or:#ffffff;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa;max=
+-width:640px;">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">
+<!-- start full width block 2 container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:center;color:#666;fon=
+t-weight:normal;  text-transform:uppercase;" class=3D"text-center"><span>DI=
+AMOND SPONSORS</span></td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"10"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=
+=20
+<tbody>
+<tr align=3D"center">=20
+<td style=3D"font-size:14px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;font-weight:normal=
+;text-align:left;" class=3D"text-center"><a href=3D
+"http://go.nvidianews.com/WxR6sk0w020mO000EM0BNFc005N0x" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>IBM</a></td>=20
+</tr>=20
+</tbody>
+</table></td>=20
+</tr>=20
+<!-- end space height -->=20
+<!-- start text content -->=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>
+</table></td>=20
+</tr>=20
+<!--Test Ticket section-->=20
+<!-- START FOUR COLUMN BLOCK -->=20
+<!-- END FOUR COLUMN BLOCK -->=20
+<!--END Test Ticket section-->=20
+<!-- END IMAGE HEADER LAYOUT-->=20
+</tbody>
+</table>=20
+<!-- end full width block 3 container width 640px --></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start inner space container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" style=3D"background-color:#ffffff;border-le=
+ft:1px solid #aaaaaa;border-right:1px solid #aaaaaa">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">
+<!-- start inner space container width 560px -->=20
+<table width=3D"220" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"1" style=3D"border-top:1px dotted #aaaaaa"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>
+</table>=20
+<!-- end inner space container width 560px --></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end inner space container width 640px --></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start full width block 2 container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" bgcolor=3D"#ffffff" style=3D"background-col=
+or:#ffffff;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa;max=
+-width:640px;">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">
+<!-- start full width block 2 container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:center;color:#666;fon=
+t-weight:normal;  text-transform:uppercase;" class=3D"text-center"><span>PL=
+ATINUM SPONSORS</span></td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"10"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=
+=20
+<tbody>
+<tr align=3D"center">=20
+<td style=3D"font-size:14px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;font-weight:normal=
+;text-align:center;" class=3D"text-center"> <a href=3D
+"http://go.nvidianews.com/g0mNx0E00sk0B2050Sc6O0xx00NMF" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>Cisco</a>, <a href=3D
+"http://go.nvidianews.com/k0000EskO2MF00Nx0Bmc00T50x6yN" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>DDN</a>, <a href=3D
+"http://go.nvidianews.com/hxFx0NU0s05mE0002k0NB00cz0M6O" target=3D"_blank" =
+style=3D"text-decoration: none;color:#76b900;"
+>Kinetica</a>, <a href=3D
+"http://go.nvidianews.com/vx20sx6NNVEABc50MmF0000k00O00" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>Oracle</a>, <a href=3D
+"http://go.nvidianews.com/NOscB5FMN0200000kEWxm06N0B00x" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>Pure Storage</a>, <a href=3D
+"http://go.nvidianews.com/i00NX5BOF20cx0ms0E0N0006kCMx0" target=3D"_blank" =
+style=3D"text-decoration: none;color:#76b900;"
+>Supermicro</a></td>=20
+</tr>=20
+</tbody>
+</table></td>=20
+</tr>=20
+<!-- end space height -->=20
+<!-- start text content -->=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>
+</table></td>=20
+</tr>=20
+<!--Test Ticket section-->=20
+<!-- START FOUR COLUMN BLOCK -->=20
+<!-- END FOUR COLUMN BLOCK -->=20
+<!--END Test Ticket section-->=20
+<!-- END IMAGE HEADER LAYOUT-->=20
+</tbody>
+</table>=20
+<!-- end full width block 3 container width 640px --></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start inner space container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" style=3D"background-color:#ffffff;border-le=
+ft:1px solid #aaaaaa;border-right:1px solid #aaaaaa">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">
+<!-- start inner space container width 560px -->=20
+<table width=3D"220" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"1" style=3D"border-top:1px dotted #aaaaaa"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>
+</table>=20
+<!-- end inner space container width 560px --></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end inner space container width 640px --></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start full width block 2 container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" bgcolor=3D"#ffffff" style=3D"background-col=
+or:#ffffff;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa;max=
+-width:640px;">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">
+<!-- start full width block 2 container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:center;color:#666;fon=
+t-weight:normal;  text-transform:uppercase;" class=3D"text-center"><span>GO=
+LD SPONSORS</span></td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"10"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=
+=20
+<tbody>
+<tr align=3D"center">=20
+<td style=3D"font-size:14px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;font-weight:normal=
+;text-align:center;" class=3D"text-center"> <a href=3D
+"http://go.nvidianews.com/bF00xN00Ns05E2O00xDYkm06B00cM" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>Analog Devices</a>, <a href=3D
+"http://go.nvidianews.com/zZMsx600xkFE0m0E250NB0O0N0c00" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>Omni Sci</a>, <a href=3D
+"http://go.nvidianews.com/G06m0FkN0000ON05MsGBc0Ex00y20" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>PNY</a> </td>=20
+</tr>=20
+</tbody>
+</table></td>=20
+</tr>=20
+<!-- end space height -->=20
+<!-- start text content -->=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>
+</table></td>=20
+</tr>=20
+<!--Test Ticket section-->=20
+<!-- START FOUR COLUMN BLOCK -->=20
+<!-- END FOUR COLUMN BLOCK -->=20
+<!--END Test Ticket section-->=20
+<!-- END IMAGE HEADER LAYOUT-->=20
+</tbody>
+</table>=20
+<!-- end full width block 3 container width 640px --></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start inner space container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" style=3D"background-color:#ffffff;border-le=
+ft:1px solid #aaaaaa;border-right:1px solid #aaaaaa">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">
+<!-- start inner space container width 560px -->=20
+<table width=3D"220" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"1" style=3D"border-top:1px dotted #aaaaaa"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>
+</table>=20
+<!-- end inner space container width 560px --></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end inner space container width 640px --></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start full width block 2 container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" bgcolor=3D"#ffffff" style=3D"background-col=
+or:#ffffff;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa;max=
+-width:640px;">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">
+<!-- start full width block 2 container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td style=3D"font-size:18px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;text-align:center;color:#666;fon=
+t-weight:normal;  text-transform:uppercase;" class=3D"text-center"><span>SI=
+LVER SPONSORS</span></td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"10"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=
+=20
+<tbody>=20
+<tr align=3D"center">=20
+<td style=3D"font-size:14px;line-height:18px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;font-weight:normal=
+;text-align:center;" class=3D"text-center"> <a href=3D
+"http://go.nvidianews.com/j10B0500OmN000EsNc2FMx0600Hyk" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>Ciara</a>, <a href=3D
+"http://go.nvidianews.com/HEy602B0kx000N0s0MmION0c052F0" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>Exxact</a>, <a href=3D
+"http://go.nvidianews.com/m0JE060000F3scxm0Ny0N0O05BMk2" target=3D"_blank" =
+style=3D"text-decoration:none;color:#76b900;"
+>Penguin Computing</a> </td>=20
+</tr>=20
+</tbody>
+</table></td>=20
+</tr>=20
+<!-- end space height -->=20
+<!-- start text content -->=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30" class=3D"var-height"></td>=20
+</tr>=20
+<!--end space height -->=20
+</tbody>
+</table></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end full width block 3 container width 640px --></td>=20
+</tr>=20
+<!-- START SOCIAL ICON BLOCK -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start outer top space container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" style=3D"border-bottom:1px solid #aaaaaa; b=
+order-top:1px solid #aaaaaa; ">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"12"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table>=20
+<!-- end outer bottom space container width 640px --></td>=20
+</tr>=20
+<!-- START FOOTER BLOCK -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start footer block container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container" bgcolor=3D"#ffffff" style=3D" background-co=
+lor: #ffffff; border:1px solid #aaaaaa;max-width:640px;">=20
+<tbody>
+<tr align=3D"center">=20
+<td align=3D"center">
+<!-- start footer block container width 560px -->=20
+<table width=3D"580" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"full-width">=20
+<!--start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"30"></td>=20
+</tr>=20
+<!--end space height -->=20
+<!-- start text content -->=20
+<tr align=3D"center">=20
+<td>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center">=20
+<!--end space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td style=3D"font-size:11px;line-height:14px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;text-align:center"=
+ class=3D"text-center"><a href=3D
+"http://go.nvidianews.com/dc/M3tNI9WjhwgpWj9zFPExhge-BKR_acD5iJOXmz-jvcuL4y=
+PcmxAWPs9Ral1BDqA1Kcy_g3yzmlAtNBGoX3o1AzlnWlnuU_Ndk1Vdl1cv6MDQzQuSZMcuOitfO=
+Jq4RKxVj8uYL4dAjumoXHg_kaowWA=3D=3D/w0F0N000B4c2K6x50000sOEN0kMmy" style=3D=
+"text-decoration: underline; color: #000000; font-weight: normal;"
+>Manage Preferences</a> | <a href=3D
+"http://go.nvidianews.com/f00EB50sM02NF0m0Ox5NkcLy60000" style=3D"text-deco=
+ration:underline;color:#000000;font-weight:normal;"
+>Unsubscribe</a> | <a href=3D
+"http://go.nvidianews.com/UO50mMNsNMk00000260c60FB0yxE0" style=3D"text-deco=
+ration: underline; color: #000000; font-weight: normal;"
+>Contact Us</a></td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"16"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td style=3D"font-size:11px;line-height:14px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;text-align:center;=
+" class=3D"text-center">=C2=A9 2019 NVIDIA Corporation. All rights reserved=
+.</td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"5"></td>=20
+</tr>=20
+<!--end space height -->=20
+<tr align=3D"center">=20
+<td style=3D"font-size:11px;line-height:14px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;text-align:center;=
+" class=3D"text-center">NVIDIA Corporation, 2788 San Tomas Expressway Santa=
+ Clara, CA 95051.</td>=20
+</tr>=20
+</tbody>
+</table></td>=20
+</tr>=20
+<!-- end text content -->=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30"></td>=20
+</tr>=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"text-center">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">=
+=20
+<tbody>
+<tr align=3D"center">=20
+<td style=3D"font-size:11px;line-height:14px;font-family:'DINPro-Regular', =
+Trebuchet MS, Arial, Helvetica, Sans-Serif;color:#000000;text-align:center;=
+" class=3D"text-center">Presented by</td>=20
+<!-- start content left -->=20
+<td width=3D"auto">
+<!-- start button --> <a href=3D
+"http://go.nvidianews.com/r0N0k06N000cO5xB0ENFm700s2M0y" target=3D"_blank"
+><img src=3D"http://info.nvidianews.com/rs/156-OFN-742/images/GTC_email_v4-=
+01.png" align=3D"center" width=3D"103" height=3D"32" alt=3D"NVIDIA" style=
+=3D"display:block;align:center;" border=3D"0" hspace=3D"0" vspace=3D"0" /><=
+/a>=20
+<!-- end button --></td>=20
+</tr>=20
+</tbody>
+</table></td>=20
+</tr>=20
+<!--start space height -->=20
+<tr align=3D"center">=20
+<td height=3D"30"></td>=20
+</tr>=20
+<!--end space height -->=20
+<!--end space height -->=20
+</tbody>
+</table>=20
+<!-- end footer block container width 560px --></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!-- end footer block container width 640px --></td>=20
+</tr>=20
+<!-- END FOOTER BLOCK -->=20
+<!-- START OUTER SPACE -->=20
+<tr align=3D"center">=20
+<td align=3D"center" class=3D"fix-box">
+<!-- start outer top space container width 640px -->=20
+<table width=3D"640" align=3D"center" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"container">=20
+<!-- start space height -->=20
+<tbody>
+<tr align=3D"center">=20
+<td height=3D"30"></td>=20
+</tr>=20
+<!-- end space height -->=20
+</tbody>
+</table>=20
+<!-- end outer bottom space container width 640px --></td>=20
+</tr>=20
+<!-- END OUTER SPACE -->=20
+<!-- END START HEADER VIEW ONLINE -->=20
+</tbody>
+</table>=20
+<!-- end 100% wrapper (black background) -->=20
+<style data-ignore-inlining=3D"">@media print{ #_t { background-image: url(=
+'https://opf819u7.emltrk.com/opf819u7?p&d=3Djack@jackshelata.com');}} div.O=
+utlookMessageHeader {background-image:url('https://opf819u7.emltrk.com/opf8=
+19u7?f&d=3Djack@jackshelata.com')} table.moz-email-headers-table {backgroun=
+d-image:url('https://opf819u7.emltrk.com/opf819u7?f&d=3Djack@jackshelata.co=
+m')} blockquote #_t {background-image:url('https://opf819u7.emltrk.com/opf8=
+19u7?f&d=3Djack@jackshelata.com')} #MailContainerBody #_t {background-image=
+:url('https://opf819u7.emltrk.com/opf819u7?f&d=3Djack@jackshelata.com')}</s=
+tyle>
+<div id=3D"_t"></div>=20
+<img src=3D"https://opf819u7.emltrk.com/opf819u7?d=3Djack@jackshelata.com" =
+width=3D"1" height=3D"1" border=3D"0" alt=3D"" /> =20
+<a href=3D
+"http://go.nvidianews.com/f00EB50sM02NF0m0Ox8NkcOy60000"
+></a>
+<img src=3D"http://go.nvidianews.com/trk?t=3D1&mid=3DMTU2LU9GTi03NDI6NTA2Mj=
+Q6MjcyMTU6MTQ5MzAyOjA6MzI1NTk6OTo4Nzk4OToxODQwNjgxNzktMC0xNDEzOmphY2tAamFja=
+3NoZWxhdGEuY29t" width=3D"1" height=3D"1" style=3D"display:none !important;=
+" alt=3D"" />
+
+<!--This is a comment-->
+</body>
+</html>
+------=_Part_1167607129_1289333261.1547753339930--

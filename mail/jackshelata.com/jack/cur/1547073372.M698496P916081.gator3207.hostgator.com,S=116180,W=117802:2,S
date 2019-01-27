@@ -1,0 +1,1622 @@
+Return-Path: <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl354fxebq9b3ungq0@bounce.linkedin.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id gFx8KVx3Nlxx+g0AV+VKPg
+	for <jack@jackshelata.com>; Wed, 09 Jan 2019 16:36:12 -0600
+Return-path: <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl354fxebq9b3ungq0@bounce.linkedin.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Wed, 09 Jan 2019 16:36:12 -0600
+Received: from mailb-bf.linkedin.com ([108.174.3.158]:50291)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl354fxebq9b3ungq0@bounce.linkedin.com>)
+	id 1ghMSI-003wRC-Vb
+	for jack@jackshelata.com; Wed, 09 Jan 2019 16:36:12 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=d2048-201806-01; t=1547073360;
+	bh=p2OTnNA9DObhwpkNChjTgE9P5Ucux0SEIOQmuF3hh+c=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=IZpixgfOn+7nArQ6dBfVWGCXIkEfTiFjSsS6a0hk9etKZ7qLtTJUBTHkPnV/HO2Bl
+	 BpIcYSRC+9BhNhQ5sRnXEHK31a2ROyGUx9DMHFJ2ImlRATf6TbWphTZ/5rf31gLagN
+	 0I6/xtWcOJ+2lHyHV4F0OBCGBpY9uc8MPvgoKLph6lXOp6BtU7+zVPKKULj6PclkXK
+	 QRii0HvckFoFOkYmY4Q4g9fgYFL+6IqrU+aya1bf0Rp12tJv778VH68Nz+LACY2aMJ
+	 pbJFffKXoyu3Z4qzAFoLxbWf1BfNwsVwI2H+1ER6tjQSlmxPmL1FfxhWNrGDguVapr
+	 I26q8pFDb8fsw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mailb.linkedin.com;
+	s=proddkim1024; t=1547073360;
+	bh=p2OTnNA9DObhwpkNChjTgE9P5Ucux0SEIOQmuF3hh+c=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=CsvWUOrOt//I2HTVNWDf9gZ8lzlO2pbMopnHzQmie/9wxuPxcNE5Md8fxaFdJRjAU
+	 L9/DWCjQGgNEKQnIRQ7+KBSp/xigxEtBWlX1BO+Hiq5rpxNzKMjfiwfd22RmWQnXKy
+	 o0YPAL2ER9PB76A7eK/lGWOjo/mAlSBVnoFFy52Q=
+From: LinkedIn <jobs-noreply@linkedin.com>
+Message-ID: <974127509.322180.1547073359399.JavaMail.app@lva1-app1706.prod.linkedin.com>
+Subject: See more jobs like Quicken Loans - Software Developer Intern -
+ Summer 2019
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_322178_105577516.1547073359380"
+To: Jack Shelata <jack@jackshelata.com>
+Date: Wed, 9 Jan 2019 22:35:59 +0000 (UTC)
+X-LinkedIn-Class: JOBS-TO-MBR
+X-LinkedIn-Template: email_jobs_viewed_job_reminder_01
+X-LinkedIn-fbl: m2-aszwusfcnp0lg38p4pl2vkgykux6etbc3djqck6s9hiuk5padgna7cvcz8ywhz21mbmwb8vbugln9vcaalbh0m8k96wvawthx1r1w9
+X-LinkedIn-Id: 6r5gpt-jqprj3rh-nh
+List-Unsubscribe: <https://www.linkedin.com/e/v2?e=6r5gpt-jqprj3rh-nh&t=lun&midToken=AQGmOgFoL_CRRg&ek=email_jobs_viewed_job_reminder_01&li=70&m=unsub&ts=unsub&loid=AQHoxHFo6pwd4AAAAWg0wg1r0uTfZPzCLE-Ow8tqWj9CwMBBcrZq9mYccaeQyCQN3OtRDuZGQ0OMgNKSXtTmjqk0VzokMJsKfVWWmKs0GErRZV6QkptZdwbN&eid=6r5gpt-jqprj3rh-nh>
+Require-Recipient-Valid-Since: jack@jackshelata.com; Mon, 13 Aug 2018 19:54:41 +0000
+X-Spam-Status: No, score=-1.0
+X-Spam-Score: -9
+X-Spam-Bar: -
+X-Spam-Flag: NO
+
+------=_Part_322178_105577516.1547073359380
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+Jobs similar to
+
+----------------------------------------------------------------
+Quicken Loans - Software Developer Intern - Summer 2019
+https://www.linkedin.com/comm/jobs/view/923064962?refId=3D262e4f49-2807-4c2=
+4-99df-94132cd40b85&trk=3Deml-vjr-viewed-job-title&midToken=3DAQGmOgFoL_CRR=
+g&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-52-null-null-6r5gpt=
+%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs=
+_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+Software Engineer Intern
+L3 Technologies
+Nashville, TN, US
+https://www.linkedin.com/comm/jobs/view/1025809057?refId=3D170715cc-406b-48=
+e0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_C=
+RRg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-26-null-null-6r5g=
+pt%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer Intern - Machine Learning
+Adobe
+San Jose, CA, US
+https://www.linkedin.com/comm/jobs/view/957903255?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-27-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer Intern
+Adobe
+San Jose, CA, US
+https://www.linkedin.com/comm/jobs/view/953831114?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-28-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Developer Intern
+Unity Technologies
+Austin, TX, US
+https://www.linkedin.com/comm/jobs/view/1035180833?refId=3D170715cc-406b-48=
+e0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_C=
+RRg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-29-null-null-6r5g=
+pt%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Internship - Software Developer
+Bottomline Technologies
+Portsmouth, NH, US
+https://www.linkedin.com/comm/jobs/view/978656000?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-30-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer, Intern
+Cloudera
+Austin, TX, US
+https://www.linkedin.com/comm/jobs/view/1017158837?refId=3D170715cc-406b-48=
+e0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_C=
+RRg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-31-null-null-6r5g=
+pt%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Intern - Software Engineer (San Mateo) - 2019 Summer
+Snowflake Computing
+San Mateo, CA, US
+https://www.linkedin.com/comm/jobs/view/942251966?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-32-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer - Intern 2019
+Quora
+Mountain View, CA, US
+https://www.linkedin.com/comm/jobs/view/1017994101?refId=3D170715cc-406b-48=
+e0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_C=
+RRg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-33-null-null-6r5g=
+pt%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer, Summer Intern 2019
+Pocket Gems
+San Francisco, CA, US
+https://www.linkedin.com/comm/jobs/view/898064542?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-34-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+2019 Software Engineer Intern (BEL)
+Pure Storage
+Bellevue, WA, US
+https://www.linkedin.com/comm/jobs/view/925451760?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-35-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+2019 Software Engineer Intern
+Bloomberg LP
+New York City, NY, US
+https://www.linkedin.com/comm/jobs/view/1029291717?refId=3D170715cc-406b-48=
+e0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_C=
+RRg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-36-null-null-6r5g=
+pt%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Development Engineer Internship - Summer 2019 (United States)
+Amazon
+Seattle, WA, US
+https://www.linkedin.com/comm/jobs/view/836036424?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-37-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer: Intern 2019 - Web & Mobile
+Oscar Health
+New York City, NY, US
+https://www.linkedin.com/comm/jobs/view/988571249?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-38-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer Intern- Customer Tech
+Walmart
+Sunnyvale, CA, US
+https://www.linkedin.com/comm/jobs/view/1018589545?refId=3D170715cc-406b-48=
+e0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_C=
+RRg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-39-null-null-6r5g=
+pt%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer Intern
+Compassion International
+12290 Voyager Pkwy, Colorado Springs, CO 80918, US
+https://www.linkedin.com/comm/jobs/view/1021689349?refId=3D170715cc-406b-48=
+e0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_C=
+RRg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-40-null-null-6r5g=
+pt%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Developer Intern
+Adobe
+San Jose, CA, US
+https://www.linkedin.com/comm/jobs/view/953830654?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-41-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer Intern (2019)
+Chegg Inc.
+Santa Clara, CA, US
+https://www.linkedin.com/comm/jobs/view/925631748?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-42-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer - Intern
+Datadog
+New York City, NY, US
+https://www.linkedin.com/comm/jobs/view/993137881?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-43-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer Intern - Summer 2019
+Twilio Inc.
+San Francisco, CA, US
+https://www.linkedin.com/comm/jobs/view/864972640?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-44-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer Intern- Customer Tech
+Walmart Labs
+Sunnyvale, CA, US
+https://www.linkedin.com/comm/jobs/view/1026841883?refId=3D170715cc-406b-48=
+e0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_C=
+RRg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-45-null-null-6r5g=
+pt%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineering Intern=E2=80=94Back End (Summer 2019)
+Guidebook Inc.
+340 Bryant St Suite 400, San Francisco, CA 94107, US
+https://www.linkedin.com/comm/jobs/view/967026194?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-46-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer Intern
+Citrix
+Fort Lauderdale, Florida, US
+https://www.linkedin.com/comm/jobs/view/986074228?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-47-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer Intern - Summer 2019
+Quicken Loans
+Detroit, MI, US
+https://www.linkedin.com/comm/jobs/view/955579079?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-48-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Engineer, Intern (Summer 2019)
+Gusto
+Denver, CO, US
+https://www.linkedin.com/comm/jobs/view/879369948?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_CR=
+Rg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-49-null-null-6r5gp=
+t%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+Software Development Engineer - Intern Herndon,VA
+Amazon Web Services
+Herndon, VA, US
+https://www.linkedin.com/comm/jobs/view/1016621999?refId=3D170715cc-406b-48=
+e0-983f-97c18cf50133&trk=3Deml-vjr-similar-job-title&midToken=3DAQGmOgFoL_C=
+RRg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-50-null-null-6r5g=
+pt%7Ejqprj3rh%7Enh-null-jobs%7Eview&lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+
+Search for more related jobs
+
+----------------------------------------------------------------
+Software Developer Intern - Summer 2019 jobs
+https://www.linkedin.com/comm/jobs/search?keywords=3DSoftware+Developer+Int=
+ern+-+Summer+2019&trk=3Deml-vjr-job-search-title&midToken=3DAQGmOgFoL_CRRg&=
+trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-54-null-null-6r5gpt%7=
+Ejqprj3rh%7Enh-null-jobs%7Ejserp%7Esearch&lipi=3Durn%3Ali%3Apage%3Aemail_em=
+ail_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+Jobs at Quicken Loans
+https://www.linkedin.com/comm/jobs/search?keywords=3DQuicken+Loans&f_C=3D16=
+5627&trk=3Deml-vjr-job-search-company&midToken=3DAQGmOgFoL_CRRg&trkEmail=3D=
+eml-email_jobs_viewed_job_reminder_01-null-53-null-null-6r5gpt%7Ejqprj3rh%7=
+Enh-null-jobs%7Ejserp%7Esearch&lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_vi=
+ewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+Jobs in Detroit, MI, US
+https://www.linkedin.com/comm/jobs/search?locationId=3DPLACES%2Eus%2E1-3-0-=
+82-6&trk=3Deml-vjr-job-search-location&midToken=3DAQGmOgFoL_CRRg&trkEmail=
+=3Deml-email_jobs_viewed_job_reminder_01-null-55-null-null-6r5gpt%7Ejqprj3r=
+h%7Enh-null-jobs%7Ejserp%7Esearch&lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs=
+_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+Search other jobs
+https://www.linkedin.com/comm/jobs/?trk=3Deml-vjr-see-all-jobs&midToken=3DA=
+QGmOgFoL_CRRg&trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-0-null-=
+null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Ehome&lipi=3Durn%3Ali%3Apage%3Aemail=
+_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D
+----------------------------------------------------------------
+
+
+
+
+=20
+
+=20
+
+
+.....................................
+
+Unsubscribe: https://www.linkedin.com/e/v2?e=3D6r5gpt-jqprj3rh-nh&t=3Dlun&m=
+idToken=3DAQGmOgFoL_CRRg&ek=3Demail_jobs_viewed_job_reminder_01&li=3D70&m=
+=3Dunsub&ts=3Dunsub&loid=3DAQHoxHFo6pwd4AAAAWg0wg1r0uTfZPzCLE-Ow8tqWj9CwMBB=
+crZq9mYccaeQyCQN3OtRDuZGQ0OMgNKSXtTmjqk0VzokMJsKfVWWmKs0GErRZV6QkptZdwbN&ei=
+d=3D6r5gpt-jqprj3rh-nh
+
+Help: https://www.linkedin.com/e/v2?e=3D6r5gpt-jqprj3rh-nh&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh8=
+3w%3D%3D&a=3DcustomerServiceUrl&midToken=3DAQGmOgFoL_CRRg&ek=3Demail_jobs_v=
+iewed_job_reminder_01&li=3D69&m=3Dfooter&ts=3Dhelp&articleId=3D67
+
+
+You are receiving LinkedIn notification emails.
+
+This email was intended for Jack Shelata (Computer Science Student -- Unive=
+rsity of Michigan College of Engineering).
+Learn why we included this: https://www.linkedin.com/e/v2?e=3D6r5gpt-jqprj3=
+rh-nh&lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3Bnl=
+QNitdiQhicN9ma%2B%2Fh83w%3D%3D&a=3DcustomerServiceUrl&midToken=3DAQGmOgFoL_=
+CRRg&ek=3Demail_jobs_viewed_job_reminder_01&articleId=3D4788
+
+=C2=A9 2019 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 940=
+85. LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+------=_Part_322178_105577516.1547073359380
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml" lang=3D"en" xml:lang=3D"en"> <head> <meta http-equiv=3D"Co=
+ntent-Type" content=3D"text/html;charset=3Dutf-8"> <meta name=3D"HandheldFr=
+iendly" content=3D"true"> <meta name=3D"viewport" content=3D"width=3Ddevice=
+-width; initial-scale=3D0.666667; maximum-scale=3D0.666667; user-scalable=
+=3D0"> <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <title></t=
+itle> <!--[if mso]><style type=3D"text/css">body {font-family: 'Helvetica N=
+eue', Helvetica, Arial, sans-serif;}.phoenix-email-container {width: 512px =
+!important;}</style><![endif]--> <!--[if IE]><style type=3D"text/css">.phoe=
+nix-email-container {width: 512px !important;}</style><![endif]--> <style t=
+ype=3D"text/css">@media only screen and (max-width:32em) { .phoenix-email-c=
+ontainer { width:100% !important; } } @media only screen and (max-width:20e=
+m) {} @media only screen and (max-device-width:30em) {} @media screen and (=
+device-width:30em) and (device-height:22.5em), screen and (device-width:22.=
+5em) and (device-height:30em), screen and (device-width:20em) and (device-h=
+eight:15em) {} @media screen and (-webkit-min-device-pixel-ratio:0) {} @med=
+ia screen and (max-device-width:25.88em) and (max-device-height:48.5em) {} =
+</style> </head> <body style=3D"padding:0;margin:0 auto;-webkit-text-size-a=
+djust:100%;width:100% !important;-ms-text-size-adjust:100%;font-family:'Hel=
+vetica Neue',Helvetica,Arial,sans-serif;"> <div style=3D"overflow:hidden;co=
+lor:transparent;visibility:hidden;mso-hide:all;width:0;font-size:0;opacity:=
+0;height:0;"> Check out Software Developer Intern - Summer 2019 at Quicken =
+Loans </div> <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" width=3D"100%" bgcolor=3D"#EDF0F3" style=3D"background-color:#ED=
+F0F3;table-layout:fixed;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D=
+"center" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-ta=
+ble-lspace:0pt;-ms-text-size-adjust:100%;"> <center style=3D"width:100%;"> =
+<table border=3D"0" class=3D"phoenix-email-container" cellspacing=3D"0" cel=
+lpadding=3D"0" width=3D"512" bgcolor=3D"#FFFFFF" style=3D"background-color:=
+#FFFFFF;margin:0 auto;max-width:512px;-webkit-text-size-adjust:100%;mso-tab=
+le-rspace:0pt;width:inherit;mso-table-lspace:0pt;-ms-text-size-adjust:100%;=
+"> <tbody> <tr> <td bgcolor=3D"#F6F8FA" style=3D"background-color:#F6F8FA;p=
+adding:5px 16px 13px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso=
+-table-lspace:0pt;-ms-text-size-adjust:100%;border-bottom:1px solid #ECECEC=
+;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;width:100% !imp=
+ortant;mso-table-lspace:0pt;-ms-text-size-adjust:100%;min-width:100% !impor=
+tant;"> <tbody> <tr> <td align=3D"left" valign=3D"middle" style=3D"-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/feed/?midToken=3D=
+AQGmOgFoL_CRRg&amp;trk=3Deml-email_jobs_viewed_job_reminder_01-header-65-ho=
+me&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-header-65-home-null=
+-6r5gpt%7Ejqprj3rh%7Enh-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aem=
+ail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" s=
+tyle=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:=
+inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-height:1 !=
+important;"> <img alt=3D"LinkedIn" border=3D"0" src=3D"https://www.linkedin=
+.com/comm/dms/logo?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_jobs_viewe=
+d_job_reminder_01-null-72-null&amp;trkEmail=3Deml-email_jobs_viewed_job_rem=
+inder_01-null-72-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-comms%7Ebadging%7Edy=
+namic&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%=
+3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D&amp;_sig=3D10W-l5fLPHs8A1" height=3D"42"=
+ style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-de=
+coration:none;"></a></td> <td valign=3D"middle" width=3D"100%" align=3D"rig=
+ht" style=3D"padding:0 0 0 10px;padding-top:7px;-webkit-text-size-adjust:10=
+0%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a=
+ href=3D"https://www.linkedin.com/comm/in/jackshelata?midToken=3DAQGmOgFoL_=
+CRRg&amp;trk=3Deml-email_jobs_viewed_job_reminder_01-header-73-profile&amp;=
+trkEmail=3Deml-email_jobs_viewed_job_reminder_01-header-73-profile-null-6r5=
+gpt%7Ejqprj3rh%7Enh-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3=
+Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%=
+2Fh83w%3D%3D" style=3D"cursor:pointer;margin:0;color:#008CC9;-webkit-text-s=
+ize-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adj=
+ust:100%;line-height:1 !important;"> <span style=3D"word-wrap:break-word;co=
+lor:#4C4C4C;word-break:break-word;font-weight:400;-ms-word-break:break-all;=
+font-size:14px;line-height:1 !important;overflow-wrap:break-word;">Jack She=
+lata</span></a></td> <td valign=3D"middle" width=3D"40" style=3D"padding-to=
+p:7px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:10px;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <a href=3D"https://www.li=
+nkedin.com/comm/in/jackshelata?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-emai=
+l_jobs_viewed_job_reminder_01-header-73-profile&amp;trkEmail=3Deml-email_jo=
+bs_viewed_job_reminder_01-header-73-profile-null-6r5gpt%7Ejqprj3rh%7Enh-nul=
+l-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_emai=
+l_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"=
+border-radius:50%;cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100=
+%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-=
+height:1 !important;"><img alt=3D"" border=3D"0" height=3D"36" width=3D"36"=
+ src=3D"https://media.licdn.com/dms/image/C4E03AQHvz9UfxV0d_Q/profile-displ=
+ayphoto-shrink_100_100/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DvoTV1lizwaePgF=
+ekSeHoLtAnlaRcXUCYI5M4d3rwmxs" style=3D"border-radius:50%;outline:none;-ms-=
+interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></a></td> <=
+td width=3D"1" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;">&nbsp;</td> </tr> </tbody>=
+ </table></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;"> <tbody> <tr> <td style=3D"-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <t=
+able border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolo=
+r=3D"#FFFFFF" align=3D"center" style=3D"background-color:#FFFFFF;padding:0 =
+24px;margin:0 auto;border-top-width:0;-webkit-text-size-adjust:100%;mso-tab=
+le-rspace:0pt;table-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-s=
+ize-adjust:100%;border-bottom:1px solid #D9D9D9;text-align:center;"> <tbody=
+> <tr> <td style=3D"padding:24px 0 8px 0;-webkit-text-size-adjust:100%;mso-=
+table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <h2 styl=
+e=3D"margin:0;color:#262626;font-weight:200;font-size:18px;line-height:1 !i=
+mportant;">Jobs similar to</h2></td> </tr> <tr> <td ltr=3D"" align=3D"cente=
+r" style=3D"padding:0 0 20px 0;-webkit-text-size-adjust:100%;mso-table-rspa=
+ce:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"><=
+a href=3D"https://www.linkedin.com/comm/jobs/view/923064962?refId=3D262e4f4=
+9-2807-4c24-99df-94132cd40b85&amp;trk=3Deml-vjr-viewed-job-title&amp;midTok=
+en=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-nu=
+ll-52-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali=
+%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh=
+83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:1=
+00%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;lin=
+e-height:1 !important;"> <span style=3D"color:#0091CA;font-weight:700;font-=
+size:16px;line-height:20px !important;">Quicken Loans - Software Developer =
+Intern - Summer 2019</span></a></td> </tr> </tbody> </table></td> </tr> <tr=
+> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table=
+-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" s=
+tyle=3D"background-color:#FFFFFF;padding:0 24px;margin:0 auto;-webkit-text-=
+size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;mso-table-lspace:0=
+pt;width:100%;border-bottom-width:0;-ms-text-size-adjust:100%;border-bottom=
+:1px solid #D9D9D9;text-align:center;"> <tbody> <tr> <td style=3D"-webkit-t=
+ext-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-siz=
+e-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/view/10258090=
+57?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-j=
+ob-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed=
+_job_reminder_01-null-1-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&a=
+mp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNi=
+tdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-=
+text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-si=
+ze-adjust:100%;line-height:1 !important;"> <table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center=
+" style=3D"background-color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;display:=
+table;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;border-bott=
+om:1px solid #F3F6F8;text-align:center;"> <tbody> <tr> <td width=3D"48" sty=
+le=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;"><img src=3D"https://media.licdn.com/dms/imag=
+e/C560BAQHikOtYV04YGQ/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&am=
+p;t=3DAnWtvUEbFZTeBgvrhiDURxgjQPCE4FccFIC7wWmhZBc" alt=3D"L3 Technologies" =
+border=3D"0" width=3D"48" style=3D"outline:none;-ms-interpolation-mode:bicu=
+bic;color:#FFFFFF;text-decoration:none;"></td> <td align=3D"left" style=3D"=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:12px;mso-ta=
+ble-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;"> <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFF=
+F" style=3D"background-color:#FFFFFF;margin:0 auto;-webkit-text-size-adjust=
+:100%;mso-table-rspace:0pt;table-layout:fixed;mso-table-lspace:0pt;width:10=
+0%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"padding:8px 0;-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-te=
+xt-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/view/10=
+25809057?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-sim=
+ilar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_=
+viewed_job_reminder_01-null-26-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7=
+Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%=
+3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-=
+webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-=
+text-size-adjust:100%;line-height:1 !important;"> <span style=3D"color:#008=
+cc9;font-weight:700;font-size:14px;line-height:20px !important;">Software E=
+ngineer Intern</span></a></td> </tr> <tr> <td style=3D"-webkit-text-size-ad=
+just:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:10=
+0%;"> <p style=3D"margin:0;color:#737373;font-weight:400;font-size:14px;lin=
+e-height:1 !important;">L3 Technologies =C2=B7 Nashville, TN, US</p></td> <=
+/tr> </tbody> </table></td> </tr> </tbody> </table></a><a href=3D"https://w=
+ww.linkedin.com/comm/jobs/view/957903255?refId=3D170715cc-406b-48e0-983f-97=
+c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midToken=3DAQGmOgFoL_CRR=
+g&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-2-null-null-6r5=
+gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_ema=
+il_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D=
+"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-=
+block;text-decoration:none;-ms-text-size-adjust:100%;line-height:1 !importa=
+nt;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"background-color:#FFFFFF;pa=
+dding:24px 0 24px 0;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-r=
+space:0pt;table-layout:fixed;display:table;mso-table-lspace:0pt;width:100%;=
+-ms-text-size-adjust:100%;border-bottom:1px solid #F3F6F8;text-align:center=
+;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><img sr=
+c=3D"https://media.licdn.com/dms/image/C4D0BAQHcZzoBjmYdvA/company-logo_200=
+_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DQJwdcYX1gH4skhFy_0Q9p3VVgovC7N8q=
+uChFT5zQVl0" alt=3D"Adobe" border=3D"0" width=3D"48" style=3D"outline:none;=
+-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></td> <=
+td align=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0=
+pt;padding-left:12px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-al=
+ign:left;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;margin:0 au=
+to;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;ms=
+o-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td=
+ style=3D"padding:8px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.lin=
+kedin.com/comm/jobs/view/957903255?refId=3D170715cc-406b-48e0-983f-97c18cf5=
+0133&amp;trk=3Deml-vjr-similar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;=
+trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-27-null-null-6r5gpt%7=
+Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"curs=
+or:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block=
+;text-decoration:none;-ms-text-size-adjust:100%;line-height:1 !important;">=
+ <span style=3D"color:#008cc9;font-weight:700;font-size:14px;line-height:20=
+px !important;">Software Engineer Intern - Machine Learning</span></a></td>=
+ </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt=
+;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin:0;col=
+or:#737373;font-weight:400;font-size:14px;line-height:1 !important;">Adobe =
+=C2=B7 San Jose, CA, US</p></td> </tr> </tbody> </table></td> </tr> </tbody=
+> </table></a><a href=3D"https://www.linkedin.com/comm/jobs/view/953831114?=
+refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-=
+apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_jo=
+b_reminder_01-null-3-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;=
+lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdi=
+QhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-tex=
+t-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-=
+adjust:100%;line-height:1 !important;"> <table border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" st=
+yle=3D"background-color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;display:tabl=
+e;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1=
+px solid #F3F6F8;text-align:center;"> <tbody> <tr> <td width=3D"48" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;"><img src=3D"https://media.licdn.com/dms/image/=
+C4D0BAQHcZzoBjmYdvA/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;=
+t=3DQJwdcYX1gH4skhFy_0Q9p3VVgovC7N8quChFT5zQVl0" alt=3D"Adobe" border=3D"0"=
+ width=3D"48" style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#F=
+FFFFF;text-decoration:none;"></td> <td align=3D"left" style=3D"-webkit-text=
+-size-adjust:100%;mso-table-rspace:0pt;padding-left:12px;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;text-align:left;"> <table border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"ba=
+ckground-color:#FFFFFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-tabl=
+e-rspace:0pt;table-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-si=
+ze-adjust:100%;"> <tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size=
+-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust=
+:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/view/953831114?refId=
+=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title=
+&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_rem=
+inder_01-null-28-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhic=
+N9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-si=
+ze-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adju=
+st:100%;line-height:1 !important;"> <span style=3D"color:#008cc9;font-weigh=
+t:700;font-size:14px;line-height:20px !important;">Software Engineer Intern=
+</span></a></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-=
+table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=
+=3D"margin:0;color:#737373;font-weight:400;font-size:14px;line-height:1 !im=
+portant;">Adobe =C2=B7 San Jose, CA, US</p></td> </tr> </tbody> </table></t=
+d> </tr> </tbody> </table></a><a href=3D"https://www.linkedin.com/comm/jobs=
+/view/1035180833?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml=
+-vjr-similar-job-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-ema=
+il_jobs_viewed_job_reminder_01-null-4-null-null-6r5gpt%7Ejqprj3rh%7Enh-null=
+-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_remin=
+der_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#0=
+08CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:no=
+ne;-ms-text-size-adjust:100%;line-height:1 !important;"> <table border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" al=
+ign=3D"center" style=3D"background-color:#FFFFFF;padding:24px 0 24px 0;marg=
+in:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:f=
+ixed;display:table;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100=
+%;border-bottom:1px solid #F3F6F8;text-align:center;"> <tbody> <tr> <td wid=
+th=3D"48" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;"><img src=3D"https://media.licdn=
+.com/dms/image/C4E0BAQENGF_f27EylA/company-logo_200_200/0?e=3D2159024400&am=
+p;v=3Dbeta&amp;t=3D3xorvVxkJSot_VRRfcB9UJzeJUw-ptoJA4MN_lrsWBw" alt=3D"Unit=
+y Technologies" border=3D"0" width=3D"48" style=3D"outline:none;-ms-interpo=
+lation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></td> <td align=3D=
+"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-=
+left:12px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;">=
+ <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgc=
+olor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;margin:0 auto;-webkit-te=
+xt-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;mso-table-lspac=
+e:0pt;width:100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"pad=
+ding:8px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lsp=
+ace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/com=
+m/jobs/view/1035180833?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=
+=3Deml-vjr-similar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3De=
+ml-email_jobs_viewed_job_reminder_01-null-29-null-null-6r5gpt%7Ejqprj3rh%7E=
+nh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_jo=
+b_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;c=
+olor:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decora=
+tion:none;-ms-text-size-adjust:100%;line-height:1 !important;"> <span style=
+=3D"color:#008cc9;font-weight:700;font-size:14px;line-height:20px !importan=
+t;">Software Developer Intern</span></a></td> </tr> <tr> <td style=3D"-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weight:400;fon=
+t-size:14px;line-height:1 !important;">Unity Technologies =C2=B7 Austin, TX=
+, US</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></a><a hr=
+ef=3D"https://www.linkedin.com/comm/jobs/view/978656000?refId=3D170715cc-40=
+6b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midToken=
+=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null=
+-5-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w=
+%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%=
+;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-h=
+eight:1 !important;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"background-=
+color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;table-layout:fixed;display:table;mso-table-lspace=
+:0pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1px solid #F3F6F8;t=
+ext-align:center;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-text-siz=
+e-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjus=
+t:100%;"><img src=3D"https://media.licdn.com/dms/image/C4E0BAQEnrNSWCkgKWg/=
+company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DzXZLqreoWoFDlkx5=
+p99fDMCJfkhZmGh2y88MkUBmy-c" alt=3D"Bottomline Technologies" border=3D"0" w=
+idth=3D"48" style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFF=
+FFF;text-decoration:none;"></td> <td align=3D"left" style=3D"-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;padding-left:12px;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;text-align:left;"> <table border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"back=
+ground-color:#FFFFFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-=
+rspace:0pt;table-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size=
+-adjust:100%;"> <tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size-a=
+djust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:1=
+00%;"><a href=3D"https://www.linkedin.com/comm/jobs/view/978656000?refId=3D=
+170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title&am=
+p;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_remind=
+er_01-null-30-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3D=
+urn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9m=
+a%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-=
+adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:=
+100%;line-height:1 !important;"> <span style=3D"color:#008cc9;font-weight:7=
+00;font-size:14px;line-height:20px !important;">Internship - Software Devel=
+oper</span></a></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;=
+mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p s=
+tyle=3D"margin:0;color:#737373;font-weight:400;font-size:14px;line-height:1=
+ !important;">Bottomline Technologies =C2=B7 Portsmouth, NH, US</p></td> </=
+tr> </tbody> </table></td> </tr> </tbody> </table></a><a href=3D"https://ww=
+w.linkedin.com/comm/jobs/view/1017158837?refId=3D170715cc-406b-48e0-983f-97=
+c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midToken=3DAQGmOgFoL_CRR=
+g&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-6-null-null-6r5=
+gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_ema=
+il_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D=
+"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-=
+block;text-decoration:none;-ms-text-size-adjust:100%;line-height:1 !importa=
+nt;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"background-color:#FFFFFF;pa=
+dding:24px 0 24px 0;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-r=
+space:0pt;table-layout:fixed;display:table;mso-table-lspace:0pt;width:100%;=
+-ms-text-size-adjust:100%;border-bottom:1px solid #F3F6F8;text-align:center=
+;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><img sr=
+c=3D"https://media.licdn.com/dms/image/C4E0BAQHtA45n1bY3tQ/company-logo_200=
+_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DmvAU7lR7Eng2Qs_tr7VW_iC7243R591Q=
+von0vRSHPw0" alt=3D"Cloudera" border=3D"0" width=3D"48" style=3D"outline:no=
+ne;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></td=
+> <td align=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;padding-left:12px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text=
+-align:left;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;margin:0 a=
+uto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;m=
+so-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <t=
+d style=3D"padding:8px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt=
+;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.li=
+nkedin.com/comm/jobs/view/1017158837?refId=3D170715cc-406b-48e0-983f-97c18c=
+f50133&amp;trk=3Deml-vjr-similar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&am=
+p;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-31-null-null-6r5gpt=
+%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_=
+jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cu=
+rsor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-blo=
+ck;text-decoration:none;-ms-text-size-adjust:100%;line-height:1 !important;=
+"> <span style=3D"color:#008cc9;font-weight:700;font-size:14px;line-height:=
+20px !important;">Software Engineer, Intern</span></a></td> </tr> <tr> <td =
+style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspac=
+e:0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-=
+weight:400;font-size:14px;line-height:1 !important;">Cloudera =C2=B7 Austin=
+, TX, US</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></a><=
+a href=3D"https://www.linkedin.com/comm/jobs/view/942251966?refId=3D170715c=
+c-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midTo=
+ken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-n=
+ull-7-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali=
+%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh=
+83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:1=
+00%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;lin=
+e-height:1 !important;"> <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"backgro=
+und-color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-text-size-adj=
+ust:100%;mso-table-rspace:0pt;table-layout:fixed;display:table;mso-table-ls=
+pace:0pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1px solid #F3F6=
+F8;text-align:center;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-text=
+-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-a=
+djust:100%;"><img src=3D"https://media.licdn.com/dms/image/C560BAQGKuFeBqNQ=
+Kmg/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3D2mGPH2NluVc_=
+ZaFlkRwW56Eq9PZ09c9rRvyOSYltSK8" alt=3D"Snowflake Computing" border=3D"0" w=
+idth=3D"48" style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFF=
+FFF;text-decoration:none;"></td> <td align=3D"left" style=3D"-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;padding-left:12px;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;text-align:left;"> <table border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"back=
+ground-color:#FFFFFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-=
+rspace:0pt;table-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size=
+-adjust:100%;"> <tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size-a=
+djust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:1=
+00%;"><a href=3D"https://www.linkedin.com/comm/jobs/view/942251966?refId=3D=
+170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title&am=
+p;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_remind=
+er_01-null-32-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3D=
+urn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9m=
+a%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-=
+adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:=
+100%;line-height:1 !important;"> <span style=3D"color:#008cc9;font-weight:7=
+00;font-size:14px;line-height:20px !important;">Intern - Software Engineer =
+(San Mateo) - 2019 Summer</span></a></td> </tr> <tr> <td style=3D"-webkit-t=
+ext-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-siz=
+e-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weight:400;font-si=
+ze:14px;line-height:1 !important;">Snowflake Computing =C2=B7 San Mateo, CA=
+, US</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></a><a hr=
+ef=3D"https://www.linkedin.com/comm/jobs/view/1017994101?refId=3D170715cc-4=
+06b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midToken=
+=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null=
+-8-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w=
+%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%=
+;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-h=
+eight:1 !important;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"background-=
+color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;table-layout:fixed;display:table;mso-table-lspace=
+:0pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1px solid #F3F6F8;t=
+ext-align:center;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-text-siz=
+e-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjus=
+t:100%;"><img src=3D"https://media.licdn.com/dms/image/C4E0BAQFjqpkLODNJcQ/=
+company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DRhg0mbfcSimoOIEX=
+PAMBKjTsTXnTOEnEBYTci70JVVs" alt=3D"Quora" border=3D"0" width=3D"48" style=
+=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decorati=
+on:none;"></td> <td align=3D"left" style=3D"-webkit-text-size-adjust:100%;m=
+so-table-rspace:0pt;padding-left:12px;mso-table-lspace:0pt;-ms-text-size-ad=
+just:100%;text-align:left;"> <table border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-color:#FFF=
+FFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-=
+layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;"> <=
+tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"=
+https://www.linkedin.com/comm/jobs/view/1017994101?refId=3D170715cc-406b-48=
+e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title&amp;midToken=3DAQG=
+mOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-33-nu=
+ll-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%=
+3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3=
+D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;disp=
+lay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-height=
+:1 !important;"> <span style=3D"color:#008cc9;font-weight:700;font-size:14p=
+x;line-height:20px !important;">Software Engineer - Intern 2019</span></a><=
+/td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace=
+:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin:0=
+;color:#737373;font-weight:400;font-size:14px;line-height:1 !important;">Qu=
+ora =C2=B7 Mountain View, CA, US</p></td> </tr> </tbody> </table></td> </tr=
+> </tbody> </table></a><a href=3D"https://www.linkedin.com/comm/jobs/view/8=
+98064542?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-sim=
+ilar-job-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_=
+viewed_job_reminder_01-null-9-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7E=
+view&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3=
+BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-w=
+ebkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-t=
+ext-size-adjust:100%;line-height:1 !important;"> <table border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"c=
+enter" style=3D"background-color:#FFFFFF;padding:24px 0 24px 0;margin:0 aut=
+o;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;dis=
+play:table;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;border=
+-bottom:1px solid #F3F6F8;text-align:center;"> <tbody> <tr> <td width=3D"48=
+" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lsp=
+ace:0pt;-ms-text-size-adjust:100%;"><img src=3D"https://media.licdn.com/dms=
+/image/C4E0BAQECg2yHX1-e1w/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbe=
+ta&amp;t=3DqKtUPjphdTenQz6R2EpZukv8f8S1uiqf0az2lk5k04o" alt=3D"Pocket Gems"=
+ border=3D"0" width=3D"48" style=3D"outline:none;-ms-interpolation-mode:bic=
+ubic;color:#FFFFFF;text-decoration:none;"></td> <td align=3D"left" style=3D=
+"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:12px;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;"> <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFF=
+F" style=3D"background-color:#FFFFFF;margin:0 auto;-webkit-text-size-adjust=
+:100%;mso-table-rspace:0pt;table-layout:fixed;mso-table-lspace:0pt;width:10=
+0%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"padding:8px 0;-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-te=
+xt-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/view/89=
+8064542?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-simi=
+lar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_v=
+iewed_job_reminder_01-null-34-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7E=
+view&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3=
+BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-w=
+ebkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-t=
+ext-size-adjust:100%;line-height:1 !important;"> <span style=3D"color:#008c=
+c9;font-weight:700;font-size:14px;line-height:20px !important;">Software En=
+gineer, Summer Intern 2019</span></a></td> </tr> <tr> <td style=3D"-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weight:400;font-s=
+ize:14px;line-height:1 !important;">Pocket Gems =C2=B7 San Francisco, CA, U=
+S</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></a><a href=
+=3D"https://www.linkedin.com/comm/jobs/view/925451760?refId=3D170715cc-406b=
+-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midToken=3D=
+AQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-10=
+-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apa=
+ge%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3=
+D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;d=
+isplay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-hei=
+ght:1 !important;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"background-co=
+lor:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-text-size-adjust:10=
+0%;mso-table-rspace:0pt;table-layout:fixed;display:table;mso-table-lspace:0=
+pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1px solid #F3F6F8;tex=
+t-align:center;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-text-size-=
+adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:=
+100%;"><img src=3D"https://media.licdn.com/dms/image/C4E0BAQGDhe1tpjntCw/co=
+mpany-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DliPa3S3kx3PXFKtTwF=
+VKhtzDOSFi7gQbrS5iJkerwMA" alt=3D"Pure Storage" border=3D"0" width=3D"48" s=
+tyle=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-deco=
+ration:none;"></td> <td align=3D"left" style=3D"-webkit-text-size-adjust:10=
+0%;mso-table-rspace:0pt;padding-left:12px;mso-table-lspace:0pt;-ms-text-siz=
+e-adjust:100%;text-align:left;"> <table border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-color:=
+#FFFFFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;ta=
+ble-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;=
+"> <tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=
+=3D"https://www.linkedin.com/comm/jobs/view/925451760?refId=3D170715cc-406b=
+-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title&amp;midToken=3D=
+AQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-35=
+-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apa=
+ge%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3=
+D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;d=
+isplay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-hei=
+ght:1 !important;"> <span style=3D"color:#008cc9;font-weight:700;font-size:=
+14px;line-height:20px !important;">2019 Software Engineer Intern (BEL)</spa=
+n></a></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"m=
+argin:0;color:#737373;font-weight:400;font-size:14px;line-height:1 !importa=
+nt;">Pure Storage =C2=B7 Bellevue, WA, US</p></td> </tr> </tbody> </table><=
+/td> </tr> </tbody> </table></a><a href=3D"https://www.linkedin.com/comm/jo=
+bs/view/1029291717?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3De=
+ml-vjr-similar-job-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-e=
+mail_jobs_viewed_job_reminder_01-null-11-null-null-6r5gpt%7Ejqprj3rh%7Enh-n=
+ull-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_re=
+minder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color=
+:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration=
+:none;-ms-text-size-adjust:100%;line-height:1 !important;"> <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFF=
+F" align=3D"center" style=3D"background-color:#FFFFFF;padding:24px 0 24px 0=
+;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-lay=
+out:fixed;display:table;mso-table-lspace:0pt;width:100%;-ms-text-size-adjus=
+t:100%;border-bottom:1px solid #F3F6F8;text-align:center;"> <tbody> <tr> <t=
+d width=3D"48" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><img src=3D"https://media.=
+licdn.com/dms/image/C4D0BAQF0uyE7RGKDGg/company-logo_200_200/0?e=3D21590244=
+00&amp;v=3Dbeta&amp;t=3DBCw73oRHv2piPKG4l3T2Vm9EWI3mbKAyEfOHR6U4VR4" alt=3D=
+"Bloomberg LP" border=3D"0" width=3D"48" style=3D"outline:none;-ms-interpol=
+ation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></td> <td align=3D"=
+left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-l=
+eft:12px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;"> =
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;margin:0 auto;-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;mso-table-lspace=
+:0pt;width:100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"padd=
+ing:8px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspa=
+ce:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm=
+/jobs/view/1029291717?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=
+=3Deml-vjr-similar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3De=
+ml-email_jobs_viewed_job_reminder_01-null-36-null-null-6r5gpt%7Ejqprj3rh%7E=
+nh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_jo=
+b_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;c=
+olor:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decora=
+tion:none;-ms-text-size-adjust:100%;line-height:1 !important;"> <span style=
+=3D"color:#008cc9;font-weight:700;font-size:14px;line-height:20px !importan=
+t;">2019 Software Engineer Intern</span></a></td> </tr> <tr> <td style=3D"-=
+webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-=
+text-size-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weight:400=
+;font-size:14px;line-height:1 !important;">Bloomberg LP =C2=B7 New York Cit=
+y, NY, US</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></a>=
+<a href=3D"https://www.linkedin.com/comm/jobs/view/836036424?refId=3D170715=
+cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midT=
+oken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-=
+null-12-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3A=
+li%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2=
+Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust=
+:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;l=
+ine-height:1 !important;"> <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"backgr=
+ound-color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-text-size-ad=
+just:100%;mso-table-rspace:0pt;table-layout:fixed;display:table;mso-table-l=
+space:0pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1px solid #F3F=
+6F8;text-align:center;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-=
+adjust:100%;"><img src=3D"https://media.licdn.com/dms/image/C4D0BAQHi-82ItM=
+q_9g/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DDBTnfI7EXCC=
+PkUcWFKVvMINmnT33_xpVyXw_Zke_37I" alt=3D"Amazon" border=3D"0" width=3D"48" =
+style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-dec=
+oration:none;"></td> <td align=3D"left" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;padding-left:12px;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;text-align:left;"> <table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-color=
+:#FFFFFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;t=
+able-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%=
+;"> <tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size-adjust:100%;m=
+so-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a hre=
+f=3D"https://www.linkedin.com/comm/jobs/view/836036424?refId=3D170715cc-406=
+b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title&amp;midToken=
+=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null=
+-37-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3=
+Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83=
+w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100=
+%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-=
+height:1 !important;"> <span style=3D"color:#008cc9;font-weight:700;font-si=
+ze:14px;line-height:20px !important;">Software Development Engineer Interns=
+hip - Summer 2019 (United States)</span></a></td> </tr> <tr> <td style=3D"-=
+webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-=
+text-size-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weight:400=
+;font-size:14px;line-height:1 !important;">Amazon =C2=B7 Seattle, WA, US</p=
+></td> </tr> </tbody> </table></td> </tr> </tbody> </table></a><a href=3D"h=
+ttps://www.linkedin.com/comm/jobs/view/988571249?refId=3D170715cc-406b-48e0=
+-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midToken=3DAQGmO=
+gFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-13-null=
+-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3A=
+email_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D"=
+ style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;displa=
+y:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-height:1=
+ !important;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"background-color:#=
+FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;table-layout:fixed;display:table;mso-table-lspace:0pt;wi=
+dth:100%;-ms-text-size-adjust:100%;border-bottom:1px solid #F3F6F8;text-ali=
+gn:center;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-text-size-adjus=
+t:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;=
+"><img src=3D"https://media.licdn.com/dms/image/C4D0BAQFt-PcKm4AkBw/company=
+-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3D-dG9vEL7fanjg_D6PDITphY=
+U_tDu9axEr35MD8E7IaA" alt=3D"Oscar Health" border=3D"0" width=3D"48" style=
+=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decorati=
+on:none;"></td> <td align=3D"left" style=3D"-webkit-text-size-adjust:100%;m=
+so-table-rspace:0pt;padding-left:12px;mso-table-lspace:0pt;-ms-text-size-ad=
+just:100%;text-align:left;"> <table border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-color:#FFF=
+FFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-=
+layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;"> <=
+tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"=
+https://www.linkedin.com/comm/jobs/view/988571249?refId=3D170715cc-406b-48e=
+0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title&amp;midToken=3DAQGm=
+OgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-38-nul=
+l-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3=
+Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D=
+" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;displ=
+ay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-height:=
+1 !important;"> <span style=3D"color:#008cc9;font-weight:700;font-size:14px=
+;line-height:20px !important;">Software Engineer: Intern 2019 - Web &amp; M=
+obile</span></a></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%=
+;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p =
+style=3D"margin:0;color:#737373;font-weight:400;font-size:14px;line-height:=
+1 !important;">Oscar Health =C2=B7 New York City, NY, US</p></td> </tr> </t=
+body> </table></td> </tr> </tbody> </table></a><a href=3D"https://www.linke=
+din.com/comm/jobs/view/1018589545?refId=3D170715cc-406b-48e0-983f-97c18cf50=
+133&amp;trk=3Deml-vjr-similar-job-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;t=
+rkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-14-null-null-6r5gpt%7E=
+jqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_job=
+s_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"curso=
+r:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;=
+text-decoration:none;-ms-text-size-adjust:100%;line-height:1 !important;"> =
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#FFFFFF" align=3D"center" style=3D"background-color:#FFFFFF;padding:=
+24px 0 24px 0;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:=
+0pt;table-layout:fixed;display:table;mso-table-lspace:0pt;width:100%;-ms-te=
+xt-size-adjust:100%;border-bottom:1px solid #F3F6F8;text-align:center;"> <t=
+body> <tr> <td width=3D"48" style=3D"-webkit-text-size-adjust:100%;mso-tabl=
+e-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><img src=3D"h=
+ttps://media.licdn.com/dms/image/C4E0BAQFSES2-QTBZ5Q/company-logo_200_200/0=
+?e=3D2159024400&amp;v=3Dbeta&amp;t=3DOlhJuXTawDSjZ7lSu-e87KcyGdan_Z2u6U-HFn=
+Pys5Q" alt=3D"Walmart" border=3D"0" width=3D"48" style=3D"outline:none;-ms-=
+interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></td> <td a=
+lign=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;p=
+adding-left:12px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:=
+left;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"10=
+0%" bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;margin:0 auto;-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;mso-tabl=
+e-lspace:0pt;width:100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=
+=3D"padding:8px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-ta=
+ble-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.=
+com/comm/jobs/view/1018589545?refId=3D170715cc-406b-48e0-983f-97c18cf50133&=
+amp;trk=3Deml-vjr-similar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEm=
+ail=3Deml-email_jobs_viewed_job_reminder_01-null-39-null-null-6r5gpt%7Ejqpr=
+j3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_vi=
+ewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:po=
+inter;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text=
+-decoration:none;-ms-text-size-adjust:100%;line-height:1 !important;"> <spa=
+n style=3D"color:#008cc9;font-weight:700;font-size:14px;line-height:20px !i=
+mportant;">Software Engineer Intern- Customer Tech</span></a></td> </tr> <t=
+r> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tabl=
+e-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin:0;color:#73737=
+3;font-weight:400;font-size:14px;line-height:1 !important;">Walmart =C2=B7 =
+Sunnyvale, CA, US</p></td> </tr> </tbody> </table></td> </tr> </tbody> </ta=
+ble></a><a href=3D"https://www.linkedin.com/comm/jobs/view/1021689349?refId=
+=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply=
+&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_rem=
+inder_01-null-15-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhic=
+N9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-si=
+ze-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adju=
+st:100%;line-height:1 !important;"> <table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=
+=3D"background-color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-te=
+xt-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;display:table;m=
+so-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1px =
+solid #F3F6F8;text-align:center;"> <tbody> <tr> <td width=3D"48" style=3D"-=
+webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-=
+text-size-adjust:100%;"><img src=3D"https://media.licdn.com/dms/image/C510B=
+AQHGqjx5Q70f-w/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DU=
+oDmMAEzktEZZvWqqv0ghfZ_dNPydF23GDFzYkQwCu0" alt=3D"Compassion International=
+" border=3D"0" width=3D"48" style=3D"outline:none;-ms-interpolation-mode:bi=
+cubic;color:#FFFFFF;text-decoration:none;"></td> <td align=3D"left" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:12px;ms=
+o-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;"> <table bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFF=
+FFF" style=3D"background-color:#FFFFFF;margin:0 auto;-webkit-text-size-adju=
+st:100%;mso-table-rspace:0pt;table-layout:fixed;mso-table-lspace:0pt;width:=
+100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"padding:8px 0;-=
+webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-=
+text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/view/=
+1021689349?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-s=
+imilar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_job=
+s_viewed_job_reminder_01-null-40-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs=
+%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_0=
+1%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9=
+;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-m=
+s-text-size-adjust:100%;line-height:1 !important;"> <span style=3D"color:#0=
+08cc9;font-weight:700;font-size:14px;line-height:20px !important;">Software=
+ Engineer Intern</span></a></td> </tr> <tr> <td style=3D"-webkit-text-size-=
+adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:=
+100%;"> <p style=3D"margin:0;color:#737373;font-weight:400;font-size:14px;l=
+ine-height:1 !important;">Compassion International =C2=B7 12290 Voyager Pkw=
+y, Colorado Springs, CO 80918, US</p></td> </tr> </tbody> </table></td> </t=
+r> </tbody> </table></a><a href=3D"https://www.linkedin.com/comm/jobs/view/=
+953830654?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-si=
+milar-job-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs=
+_viewed_job_reminder_01-null-16-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%=
+7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01=
+%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;=
+-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms=
+-text-size-adjust:100%;line-height:1 !important;"> <table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D=
+"center" style=3D"background-color:#FFFFFF;padding:24px 0 24px 0;margin:0 a=
+uto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;d=
+isplay:table;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;bord=
+er-bottom:1px solid #F3F6F8;text-align:center;"> <tbody> <tr> <td width=3D"=
+48" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-l=
+space:0pt;-ms-text-size-adjust:100%;"><img src=3D"https://media.licdn.com/d=
+ms/image/C4D0BAQHcZzoBjmYdvA/company-logo_200_200/0?e=3D2159024400&amp;v=3D=
+beta&amp;t=3DQJwdcYX1gH4skhFy_0Q9p3VVgovC7N8quChFT5zQVl0" alt=3D"Adobe" bor=
+der=3D"0" width=3D"48" style=3D"outline:none;-ms-interpolation-mode:bicubic=
+;color:#FFFFFF;text-decoration:none;"></td> <td align=3D"left" style=3D"-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:12px;mso-table=
+-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;"> <table border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" st=
+yle=3D"background-color:#FFFFFF;margin:0 auto;-webkit-text-size-adjust:100%=
+;mso-table-rspace:0pt;table-layout:fixed;mso-table-lspace:0pt;width:100%;-m=
+s-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"padding:8px 0;-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/view/9538306=
+54?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-j=
+ob-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed=
+_job_reminder_01-null-41-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&=
+amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQN=
+itdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit=
+-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-s=
+ize-adjust:100%;line-height:1 !important;"> <span style=3D"color:#008cc9;fo=
+nt-weight:700;font-size:14px;line-height:20px !important;">Software Develop=
+er Intern</span></a></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">=
+ <p style=3D"margin:0;color:#737373;font-weight:400;font-size:14px;line-hei=
+ght:1 !important;">Adobe =C2=B7 San Jose, CA, US</p></td> </tr> </tbody> </=
+table></td> </tr> </tbody> </table></a><a href=3D"https://www.linkedin.com/=
+comm/jobs/view/925631748?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;t=
+rk=3Deml-vjr-similar-job-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=
+=3Deml-email_jobs_viewed_job_reminder_01-null-17-null-null-6r5gpt%7Ejqprj3r=
+h%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewe=
+d_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:point=
+er;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-de=
+coration:none;-ms-text-size-adjust:100%;line-height:1 !important;"> <table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"=
+#FFFFFF" align=3D"center" style=3D"background-color:#FFFFFF;padding:24px 0 =
+24px 0;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;tab=
+le-layout:fixed;display:table;mso-table-lspace:0pt;width:100%;-ms-text-size=
+-adjust:100%;border-bottom:1px solid #F3F6F8;text-align:center;"> <tbody> <=
+tr> <td width=3D"48" style=3D"-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><img src=3D"https://=
+media.licdn.com/dms/image/C4E0BAQHvU1_FiUVtRg/company-logo_200_200/0?e=3D21=
+59024400&amp;v=3Dbeta&amp;t=3DotbHxsv_A7-YwQTuHvpCxi5b3X5QYEQU3IYP3YVsGRI" =
+alt=3D"Chegg Inc." border=3D"0" width=3D"48" style=3D"outline:none;-ms-inte=
+rpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></td> <td align=
+=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;paddi=
+ng-left:12px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:left=
+;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;margin:0 auto;-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;mso-table-ls=
+pace:0pt;width:100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"=
+padding:8px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-=
+lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/=
+comm/jobs/view/925631748?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;t=
+rk=3Deml-vjr-similar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=
+=3Deml-email_jobs_viewed_job_reminder_01-null-42-null-null-6r5gpt%7Ejqprj3r=
+h%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewe=
+d_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:point=
+er;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-de=
+coration:none;-ms-text-size-adjust:100%;line-height:1 !important;"> <span s=
+tyle=3D"color:#008cc9;font-weight:700;font-size:14px;line-height:20px !impo=
+rtant;">Software Engineer Intern (2019)</span></a></td> </tr> <tr> <td styl=
+e=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0p=
+t;-ms-text-size-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weig=
+ht:400;font-size:14px;line-height:1 !important;">Chegg Inc. =C2=B7 Santa Cl=
+ara, CA, US</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></=
+a><a href=3D"https://www.linkedin.com/comm/jobs/view/993137881?refId=3D1707=
+15cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;mi=
+dToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_0=
+1-null-18-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%=
+3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B=
+%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adju=
+st:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%=
+;line-height:1 !important;"> <table border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"back=
+ground-color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-text-size-=
+adjust:100%;mso-table-rspace:0pt;table-layout:fixed;display:table;mso-table=
+-lspace:0pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1px solid #F=
+3F6F8;text-align:center;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-t=
+ext-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-siz=
+e-adjust:100%;"><img src=3D"https://media.licdn.com/dms/image/C4E0BAQEyjZeL=
+QtxoNA/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DRNGIfhWS1=
+H0w60aVG4T_SeYF5xwlCQVPuMwhmSpYZq8" alt=3D"Datadog" border=3D"0" width=3D"4=
+8" style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-=
+decoration:none;"></td> <td align=3D"left" style=3D"-webkit-text-size-adjus=
+t:100%;mso-table-rspace:0pt;padding-left:12px;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;text-align:left;"> <table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-co=
+lor:#FFFFFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0p=
+t;table-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:1=
+00%;"> <tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a =
+href=3D"https://www.linkedin.com/comm/jobs/view/993137881?refId=3D170715cc-=
+406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title&amp;midToke=
+n=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-nul=
+l-43-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh8=
+3w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:10=
+0%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line=
+-height:1 !important;"> <span style=3D"color:#008cc9;font-weight:700;font-s=
+ize:14px;line-height:20px !important;">Software Engineer - Intern</span></a=
+></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspa=
+ce:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin=
+:0;color:#737373;font-weight:400;font-size:14px;line-height:1 !important;">=
+Datadog =C2=B7 New York City, NY, US</p></td> </tr> </tbody> </table></td> =
+</tr> </tbody> </table></a><a href=3D"https://www.linkedin.com/comm/jobs/vi=
+ew/864972640?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr=
+-similar-job-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_j=
+obs_viewed_job_reminder_01-null-19-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jo=
+bs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder=
+_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008C=
+C9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;=
+-ms-text-size-adjust:100%;line-height:1 !important;"> <table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=
+=3D"center" style=3D"background-color:#FFFFFF;padding:24px 0 24px 0;margin:=
+0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixe=
+d;display:table;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;b=
+order-bottom:1px solid #F3F6F8;text-align:center;"> <tbody> <tr> <td width=
+=3D"48" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tab=
+le-lspace:0pt;-ms-text-size-adjust:100%;"><img src=3D"https://media.licdn.c=
+om/dms/image/C4D0BAQF0HvLy2VFhVQ/company-logo_200_200/0?e=3D2159024400&amp;=
+v=3Dbeta&amp;t=3DamiLFbLzEYOjMs1GmxutwEE0gGhiYAPx_KQNByYteAk" alt=3D"Twilio=
+ Inc." border=3D"0" width=3D"48" style=3D"outline:none;-ms-interpolation-mo=
+de:bicubic;color:#FFFFFF;text-decoration:none;"></td> <td align=3D"left" st=
+yle=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:12px=
+;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;"> <table b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#=
+FFFFFF" style=3D"background-color:#FFFFFF;margin:0 auto;-webkit-text-size-a=
+djust:100%;mso-table-rspace:0pt;table-layout:fixed;mso-table-lspace:0pt;wid=
+th:100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"padding:8px =
+0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-=
+ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/vi=
+ew/864972640?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr=
+-similar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_j=
+obs_viewed_job_reminder_01-null-44-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jo=
+bs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder=
+_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008C=
+C9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;=
+-ms-text-size-adjust:100%;line-height:1 !important;"> <span style=3D"color:=
+#008cc9;font-weight:700;font-size:14px;line-height:20px !important;">Softwa=
+re Engineer Intern - Summer 2019</span></a></td> </tr> <tr> <td style=3D"-w=
+ebkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-t=
+ext-size-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weight:400;=
+font-size:14px;line-height:1 !important;">Twilio Inc. =C2=B7 San Francisco,=
+ CA, US</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></a><a=
+ href=3D"https://www.linkedin.com/comm/jobs/view/1026841883?refId=3D170715c=
+c-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midTo=
+ken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-n=
+ull-20-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Al=
+i%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2F=
+h83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:=
+100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;li=
+ne-height:1 !important;"> <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"backgro=
+und-color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-text-size-adj=
+ust:100%;mso-table-rspace:0pt;table-layout:fixed;display:table;mso-table-ls=
+pace:0pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1px solid #F3F6=
+F8;text-align:center;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-text=
+-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-a=
+djust:100%;"><img src=3D"https://media.licdn.com/dms/image/C510BAQEX0toqVr4=
+s0A/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DuoiG2BtcqGaK=
+0O284qIFpo8_6BHlLN-1kBYS3xGZWaM" alt=3D"Walmart Labs" border=3D"0" width=3D=
+"48" style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;tex=
+t-decoration:none;"></td> <td align=3D"left" style=3D"-webkit-text-size-adj=
+ust:100%;mso-table-rspace:0pt;padding-left:12px;mso-table-lspace:0pt;-ms-te=
+xt-size-adjust:100%;text-align:left;"> <table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-=
+color:#FFFFFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:=
+0pt;table-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust=
+:100%;"> <tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><=
+a href=3D"https://www.linkedin.com/comm/jobs/view/1026841883?refId=3D170715=
+cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title&amp;midT=
+oken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-=
+null-45-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3A=
+li%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2=
+Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust=
+:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;l=
+ine-height:1 !important;"> <span style=3D"color:#008cc9;font-weight:700;fon=
+t-size:14px;line-height:20px !important;">Software Engineer Intern- Custome=
+r Tech</span></a></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p=
+ style=3D"margin:0;color:#737373;font-weight:400;font-size:14px;line-height=
+:1 !important;">Walmart Labs =C2=B7 Sunnyvale, CA, US</p></td> </tr> </tbod=
+y> </table></td> </tr> </tbody> </table></a><a href=3D"https://www.linkedin=
+.com/comm/jobs/view/967026194?refId=3D170715cc-406b-48e0-983f-97c18cf50133&=
+amp;trk=3Deml-vjr-similar-job-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEm=
+ail=3Deml-email_jobs_viewed_job_reminder_01-null-21-null-null-6r5gpt%7Ejqpr=
+j3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_vi=
+ewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:po=
+inter;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text=
+-decoration:none;-ms-text-size-adjust:100%;line-height:1 !important;"> <tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=
+=3D"#FFFFFF" align=3D"center" style=3D"background-color:#FFFFFF;padding:24p=
+x 0 24px 0;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt=
+;table-layout:fixed;display:table;mso-table-lspace:0pt;width:100%;-ms-text-=
+size-adjust:100%;border-bottom:1px solid #F3F6F8;text-align:center;"> <tbod=
+y> <tr> <td width=3D"48" style=3D"-webkit-text-size-adjust:100%;mso-table-r=
+space:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><img src=3D"http=
+s://media.licdn.com/dms/image/C510BAQFUFkKKBJRXLA/company-logo_200_200/0?e=
+=3D2159024400&amp;v=3Dbeta&amp;t=3DgnTwRAVQr0ZkcqbVIDWrwm6ujmke3wUJLhfzVEbm=
+q3U" alt=3D"Guidebook Inc." border=3D"0" width=3D"48" style=3D"outline:none=
+;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></td> =
+<td align=3D"left" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:=
+0pt;padding-left:12px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-a=
+lign:left;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;margin:0 au=
+to;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;ms=
+o-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td=
+ style=3D"padding:8px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.lin=
+kedin.com/comm/jobs/view/967026194?refId=3D170715cc-406b-48e0-983f-97c18cf5=
+0133&amp;trk=3Deml-vjr-similar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;=
+trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-46-null-null-6r5gpt%7=
+Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jo=
+bs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"curs=
+or:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block=
+;text-decoration:none;-ms-text-size-adjust:100%;line-height:1 !important;">=
+ <span style=3D"color:#008cc9;font-weight:700;font-size:14px;line-height:20=
+px !important;">Software Engineering Intern=E2=80=94Back End (Summer 2019)<=
+/span></a></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-t=
+able-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=
+=3D"margin:0;color:#737373;font-weight:400;font-size:14px;line-height:1 !im=
+portant;">Guidebook Inc. =C2=B7 340 Bryant St Suite 400, San Francisco, CA =
+94107, US</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></a>=
+<a href=3D"https://www.linkedin.com/comm/jobs/view/986074228?refId=3D170715=
+cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midT=
+oken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-=
+null-22-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3A=
+li%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2=
+Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust=
+:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;l=
+ine-height:1 !important;"> <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"backgr=
+ound-color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-text-size-ad=
+just:100%;mso-table-rspace:0pt;table-layout:fixed;display:table;mso-table-l=
+space:0pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1px solid #F3F=
+6F8;text-align:center;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-=
+adjust:100%;"><img src=3D"https://media.licdn.com/dms/image/C4E0BAQHNv0W9VR=
+4g0g/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3D5t_h7ZKOmF4=
+H_h6nNqPtyy9mQFuNfsMbWsMXM8unDIo" alt=3D"Citrix" border=3D"0" width=3D"48" =
+style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-dec=
+oration:none;"></td> <td align=3D"left" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;padding-left:12px;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;text-align:left;"> <table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-color=
+:#FFFFFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;t=
+able-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%=
+;"> <tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size-adjust:100%;m=
+so-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a hre=
+f=3D"https://www.linkedin.com/comm/jobs/view/986074228?refId=3D170715cc-406=
+b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title&amp;midToken=
+=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null=
+-47-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3=
+Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83=
+w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100=
+%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-=
+height:1 !important;"> <span style=3D"color:#008cc9;font-weight:700;font-si=
+ze:14px;line-height:20px !important;">Software Engineer Intern</span></a></=
+td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:=
+0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin:0;=
+color:#737373;font-weight:400;font-size:14px;line-height:1 !important;">Cit=
+rix =C2=B7 Fort Lauderdale, Florida, US</p></td> </tr> </tbody> </table></t=
+d> </tr> </tbody> </table></a><a href=3D"https://www.linkedin.com/comm/jobs=
+/view/955579079?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-=
+vjr-similar-job-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-emai=
+l_jobs_viewed_job_reminder_01-null-23-null-null-6r5gpt%7Ejqprj3rh%7Enh-null=
+-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_remin=
+der_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#0=
+08CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:no=
+ne;-ms-text-size-adjust:100%;line-height:1 !important;"> <table border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" al=
+ign=3D"center" style=3D"background-color:#FFFFFF;padding:24px 0 24px 0;marg=
+in:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:f=
+ixed;display:table;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100=
+%;border-bottom:1px solid #F3F6F8;text-align:center;"> <tbody> <tr> <td wid=
+th=3D"48" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;"><img src=3D"https://media.licdn=
+.com/dms/image/C560BAQE9x8Y1ossTfg/company-logo_200_200/0?e=3D2159024400&am=
+p;v=3Dbeta&amp;t=3DJHpbZYHiJEqAK-zOm5vXiW9DiEM-TGZ0AEj4LxtyEvM" alt=3D"Quic=
+ken Loans" border=3D"0" width=3D"48" style=3D"outline:none;-ms-interpolatio=
+n-mode:bicubic;color:#FFFFFF;text-decoration:none;"></td> <td align=3D"left=
+" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:=
+12px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;"> <tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=
+=3D"#FFFFFF" style=3D"background-color:#FFFFFF;margin:0 auto;-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;table-layout:fixed;mso-table-lspace:0p=
+t;width:100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"padding=
+:8px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:=
+0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/jo=
+bs/view/955579079?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Dem=
+l-vjr-similar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-em=
+ail_jobs_viewed_job_reminder_01-null-48-null-null-6r5gpt%7Ejqprj3rh%7Enh-nu=
+ll-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_rem=
+inder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:=
+#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:=
+none;-ms-text-size-adjust:100%;line-height:1 !important;"> <span style=3D"c=
+olor:#008cc9;font-weight:700;font-size:14px;line-height:20px !important;">S=
+oftware Engineer Intern - Summer 2019</span></a></td> </tr> <tr> <td style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-weigh=
+t:400;font-size:14px;line-height:1 !important;">Quicken Loans =C2=B7 Detroi=
+t, MI, US</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></a>=
+<a href=3D"https://www.linkedin.com/comm/jobs/view/879369948?refId=3D170715=
+cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-apply&amp;midT=
+oken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-=
+null-24-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3A=
+li%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2=
+Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust=
+:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;l=
+ine-height:1 !important;"> <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"backgr=
+ound-color:#FFFFFF;padding:24px 0 24px 0;margin:0 auto;-webkit-text-size-ad=
+just:100%;mso-table-rspace:0pt;table-layout:fixed;display:table;mso-table-l=
+space:0pt;width:100%;-ms-text-size-adjust:100%;border-bottom:1px solid #F3F=
+6F8;text-align:center;"> <tbody> <tr> <td width=3D"48" style=3D"-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-=
+adjust:100%;"><img src=3D"https://media.licdn.com/dms/image/C4E0BAQHRZ2rvzG=
+c9sg/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3D6msf5peOI6d=
+qmFNA4wQR68NeuaSjF7M_5bTYgSwFbhs" alt=3D"Gusto" border=3D"0" width=3D"48" s=
+tyle=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-deco=
+ration:none;"></td> <td align=3D"left" style=3D"-webkit-text-size-adjust:10=
+0%;mso-table-rspace:0pt;padding-left:12px;mso-table-lspace:0pt;-ms-text-siz=
+e-adjust:100%;text-align:left;"> <table border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"background-color:=
+#FFFFFF;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;ta=
+ble-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%;=
+"> <tbody> <tr> <td style=3D"padding:8px 0;-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=
+=3D"https://www.linkedin.com/comm/jobs/view/879369948?refId=3D170715cc-406b=
+-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-similar-job-title&amp;midToken=3D=
+AQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null-49=
+-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Eview&amp;lipi=3Durn%3Ali%3Apa=
+ge%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3=
+D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;d=
+isplay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;line-hei=
+ght:1 !important;"> <span style=3D"color:#008cc9;font-weight:700;font-size:=
+14px;line-height:20px !important;">Software Engineer, Intern (Summer 2019)<=
+/span></a></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-t=
+able-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=
+=3D"margin:0;color:#737373;font-weight:400;font-size:14px;line-height:1 !im=
+portant;">Gusto =C2=B7 Denver, CO, US</p></td> </tr> </tbody> </table></td>=
+ </tr> </tbody> </table></a><a href=3D"https://www.linkedin.com/comm/jobs/v=
+iew/1016621999?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-v=
+jr-similar-job-apply&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email=
+_jobs_viewed_job_reminder_01-null-25-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-=
+jobs%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_remind=
+er_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#00=
+8CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:non=
+e;-ms-text-size-adjust:100%;line-height:1 !important;"> <table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF" ali=
+gn=3D"center" style=3D"background-color:#FFFFFF;padding:24px 0 24px 0;margi=
+n:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;table-layout:fi=
+xed;display:table;mso-table-lspace:0pt;width:100%;-ms-text-size-adjust:100%=
+;border-bottom:none;text-align:center;"> <tbody> <tr> <td width=3D"48" styl=
+e=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0p=
+t;-ms-text-size-adjust:100%;"><img src=3D"https://media.licdn.com/dms/image=
+/C4D0BAQGzuSBRRRuphw/company-logo_200_200/0?e=3D2159024400&amp;v=3Dbeta&amp=
+;t=3DRh5mO2IXBXf7-0BK0CAqkcBipZtgpLe4Oo2ZE7c0T_Y" alt=3D"Amazon Web Service=
+s" border=3D"0" width=3D"48" style=3D"outline:none;-ms-interpolation-mode:b=
+icubic;color:#FFFFFF;text-decoration:none;"></td> <td align=3D"left" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:12px;ms=
+o-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;"> <table bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#FFF=
+FFF" style=3D"background-color:#FFFFFF;margin:0 auto;-webkit-text-size-adju=
+st:100%;mso-table-rspace:0pt;table-layout:fixed;mso-table-lspace:0pt;width:=
+100%;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"padding:8px 0;-=
+webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-=
+text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/view/=
+1016621999?refId=3D170715cc-406b-48e0-983f-97c18cf50133&amp;trk=3Deml-vjr-s=
+imilar-job-title&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_job=
+s_viewed_job_reminder_01-null-50-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs=
+%7Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_0=
+1%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9=
+;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-m=
+s-text-size-adjust:100%;line-height:1 !important;"> <span style=3D"color:#0=
+08cc9;font-weight:700;font-size:14px;line-height:20px !important;">Software=
+ Development Engineer - Intern Herndon,VA</span></a></td> </tr> <tr> <td st=
+yle=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:=
+0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin:0;color:#737373;font-we=
+ight:400;font-size:14px;line-height:1 !important;">Amazon Web Services =C2=
+=B7 Herndon, VA, US</p></td> </tr> </tbody> </table></td> </tr> </tbody> </=
+table></a></td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"-webki=
+t-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-=
+size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" align=3D"center" style=3D"border-top:11px solid #EDF0F3;pad=
+ding:0 0 12px 0;margin:0 auto;-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;table-layout:fixed;mso-table-lspace:0pt;width:100%;-ms-text-size-adju=
+st:100%;text-align:center;"> <tbody> <tr> <td style=3D"padding:24px 0 20px =
+0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-=
+ms-text-size-adjust:100%;"> <h2 style=3D"margin:0;color:#262626;font-weight=
+:200;font-size:18px;line-height:1 !important;">Search for more related jobs=
+</h2></td> </tr> <tr> <td style=3D"padding:8px 0;-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><=
+a href=3D"https://www.linkedin.com/comm/jobs/search?keywords=3DSoftware+Dev=
+eloper+Intern+-+Summer+2019&amp;trk=3Deml-vjr-job-search-title&amp;midToken=
+=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-null=
+-54-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Ejserp%7Esearch&amp;lipi=3D=
+urn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9m=
+a%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-=
+adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:=
+100%;line-height:1 !important;"> <span style=3D"color:#008cc9;font-weight:7=
+00;font-size:14px;line-height:20px !important;">Software Developer Intern -=
+ Summer 2019 jobs</span></a></td> </tr> <tr> <td style=3D"padding:8px 0;-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-te=
+xt-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/search?=
+keywords=3DQuicken+Loans&amp;f_C=3D165627&amp;trk=3Deml-vjr-job-search-comp=
+any&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_=
+reminder_01-null-53-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Ejserp%7Ese=
+arch&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3=
+BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-w=
+ebkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-t=
+ext-size-adjust:100%;line-height:1 !important;"> <span style=3D"color:#008c=
+c9;font-weight:700;font-size:14px;line-height:20px !important;">Jobs at Qui=
+cken Loans</span> </a></td> </tr> <tr> <td style=3D"padding:8px 0;-webkit-t=
+ext-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-siz=
+e-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/search?locati=
+onId=3DPLACES%2Eus%2E1-3-0-82-6&amp;trk=3Deml-vjr-job-search-location&amp;m=
+idToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_=
+01-null-55-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Ejserp%7Esearch&amp;=
+lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdi=
+QhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-tex=
+t-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-=
+adjust:100%;line-height:1 !important;"> <span style=3D"color:#008cc9;font-w=
+eight:700;font-size:14px;line-height:20px !important;">Jobs in Detroit, MI,=
+ US</span></a></td> </tr> <tr> <td style=3D"padding:8px 0;-webkit-text-size=
+-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust=
+:100%;"><a href=3D"https://www.linkedin.com/comm/jobs/?trk=3Deml-vjr-see-al=
+l-jobs&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-email_jobs_viewed_j=
+ob_reminder_01-null-0-null-null-6r5gpt%7Ejqprj3rh%7Enh-null-jobs%7Ehome&amp=
+;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitd=
+iQhicN9ma%2B%2Fh83w%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webkit-te=
+xt-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size=
+-adjust:100%;line-height:1 !important;"> <span style=3D"color:#008cc9;font-=
+weight:700;font-size:14px;line-height:20px !important;">Search other jobs</=
+span></a></td> </tr> </tbody> </table></td> </tr> </tbody> </table> <table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-w=
+ebkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-t=
+ext-size-adjust:100%;"> <tbody> <tr> <td bgcolor=3D"#EDF0F3" align=3D"cente=
+r" style=3D"background-color:#EDF0F3;padding-top:16px;-webkit-text-size-adj=
+ust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100=
+%;text-align:center;"> <p style=3D"margin:0;color:#737373;font-weight:400;f=
+ont-size:12px;line-height:1 !important;">Report a bug or get help by visiti=
+ng the Help Center (https://www.linkedin.com/help) <a href=3D"mailto:career=
+s-emails-feedback@linkedin.com?subject=3DFeedback for Jobs similar to" styl=
+e=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inl=
+ine-block;text-decoration:none;-ms-text-size-adjust:100%;line-height:1 !imp=
+ortant;">Send us an email at careers-emails-feedback@linkedin.com</a> to le=
+t us know what you think about this new email. Please note that you will no=
+t receive a response back.</p></td> </tr> </tbody> </table></td> </tr> <tr>=
+ <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-=
+lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#EDF0F3" align=3D"center" st=
+yle=3D"background-color:#EDF0F3;padding:0 24px;color:#6A6C6D;-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adj=
+ust:100%;text-align:center;"> <tbody> <tr> <td align=3D"center" style=3D"pa=
+dding:16px 0 0 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tab=
+le-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <table align=
+=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"=
+ style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspa=
+ce:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td valign=3D"middle" alig=
+n=3D"center" style=3D"padding:0 0 16px 0;-webkit-text-size-adjust:100%;mso-=
+table-rspace:0pt;vertical-align:middle;mso-table-lspace:0pt;-ms-text-size-a=
+djust:100%;text-align:center;"><a href=3D"https://www.linkedin.com/e/v2?e=
+=3D6r5gpt-jqprj3rh-nh&amp;t=3Dlun&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Dem=
+ail_jobs_viewed_job_reminder_01&amp;li=3D70&amp;m=3Dunsub&amp;ts=3Dunsub&am=
+p;loid=3DAQHoxHFo6pwd4AAAAWg0wg1r0uTfZPzCLE-Ow8tqWj9CwMBBcrZq9mYccaeQyCQN3O=
+tRDuZGQ0OMgNKSXtTmjqk0VzokMJsKfVWWmKs0GErRZV6QkptZdwbN&amp;eid=3D6r5gpt-jqp=
+rj3rh-nh" style=3D"cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:10=
+0%;text-decoration:underline;display:inline-block;-ms-text-size-adjust:100%=
+;line-height:1 !important;"> <span style=3D"color:#6A6C6D;font-weight:400;t=
+ext-decoration:underline;font-size:12px;line-height:1 !important;">Unsubscr=
+ibe</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D"https://www.linkedin.com/=
+e/v2?e=3D6r5gpt-jqprj3rh-nh&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_v=
+iewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D&amp;a=3DcustomerSe=
+rviceUrl&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_jobs_viewed_job_remin=
+der_01&amp;li=3D69&amp;m=3Dfooter&amp;ts=3Dhelp&amp;articleId=3D67" style=
+=3D"cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decorat=
+ion:underline;display:inline-block;-ms-text-size-adjust:100%;line-height:1 =
+!important;"> <span style=3D"color:#6A6C6D;font-weight:400;text-decoration:=
+underline;font-size:12px;line-height:1 !important;">Help</span></a></td> </=
+tr> </tbody> </table></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust=
+:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"=
+> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" st=
+yle=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:=
+0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"center" style=3D=
+"padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-=
+table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <p style=3D=
+"margin:0;color:#6A6C6D;font-weight:400;font-size:12px;line-height:1 !impor=
+tant;">You are receiving LinkedIn notification emails.</p></td> </tr> <tr> =
+<td align=3D"center" style=3D"padding:0 0 12px 0;-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;tex=
+t-align:center;"> <p style=3D"margin:0;word-wrap:break-word;color:#6A6C6D;w=
+ord-break:break-word;font-weight:400;-ms-word-break:break-all;font-size:12p=
+x;line-height:1 !important;overflow-wrap:break-word;">This email was intend=
+ed for Jack Shelata (Computer Science Student -- University of Michigan Col=
+lege of Engineering). <a href=3D"https://www.linkedin.com/e/v2?e=3D6r5gpt-j=
+qprj3rh-nh&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminde=
+r_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D%3D&amp;a=3DcustomerServiceUrl&amp;midT=
+oken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_jobs_viewed_job_reminder_01&amp;articl=
+eId=3D4788" style=3D"cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:=
+100%;text-decoration:underline;display:inline-block;-ms-text-size-adjust:10=
+0%;line-height:1 !important;">Learn why we included this.</a></p></td> </tr=
+> <tr> <td align=3D"center" style=3D"padding:0 0 8px 0;-webkit-text-size-ad=
+just:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:10=
+0%;text-align:center;"><a href=3D"https://www.linkedin.com/comm/feed/?midTo=
+ken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_jobs_viewed_job_reminder_01-footer=
+-67-home&amp;trkEmail=3Deml-email_jobs_viewed_job_reminder_01-footer-67-hom=
+e-null-6r5gpt%7Ejqprj3rh%7Enh-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apag=
+e%3Aemail_email_jobs_viewed_job_reminder_01%3BnlQNitdiQhicN9ma%2B%2Fh83w%3D=
+%3D" style=3D"cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:100%;te=
+xt-decoration:underline;display:inline-block;-ms-text-size-adjust:100%;line=
+-height:1 !important;"><img alt=3D"LinkedIn" border=3D"0" height=3D"14" src=
+=3D"https://static.licdn.com/scds/common/u/images/email/phoenix/logos/logo_=
+phoenix_footer_darkgray_197x48_v1.png" width=3D"58" style=3D"outline:none;-=
+ms-interpolation-mode:bicubic;color:#FFFFFF;display:block;text-decoration:n=
+one;"></a></td> </tr> <tr> <td align=3D"center" style=3D"padding:0 0 12px 0=
+;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;text-align:center;"> <p style=3D"margin:0;color:#6A=
+6C6D;font-weight:400;font-size:12px;line-height:1 !important;">=C2=A9 2019 =
+LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 94085. LinkedIn=
+ and the LinkedIn logo are registered trademarks of LinkedIn.</p></td> </tr=
+> </tbody> </table></td> </tr> </tbody> </table></td> </tr> </tbody> </tabl=
+e> </center></td> </tr> </tbody> </table> <img src=3D"http://www.linkedin.c=
+om/emimp/ip_Tm5JMVozQjBMV3B4Y0hKcU0zSm9MVzVvOlpXMWhhV3hmYW05aWMxOTJhV1YzWld=
+SZmFtOWlYM0psYldsdVpHVnlYekF4Og=3D=3D.gif" style=3D"outline:none;-ms-interp=
+olation-mode:bicubic;color:#FFFFFF;text-decoration:none;width:1px;height:1p=
+x;"> </body> </html>
+------=_Part_322178_105577516.1547073359380--
+

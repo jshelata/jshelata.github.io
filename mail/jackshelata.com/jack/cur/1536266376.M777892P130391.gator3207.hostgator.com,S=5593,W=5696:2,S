@@ -1,0 +1,103 @@
+Return-Path: <prvs=6787269fea=adpvantagehcmdonotreply@adp.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id SBNJLoiQkVtX/QEAV+VKPg
+	for <jack@jackshelata.com>; Thu, 06 Sep 2018 15:39:36 -0500
+Return-path: <prvs=6787269fea=adpvantagehcmdonotreply@adp.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Thu, 06 Sep 2018 15:39:36 -0500
+Received: from mail3-2.adp.com ([170.146.220.101]:59252)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <prvs=6787269fea=adpvantagehcmdonotreply@adp.com>)
+	id 1fy13w-000uuo-8S
+	for jack@jackshelata.com; Thu, 06 Sep 2018 15:39:36 -0500
+Received: from pps.filterd (dc1prppedgevm02.ga.adp.com [127.0.0.1])
+	by dc1prppedgevm02.ga.adp.com (8.16.0.21/8.16.0.21) with SMTP id w86KST5I006769
+	for <jack@jackshelata.com>; Thu, 6 Sep 2018 16:39:24 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=es.adp.com; h=date : from : to :
+ message-id : subject : mime-version : content-type :
+ content-transfer-encoding; s=2013-03;
+ bh=91JVdSoHWhZALifN+YfCaY2w7OMABftC+VPXSryPl7A=;
+ b=b6DxUkBs5rUrz8h2NiBQMYI/xIlnVlXCS6m4A1CCqeXU4FMZx+KX3ifI32+pTxapsFjw
+ dKTAXmN0z89wOhu07IP5qb9KfcFDx8HKWcfAfyevJj05eSwXq/xONWEsMFnPgJ3UY0MM
+ M6I9g0oZta2avsR7HUSY1ERWoUq3upzyLL66sk5oSsGzUzxhjMMK98yMfWojQqlaI3ff
+ GP15w1oJ/BTOI3tt5/l8yW6VMpNCP6PSvoZIhZUd0KyoxXyj2K9EkfzH1b43n6e/uFdU
+ +l98zxFmg1TUvBIiUAsACsEs21SJ7Nqi2nfZnU6QqLjg56i5upMgvzwo7x/2+o8JFjsZ uA== 
+Received: from dc1prrelay1.ga.adp.com ([11.0.5.18])
+	by dc1prppedgevm02.ga.adp.com with ESMTP id 2m7p40td4u-1
+	for <jack@jackshelata.com>; Thu, 06 Sep 2018 16:39:24 -0400
+Received: from pps.filterd (dc1prrelay1.ga.adp.com [127.0.0.1])
+	by dc1prrelay1.ga.adp.com (8.16.0.22/8.16.0.22) with SMTP id w86KQKLL031002
+	for <jack@jackshelata.com>; Thu, 6 Sep 2018 16:39:24 -0400
+Received: from dc1drrtrap29 (dc1drrtrap29.whc.dc01.us.adp [11.1.224.43])
+	by dc1prrelay1.ga.adp.com with ESMTP id 2maymnytjj-1
+	for <jack@jackshelata.com>; Thu, 06 Sep 2018 16:39:24 -0400
+Date: Thu, 6 Sep 2018 16:39:24 -0400 (EDT)
+From: "Ally Financial Inc. Recruiting Team" <ADPVantageHCMdonotreply@adp.com>
+To: jack@jackshelata.com
+Message-ID: <20985207.662028.1536266364634.JavaMail.tomcat@dc1drrtrap29>
+Subject: Please Don't Go! Ally Financial Inc. - IT Development Intern - 2019
+ Summer Internship Program Posting
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:,, definitions=2018-09-06_02:,,
+ signatures=0
+X-CFilter-Loop: Reflected
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:,, definitions=2018-09-06_10:,,
+ signatures=0
+X-Spam-Status: No, score=1.6
+X-Spam-Score: 16
+X-Spam-Bar: +
+X-Spam-Flag: NO
+
+<DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: arial, helvetica, sans-se=
+rif"><img border=3D0 src=3D'https://recruiting.adp.com/portal-upload/RTI_11=
+25607/htmlassets/ally_sig_2c_careers_200x70.png?x=3D0.8070123834927775'></S=
+PAN></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: arial, helvetica, sans-se=
+rif">Jack:</SPAN></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<P><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: arial, helvetica, sans-seri=
+f">It=E2=80=99s been 24 hours since you expressed interest in our opportuni=
+ty, but our records show that your profile is still incomplete. If you wish=
+ to be considered for our IT Development Intern - 2019 Summer Internship Pr=
+ogram&nbsp;position (Ally Requisition # 18-6075), log in to our <A href=3D"=
+https://recruiting.adp.com/srccar/public/email.trkr?_uid=3D5011717725406&_c=
+=3D1125607&_redirencoded=3Dhttps%3A%2F%2Frecruiting.adp.com%2Fsrccar%2Fpubl=
+ic%2FRTI.home%3Fc%3D1125607%26d%3DAllyCareers&_txt=3DAlly+Career+Center" ta=
+rget=3D_blank><SPAN style=3D"COLOR: #800080"><STRONG>Ally Career Center</ST=
+RONG></SPAN></A> and complete the submission process. We look forward to re=
+viewing your information.</SPAN><BR><BR><SPAN style=3D"FONT-SIZE: 11pt; FON=
+T-FAMILY: arial, helvetica, sans-serif">Thank you,</SPAN><BR><BR><SPAN styl=
+e=3D"FONT-SIZE: 11pt; FONT-FAMILY: arial, helvetica, sans-serif">Ally Recru=
+iting Team</SPAN><BR><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: arial, he=
+lvetica, sans-serif">Opportunity. People. Experience.</SPAN><BR><BR><BR><EM=
+><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: arial, helvetica, sans-serif"=
+>Replies to this message are undeliverable. Please do not reply.</SPAN></EM=
+></P>
+<P>&nbsp;</P>
+<P><BR><EM>(EID #69.1)</EM></P></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV><img style=3D"display:none" border=3D0 height=3D1 width=3D=
+1 alt=3D"" src=3D"https://recruiting.adp.com/srccar/public/email.trkr?_uid=
+=3D5011717725406&_c=3D1125607"/><DIV style=3D"text-align: right;"><HR></DIV=
+>
+<DIV style=3D"text-align: right;">
+<P><SPAN style=3D"color: #ff0000;">By clicking the =E2=80=98Remove Me=E2=80=
+=99 link below, you are requesting to be removed from <U>all</U> Ally Recru=
+iting system generated emails and notifications, this includes status updat=
+es, reminders or requests for follow-up.</SPAN></P>
+</DIV>
+<DIV style=3D"text-align: right;"><a target=3D'_blank' href=3D'https://recr=
+uiting.adp.com/src/public/removeEmail.guid?emailAddress=3Djack%40jackshelat=
+a.com&_recruiterID=3D1668666107&_letterID=3D23480907&_c=3D1125607&_a=3Dv029=
+LSzgJm0hsxA2U1f_ZglHg%3D%3D'>Remove Me</a>&nbsp;</DIV>
+<DIV style=3D"text-align: right;">Ally Financial Inc.&nbsp;</DIV>
+<DIV style=3D"text-align: right;">&nbsp;</DIV>

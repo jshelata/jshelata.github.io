@@ -1,0 +1,1146 @@
+Return-Path: <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl32mooknoiyir7hv6@bounce.linkedin.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id UAWEEjS6vVtQYwoAV+VKPg
+	for <jack@jackshelata.com>; Wed, 10 Oct 2018 03:37:08 -0500
+Return-path: <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl32mooknoiyir7hv6@bounce.linkedin.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Wed, 10 Oct 2018 03:37:08 -0500
+Received: from maile-cf.linkedin.com ([108.174.6.198]:59019)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl32mooknoiyir7hv6@bounce.linkedin.com>)
+	id 1gA9zP-002trQ-G9
+	for jack@jackshelata.com; Wed, 10 Oct 2018 03:37:08 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=d2048-201806-01; t=1539160616;
+	bh=l9SM2OWmdslKf9ilA34oZ170PuQqoaKRNMUbdMZz2Pw=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=0qsQMGswII0r2H5HEMK02wloO4CtToEAlce/KqtKFbiTmLHW3uZzbunJZLEzXOE8w
+	 XRh/S1kqgYYj0bJiSyBU7xLg4Zd7ZiPmQx8u+L93ttlVInDyptWdUOfmdhhvH7adOa
+	 Krdf0jGedFZAk7rq92PjSNNzj0Q5xFWTWA4d5BV2pKWNDnt4/vbu3LyE3YferMTKsW
+	 9MW7b9K1aSQW/k2/ta37zjaxRpy3HTvjJZ6JQFwI0PxmF75LrGqyt/MADjytJ6bjiv
+	 1WfOsISJnlG5MTqmGLH1vkAObDKlHrV+nr7BMMhct8QpalF4zJXE6ZT8++gvVegWsA
+	 B14mcSWoxpX5A==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com;
+	s=proddkim1024; t=1539160616;
+	bh=l9SM2OWmdslKf9ilA34oZ170PuQqoaKRNMUbdMZz2Pw=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=UqxqFjhept4JLpO2UZvuiX8Y7W7cwSv7Z4p6WS8GhDUABH6nv0/yk8S4bC1RobUcJ
+	 wEvSrQ7ptzAxNJPF0rwYHfAYDS2MlGrmfU4gHV+xWHujy3+sebjkiY84QC+3/Ahil4
+	 E5bTnpoTlklygzp+es9z+Ua7QmdX8CP+26Umv5DM=
+From: LinkedIn <messages-noreply@linkedin.com>
+Message-ID: <1281239228.9048296.1539160616088.JavaMail.app@lva1-app4518.prod.linkedin.com>
+Subject: Connect to your classmates from University of Michigan
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_9048294_2100127329.1539160616079"
+To: Jack Shelata <jack@jackshelata.com>
+Date: Wed, 10 Oct 2018 08:36:56 +0000 (UTC)
+X-LinkedIn-Class: TIK
+X-LinkedIn-Template: email_pymk_01
+X-LinkedIn-fbl: m2-at00v0juiikcznofqwf8z0koehnxf5t50akgmpy4aftz1hlkbmsi6avl8leqnybe7iyuv2d26a5iltoh1xh3xtnw7b2212mcwhtcux
+X-LinkedIn-Id: 6r5gpt-jn2qcjhj-y2
+List-Unsubscribe: <https://www.linkedin.com/e/v2?e=6r5gpt-jn2qcjhj-y2&t=lun&midToken=AQGmOgFoL_CRRg&ek=email_pymk_01&li=93&m=unsub&ts=unsub&loid=AQEXxPS2IRq1lgAAAWZdHyv05xscM6uz2ByOnB7m63sBFzQ9RpHzkt-M7xDfCwna4NxQ8U0eVGXafBUIwmrPNshRvc5QIddeMnfQgvgqoAc&eid=6r5gpt-jn2qcjhj-y2>
+Require-Recipient-Valid-Since: jack@jackshelata.com; Mon, 13 Aug 2018 19:54:41 +0000
+X-Spam-Status: No, score=-0.6
+X-Spam-Score: -5
+X-Spam-Bar: /
+X-Spam-Flag: NO
+
+------=_Part_9048294_2100127329.1539160616079
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+People who also studied at University of Michigan.
+
+Hannah Driks
+Undergraduate Student Researcher at University of Michigan College of Pharm=
+acy
+https://www.linkedin.com/comm/mynetwork/send-invite/hannah-driks-2623a6139/=
+?midToken=3DAQGmOgFoL_CRRg&trk=3Deml-email_pymk_01-pymk-17-connect_universa=
+l&trkEmail=3Deml-email_pymk_01-pymk-17-connect_universal-null-6r5gpt%7Ejn2q=
+cjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&lipi=3Durn%3Ali%3Apage%3=
+Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&_sig=3D09EKnZe4v4ros1
+You have 7 connections in common.
+
+Abigail Takas
+Student at the Gerald R. Ford School of Public Policy
+https://www.linkedin.com/comm/mynetwork/send-invite/abigail-takas-4b3a28147=
+/?midToken=3DAQGmOgFoL_CRRg&trk=3Deml-email_pymk_01-pymk-18-connect_univers=
+al&trkEmail=3Deml-email_pymk_01-pymk-18-connect_universal-null-6r5gpt%7Ejn2=
+qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&lipi=3Durn%3Ali%3Apage%=
+3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&_sig=3D1lLQ19BiD4ros=
+1
+You have 13 connections in common.
+
+Evan Lee
+Assistant Naval Architect at Bay Engineering, Inc.
+https://www.linkedin.com/comm/mynetwork/send-invite/evan-lee-9a2a51111/?mid=
+Token=3DAQGmOgFoL_CRRg&trk=3Deml-email_pymk_01-pymk-19-connect_universal&tr=
+kEmail=3Deml-email_pymk_01-pymk-19-connect_universal-null-6r5gpt%7Ejn2qcjhj=
+%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&lipi=3Durn%3Ali%3Apage%3Aema=
+il_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&_sig=3D3lWTBhRHH4ros1
+
+
+Mackenzie Horton
+Chemical Engineering Student at the University of Michigan
+https://www.linkedin.com/comm/mynetwork/send-invite/mackenzie-horton-65aa7a=
+b9/?midToken=3DAQGmOgFoL_CRRg&trk=3Deml-email_pymk_01-pymk-20-connect_unive=
+rsal&trkEmail=3Deml-email_pymk_01-pymk-20-connect_universal-null-6r5gpt%7Ej=
+n2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&lipi=3Durn%3Ali%3Apag=
+e%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&_sig=3D1_UZ_GjKD4r=
+os1
+
+
+Adam Kerr
+Software Engineer at The Climate Corporation
+https://www.linkedin.com/comm/mynetwork/send-invite/adkerr/?midToken=3DAQGm=
+OgFoL_CRRg&trk=3Deml-email_pymk_01-pymk-21-connect_universal&trkEmail=3Deml=
+-email_pymk_01-pymk-21-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-n=
+eptune%2Fmynetwork%2Einvite%7Esend&lipi=3Durn%3Ali%3Apage%3Aemail_email_pym=
+k_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&_sig=3D2FuuxXzmX4ros1
+You have 18 connections in common.
+
+See more people you might know: See more people you might know: https://www=
+.linkedin.com/comm/mynetwork/add-connections/?midToken=3DAQGmOgFoL_CRRg&trk=
+=3Deml-email_pymk_01-pymk-1-see_more&trkEmail=3Deml-email_pymk_01-pymk-1-se=
+e_more-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Eadd%7Econnect=
+ions&lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2Fici=
+A%3D%3D
+
+Connections lead to opportunities
+Whether it's next week or next year, the connections you make now can help =
+open doors for you later.
+
+.....................................
+
+Unsubscribe: https://www.linkedin.com/e/v2?e=3D6r5gpt-jn2qcjhj-y2&t=3Dlun&m=
+idToken=3DAQGmOgFoL_CRRg&ek=3Demail_pymk_01&li=3D93&m=3Dunsub&ts=3Dunsub&lo=
+id=3DAQEXxPS2IRq1lgAAAWZdHyv05xscM6uz2ByOnB7m63sBFzQ9RpHzkt-M7xDfCwna4NxQ8U=
+0eVGXafBUIwmrPNshRvc5QIddeMnfQgvgqoAc&eid=3D6r5gpt-jn2qcjhj-y2
+
+Help: https://www.linkedin.com/e/v2?e=3D6r5gpt-jn2qcjhj-y2&lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&a=3DcustomerS=
+erviceUrl&midToken=3DAQGmOgFoL_CRRg&ek=3Demail_pymk_01&li=3D92&m=3Dfooter&t=
+s=3Dhelp&articleId=3D67
+
+
+You are receiving LinkedIn notification emails.
+
+This email was intended for Jack Shelata (Computer Science Student -- Unive=
+rsity of Michigan College of Engineering).
+Learn why we included this: https://www.linkedin.com/e/v2?e=3D6r5gpt-jn2qcj=
+hj-y2&lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2Fic=
+iA%3D%3D&a=3DcustomerServiceUrl&midToken=3DAQGmOgFoL_CRRg&ek=3Demail_pymk_0=
+1&articleId=3D4788
+
+=C2=A9 2018 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 940=
+85. LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+------=_Part_9048294_2100127329.1539160616079
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml" lang=3D"en" xml:lang=3D"en"> <head> <meta http-equiv=3D"Co=
+ntent-Type" content=3D"text/html;charset=3Dutf-8"> <meta name=3D"HandheldFr=
+iendly" content=3D"true"> <meta name=3D"viewport" content=3D"width=3Ddevice=
+-width; initial-scale=3D0.666667; maximum-scale=3D0.666667; user-scalable=
+=3D0"> <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <title></t=
+itle> <!--[if mso]><style type=3D"text/css">body {font-family: 'Helvetica N=
+eue', Helvetica, Arial, sans-serif;}.phoenix-email-container {width: 512px =
+!important;}</style><![endif]--> <!--[if IE]><style type=3D"text/css">.phoe=
+nix-email-container {width: 512px !important;}</style><![endif]--> <style t=
+ype=3D"text/css">@media only screen and (max-width:32em) { .phoenix-email-c=
+ontainer { width:100% !important; } } @media only screen and (max-width:20e=
+m) {} @media only screen and (max-device-width:30em) {} @media screen and (=
+device-width:30em) and (device-height:22.5em), screen and (device-width:22.=
+5em) and (device-height:30em), screen and (device-width:20em) and (device-h=
+eight:15em) {} @media screen and (-webkit-min-device-pixel-ratio:0) {} @med=
+ia screen and (max-device-width:25.88em) and (max-device-height:48.5em) {} =
+@media only screen and (max-width:30em) { .digest.container .inner { width:=
+100% !important; } .digest.container .profile-card .card-name { padding:0 0=
+ 3px 0; } .pymk-hero-member-picture img { width:70px !important; height:70p=
+x !important; } } @media only screen and (min-width:30.06em) { .card-cta-co=
+ntainer-mobile { display:none !important; width:0 !important; height:0 !imp=
+ortant; overflow:hidden !important; visibility:hidden !important; } .digest=
+.container .profile-card .card-name { padding:0 15px 3px 0; } .card-cta-con=
+tainer-desktop { display:block !important; width:auto !important; height:au=
+to !important; visibility:visible !important; overflow:visible !important; =
+} } </style> </head> <body style=3D"padding:0;margin:0 auto;-webkit-text-si=
+ze-adjust:100%;width:100% !important;-ms-text-size-adjust:100%;font-family:=
+'Helvetica Neue',Helvetica,Arial,sans-serif;"> <div style=3D"overflow:hidde=
+n;color:transparent;visibility:hidden;mso-hide:all;width:0;font-size:0;opac=
+ity:0;height:0;"> It's not what you know, it's who you know </div> <table a=
+lign=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" bgcolor=3D"#EDF0F3" style=3D"background-color:#EDF0F3;table-layout:fix=
+ed;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;=
+-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"center" style=3D"-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-te=
+xt-size-adjust:100%;"> <center style=3D"width:100%;"> <table border=3D"0" c=
+lass=3D"phoenix-email-container" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"512" bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;margin:0 aut=
+o;max-width:512px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;width:=
+inherit;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td =
+bgcolor=3D"#F6F8FA" style=3D"background-color:#F6F8FA;padding:5px 16px 13px=
+;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;border-bottom:1px solid #ECECEC;"> <table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;width:100% !important;mso-table-lsp=
+ace:0pt;-ms-text-size-adjust:100%;min-width:100% !important;"> <tbody> <tr>=
+ <td align=3D"left" valign=3D"middle" style=3D"-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a =
+href=3D"https://www.linkedin.com/comm/feed/?midToken=3DAQGmOgFoL_CRRg&amp;t=
+rk=3Deml-email_pymk_01-header-88-home&amp;trkEmail=3Deml-email_pymk_01-head=
+er-88-home-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Ffeed&amp;lipi=3Durn%3=
+Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D=
+"cursor:pointer;color:#737373;-webkit-text-size-adjust:100%;display:inline-=
+block;text-decoration:none;-ms-text-size-adjust:100%;"> <img alt=3D"LinkedI=
+n" border=3D"0" src=3D"https://www.linkedin.com/comm/dms/logo?midToken=3DAQ=
+GmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-null-95-null&amp;trkEmail=3Deml-em=
+ail_pymk_01-null-95-null-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-comms%7Ebadging%7=
+Edynamic&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCk=
+iC%2FiciA%3D%3D&amp;_sig=3D1Khekq_tD4ros1" height=3D"42" style=3D"outline:n=
+one;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></a=
+></td> <td valign=3D"middle" width=3D"100%" align=3D"right" style=3D"paddin=
+g:0 0 0 10px;padding-top:7px;-webkit-text-size-adjust:100%;mso-table-rspace=
+:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://ww=
+w.linkedin.com/comm/in/jackshelata?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-=
+email_pymk_01-header-96-profile&amp;trkEmail=3Deml-email_pymk_01-header-96-=
+profile-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&=
+amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA=
+%3D%3D" style=3D"cursor:pointer;margin:0;color:#737373;-webkit-text-size-ad=
+just:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:10=
+0%;"> <span style=3D"word-wrap:break-word;color:#4C4C4C;word-break:break-wo=
+rd;font-weight:400;-ms-word-break:break-all;font-size:14px;line-height:1.42=
+9;overflow-wrap:break-word;">Jack Shelata</span></a></td> <td valign=3D"mid=
+dle" width=3D"40" style=3D"padding-top:7px;-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;padding-left:10px;mso-table-lspace:0pt;-ms-text-size-adj=
+ust:100%;"> <a href=3D"https://www.linkedin.com/comm/in/jackshelata?midToke=
+n=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-header-96-profile&amp;trkEma=
+il=3Deml-email_pymk_01-header-96-profile-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-n=
+eptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_p=
+ymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"border-radius:50%;cursor:=
+pointer;color:#737373;-webkit-text-size-adjust:100%;display:inline-block;te=
+xt-decoration:none;-ms-text-size-adjust:100%;"><img alt=3D"" border=3D"0" h=
+eight=3D"36" width=3D"36" src=3D"https://media.licdn.com/dms/image/C4E03AQH=
+vz9UfxV0d_Q/profile-displayphoto-shrink_100_100/0?e=3D2159024400&amp;v=3Dbe=
+ta&amp;t=3DvoTV1lizwaePgFekSeHoLtAnlaRcXUCYI5M4d3rwmxs" style=3D"border-rad=
+ius:50%;outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-deco=
+ration:none;"></a></td> <td width=3D"1" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">&=
+nbsp;</td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-=
+adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-=
+table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-te=
+xt-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:=
+0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td clas=
+s=3D"container" bgcolor=3D"#2791bd" align=3D"center" style=3D"background-co=
+lor:#2791bd;padding:18px 24px;-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <=
+h2 style=3D"margin:0;color:#FFFFFF;font-weight:200;font-size:20px;padding-b=
+ottom:6px;line-height:1.2;">People who also studied at University of Michig=
+an</h2></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-tabl=
+e-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-s=
+ize-adjust:100%;"> <tbody> <tr> <td class=3D"digest container" style=3D"pad=
+ding:28px 24px 0 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;ms=
+o-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" class=
+=3D"inner" cellspacing=3D"0" cellpadding=3D"0" width=3D"400" style=3D"margi=
+n:0 auto;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspac=
+e:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"left" class=3D=
+"profile-card" style=3D"padding:0 0 30px 0;-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-=
+webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-=
+text-size-adjust:100%;"> <tbody> <tr> <td valign=3D"top" width=3D"50" style=
+=3D"padding:0 12px 0 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;m=
+so-table-lspace:0pt;vertical-align:top;width:50px;-ms-text-size-adjust:100%=
+;"> <a href=3D"https://www.linkedin.com/comm/in/hannah-driks-2623a6139?midT=
+oken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-25-prof%7Ephoto&amp;=
+trkEmail=3Deml-email_pymk_01-pymk-25-prof%7Ephoto-null-6r5gpt%7Ejn2qcjhj%7E=
+y2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemai=
+l_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"border-radius:50=
+%;cursor:pointer;color:#737373;-webkit-text-size-adjust:100%;display:inline=
+-block;text-decoration:none;-ms-text-size-adjust:100%;"><img alt=3D"" borde=
+r=3D"0" height=3D"54" width=3D"54" src=3D"https://media.licdn.com/dms/image=
+/C4D03AQEf_rFKGcARAA/profile-displayphoto-shrink_100_100/0?e=3D2159024400&a=
+mp;v=3Dbeta&amp;t=3DMfuLbhusl8aHS--sTHj4__QJsLtVuXMOIqGY7BsRiCA" style=3D"b=
+order-radius:50%;outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;=
+text-decoration:none;"></a></td> <td width=3D"100%" valign=3D"top" style=3D=
+"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;ve=
+rtical-align:top;-ms-text-size-adjust:100%;"> <table align=3D"left" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" style=3D"-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;"> <tbody> <tr> <td class=3D"card-name" style=3D"-webkit-tex=
+t-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-=
+adjust:100%;"><a href=3D"https://www.linkedin.com/comm/in/hannah-driks-2623=
+a6139?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-33-prof%7E=
+name&amp;trkEmail=3Deml-email_pymk_01-pymk-33-prof%7Ename-null-6r5gpt%7Ejn2=
+qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apag=
+e%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"cursor:p=
+ointer;color:#737373;-webkit-text-size-adjust:100%;display:inline-block;tex=
+t-decoration:none;-ms-text-size-adjust:100%;"> <span style=3D"word-wrap:bre=
+ak-word;color:#262626;word-break:break-word;font-weight:700;-ms-word-break:=
+break-all;font-size:14px;line-height:1.429;overflow-wrap:break-word;">Hanna=
+h Driks</span></a></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:10=
+0%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><p=
+ style=3D"margin:0;font-weight:400;"> <span style=3D"word-wrap:break-word;c=
+olor:#737373;word-break:break-word;font-weight:400;-ms-word-break:break-all=
+;font-size:12px;line-height:1.333;overflow-wrap:break-word;">Undergraduate =
+Student Researcher at University of...</span></p></td> </tr> <tr> <td dir=
+=3D"rtl" align=3D"left" style=3D"padding-top:0px;-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;dir=
+ection:rtl !important;text-align:left !important;"><span class=3D"card-cta-=
+container-mobile"><span style=3D"display:inline-block;margin-top:10px;margi=
+n-right:10px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;display:inline-blo=
+ck;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=
+=3D"center" valign=3D"middle" style=3D"-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"=
+https://www.linkedin.com/comm/mynetwork/send-invite/hannah-driks-2623a6139/=
+?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-17-connect_univ=
+ersal&amp;trkEmail=3Deml-email_pymk_01-pymk-17-connect_universal-null-6r5gp=
+t%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=3Durn%3=
+Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=
+=3D09EKnZe4v4ros1" target=3D"_blank" style=3D"cursor:pointer;word-wrap:norm=
+al;color:#737373;word-break:normal;white-space:nowrap;-webkit-text-size-adj=
+ust:100%;display:block;text-decoration:none;-ms-text-size-adjust:100%;overf=
+low-wrap:normal;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D=
+"border-radius:2px;padding:3px 16px;color:#4C4C4C;-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;font-weight:500;mso-table-lspace:0pt;font-size:14=
+px;-ms-text-size-adjust:100%;border-color:#737373;border-width:1px;border-s=
+tyle:solid;"><a href=3D"https://www.linkedin.com/comm/mynetwork/send-invite=
+/hannah-driks-2623a6139/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk=
+_01-pymk-17-connect_universal&amp;trkEmail=3Deml-email_pymk_01-pymk-17-conn=
+ect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite=
+%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCki=
+C%2FiciA%3D%3D&amp;_sig=3D09EKnZe4v4ros1" target=3D"_blank" style=3D"cursor=
+:pointer;color:#4C4C4C;-webkit-text-size-adjust:100%;display:inline-block;t=
+ext-decoration:none;-ms-text-size-adjust:100%;">Connect</a></td> </tr> </tb=
+ody> </table></a></td> </tr> </tbody> </table></span></span></td> </tr> </t=
+body> </table></td> <td align=3D"right" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> =
+<div class=3D"card-cta-container-desktop" style=3D"overflow:hidden;visibili=
+ty:hidden;display:none;mso-hide:all;width:0;vertical-align:top;height:0;"> =
+<table align=3D"right" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso=
+-hide:all;mso-table-lspace:0pt;width:auto;-ms-text-size-adjust:100%;"> <tbo=
+dy style=3D"mso-hide:all;"> <tr style=3D"mso-hide:all;"> <td valign=3D"top"=
+ height=3D"54" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-hide:all;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><span style=
+=3D"display:inline-block;mso-hide:all;margin-top:10px;margin-right:10px;"> =
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-te=
+xt-size-adjust:100%;mso-table-rspace:0pt;display:inline-block;mso-hide:all;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody style=3D"mso-hide:=
+all;"> <tr style=3D"mso-hide:all;"> <td align=3D"center" valign=3D"middle" =
+style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-hide:all;ms=
+o-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linke=
+din.com/comm/mynetwork/send-invite/hannah-driks-2623a6139/?midToken=3DAQGmO=
+gFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-17-connect_universal&amp;trkEmai=
+l=3Deml-email_pymk_01-pymk-17-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2=
+-null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemai=
+l_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=3D09EKnZe4v4ros1"=
+ target=3D"_blank" style=3D"cursor:pointer;word-wrap:normal;color:#737373;w=
+ord-break:normal;white-space:nowrap;-webkit-text-size-adjust:100%;display:b=
+lock;text-decoration:none;mso-hide:all;-ms-text-size-adjust:100%;overflow-w=
+rap:normal;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-h=
+ide:all;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody style=3D"m=
+so-hide:all;"> <tr style=3D"mso-hide:all;"> <td style=3D"padding:3px 16px;c=
+olor:#4C4C4C;-webkit-text-size-adjust:100%;font-weight:500;mso-hide:all;fon=
+t-size:14px;-ms-text-size-adjust:100%;border-color:#737373;border-radius:2p=
+x;mso-table-rspace:0pt;mso-table-lspace:0pt;border-width:1px;border-style:s=
+olid;"><a href=3D"https://www.linkedin.com/comm/mynetwork/send-invite/hanna=
+h-driks-2623a6139/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-py=
+mk-17-connect_universal&amp;trkEmail=3Deml-email_pymk_01-pymk-17-connect_un=
+iversal-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esen=
+d&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2Fic=
+iA%3D%3D&amp;_sig=3D09EKnZe4v4ros1" target=3D"_blank" style=3D"cursor:point=
+er;color:#4C4C4C;-webkit-text-size-adjust:100%;display:inline-block;text-de=
+coration:none;mso-hide:all;-ms-text-size-adjust:100%;">Connect</a></td> </t=
+r> </tbody> </table></a></td> </tr> </tbody> </table></span></td> </tr> </t=
+body> </table> </div></td> </tr> </tbody> </table> <table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"padding:10px 0 0 64=
+px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;=
+-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"-webkit-text-size-ad=
+just:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:10=
+0%;"> <span style=3D"word-wrap:break-word;color:#737373;word-break:break-wo=
+rd;font-weight:400;-ms-word-break:break-all;font-size:12px;line-height:1.33=
+3;overflow-wrap:break-word;">Here are some of your connections in common</s=
+pan></td> </tr> </tbody> </table> <table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" width=3D" " style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;padding-left:64px;mso-table-lspace:0pt;-ms-text-size-adjust:100=
+%;"> <tbody> <tr> <td style=3D"padding:5px 5px 0 0;-webkit-text-size-adjust=
+:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"=
+> <a href=3D"https://www.linkedin.com/comm/in/laurence-horowitz-25245549?mi=
+dToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-41-prof%7Ephoto&am=
+p;trkEmail=3Deml-email_pymk_01-pymk-41-prof%7Ephoto-null-6r5gpt%7Ejn2qcjhj%=
+7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aem=
+ail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"border-radius:=
+50%;cursor:pointer;color:#737373;-webkit-text-size-adjust:100%;display:inli=
+ne-block;text-decoration:none;-ms-text-size-adjust:100%;"><img alt=3D"" bor=
+der=3D"0" height=3D"34" width=3D"34" src=3D"https://media.licdn.com/dms/ima=
+ge/C5603AQGg5zvIbGq_xQ/profile-displayphoto-shrink_100_100/0?e=3D2159024400=
+&amp;v=3Dbeta&amp;t=3D6U8ZwO1PMJXESwaXhusD8l0C27hsBe_Q6VPLP7BTAXA" style=3D=
+"border-radius:50%;outline:none;-ms-interpolation-mode:bicubic;color:#FFFFF=
+F;text-decoration:none;"></a></td> <td style=3D"padding:5px 5px 0 0;-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-s=
+ize-adjust:100%;"> <a href=3D"https://www.linkedin.com/comm/in/andrew-a-090=
+77196?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-42-prof%7E=
+photo&amp;trkEmail=3Deml-email_pymk_01-pymk-42-prof%7Ephoto-null-6r5gpt%7Ej=
+n2qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Ap=
+age%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"border=
+-radius:50%;cursor:pointer;color:#737373;-webkit-text-size-adjust:100%;disp=
+lay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><img alt=
+=3D"" border=3D"0" height=3D"34" width=3D"34" src=3D"https://media.licdn.co=
+m/dms/image/C4D03AQE--R1DyaI9tg/profile-displayphoto-shrink_100_100/0?e=3D2=
+159024400&amp;v=3Dbeta&amp;t=3DtdS8qhjdZG8v_RMgvoWXzDCbgNPg1X_VgmPb1e-ESY8"=
+ style=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubic;col=
+or:#FFFFFF;text-decoration:none;"></a></td> <td style=3D"padding:5px 5px 0 =
+0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-=
+ms-text-size-adjust:100%;"> <a href=3D"https://www.linkedin.com/comm/in/ste=
+venleshajr?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-43-pr=
+of%7Ephoto&amp;trkEmail=3Deml-email_pymk_01-pymk-43-prof%7Ephoto-null-6r5gp=
+t%7Ejn2qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Al=
+i%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"b=
+order-radius:50%;cursor:pointer;color:#737373;-webkit-text-size-adjust:100%=
+;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><img=
+ alt=3D"" border=3D"0" height=3D"34" width=3D"34" src=3D"https://media.licd=
+n.com/dms/image/C5603AQGX2ZTvMBaKBQ/profile-displayphoto-shrink_100_100/0?e=
+=3D2159024400&amp;v=3Dbeta&amp;t=3Df0Ci5td2THvhNsJ-m4s_VHGyd0L4Bom8lJbHV-OS=
+NWw" style=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubic=
+;color:#FFFFFF;text-decoration:none;"></a></td> <td style=3D"padding:5px 5p=
+x 0 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;"> <a href=3D"https://www.linkedin.com/comm/in=
+/hank-biznek-6b12b0127?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_0=
+1-pymk-44-prof%7Ephoto&amp;trkEmail=3Deml-email_pymk_01-pymk-44-prof%7Ephot=
+o-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;li=
+pi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D=
+" style=3D"border-radius:50%;cursor:pointer;color:#737373;-webkit-text-size=
+-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust=
+:100%;"><img alt=3D"" border=3D"0" height=3D"34" width=3D"34" src=3D"https:=
+//media.licdn.com/dms/image/C5603AQH9pOeU6Sqytg/profile-displayphoto-shrink=
+_100_100/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DBaFv6oJaOnLhqrlqP_830O0HPU9C=
+vY5o5XlAlgcenpc" style=3D"border-radius:50%;outline:none;-ms-interpolation-=
+mode:bicubic;color:#FFFFFF;text-decoration:none;"></a></td> </tr> </tbody> =
+</table></td> </tr> <tr> <td align=3D"left" class=3D"profile-card" style=3D=
+"padding:0 0 30px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-=
+table-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust=
+:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"=
+> <tbody> <tr> <td valign=3D"top" width=3D"50" style=3D"padding:0 12px 0 0;=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;ver=
+tical-align:top;width:50px;-ms-text-size-adjust:100%;"> <a href=3D"https://=
+www.linkedin.com/comm/in/abigail-takas-4b3a28147?midToken=3DAQGmOgFoL_CRRg&=
+amp;trk=3Deml-email_pymk_01-pymk-26-prof%7Ephoto&amp;trkEmail=3Deml-email_p=
+ymk_01-pymk-26-prof%7Ephoto-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fprof=
+ile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPe=
+AC5qSrusKCkiC%2FiciA%3D%3D" style=3D"border-radius:50%;cursor:pointer;color=
+:#737373;-webkit-text-size-adjust:100%;display:inline-block;text-decoration=
+:none;-ms-text-size-adjust:100%;"><img alt=3D"" border=3D"0" height=3D"54" =
+width=3D"54" src=3D"https://media.licdn.com/dms/image/C4D03AQF9nSlgAgNyUw/p=
+rofile-displayphoto-shrink_100_100/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DNf=
+rl8QCaO47vih2INnUCsPafL50wzVerWzeapxqwf8I" style=3D"border-radius:50%;outli=
+ne:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"=
+></a></td> <td width=3D"100%" valign=3D"top" style=3D"-webkit-text-size-adj=
+ust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;vertical-align:top;-ms-t=
+ext-size-adjust:100%;"> <table align=3D"left" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"auto" style=3D"-webkit-text-size-adjust:100%;m=
+so-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbod=
+y> <tr> <td class=3D"card-name" style=3D"-webkit-text-size-adjust:100%;mso-=
+table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=
+=3D"https://www.linkedin.com/comm/in/abigail-takas-4b3a28147?midToken=3DAQG=
+mOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-34-prof%7Ename&amp;trkEmail=3D=
+eml-email_pymk_01-pymk-34-prof%7Ename-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-nept=
+une%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk=
+_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"cursor:pointer;color:#737373=
+;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-m=
+s-text-size-adjust:100%;"> <span style=3D"word-wrap:break-word;color:#26262=
+6;word-break:break-word;font-weight:700;-ms-word-break:break-all;font-size:=
+14px;line-height:1.429;overflow-wrap:break-word;">Abigail Takas</span></a><=
+/td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace=
+:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><p style=3D"margin:0;=
+font-weight:400;"> <span style=3D"word-wrap:break-word;color:#737373;word-b=
+reak:break-word;font-weight:400;-ms-word-break:break-all;font-size:12px;lin=
+e-height:1.333;overflow-wrap:break-word;">Student at the Gerald R. Ford Sch=
+ool of Public Policy</span></p></td> </tr> <tr> <td dir=3D"rtl" align=3D"le=
+ft" style=3D"padding-top:0px;-webkit-text-size-adjust:100%;mso-table-rspace=
+:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;direction:rtl !importan=
+t;text-align:left !important;"><span class=3D"card-cta-container-mobile"><s=
+pan style=3D"display:inline-block;margin-top:10px;margin-right:10px;"> <tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;display:inline-block;mso-table-lspace:=
+0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"center" valign=
+=3D"middle" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso=
+-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linked=
+in.com/comm/mynetwork/send-invite/abigail-takas-4b3a28147/?midToken=3DAQGmO=
+gFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-18-connect_universal&amp;trkEmai=
+l=3Deml-email_pymk_01-pymk-18-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2=
+-null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemai=
+l_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=3D1lLQ19BiD4ros1"=
+ target=3D"_blank" style=3D"cursor:pointer;word-wrap:normal;color:#737373;w=
+ord-break:normal;white-space:nowrap;-webkit-text-size-adjust:100%;display:b=
+lock;text-decoration:none;-ms-text-size-adjust:100%;overflow-wrap:normal;">=
+ <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" sty=
+le=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"border-radius:2px=
+;padding:3px 16px;color:#4C4C4C;-webkit-text-size-adjust:100%;mso-table-rsp=
+ace:0pt;font-weight:500;mso-table-lspace:0pt;font-size:14px;-ms-text-size-a=
+djust:100%;border-color:#737373;border-width:1px;border-style:solid;"><a hr=
+ef=3D"https://www.linkedin.com/comm/mynetwork/send-invite/abigail-takas-4b3=
+a28147/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-18-conne=
+ct_universal&amp;trkEmail=3Deml-email_pymk_01-pymk-18-connect_universal-nul=
+l-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&a=
+mp;_sig=3D1lLQ19BiD4ros1" target=3D"_blank" style=3D"cursor:pointer;color:#=
+4C4C4C;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:n=
+one;-ms-text-size-adjust:100%;">Connect</a></td> </tr> </tbody> </table></a=
+></td> </tr> </tbody> </table></span></span></td> </tr> </tbody> </table></=
+td> <td align=3D"right" style=3D"-webkit-text-size-adjust:100%;mso-table-rs=
+pace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <div class=3D"ca=
+rd-cta-container-desktop" style=3D"overflow:hidden;visibility:hidden;displa=
+y:none;mso-hide:all;width:0;vertical-align:top;height:0;"> <table align=3D"=
+right" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" styl=
+e=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-hide:all;mso-ta=
+ble-lspace:0pt;width:auto;-ms-text-size-adjust:100%;"> <tbody style=3D"mso-=
+hide:all;"> <tr style=3D"mso-hide:all;"> <td valign=3D"top" height=3D"54" s=
+tyle=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-hide:all;mso=
+-table-lspace:0pt;-ms-text-size-adjust:100%;"><span style=3D"display:inline=
+-block;mso-hide:all;margin-top:10px;margin-right:10px;"> <table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;display:inline-block;mso-hide:all;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;"> <tbody style=3D"mso-hide:all;"> <tr style=
+=3D"mso-hide:all;"> <td align=3D"center" valign=3D"middle" style=3D"-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;mso-hide:all;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/myn=
+etwork/send-invite/abigail-takas-4b3a28147/?midToken=3DAQGmOgFoL_CRRg&amp;t=
+rk=3Deml-email_pymk_01-pymk-18-connect_universal&amp;trkEmail=3Deml-email_p=
+ymk_01-pymk-18-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2=
+Fmynetwork%2Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01=
+%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=3D1lLQ19BiD4ros1" target=3D"_bla=
+nk" style=3D"cursor:pointer;word-wrap:normal;color:#737373;word-break:norma=
+l;white-space:nowrap;-webkit-text-size-adjust:100%;display:block;text-decor=
+ation:none;mso-hide:all;-ms-text-size-adjust:100%;overflow-wrap:normal;"> <=
+table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-hide:all;mso-tab=
+le-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody style=3D"mso-hide:all;"> =
+<tr style=3D"mso-hide:all;"> <td style=3D"padding:3px 16px;color:#4C4C4C;-w=
+ebkit-text-size-adjust:100%;font-weight:500;mso-hide:all;font-size:14px;-ms=
+-text-size-adjust:100%;border-color:#737373;border-radius:2px;mso-table-rsp=
+ace:0pt;mso-table-lspace:0pt;border-width:1px;border-style:solid;"><a href=
+=3D"https://www.linkedin.com/comm/mynetwork/send-invite/abigail-takas-4b3a2=
+8147/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-18-connect=
+_universal&amp;trkEmail=3Deml-email_pymk_01-pymk-18-connect_universal-null-=
+6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=3D=
+urn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;=
+_sig=3D1lLQ19BiD4ros1" target=3D"_blank" style=3D"cursor:pointer;color:#4C4=
+C4C;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none=
+;mso-hide:all;-ms-text-size-adjust:100%;">Connect</a></td> </tr> </tbody> <=
+/table></a></td> </tr> </tbody> </table></span></td> </tr> </tbody> </table=
+> </div></td> </tr> </tbody> </table> <table border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" width=3D"100%" style=3D"padding:10px 0 0 64px;-webkit-te=
+xt-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size=
+-adjust:100%;"> <tbody> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso=
+-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <span s=
+tyle=3D"word-wrap:break-word;color:#737373;word-break:break-word;font-weigh=
+t:400;-ms-word-break:break-all;font-size:12px;line-height:1.333;overflow-wr=
+ap:break-word;">Here are some of your connections in common</span></td> </t=
+r> </tbody> </table> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D" " style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;p=
+adding-left:64px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> =
+<tr> <td style=3D"padding:5px 5px 0 0;-webkit-text-size-adjust:100%;mso-tab=
+le-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <a href=3D"=
+https://www.linkedin.com/comm/in/christopher-p%C3%A9rez-11956933?midToken=
+=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-45-prof%7Ephoto&amp;trkE=
+mail=3Deml-email_pymk_01-pymk-45-prof%7Ephoto-null-6r5gpt%7Ejn2qcjhj%7Ey2-n=
+ull-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_em=
+ail_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"border-radius:50%;cu=
+rsor:pointer;color:#737373;-webkit-text-size-adjust:100%;display:inline-blo=
+ck;text-decoration:none;-ms-text-size-adjust:100%;"><img alt=3D"" border=3D=
+"0" height=3D"34" width=3D"34" src=3D"https://media.licdn.com/dms/image/C4D=
+03AQFhJJVCF4LTMA/profile-displayphoto-shrink_100_100/0?e=3D2159024400&amp;v=
+=3Dbeta&amp;t=3DCNTFsJJ3c6CSI8c1CxFn9C6TCbdPfwEAxkI_wswVytg" style=3D"borde=
+r-radius:50%;outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text=
+-decoration:none;"></a></td> <td style=3D"padding:5px 5px 0 0;-webkit-text-=
+size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-ad=
+just:100%;"> <a href=3D"https://www.linkedin.com/comm/in/laurence-horowitz-=
+25245549?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-46-prof=
+%7Ephoto&amp;trkEmail=3Deml-email_pymk_01-pymk-46-prof%7Ephoto-null-6r5gpt%=
+7Ejn2qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%=
+3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"bor=
+der-radius:50%;cursor:pointer;color:#737373;-webkit-text-size-adjust:100%;d=
+isplay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><img a=
+lt=3D"" border=3D"0" height=3D"34" width=3D"34" src=3D"https://media.licdn.=
+com/dms/image/C5603AQGg5zvIbGq_xQ/profile-displayphoto-shrink_100_100/0?e=
+=3D2159024400&amp;v=3Dbeta&amp;t=3D6U8ZwO1PMJXESwaXhusD8l0C27hsBe_Q6VPLP7BT=
+AXA" style=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubic=
+;color:#FFFFFF;text-decoration:none;"></a></td> <td style=3D"padding:5px 5p=
+x 0 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;"> <a href=3D"https://www.linkedin.com/comm/in=
+/franklazur?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-47-p=
+rof%7Ephoto&amp;trkEmail=3Deml-email_pymk_01-pymk-47-prof%7Ephoto-null-6r5g=
+pt%7Ejn2qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3A=
+li%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"=
+border-radius:50%;cursor:pointer;color:#737373;-webkit-text-size-adjust:100=
+%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><im=
+g alt=3D"" border=3D"0" height=3D"34" width=3D"34" src=3D"https://media.lic=
+dn.com/dms/image/C5603AQHxU6tRY7JtCA/profile-displayphoto-shrink_100_100/0?=
+e=3D2159024400&amp;v=3Dbeta&amp;t=3D6cqFBHv1fVWnamFNBkqy5bXJI85fi96JqmZXG46=
+AM7I" style=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubi=
+c;color:#FFFFFF;text-decoration:none;"></a></td> <td style=3D"padding:5px 5=
+px 0 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:=
+0pt;-ms-text-size-adjust:100%;"> <a href=3D"https://www.linkedin.com/comm/i=
+n/andrew-a-09077196?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-p=
+ymk-48-prof%7Ephoto&amp;trkEmail=3Deml-email_pymk_01-pymk-48-prof%7Ephoto-n=
+ull-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" =
+style=3D"border-radius:50%;cursor:pointer;color:#737373;-webkit-text-size-a=
+djust:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:1=
+00%;"><img alt=3D"" border=3D"0" height=3D"34" width=3D"34" src=3D"https://=
+media.licdn.com/dms/image/C4D03AQE--R1DyaI9tg/profile-displayphoto-shrink_1=
+00_100/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DtdS8qhjdZG8v_RMgvoWXzDCbgNPg1X=
+_VgmPb1e-ESY8" style=3D"border-radius:50%;outline:none;-ms-interpolation-mo=
+de:bicubic;color:#FFFFFF;text-decoration:none;"></a></td> </tr> </tbody> </=
+table></td> </tr> <tr> <td align=3D"left" class=3D"profile-card" style=3D"p=
+adding:0 0 30px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-ta=
+ble-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> =
+<tbody> <tr> <td valign=3D"top" width=3D"50" style=3D"padding:0 12px 0 0;-w=
+ebkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;verti=
+cal-align:top;width:50px;-ms-text-size-adjust:100%;"> <a href=3D"https://ww=
+w.linkedin.com/comm/in/evan-lee-9a2a51111?midToken=3DAQGmOgFoL_CRRg&amp;trk=
+=3Deml-email_pymk_01-pymk-27-prof%7Ephoto&amp;trkEmail=3Deml-email_pymk_01-=
+pymk-27-prof%7Ephoto-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fprofile%7Ev=
+anity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSru=
+sKCkiC%2FiciA%3D%3D" style=3D"border-radius:50%;cursor:pointer;color:#73737=
+3;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-=
+ms-text-size-adjust:100%;"><img alt=3D"" border=3D"0" height=3D"54" width=
+=3D"54" src=3D"https://media.licdn.com/dms/image/C5603AQFxOmykdr32qg/profil=
+e-displayphoto-shrink_100_100/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DpRE0cu_=
+HAC3oCdeR7tSMz4PeFWAeeItFQyhOEcPqA28" style=3D"border-radius:50%;outline:no=
+ne;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></a>=
+</td> <td width=3D"100%" valign=3D"top" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;vertical-align:top;-ms-text-s=
+ize-adjust:100%;"> <table align=3D"left" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" width=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <t=
+r> <td class=3D"card-name" style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"htt=
+ps://www.linkedin.com/comm/in/evan-lee-9a2a51111?midToken=3DAQGmOgFoL_CRRg&=
+amp;trk=3Deml-email_pymk_01-pymk-35-prof%7Ename&amp;trkEmail=3Deml-email_py=
+mk_01-pymk-35-prof%7Ename-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fprofil=
+e%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC=
+5qSrusKCkiC%2FiciA%3D%3D" style=3D"cursor:pointer;color:#737373;-webkit-tex=
+t-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-=
+adjust:100%;"> <span style=3D"word-wrap:break-word;color:#262626;word-break=
+:break-word;font-weight:700;-ms-word-break:break-all;font-size:14px;line-he=
+ight:1.429;overflow-wrap:break-word;">Evan Lee</span></a></td> </tr> <tr> <=
+td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-ls=
+pace:0pt;-ms-text-size-adjust:100%;"><p style=3D"margin:0;font-weight:400;"=
+> <span style=3D"word-wrap:break-word;color:#737373;word-break:break-word;f=
+ont-weight:400;-ms-word-break:break-all;font-size:12px;line-height:1.333;ov=
+erflow-wrap:break-word;">Assistant Naval Architect at Bay Engineering, Inc.=
+</span></p></td> </tr> <tr> <td dir=3D"rtl" align=3D"left" style=3D"padding=
+-top:0px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspac=
+e:0pt;-ms-text-size-adjust:100%;direction:rtl !important;text-align:left !i=
+mportant;"><span class=3D"card-cta-container-mobile"><span style=3D"display=
+:inline-block;margin-top:10px;margin-right:10px;"> <table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100%;mso-=
+table-rspace:0pt;display:inline-block;mso-table-lspace:0pt;-ms-text-size-ad=
+just:100%;"> <tbody> <tr> <td align=3D"center" valign=3D"middle" style=3D"-=
+webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-=
+text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/mynetwork/=
+send-invite/evan-lee-9a2a51111/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-ema=
+il_pymk_01-pymk-19-connect_universal&amp;trkEmail=3Deml-email_pymk_01-pymk-=
+19-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2=
+Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qS=
+rusKCkiC%2FiciA%3D%3D&amp;_sig=3D3lWTBhRHH4ros1" target=3D"_blank" style=3D=
+"cursor:pointer;word-wrap:normal;color:#737373;word-break:normal;white-spac=
+e:nowrap;-webkit-text-size-adjust:100%;display:block;text-decoration:none;-=
+ms-text-size-adjust:100%;overflow-wrap:normal;"> <table border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" width=3D"auto" style=3D"-webkit-text-size-adj=
+ust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100=
+%;"> <tbody> <tr> <td style=3D"border-radius:2px;padding:3px 16px;color:#4C=
+4C4C;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;font-weight:500;mso=
+-table-lspace:0pt;font-size:14px;-ms-text-size-adjust:100%;border-color:#73=
+7373;border-width:1px;border-style:solid;"><a href=3D"https://www.linkedin.=
+com/comm/mynetwork/send-invite/evan-lee-9a2a51111/?midToken=3DAQGmOgFoL_CRR=
+g&amp;trk=3Deml-email_pymk_01-pymk-19-connect_universal&amp;trkEmail=3Deml-=
+email_pymk_01-pymk-19-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-ne=
+ptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_=
+pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=3D3lWTBhRHH4ros1" target=
+=3D"_blank" style=3D"cursor:pointer;color:#4C4C4C;-webkit-text-size-adjust:=
+100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">=
+Connect</a></td> </tr> </tbody> </table></a></td> </tr> </tbody> </table></=
+span></span></td> </tr> </tbody> </table></td> <td align=3D"right" style=3D=
+"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;"> <div class=3D"card-cta-container-desktop" style=
+=3D"overflow:hidden;visibility:hidden;display:none;mso-hide:all;width:0;ver=
+tical-align:top;height:0;"> <table align=3D"right" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"auto" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-hide:all;mso-table-lspace:0pt;width:auto;-ms-t=
+ext-size-adjust:100%;"> <tbody style=3D"mso-hide:all;"> <tr style=3D"mso-hi=
+de:all;"> <td valign=3D"top" height=3D"54" style=3D"-webkit-text-size-adjus=
+t:100%;mso-table-rspace:0pt;mso-hide:all;mso-table-lspace:0pt;-ms-text-size=
+-adjust:100%;"><span style=3D"display:inline-block;mso-hide:all;margin-top:=
+10px;margin-right:10px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;display:=
+inline-block;mso-hide:all;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">=
+ <tbody style=3D"mso-hide:all;"> <tr style=3D"mso-hide:all;"> <td align=3D"=
+center" valign=3D"middle" style=3D"-webkit-text-size-adjust:100%;mso-table-=
+rspace:0pt;mso-hide:all;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a=
+ href=3D"https://www.linkedin.com/comm/mynetwork/send-invite/evan-lee-9a2a5=
+1111/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-19-connect=
+_universal&amp;trkEmail=3Deml-email_pymk_01-pymk-19-connect_universal-null-=
+6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=3D=
+urn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;=
+_sig=3D3lWTBhRHH4ros1" target=3D"_blank" style=3D"cursor:pointer;word-wrap:=
+normal;color:#737373;word-break:normal;white-space:nowrap;-webkit-text-size=
+-adjust:100%;display:block;text-decoration:none;mso-hide:all;-ms-text-size-=
+adjust:100%;overflow-wrap:normal;"> <table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso-=
+table-rspace:0pt;mso-hide:all;mso-table-lspace:0pt;-ms-text-size-adjust:100=
+%;"> <tbody style=3D"mso-hide:all;"> <tr style=3D"mso-hide:all;"> <td style=
+=3D"padding:3px 16px;color:#4C4C4C;-webkit-text-size-adjust:100%;font-weigh=
+t:500;mso-hide:all;font-size:14px;-ms-text-size-adjust:100%;border-color:#7=
+37373;border-radius:2px;mso-table-rspace:0pt;mso-table-lspace:0pt;border-wi=
+dth:1px;border-style:solid;"><a href=3D"https://www.linkedin.com/comm/mynet=
+work/send-invite/evan-lee-9a2a51111/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Dem=
+l-email_pymk_01-pymk-19-connect_universal&amp;trkEmail=3Deml-email_pymk_01-=
+pymk-19-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetw=
+ork%2Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPe=
+AC5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=3D3lWTBhRHH4ros1" target=3D"_blank" sty=
+le=3D"cursor:pointer;color:#4C4C4C;-webkit-text-size-adjust:100%;display:in=
+line-block;text-decoration:none;mso-hide:all;-ms-text-size-adjust:100%;">Co=
+nnect</a></td> </tr> </tbody> </table></a></td> </tr> </tbody> </table></sp=
+an></td> </tr> </tbody> </table> </div></td> </tr> </tbody> </table> <table=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D" " style=3D"-web=
+kit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:64px;mso-table-=
+lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr></tr> </tbody> </table>=
+</td> </tr> <tr> <td align=3D"left" class=3D"profile-card" style=3D"padding=
+:0 0 30px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-ls=
+pace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody=
+> <tr> <td valign=3D"top" width=3D"50" style=3D"padding:0 12px 0 0;-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;vertical-al=
+ign:top;width:50px;-ms-text-size-adjust:100%;"> <a href=3D"https://www.link=
+edin.com/comm/in/mackenzie-horton-65aa7ab9?midToken=3DAQGmOgFoL_CRRg&amp;tr=
+k=3Deml-email_pymk_01-pymk-28-prof%7Ephoto&amp;trkEmail=3Deml-email_pymk_01=
+-pymk-28-prof%7Ephoto-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fprofile%7E=
+vanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSr=
+usKCkiC%2FiciA%3D%3D" style=3D"border-radius:50%;cursor:pointer;color:#7373=
+73;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;=
+-ms-text-size-adjust:100%;"><img alt=3D"" border=3D"0" height=3D"54" width=
+=3D"54" src=3D"https://media.licdn.com/dms/image/C5603AQH6sFHBSNdNAg/profil=
+e-displayphoto-shrink_100_100/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3Doyl-LEL=
+kQM7-f_OQC-sY5DPt0ih7tGIhN7Zzs8lx3WI" style=3D"border-radius:50%;outline:no=
+ne;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></a>=
+</td> <td width=3D"100%" valign=3D"top" style=3D"-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;vertical-align:top;-ms-text-s=
+ize-adjust:100%;"> <table align=3D"left" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" width=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <t=
+r> <td class=3D"card-name" style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"htt=
+ps://www.linkedin.com/comm/in/mackenzie-horton-65aa7ab9?midToken=3DAQGmOgFo=
+L_CRRg&amp;trk=3Deml-email_pymk_01-pymk-36-prof%7Ename&amp;trkEmail=3Deml-e=
+mail_pymk_01-pymk-36-prof%7Ename-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2=
+Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3=
+BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"cursor:pointer;color:#737373;-web=
+kit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-tex=
+t-size-adjust:100%;"> <span style=3D"word-wrap:break-word;color:#262626;wor=
+d-break:break-word;font-weight:700;-ms-word-break:break-all;font-size:14px;=
+line-height:1.429;overflow-wrap:break-word;">Mackenzie Horton</span></a></t=
+d> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0=
+pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><p style=3D"margin:0;fo=
+nt-weight:400;"> <span style=3D"word-wrap:break-word;color:#737373;word-bre=
+ak:break-word;font-weight:400;-ms-word-break:break-all;font-size:12px;line-=
+height:1.333;overflow-wrap:break-word;">Chemical Engineering Student at the=
+ University of...</span></p></td> </tr> <tr> <td dir=3D"rtl" align=3D"left"=
+ style=3D"padding-top:0px;-webkit-text-size-adjust:100%;mso-table-rspace:0p=
+t;mso-table-lspace:0pt;-ms-text-size-adjust:100%;direction:rtl !important;t=
+ext-align:left !important;"><span class=3D"card-cta-container-mobile"><span=
+ style=3D"display:inline-block;margin-top:10px;margin-right:10px;"> <table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size=
+-adjust:100%;mso-table-rspace:0pt;display:inline-block;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"center" valign=3D"m=
+iddle" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tabl=
+e-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.co=
+m/comm/mynetwork/send-invite/mackenzie-horton-65aa7ab9/?midToken=3DAQGmOgFo=
+L_CRRg&amp;trk=3Deml-email_pymk_01-pymk-20-connect_universal&amp;trkEmail=
+=3Deml-email_pymk_01-pymk-20-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-=
+null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemail=
+_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=3D1_UZ_GjKD4ros1" =
+target=3D"_blank" style=3D"cursor:pointer;word-wrap:normal;color:#737373;wo=
+rd-break:normal;white-space:nowrap;-webkit-text-size-adjust:100%;display:bl=
+ock;text-decoration:none;-ms-text-size-adjust:100%;overflow-wrap:normal;"> =
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" styl=
+e=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0p=
+t;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D"border-radius:2px;=
+padding:3px 16px;color:#4C4C4C;-webkit-text-size-adjust:100%;mso-table-rspa=
+ce:0pt;font-weight:500;mso-table-lspace:0pt;font-size:14px;-ms-text-size-ad=
+just:100%;border-color:#737373;border-width:1px;border-style:solid;"><a hre=
+f=3D"https://www.linkedin.com/comm/mynetwork/send-invite/mackenzie-horton-6=
+5aa7ab9/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-20-conn=
+ect_universal&amp;trkEmail=3Deml-email_pymk_01-pymk-20-connect_universal-nu=
+ll-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&a=
+mp;_sig=3D1_UZ_GjKD4ros1" target=3D"_blank" style=3D"cursor:pointer;color:#=
+4C4C4C;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:n=
+one;-ms-text-size-adjust:100%;">Connect</a></td> </tr> </tbody> </table></a=
+></td> </tr> </tbody> </table></span></span></td> </tr> </tbody> </table></=
+td> <td align=3D"right" style=3D"-webkit-text-size-adjust:100%;mso-table-rs=
+pace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <div class=3D"ca=
+rd-cta-container-desktop" style=3D"overflow:hidden;visibility:hidden;displa=
+y:none;mso-hide:all;width:0;vertical-align:top;height:0;"> <table align=3D"=
+right" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" styl=
+e=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-hide:all;mso-ta=
+ble-lspace:0pt;width:auto;-ms-text-size-adjust:100%;"> <tbody style=3D"mso-=
+hide:all;"> <tr style=3D"mso-hide:all;"> <td valign=3D"top" height=3D"54" s=
+tyle=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-hide:all;mso=
+-table-lspace:0pt;-ms-text-size-adjust:100%;"><span style=3D"display:inline=
+-block;mso-hide:all;margin-top:10px;margin-right:10px;"> <table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;display:inline-block;mso-hide:all;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;"> <tbody style=3D"mso-hide:all;"> <tr style=
+=3D"mso-hide:all;"> <td align=3D"center" valign=3D"middle" style=3D"-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;mso-hide:all;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/myn=
+etwork/send-invite/mackenzie-horton-65aa7ab9/?midToken=3DAQGmOgFoL_CRRg&amp=
+;trk=3Deml-email_pymk_01-pymk-20-connect_universal&amp;trkEmail=3Deml-email=
+_pymk_01-pymk-20-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune=
+%2Fmynetwork%2Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_=
+01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=3D1_UZ_GjKD4ros1" target=3D"_b=
+lank" style=3D"cursor:pointer;word-wrap:normal;color:#737373;word-break:nor=
+mal;white-space:nowrap;-webkit-text-size-adjust:100%;display:block;text-dec=
+oration:none;mso-hide:all;-ms-text-size-adjust:100%;overflow-wrap:normal;">=
+ <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" sty=
+le=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-hide:all;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody style=3D"mso-hide:all;"=
+> <tr style=3D"mso-hide:all;"> <td style=3D"padding:3px 16px;color:#4C4C4C;=
+-webkit-text-size-adjust:100%;font-weight:500;mso-hide:all;font-size:14px;-=
+ms-text-size-adjust:100%;border-color:#737373;border-radius:2px;mso-table-r=
+space:0pt;mso-table-lspace:0pt;border-width:1px;border-style:solid;"><a hre=
+f=3D"https://www.linkedin.com/comm/mynetwork/send-invite/mackenzie-horton-6=
+5aa7ab9/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-20-conn=
+ect_universal&amp;trkEmail=3Deml-email_pymk_01-pymk-20-connect_universal-nu=
+ll-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&a=
+mp;_sig=3D1_UZ_GjKD4ros1" target=3D"_blank" style=3D"cursor:pointer;color:#=
+4C4C4C;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:n=
+one;mso-hide:all;-ms-text-size-adjust:100%;">Connect</a></td> </tr> </tbody=
+> </table></a></td> </tr> </tbody> </table></span></td> </tr> </tbody> </ta=
+ble> </div></td> </tr> </tbody> </table> <table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D" " style=3D"-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;padding-left:64px;mso-table-lspace:0pt;-ms-text-size-adj=
+ust:100%;"> <tbody> <tr></tr> </tbody> </table></td> </tr> <tr> <td align=
+=3D"left" class=3D"profile-card" style=3D"padding:0 0 30px 0;-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adj=
+ust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td valign=3D"top=
+" width=3D"50" style=3D"padding:0 12px 0 0;-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;vertical-align:top;width:50px;-ms-t=
+ext-size-adjust:100%;"> <a href=3D"https://www.linkedin.com/comm/in/adkerr?=
+midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-29-prof%7Ephoto&=
+amp;trkEmail=3Deml-email_pymk_01-pymk-29-prof%7Ephoto-null-6r5gpt%7Ejn2qcjh=
+j%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3A=
+email_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"border-radiu=
+s:50%;cursor:pointer;color:#737373;-webkit-text-size-adjust:100%;display:in=
+line-block;text-decoration:none;-ms-text-size-adjust:100%;"><img alt=3D"" b=
+order=3D"0" height=3D"54" width=3D"54" src=3D"https://media.licdn.com/dms/i=
+mage/C4E03AQE0YxJQHpgi7A/profile-displayphoto-shrink_100_100/0?e=3D21590244=
+00&amp;v=3Dbeta&amp;t=3DVOgeb2-O0rWi6UBqzBpqc6f-te24QrnJYllck5szWQk" style=
+=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubic;color:#FF=
+FFFF;text-decoration:none;"></a></td> <td width=3D"100%" valign=3D"top" sty=
+le=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0=
+pt;vertical-align:top;-ms-text-size-adjust:100%;"> <table align=3D"left" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" style=3D"-web=
+kit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-tex=
+t-size-adjust:100%;"> <tbody> <tr> <td class=3D"card-name" style=3D"-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-s=
+ize-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/in/adkerr?midTok=
+en=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-37-prof%7Ename&amp;trk=
+Email=3Deml-email_pymk_01-pymk-37-prof%7Ename-null-6r5gpt%7Ejn2qcjhj%7Ey2-n=
+ull-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_em=
+ail_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"cursor:pointer;color=
+:#737373;-webkit-text-size-adjust:100%;display:inline-block;text-decoration=
+:none;-ms-text-size-adjust:100%;"> <span style=3D"word-wrap:break-word;colo=
+r:#262626;word-break:break-word;font-weight:700;-ms-word-break:break-all;fo=
+nt-size:14px;line-height:1.429;overflow-wrap:break-word;">Adam Kerr</span><=
+/a></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rs=
+pace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><p style=3D"margi=
+n:0;font-weight:400;"> <span style=3D"word-wrap:break-word;color:#737373;wo=
+rd-break:break-word;font-weight:400;-ms-word-break:break-all;font-size:12px=
+;line-height:1.333;overflow-wrap:break-word;">Software Engineer at The Clim=
+ate Corporation</span></p></td> </tr> <tr> <td dir=3D"rtl" align=3D"left" s=
+tyle=3D"padding-top:0px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;direction:rtl !important;tex=
+t-align:left !important;"><span class=3D"card-cta-container-mobile"><span s=
+tyle=3D"display:inline-block;margin-top:10px;margin-right:10px;"> <table bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-a=
+djust:100%;mso-table-rspace:0pt;display:inline-block;mso-table-lspace:0pt;-=
+ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"center" valign=3D"mid=
+dle" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-=
+lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/=
+comm/mynetwork/send-invite/adkerr/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-=
+email_pymk_01-pymk-21-connect_universal&amp;trkEmail=3Deml-email_pymk_01-py=
+mk-21-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwor=
+k%2Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC=
+5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=3D2FuuxXzmX4ros1" target=3D"_blank" style=
+=3D"cursor:pointer;word-wrap:normal;color:#737373;word-break:normal;white-s=
+pace:nowrap;-webkit-text-size-adjust:100%;display:block;text-decoration:non=
+e;-ms-text-size-adjust:100%;overflow-wrap:normal;"> <table border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" width=3D"auto" style=3D"-webkit-text-size-=
+adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:=
+100%;"> <tbody> <tr> <td style=3D"border-radius:2px;padding:3px 16px;color:=
+#4C4C4C;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;font-weight:500;=
+mso-table-lspace:0pt;font-size:14px;-ms-text-size-adjust:100%;border-color:=
+#737373;border-width:1px;border-style:solid;"><a href=3D"https://www.linked=
+in.com/comm/mynetwork/send-invite/adkerr/?midToken=3DAQGmOgFoL_CRRg&amp;trk=
+=3Deml-email_pymk_01-pymk-21-connect_universal&amp;trkEmail=3Deml-email_pym=
+k_01-pymk-21-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fm=
+ynetwork%2Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3=
+BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=3D2FuuxXzmX4ros1" target=3D"_blank=
+" style=3D"cursor:pointer;color:#4C4C4C;-webkit-text-size-adjust:100%;displ=
+ay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">Connect</a=
+></td> </tr> </tbody> </table></a></td> </tr> </tbody> </table></span></spa=
+n></td> </tr> </tbody> </table></td> <td align=3D"right" style=3D"-webkit-t=
+ext-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-siz=
+e-adjust:100%;"> <div class=3D"card-cta-container-desktop" style=3D"overflo=
+w:hidden;visibility:hidden;display:none;mso-hide:all;width:0;vertical-align=
+:top;height:0;"> <table align=3D"right" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" width=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso-tab=
+le-rspace:0pt;mso-hide:all;mso-table-lspace:0pt;width:auto;-ms-text-size-ad=
+just:100%;"> <tbody style=3D"mso-hide:all;"> <tr style=3D"mso-hide:all;"> <=
+td valign=3D"top" height=3D"54" style=3D"-webkit-text-size-adjust:100%;mso-=
+table-rspace:0pt;mso-hide:all;mso-table-lspace:0pt;-ms-text-size-adjust:100=
+%;"><span style=3D"display:inline-block;mso-hide:all;margin-top:10px;margin=
+-right:10px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;display:inline-bloc=
+k;mso-hide:all;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody sty=
+le=3D"mso-hide:all;"> <tr style=3D"mso-hide:all;"> <td align=3D"center" val=
+ign=3D"middle" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-hide:all;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"ht=
+tps://www.linkedin.com/comm/mynetwork/send-invite/adkerr/?midToken=3DAQGmOg=
+FoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-21-connect_universal&amp;trkEmail=
+=3Deml-email_pymk_01-pymk-21-connect_universal-null-6r5gpt%7Ejn2qcjhj%7Ey2-=
+null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=3Durn%3Ali%3Apage%3Aemail=
+_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;_sig=3D2FuuxXzmX4ros1" =
+target=3D"_blank" style=3D"cursor:pointer;word-wrap:normal;color:#737373;wo=
+rd-break:normal;white-space:nowrap;-webkit-text-size-adjust:100%;display:bl=
+ock;text-decoration:none;mso-hide:all;-ms-text-size-adjust:100%;overflow-wr=
+ap:normal;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-h=
+ide:all;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody style=3D"m=
+so-hide:all;"> <tr style=3D"mso-hide:all;"> <td style=3D"padding:3px 16px;c=
+olor:#4C4C4C;-webkit-text-size-adjust:100%;font-weight:500;mso-hide:all;fon=
+t-size:14px;-ms-text-size-adjust:100%;border-color:#737373;border-radius:2p=
+x;mso-table-rspace:0pt;mso-table-lspace:0pt;border-width:1px;border-style:s=
+olid;"><a href=3D"https://www.linkedin.com/comm/mynetwork/send-invite/adker=
+r/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-21-connect_un=
+iversal&amp;trkEmail=3Deml-email_pymk_01-pymk-21-connect_universal-null-6r5=
+gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Einvite%7Esend&amp;lipi=3Durn=
+%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;_si=
+g=3D2FuuxXzmX4ros1" target=3D"_blank" style=3D"cursor:pointer;color:#4C4C4C=
+;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;ms=
+o-hide:all;-ms-text-size-adjust:100%;">Connect</a></td> </tr> </tbody> </ta=
+ble></a></td> </tr> </tbody> </table></span></td> </tr> </tbody> </table> <=
+/div></td> </tr> </tbody> </table> <table border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" width=3D"100%" style=3D"padding:10px 0 0 64px;-webkit-text-=
+size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-ad=
+just:100%;"> <tbody> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <span styl=
+e=3D"word-wrap:break-word;color:#737373;word-break:break-word;font-weight:4=
+00;-ms-word-break:break-all;font-size:12px;line-height:1.333;overflow-wrap:=
+break-word;">Here are some of your connections in common</span></td> </tr> =
+</tbody> </table> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D" " style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padd=
+ing-left:64px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr=
+> <td style=3D"padding:5px 5px 0 0;-webkit-text-size-adjust:100%;mso-table-=
+rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <a href=3D"htt=
+ps://www.linkedin.com/comm/in/christopher-p%C3%A9rez-11956933?midToken=3DAQ=
+GmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-49-prof%7Ephoto&amp;trkEmail=
+=3Deml-email_pymk_01-pymk-49-prof%7Ephoto-null-6r5gpt%7Ejn2qcjhj%7Ey2-null-=
+neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_=
+pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"border-radius:50%;cursor=
+:pointer;color:#737373;-webkit-text-size-adjust:100%;display:inline-block;t=
+ext-decoration:none;-ms-text-size-adjust:100%;"><img alt=3D"" border=3D"0" =
+height=3D"34" width=3D"34" src=3D"https://media.licdn.com/dms/image/C4D03AQ=
+FhJJVCF4LTMA/profile-displayphoto-shrink_100_100/0?e=3D2159024400&amp;v=3Db=
+eta&amp;t=3DCNTFsJJ3c6CSI8c1CxFn9C6TCbdPfwEAxkI_wswVytg" style=3D"border-ra=
+dius:50%;outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-dec=
+oration:none;"></a></td> <td style=3D"padding:5px 5px 0 0;-webkit-text-size=
+-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust=
+:100%;"> <a href=3D"https://www.linkedin.com/comm/in/laurence-horowitz-2524=
+5549?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-50-prof%7Ep=
+hoto&amp;trkEmail=3Deml-email_pymk_01-pymk-50-prof%7Ephoto-null-6r5gpt%7Ejn=
+2qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apa=
+ge%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"border-=
+radius:50%;cursor:pointer;color:#737373;-webkit-text-size-adjust:100%;displ=
+ay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><img alt=
+=3D"" border=3D"0" height=3D"34" width=3D"34" src=3D"https://media.licdn.co=
+m/dms/image/C5603AQGg5zvIbGq_xQ/profile-displayphoto-shrink_100_100/0?e=3D2=
+159024400&amp;v=3Dbeta&amp;t=3D6U8ZwO1PMJXESwaXhusD8l0C27hsBe_Q6VPLP7BTAXA"=
+ style=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubic;col=
+or:#FFFFFF;text-decoration:none;"></a></td> <td style=3D"padding:5px 5px 0 =
+0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-=
+ms-text-size-adjust:100%;"> <a href=3D"https://www.linkedin.com/comm/in/fra=
+nklazur?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-51-prof%=
+7Ephoto&amp;trkEmail=3Deml-email_pymk_01-pymk-51-prof%7Ephoto-null-6r5gpt%7=
+Ejn2qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3=
+Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=3D"bord=
+er-radius:50%;cursor:pointer;color:#737373;-webkit-text-size-adjust:100%;di=
+splay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"><img al=
+t=3D"" border=3D"0" height=3D"34" width=3D"34" src=3D"https://media.licdn.c=
+om/dms/image/C5603AQHxU6tRY7JtCA/profile-displayphoto-shrink_100_100/0?e=3D=
+2159024400&amp;v=3Dbeta&amp;t=3D6cqFBHv1fVWnamFNBkqy5bXJI85fi96JqmZXG46AM7I=
+" style=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubic;co=
+lor:#FFFFFF;text-decoration:none;"></a></td> <td style=3D"padding:5px 5px 0=
+ 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;=
+-ms-text-size-adjust:100%;"> <a href=3D"https://www.linkedin.com/comm/in/al=
+exandercforsyth?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-=
+52-prof%7Ephoto&amp;trkEmail=3Deml-email_pymk_01-pymk-52-prof%7Ephoto-null-=
+6r5gpt%7Ejn2qcjhj%7Ey2-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Dur=
+n%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" style=
+=3D"border-radius:50%;cursor:pointer;color:#737373;-webkit-text-size-adjust=
+:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;"=
+><img alt=3D"" border=3D"0" height=3D"34" width=3D"34" src=3D"https://media=
+.licdn.com/dms/image/C4E03AQHbe-NibBC3Sg/profile-displayphoto-shrink_100_10=
+0/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DRbDOIqWb0NOlqorALN9bm6AVJq9RoPk0PNJ=
+TJBslaxg" style=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bi=
+cubic;color:#FFFFFF;text-decoration:none;"></a></td> </tr> </tbody> </table=
+></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr> <tr>=
+ <td class=3D"container" align=3D"center" style=3D"padding:10px 0 40px 0;-w=
+ebkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-t=
+ext-size-adjust:100%;text-align:center;"> <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100%;mso-table-r=
+space:0pt;display:inline-block;mso-table-lspace:0pt;-ms-text-size-adjust:10=
+0%;"> <tbody> <tr> <td align=3D"center" valign=3D"middle" style=3D"-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/mynetwork/add-con=
+nections/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-pymk-1-see_=
+more&amp;trkEmail=3Deml-email_pymk_01-pymk-1-see_more-null-6r5gpt%7Ejn2qcjh=
+j%7Ey2-null-neptune%2Fmynetwork%2Eadd%7Econnections&amp;lipi=3Durn%3Ali%3Ap=
+age%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" target=3D"_blan=
+k" style=3D"cursor:pointer;word-wrap:normal;color:#737373;word-break:normal=
+;white-space:nowrap;-webkit-text-size-adjust:100%;display:block;text-decora=
+tion:none;-ms-text-size-adjust:100%;overflow-wrap:normal;"> <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" style=3D"-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;"> <tbody> <tr> <td bgcolor=3D"#008CC9" style=3D"padding:6px=
+ 16px;color:#FFFFFF;-webkit-text-size-adjust:100%;font-weight:500;font-size=
+:16px;-ms-text-size-adjust:100%;border-color:#008CC9;background-color:#008C=
+C9;border-radius:2px;mso-table-rspace:0pt;mso-table-lspace:0pt;border-width=
+:1px;border-style:solid;"><a href=3D"https://www.linkedin.com/comm/mynetwor=
+k/add-connections/?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-py=
+mk-1-see_more&amp;trkEmail=3Deml-email_pymk_01-pymk-1-see_more-null-6r5gpt%=
+7Ejn2qcjhj%7Ey2-null-neptune%2Fmynetwork%2Eadd%7Econnections&amp;lipi=3Durn=
+%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D" target=
+=3D"_blank" style=3D"cursor:pointer;color:#FFFFFF;-webkit-text-size-adjust:=
+100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">=
+See 99+ more</a></td> </tr> </tbody> </table></a></td> </tr> </tbody> </tab=
+le></td> </tr> <tr> <td style=3D"padding:22px 24px 16px;-webkit-text-size-a=
+djust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:1=
+00%;"> <hr style=3D"background-color:#D9D9D9;margin:0;color:#D9D9D9;border-=
+color:#D9D9D9;border-width:0;border-style:solid;height:1px;"></td> </tr> <t=
+r> <td style=3D"padding:0 24px;-webkit-text-size-adjust:100%;mso-table-rspa=
+ce:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <p style=3D"margin=
+:0;color:#4C4C4C;font-weight:700;font-size:16px;line-height:1.5;">Connectio=
+ns lead to opportunities</p></td> </tr> <tr> <td style=3D"padding:0 24px 36=
+px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;=
+-ms-text-size-adjust:100%;"> <p style=3D"margin:0;word-wrap:break-word;colo=
+r:#4C4C4C;font-weight:400;-ms-word-break:break-all;font-size:16px;line-heig=
+ht:1.5;-webkit-hyphens:auto;overflow-wrap:break-word;-ms-hyphens:auto;word-=
+break:break-word;hyphens:auto;-moz-hyphens:auto;">Whether it's next week or=
+ next year, the connections you make now can help open doors for you later.=
+</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr> <=
+tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tab=
+le-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#EDF0F3" align=3D"center=
+" style=3D"background-color:#EDF0F3;padding:0 24px;color:#6A6C6D;-webkit-te=
+xt-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size=
+-adjust:100%;text-align:center;"> <tbody> <tr> <td align=3D"center" style=
+=3D"padding:16px 0 0 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;m=
+so-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <table a=
+lign=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-=
+lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td valign=3D"middle" =
+align=3D"center" style=3D"padding:0 0 16px 0;-webkit-text-size-adjust:100%;=
+mso-table-rspace:0pt;vertical-align:middle;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;text-align:center;"><a href=3D"https://www.linkedin.com/e/v2=
+?e=3D6r5gpt-jn2qcjhj-y2&amp;t=3Dlun&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3D=
+email_pymk_01&amp;li=3D93&amp;m=3Dunsub&amp;ts=3Dunsub&amp;loid=3DAQEXxPS2I=
+Rq1lgAAAWZdHyv05xscM6uz2ByOnB7m63sBFzQ9RpHzkt-M7xDfCwna4NxQ8U0eVGXafBUIwmrP=
+NshRvc5QIddeMnfQgvgqoAc&amp;eid=3D6r5gpt-jn2qcjhj-y2" style=3D"cursor:point=
+er;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decoration:underline;di=
+splay:inline-block;-ms-text-size-adjust:100%;"> <span style=3D"color:#6A6C6=
+D;font-weight:400;text-decoration:underline;font-size:12px;line-height:1.33=
+3;">Unsubscribe</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D"https://www.l=
+inkedin.com/e/v2?e=3D6r5gpt-jn2qcjhj-y2&amp;lipi=3Durn%3Ali%3Apage%3Aemail_=
+email_pymk_01%3BLCPeAC5qSrusKCkiC%2FiciA%3D%3D&amp;a=3DcustomerServiceUrl&a=
+mp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Demail_pymk_01&amp;li=3D92&amp;m=3Dfoo=
+ter&amp;ts=3Dhelp&amp;articleId=3D67" style=3D"cursor:pointer;color:#6A6C6D=
+;-webkit-text-size-adjust:100%;text-decoration:underline;display:inline-blo=
+ck;-ms-text-size-adjust:100%;"> <span style=3D"color:#6A6C6D;font-weight:40=
+0;text-decoration:underline;font-size:12px;line-height:1.333;">Help</span><=
+/a></td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"-webkit-text-=
+size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-ad=
+just:100%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-t=
+able-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"cent=
+er" style=3D"padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rsp=
+ace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;">=
+ <p style=3D"margin:0;color:#6A6C6D;font-weight:400;font-size:12px;line-hei=
+ght:1.333;">You are receiving LinkedIn notification emails.</p></td> </tr> =
+<tr> <td align=3D"center" style=3D"padding:0 0 12px 0;-webkit-text-size-adj=
+ust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100=
+%;text-align:center;"> <p style=3D"margin:0;word-wrap:break-word;color:#6A6=
+C6D;word-break:break-word;font-weight:400;-ms-word-break:break-all;font-siz=
+e:12px;line-height:1.333;overflow-wrap:break-word;">This email was intended=
+ for Jack Shelata (Computer Science Student -- University of Michigan Colle=
+ge of Engineering). <a href=3D"https://www.linkedin.com/e/v2?e=3D6r5gpt-jn2=
+qcjhj-y2&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5qSrusKCk=
+iC%2FiciA%3D%3D&amp;a=3DcustomerServiceUrl&amp;midToken=3DAQGmOgFoL_CRRg&am=
+p;ek=3Demail_pymk_01&amp;articleId=3D4788" style=3D"cursor:pointer;color:#6=
+A6C6D;-webkit-text-size-adjust:100%;text-decoration:underline;display:inlin=
+e-block;-ms-text-size-adjust:100%;">Learn why we included this.</a></p></td=
+> </tr> <tr> <td align=3D"center" style=3D"padding:0 0 8px 0;-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adj=
+ust:100%;text-align:center;"><a href=3D"https://www.linkedin.com/comm/feed/=
+?midToken=3DAQGmOgFoL_CRRg&amp;trk=3Deml-email_pymk_01-footer-90-home&amp;t=
+rkEmail=3Deml-email_pymk_01-footer-90-home-null-6r5gpt%7Ejn2qcjhj%7Ey2-null=
+-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_pymk_01%3BLCPeAC5q=
+SrusKCkiC%2FiciA%3D%3D" style=3D"cursor:pointer;color:#6A6C6D;-webkit-text-=
+size-adjust:100%;text-decoration:underline;display:inline-block;-ms-text-si=
+ze-adjust:100%;"><img alt=3D"LinkedIn" border=3D"0" height=3D"14" src=3D"ht=
+tps://static.licdn.com/scds/common/u/images/email/phoenix/logos/logo_phoeni=
+x_footer_darkgray_197x48_v1.png" width=3D"58" style=3D"outline:none;-ms-int=
+erpolation-mode:bicubic;color:#FFFFFF;display:block;text-decoration:none;">=
+</a></td> </tr> <tr> <td align=3D"center" style=3D"padding:0 0 12px 0;-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;text-align:center;"> <p style=3D"margin:0;color:#6A6C6D;f=
+ont-weight:400;font-size:12px;line-height:1.333;">=C2=A9 2018 LinkedIn Corp=
+oration, 1000 West Maude Avenue, Sunnyvale, CA 94085. LinkedIn and the Link=
+edIn logo are registered trademarks of LinkedIn.</p></td> </tr> </tbody> </=
+table></td> </tr> </tbody> </table></td> </tr> </tbody> </table> </center><=
+/td> </tr> </tbody> </table> <img src=3D"http://www.linkedin.com/emimp/ip_T=
+m5JMVozQjBMV3B1TW5GamFtaHFMWGt5OlpXMWhhV3hmY0hsdGExOHdNUT09Og=3D=3D.gif" st=
+yle=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decor=
+ation:none;width:1px;height:1px;"> </body> </html>
+------=_Part_9048294_2100127329.1539160616079--
+

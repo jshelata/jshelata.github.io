@@ -1,0 +1,79 @@
+Return-Path: <bounce+4fa8a0.e5c04-jack=jackshelata.com@greenhouse.io>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id gHGDCEcNMVyemQAAV+VKPg
+	for <jack@jackshelata.com>; Sat, 05 Jan 2019 14:02:15 -0600
+Return-path: <bounce+4fa8a0.e5c04-jack=jackshelata.com@greenhouse.io>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Sat, 05 Jan 2019 14:02:15 -0600
+Received: from mail-158-85.greenhouse.io ([192.237.158.85]:64123)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <bounce+4fa8a0.e5c04-jack=jackshelata.com@greenhouse.io>)
+	id 1gfs98-000BLo-L3
+	for jack@jackshelata.com; Sat, 05 Jan 2019 14:02:15 -0600
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=greenhouse.io; q=dns/txt;
+ s=smtp; t=1546718523; h=Content-Type: Mime-Version: Subject: From: To:
+ Message-Id: Sender: Date;
+ bh=xjXG1i28RfOUo8cbGv9OJIMB7fQm6h4vMlXDMsUgRLo=; b=mhENxVOXVQU1uxiEIn4qdZuy9HBKkgrjXZB8t8rzQPqkOZ4iOWI96W8J6Svav+MZoy0BxxEY
+ RtaVsZjQC0CFaayuFs+7T8OE5VZ2F2kR9Ls+Xxc8YmN0MQ+Ju8jSuXiZd4kTfIRnXwjEBSNb
+ j4vXKJVq6XiwYepj05TN5loBC2E=
+X-Mailgun-Sending-Ip: 192.237.158.85
+X-Mailgun-Sid: WyJiMjE0YSIsICJqYWNrQGphY2tzaGVsYXRhLmNvbSIsICJlNWMwNCJd
+Received: by luna.mailgun.net with HTTP; Sat, 05 Jan 2019 20:02:02 +0000
+Date: Sat, 05 Jan 2019 20:02:02 +0000
+Sender: no-reply@greenhouse.io
+Message-Id: <20190105200202.1.0C737BB0ECEA0DE0@greenhouse.io>
+X-Mailgun-Tag: CandidateAutoReply
+To: jack@jackshelata.com
+From: no-reply@greenhouse.io
+Subject: Your application for Engineering Operations Intern (Summer 2019) at
+ Mozilla!
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="1b686c013081406aac451bdff0fa124c"
+X-Spam-Status: No, score=-0.5
+X-Spam-Score: -4
+X-Spam-Bar: /
+X-Spam-Flag: NO
+
+--1b686c013081406aac451bdff0fa124c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Mime-Version: 1.0
+
+Jack, thank you for applying to Mozilla!
+
+We are always on the lookout for curious, passionate, dynamic individuals c=
+ommitted to helping make the Open Web a better place. Now that you know tha=
+t we have received your application, we bet you=E2=80=99re wondering, =E2=
+=80=9Cwhat happens next?=E2=80=9D
+
+Every application we receive is reviewed by our recruiters. This can take s=
+ome time, but we will do our best to get back to you as soon as possible vi=
+a phone or email. We appreciate your interest in ourmission ( https://www.m=
+ozilla.org/en-US/mission/ ).
+
+Mozilla is more than just Firefox, we are a non-profit organization devoted=
+ to keeping the web open, free, and safe. Mozillians love the work we do, b=
+ecause we=E2=80=99re working towards something we believe in. Want to learn=
+ more about what projects we are working on? Pop on over to ourblog ( https=
+://blog.mozilla.org/ ) to see what=E2=80=99s in the pipeline.
+
+Our goal is to provide you with a positive and uncomplicated experience.
+
+Thank you!
+
+The Mozilla Recruiting Team
+--1b686c013081406aac451bdff0fa124c
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="ascii"
+Mime-Version: 1.0
+
+<p><span style="font-weight: 400;">Jack, thank you for applying to Mozilla!</span></p>
+<p><span style="font-weight: 400;">We are always on the lookout for curious, passionate, dynamic individuals committed to helping make the Open Web a better place. Now that you know that we have received your application, we bet you&rsquo;re wondering, &ldquo;what happens next?&rdquo;</span></p>
+<p><span style="font-weight: 400;">Every application we receive is reviewed by our recruiters. This can take some time, but we will do our best to get back to you as soon as possible via phone or email. We appreciate your interest in our</span><a href="https://www.mozilla.org/en-US/mission/"> <span style="font-weight: 400;">mission</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Mozilla is more than just Firefox, we are a non-profit organization devoted to keeping the web open, free, and safe. Mozillians love the work we do, because we&rsquo;re working towards something we believe in. Want to learn more about what projects we are working on? Pop on over to our</span><a href="https://blog.mozilla.org/"> <span style="font-weight: 400;">blog</span></a><span style="font-weight: 400;"> to see what&rsquo;s in the pipeline.</span></p>
+<p><span style="font-weight: 400;">Our goal is to provide you with a positive and uncomplicated experience.</span></p>
+<p><span style="font-weight: 400;">Thank you!</span></p>
+<p><span style="font-weight: 400;">The Mozilla Recruiting Team</span></p>
+--1b686c013081406aac451bdff0fa124c--

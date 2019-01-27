@@ -1,0 +1,478 @@
+Return-Path: <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl319suwv43vc34fvr@bounce.linkedin.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id AAc3CHOIjluyuQcAV+VKPg
+	for <jack@jackshelata.com>; Tue, 04 Sep 2018 08:28:19 -0500
+Return-path: <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl319suwv43vc34fvr@bounce.linkedin.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Tue, 04 Sep 2018 08:28:19 -0500
+Received: from maile-hb.linkedin.com ([108.174.0.202]:55063)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <m-1g979c8qipput515xnfvcnx60h6mwk9hhtiqnheot5fbl319suwv43vc34fvr@bounce.linkedin.com>)
+	id 1fxBNS-002FSb-H2
+	for jack@jackshelata.com; Tue, 04 Sep 2018 08:28:19 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=d2048-201806-01; t=1536067687;
+	bh=fhiAvnbwX60dEzKk64C5YUcFbkzDnUm5oL+6kQ3wtLU=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=Q2UJB+39IY7kVCtOoFucZ9UwhRgiuKkaZe3mKvixZ+JdomZYzvD123uU8m5f6EA1m
+	 WGSh1gf0eXRKFN2A7OUswXBEa+fR6BYK6dbHaWzonlYTm3fJ+2Yij3VP3Hgg4vbp7Q
+	 PcTnZLYH9ZHViaVGFC50wSo4gA5BlyXTzV+GtJixo6j7XIplEJBqUBwo3eYlEj3JbQ
+	 6VhBfOSKmcpID0V2Pmq9fQahC2QFZrZNimsckA+HjuDX/tuwd0AYDvuRLuHWYROZrK
+	 qmEKsuDCYhluYwBnx4V5DBJiIf4McQobPfXa5U1oZZebAbqXn7lfObRKTpU1kXlmpD
+	 jM18HVnf+CZZg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com;
+	s=proddkim1024; t=1536067687;
+	bh=fhiAvnbwX60dEzKk64C5YUcFbkzDnUm5oL+6kQ3wtLU=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=MGYxR7AWWqfzVGTliSPf72DaQHA4cWSRsX5TwoInDH8+s+MB7xDLuUMr/Qqn0UVyS
+	 wUMF6N/mEmDLDgM8EIBXbSx8sN+uz7vZYd/9c4vSsqNhQIrBDAc0pyAu2TLGr4G2rX
+	 G3iR9EEPC+YCxtvhrlJjCBJ53Xc8PfAMkXmrkc7o=
+From: LinkedIn <notifications-noreply@linkedin.com>
+Message-ID: <983825911.768772.1536067687528.JavaMail.app@lor1-app10844.prod.linkedin.com>
+Subject: Jack, you have 4 new updates, 3 job changes and 1 invitation
+ waiting for you on LinkedIn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_768770_2118739684.1536067687525"
+To: Jack Shelata <jack@jackshelata.com>
+Date: Tue, 4 Sep 2018 13:28:07 +0000 (UTC)
+X-LinkedIn-Class: EMAIL-DEFAULT
+X-LinkedIn-Template: what_you_missed_v2
+X-LinkedIn-fbl: m2-aszvliyao89u7f60w7bsmnn3qr6a2da9pgpk7lsmq2xleni1zxv2uscwnbab50tdj0ssnrf4q5nuvvybk6iiyi0ymn5innmhavmau1
+X-LinkedIn-Id: 6r5gpt-jlnfr0th-lg
+List-Unsubscribe: <https://www.linkedin.com/e/v2?e=6r5gpt-jlnfr0th-lg&t=lun&midToken=AQGmOgFoL_CRRg&tracking=eml-gro-wym-unsub&ek=what_you_missed_v2&loid=AQETNLKYXXQV8AAAAWWkxNQcdpk4Lb0zukpzFWRee7opo0Li7Zk5L5pRemecdRW19wXE2e-WRvFd43fpp33peD0&eid=6r5gpt-jlnfr0th-lg>
+Require-Recipient-Valid-Since: jack@jackshelata.com; Mon, 13 Aug 2018 19:54:41 +0000
+X-Spam-Status: No, score=-1.0
+X-Spam-Score: -9
+X-Spam-Bar: -
+X-Spam-Flag: NO
+
+------=_Part_768770_2118739684.1536067687525
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+Jack, see what your network has been up to
+
+See what's new >=20
+https://www.linkedin.com/comm/feed/?trk=3Deml-wym-cta&amp;midToken=3DAQGmOg=
+FoL_CRRg&amp;trkEmail=3Deml-what_you_missed_v2-null-17-null-null-6r5gpt%7Ej=
+lnfr0th%7Elg-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_what_yo=
+u_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D=20
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+You have 8 notifications and updates from your network
+
+4 new updates > https://www.linkedin.com/comm/feed/?trk=3Deml-wym-&amp;midT=
+oken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-what_you_missed_v2-null-13-null-nu=
+ll-6r5gpt%7Ejlnfr0th%7Elg-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3A=
+email_what_you_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D
+
+3 job changes > https://www.linkedin.com/comm/feed/?trk=3Deml-wym-&amp;midT=
+oken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-what_you_missed_v2-null-16-null-nu=
+ll-6r5gpt%7Ejlnfr0th%7Elg-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3A=
+email_what_you_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D
+
+1 invitation > https://www.linkedin.com/comm/mynetwork/?trk=3Deml-wym-&amp;=
+midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-what_you_missed_v2-null-9-null=
+-null-6r5gpt%7Ejlnfr0th%7Elg-null-neptune%2Fmynetwork&amp;lipi=3Durn%3Ali%3=
+Apage%3Aemail_what_you_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D
+
+See all missed updates & notifications
+https://www.linkedin.com/comm/feed/?trk=3Deml-wym-cta2&amp;midToken=3DAQGmO=
+gFoL_CRRg&amp;trkEmail=3Deml-what_you_missed_v2-null-12-null-null-6r5gpt%7E=
+jlnfr0th%7Elg-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_what_y=
+ou_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D=20
+
+
+
+
+You are receiving Activity You Missed emails. Unsubscribe here: https://www=
+.linkedin.com/e/v2?e=3D6r5gpt-jlnfr0th-lg&t=3Dlun&midToken=3DAQGmOgFoL_CRRg=
+&tracking=3Deml-gro-wym-unsub&ek=3Dwhat_you_missed_v2&loid=3DAQGvQddMn6ppJA=
+AAAWWkxNQqpA4S79jJ128ivp5QsubwXOe2SPV76WoyhIittDoELckUIkzHNWXlW8_ZvdJQM6M&e=
+id=3D6r5gpt-jlnfr0th-lg
+
+
+
+This email was intended for Jack Shelata (Software Engineer Intern at Comau=
+).=20
+Learn why we included this: https://www.linkedin.com/e/v2?e=3D6r5gpt-jlnfr0=
+th-lg&lipi=3Durn%3Ali%3Apage%3Aemail_what_you_missed_v2%3Bf3B%2Fip2MSiaj5QC=
+14MdhPA%3D%3D&a=3DcustomerServiceUrl&midToken=3DAQGmOgFoL_CRRg&ek=3Dwhat_yo=
+u_missed_v2&articleId=3D4788
+
+If you need assistance or have questions, please contact LinkedIn Customer =
+Service: https://www.linkedin.com/e/v2?e=3D6r5gpt-jlnfr0th-lg&lipi=3Durn%3A=
+li%3Apage%3Aemail_what_you_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D&a=3Dc=
+ustomerServiceUrl&midToken=3DAQGmOgFoL_CRRg&ek=3Dwhat_you_missed_v2
+
+=C2=A9 2018 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 940=
+85. LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+------=_Part_768770_2118739684.1536067687525
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml" style=3D"-webkit-text-size-adjust:none;"> <head> <meta htt=
+p-equiv=3D"Content-Type" content=3D"text/html;charset=3Dutf-8"> <meta name=
+=3D"HandheldFriendly" content=3D"true"> <meta name=3D"viewport" content=3D"=
+width=3Ddevice-width; initial-scale=3D0.666667; maximum-scale=3D0.666667; u=
+ser-scalable=3D0"> <meta name=3D"viewport" content=3D"width=3Ddevice-width"=
+> <title></title> <style type=3D"text/css">@media all and (max-width:590px)=
+ { *[class].responsive { width:290px !important; } *[id]#center { width:50%=
+; margin:0 auto; display:table; } *[class].display-none { display:none !imp=
+ortant; } *[class].display-block { display:block !important; } *[class].fix=
+-table-content { table-layout:fixed; } *[class].hide-for-mobile { display:n=
+one !important; } *[class].show-for-mobile { width:auto !important; max-hei=
+ght:none !important; visibility:visible !important; overflow:visible !impor=
+tant; float:none !important; height:auto !important; display:block !importa=
+nt; } *[class].responsive_header { display:table-cell !important; width:100=
+% !important; color:#0077b5 !important; font-size:12px !important; } *[clas=
+s].res-font10 { font-size:10px !important; } *[class].res-font12 { font-siz=
+e:12px !important; } *[class].res-font13 { font-size:13px !important; } *[c=
+lass].res-font14 { font-size:14px !important; } *[class].res-font16 { font-=
+size:16px !important; } *[class].res-font18 { font-size:18px !important; } =
+*[class].res-font20 { font-size:20px !important; } *[class].res-width10 { w=
+idth:10px !important; } *[class].res-width20 { width:20px !important; } *[c=
+lass].res-width25 { width:25px !important; } *[class].res-width120 { width:=
+120px !important; } *[class].res-height0 { height:0px !important; } *[class=
+].res-height10 { height:10px !important; } *[class].res-height20 { height:2=
+0px !important; } *[class].res-height30 { height:30px !important; } *[class=
+].res-img40 { width:40px !important; height:40px !important; } *[class].res=
+-img60 { width:60px !important; height:60px !important; } *[class].res-img7=
+5 { width:75px !important; height:75px !important; } *[class].res-img100 { =
+width:100px !important; height:100px !important; } *[class].res-img150 { wi=
+dth:150px !important; height:150px !important; } *[class].res-img320 { widt=
+h:320px !important; height:auto !important; } *[class].hideIMG { display:no=
+ne; height:0px !important; width:0px !important; } *[class].responsive-spac=
+er { width:10px !important; } *[class].header-spacer { table-layout:auto !i=
+mportant; width:250px !important; } *[class].header-spacer td, *[class].hea=
+der-spacer div { width:250px !important; } *[class].center-content { text-a=
+lign:center !important; } *[class].responsive-fullwidth { width:100% !impor=
+tant; } *[class].cellpadding-none, *[class].cellpadding-none table, *[class=
+].cellpadding-none table td { border-collapse:collapse !important; padding:=
+0 !important; } *[class].remove-margin { margin:0 !important; } *[class].re=
+move-border { border:none !important; } } @media all and (-webkit-min-devic=
+e-pixel-ratio:1.5) { *[id]#base-header-logo { background-image:url(https://=
+static.licdn.com/scds/common/u/images/email/logos/logo_linkedin_tm_email_19=
+7x48_v1.png) !important; background-size:95px; background-repeat:no-repeat;=
+ width:95px !important; height:21px !important; } *[id]#base-header-logo im=
+g { display:none; } *[id]#base-header-logo a { height:21px !important; } *[=
+id]#base-header-logo-china { background-image:url(https://static.licdn.com/=
+scds/common/u/images/email/logos/logo_linkedin_tm_china_email_266x42_v1.png=
+) !important; background-size:133px; background-repeat:no-repeat; width:133=
+px !important; height:21px !important; } *[id]#base-header-logo-china img {=
+ display:none; } *[id]#base-header-logo-china a { height:21px !important; }=
+ } </style> </head> <body style=3D"background-color:#dfdfdf;padding:0;margi=
+n:0 auto;width:100%;"> <span style=3D"visibility:hidden;color:transparent;d=
+isplay:none !important;mso-hide:all;width:0;font-size:1px;opacity:0;height:=
+0;">Jack, see what your network has been up to</span> <table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" style=3D"background-color:#dfdfdf;font-f=
+amily:Helvetica,Arial,sans-serif;" width=3D"100%" bgcolor=3D"#dfdfdf"> <tbo=
+dy> <tr> <td> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"background-color:#dfdfdf;font-family:Helvetica,Arial,sans-serif;" width=
+=3D"1" bgcolor=3D"#dfdfdf"> <tbody> <tr> <td> <div style=3D"height:5px;font=
+-size:5px;line-height:5px;"> &nbsp; </div></td> </tr> </tbody> </table></td=
+> </tr> <tr> <td> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" a=
+lign=3D"center" width=3D"100%" style=3D"table-layout:fixed;font-family:Helv=
+etica,Arial,sans-serif;"> <tbody> <tr> <td align=3D"center"> <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif;min-width:290px;" width=3D"400" class=3D"responsive"> <tbod=
+y> <tr> <td align=3D"left"> <table border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;" width=3D"100%" b=
+gcolor=3D"#DFDFDF"> <tbody> <tr> <td> <table width=3D"1" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-se=
+rif;"> <tbody> <tr> <td> <div style=3D"height:8px;font-size:8px;line-height=
+:8px"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr> <tr> <td> <tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:He=
+lvetica,Arial,sans-serif;" width=3D"100%"> <tbody> <tr> <td align=3D"left" =
+valign=3D"middle" width=3D"95" height=3D"21" id=3D"base-header-logo"><a sty=
+le=3D"text-decoration:none;cursor:pointer;border:none;display:block;height:=
+21px;width:100%;" href=3D"https://www.linkedin.com/comm/feed/?midToken=3DAQ=
+GmOgFoL_CRRg&amp;trk=3Deml-what_you_missed_v2-null-7-null&amp;trkEmail=3Dem=
+l-what_you_missed_v2-null-7-null-null-6r5gpt%7Ejlnfr0th%7Elg-null-neptune%2=
+Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_what_you_missed_v2%3Bf3B%2Fip2MSia=
+j5QC14MdhPA%3D%3D"><img src=3D"https://static.licdn.com/scds/common/u/image=
+s/email/logos/logo_linkedin_tm_email_95x21_v1.png" width=3D"95" height=3D"2=
+1" alt=3D"LinkedIn" style=3D"border:none;text-decoration:none;"></a></td> <=
+/tr> </tbody> </table></td> </tr> </tbody> </table> <table width=3D"1" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica=
+,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:8px;font-size:8=
+px;line-height:8px"> &nbsp; </div></td> </tr> </tbody> </table> <table bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica=
+,Arial,sans-serif;" width=3D"100%" bgcolor=3D"#333333"> <tbody> <tr> <td wi=
+dth=3D"20" class=3D"responsive-spacer"> <table width=3D"20" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"res-width10" style=3D"font-famil=
+y:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;=
+font-size:0px;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table><=
+/td> <td width=3D"100%"> <table width=3D"360" cellspacing=3D"0" cellpadding=
+=3D"1" border=3D"0" class=3D"header-spacer" style=3D"table-layout:fixed;fon=
+t-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td width=3D"360"> <div=
+ style=3D"height:12px;font-size:12px;line-height:12px;width:360px;"> &nbsp;=
+ </div></td> </tr> </tbody> </table></td> <td width=3D"20"> <table width=3D=
+"20" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"res-width10"=
+ style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div =
+style=3D"height:0px;font-size:0px;line-height:0px"> &nbsp; </div></td> </tr=
+> </tbody> </table></td> </tr> </tbody> </table> <table border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-ser=
+if;" width=3D"100%" bgcolor=3D"#FFFFFF"> <tbody> <tr> <td> <table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Aria=
+l,sans-serif;" width=3D"100%" bgcolor=3D"#F2F2F2"> <tbody> <tr> <td height=
+=3D"20"> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1=
+" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div=
+ style=3D"height:18px;font-size:18px;line-height:18px"> &nbsp; </div></td> =
+</tr> </tbody> </table></td> </tr> <tr> <td align=3D"center" style=3D"font-=
+size:18px;color:#333333;padding:0 10px;">Jack, see what your network has be=
+en up to</td> </tr> <tr> <td height=3D"20"> <table width=3D"1" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"1" style=3D"font-family:Helvetica,Arial,s=
+ans-serif;"> <tbody> <tr> <td> <div style=3D"height:18px;font-size:18px;lin=
+e-height:18px"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr> <tr> =
+<td align=3D"center"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"center" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbo=
+dy> <tr> <td align=3D"center" height=3D"28" valign=3D"middle" bgcolor=3D"#f=
+fe86c" background=3D"https://static.licdn.com/scds/common/u/img/email/bg_bt=
+n_katy_yellow_medium.png" style=3D"border-radius:3px;cursor:pointer;backgro=
+und-color:#ffe86c;background-repeat:repeat-x;background-attachment:scroll;-=
+moz-border-radius:3px;border-width:1px;border-color:#e8b463;-webkit-border-=
+radius:3px;background-position:bottom;background-image:url(https://static.l=
+icdn.com/scds/common/u/img/email/bg_btn_katy_yellow_medium.png);border-styl=
+e:solid;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"font-family:Helvetica,Arial,sans-serif;" width=3D"100%" bgcolor=3D"transpa=
+rent"> <tbody> <tr> <td width=3D"13"> <table width=3D"13px" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans=
+-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-size:0px;line-hei=
+ght:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> <td><a href=3D"ht=
+tps://www.linkedin.com/comm/feed/?trk=3Deml-wym-cta&amp;midToken=3DAQGmOgFo=
+L_CRRg&amp;trkEmail=3Deml-what_you_missed_v2-null-17-null-null-6r5gpt%7Ejln=
+fr0th%7Elg-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_what_you_=
+missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D" target=3D"_blank" style=3D"colo=
+r:#000000;white-space:nowrap;font-weight:bold;display:block;text-decoration=
+:none;vertical-align:middle;font-size:13px;font-family:Helvetica,Arial,sans=
+-serif;line-height:28px;"><span style=3D"color:#000000;white-space:nowrap;f=
+ont-weight:bold;display:block;text-decoration:none;vertical-align:middle;fo=
+nt-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:28px;">See =
+what's new</span></a></td> <td width=3D"13"> <table width=3D"13px" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-size:0px=
+;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr> </=
+tbody> </table></td> </tr> </tbody> </table></td> </tr> <tr> <td height=3D"=
+25"> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" st=
+yle=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div sty=
+le=3D"height:23px;font-size:23px;line-height:23px"> &nbsp; </div></td> </tr=
+> </tbody> </table></td> </tr> </tbody> </table></td> </tr> <tr> <td height=
+=3D"40"> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1=
+" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div=
+ style=3D"height:38px;font-size:38px;line-height:38px"> &nbsp; </div></td> =
+</tr> </tbody> </table></td> </tr> <tr> <td align=3D"center"><a href=3D"htt=
+ps://www.linkedin.com/comm/feed/?trk=3Deml-wym-h2&amp;midToken=3DAQGmOgFoL_=
+CRRg&amp;trkEmail=3Deml-what_you_missed_v2-null-14-null-null-6r5gpt%7Ejlnfr=
+0th%7Elg-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_what_you_mi=
+ssed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D" style=3D"text-decoration:none;"> =
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-famil=
+y:Helvetica,Arial,sans-serif;" width=3D"290" bgcolor=3D"#FFFFFF"> <tbody> <=
+tr> <td style=3D"font-size:45px;color:#0077B5;white-space:no-wrap;padding-l=
+eft:10px;"><span>8</span></td> <td width=3D"20"> <table width=3D"20" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"font-family:Helvetica,A=
+rial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-size:0px=
+;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> <td styl=
+e=3D"font-size:18px;color:#333333;max-width:153px;padding-right:10px;" alig=
+n=3D"left">Notifications and updates from your network</td> </tr> </tbody> =
+</table></a></td> </tr> <tr> <td height=3D"40"> <table width=3D"1" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"font-family:Helvetica,A=
+rial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:38px;font-size:38=
+px;line-height:38px"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr>=
+ <tr> <td align=3D"middle"> <table cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <t=
+d align=3D"center"><a href=3D"https://www.linkedin.com/comm/feed/?trk=3Deml=
+-wym-&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-what_you_missed_v2-n=
+ull-13-null-null-6r5gpt%7Ejlnfr0th%7Elg-null-neptune%2Ffeed&amp;lipi=3Durn%=
+3Ali%3Apage%3Aemail_what_you_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D" st=
+yle=3D"text-decoration:none;"><img alt=3D"" src=3D"https://static.licdn.com=
+/scds/common/u/images/email/icons/icon_share_ios_21x19.png" width=3D"21" he=
+ight=3D"19" border=3D"0" style=3D"border:none;text-decoration:none;outline:=
+hidden;vertical-align:middle;"></a></td> <td width=3D"15"> <table width=3D"=
+13" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"font-family:H=
+elvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;fon=
+t-size:0px;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></td=
+> <td style=3D"font-size:18px;color:#0077B5;" align=3D"left"><a href=3D"htt=
+ps://www.linkedin.com/comm/feed/?trk=3Deml-wym-&amp;midToken=3DAQGmOgFoL_CR=
+Rg&amp;trkEmail=3Deml-what_you_missed_v2-null-13-null-null-6r5gpt%7Ejlnfr0t=
+h%7Elg-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_what_you_miss=
+ed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D" style=3D"text-decoration:none;color=
+:#0077B5;"><b>4</b> new updates</a></td> </tr> <tr> <td height=3D"15"> <tab=
+le width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"fo=
+nt-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"hei=
+ght:13px;font-size:13px;line-height:13px"> &nbsp; </div></td> </tr> </tbody=
+> </table></td> </tr> <tr> <td align=3D"center"><a href=3D"https://www.link=
+edin.com/comm/feed/?trk=3Deml-wym-&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEma=
+il=3Deml-what_you_missed_v2-null-16-null-null-6r5gpt%7Ejlnfr0th%7Elg-null-n=
+eptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_what_you_missed_v2%3Bf3B%2=
+Fip2MSiaj5QC14MdhPA%3D%3D" style=3D"text-decoration:none;"><img alt=3D"" sr=
+c=3D"https://static.licdn.com/scds/common/u/images/email/icons/icon_briefca=
+se_20x18.png" width=3D"20" height=3D"18" border=3D"0" style=3D"border:none;=
+text-decoration:none;outline:hidden;vertical-align:middle;"></a></td> <td w=
+idth=3D"15"> <table width=3D"13" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td>=
+ <div style=3D"height:0px;font-size:0px;line-height:0px"> &nbsp; </div></td=
+> </tr> </tbody> </table></td> <td style=3D"font-size:18px;color:#0077B5;" =
+align=3D"left"><a href=3D"https://www.linkedin.com/comm/feed/?trk=3Deml-wym=
+-&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-what_you_missed_v2-null-=
+16-null-null-6r5gpt%7Ejlnfr0th%7Elg-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali=
+%3Apage%3Aemail_what_you_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D" style=
+=3D"text-decoration:none;color:#0077B5;"><b>3</b> job changes</a></td> </tr=
+> <tr> <td height=3D"15"> <table width=3D"1" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"1" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbod=
+y> <tr> <td> <div style=3D"height:13px;font-size:13px;line-height:13px"> &n=
+bsp; </div></td> </tr> </tbody> </table></td> </tr> <tr> <td align=3D"cente=
+r"><a href=3D"https://www.linkedin.com/comm/mynetwork/?trk=3Deml-wym-&amp;m=
+idToken=3DAQGmOgFoL_CRRg&amp;trkEmail=3Deml-what_you_missed_v2-null-9-null-=
+null-6r5gpt%7Ejlnfr0th%7Elg-null-neptune%2Fmynetwork&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_what_you_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D" style=3D"=
+text-decoration:none;"><img alt=3D"" src=3D"https://static.licdn.com/scds/c=
+ommon/u/images/email/icons/icon_follow_21x19.png" width=3D"21" height=3D"19=
+" border=3D"0" style=3D"border:none;text-decoration:none;outline:hidden;ver=
+tical-align:middle;"></a></td> <td width=3D"15"> <table width=3D"13" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"font-family:Helvetica,A=
+rial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-size:0px=
+;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> <td styl=
+e=3D"font-size:18px;color:#0077B5;" align=3D"left"><a href=3D"https://www.l=
+inkedin.com/comm/mynetwork/?trk=3Deml-wym-&amp;midToken=3DAQGmOgFoL_CRRg&am=
+p;trkEmail=3Deml-what_you_missed_v2-null-9-null-null-6r5gpt%7Ejlnfr0th%7Elg=
+-null-neptune%2Fmynetwork&amp;lipi=3Durn%3Ali%3Apage%3Aemail_what_you_misse=
+d_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D" style=3D"text-decoration:none;color:=
+#0077B5;"><b>1</b> invitation</a></td> </tr> </tbody> </table></td> </tr> <=
+tr> <td height=3D"45"> <table width=3D"1" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"1" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> =
+<tr> <td> <div style=3D"height:43px;font-size:43px;line-height:43px"> &nbsp=
+; </div></td> </tr> </tbody> </table></td> </tr> </tbody> </table> <table b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvet=
+ica,Arial,sans-serif;" width=3D"100%"> <tbody> <tr> <td height=3D"10"> <tab=
+le width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"fo=
+nt-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"hei=
+ght:8px;font-size:8px;line-height:8px"> &nbsp; </div></td> </tr> </tbody> <=
+/table></td> </tr> <tr> <td> <table border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;" width=3D"100%" =
+bgcolor=3D"#FFFFFF"> <tbody> <tr> <td height=3D"25"> <table width=3D"1" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"font-family:Helvetic=
+a,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:23px;font-size=
+:23px;line-height:23px"> &nbsp; </div></td> </tr> </tbody> </table></td> </=
+tr> <tr> <td align=3D"center" style=3D"font-size:14px;color:#333333;padding=
+:0 10px;">Check out what you missed from Christopher and 6 others</td> </tr=
+> <tr> <td height=3D"10"> <table width=3D"1" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"1" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbod=
+y> <tr> <td> <div style=3D"height:8px;font-size:8px;line-height:8px"> &nbsp=
+; </div></td> </tr> </tbody> </table></td> </tr> <tr> <td align=3D"center">=
+ <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"font-fami=
+ly:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td width=3D"35"><img alt=3D"=
+Christopher P=C3=A9rez" src=3D"https://media.licdn.com/dms/image/C4D03AQFhJ=
+JVCF4LTMA/profile-displayphoto-shrink_100_100/0?e=3D2159024400&amp;v=3Dbeta=
+&amp;t=3DCNTFsJJ3c6CSI8c1CxFn9C6TCbdPfwEAxkI_wswVytg" width=3D"35" height=
+=3D"35" border=3D"0" style=3D"border:none;text-decoration:none;outline:hidd=
+en;display:block;"></td> <td width=3D"5"> <table width=3D"3" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"1" style=3D"font-family:Helvetica,Arial,san=
+s-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-size:0px;line-he=
+ight:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> <td width=3D"35"=
+><img alt=3D"Laurence Horowitz" src=3D"https://media.licdn.com/dms/image/C5=
+603AQGg5zvIbGq_xQ/profile-displayphoto-shrink_100_100/0?e=3D2159024400&amp;=
+v=3Dbeta&amp;t=3D6U8ZwO1PMJXESwaXhusD8l0C27hsBe_Q6VPLP7BTAXA" width=3D"35" =
+height=3D"35" border=3D"0" style=3D"border:none;text-decoration:none;outlin=
+e:hidden;display:block;"></td> <td width=3D"5"> <table width=3D"3" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"font-family:Helvetica,A=
+rial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-size:0px=
+;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> <td widt=
+h=3D"35"><img alt=3D"Marco Garcia" src=3D"https://media.licdn.com/dms/image=
+/C4E03AQFR09ko7smPrg/profile-displayphoto-shrink_100_100/0?e=3D2159024400&a=
+mp;v=3Dbeta&amp;t=3D51pDGtYceLPN2uKiCf3I-FroymnjoD8MUt6mgY9JHyM" width=3D"3=
+5" height=3D"35" border=3D"0" style=3D"border:none;text-decoration:none;out=
+line:hidden;display:block;"></td> <td width=3D"5"> <table width=3D"3" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"font-family:Helvetica,=
+Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-size:0p=
+x;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> <td wid=
+th=3D"35"><img alt=3D"R. Maxwell Bone" src=3D"https://media.licdn.com/dms/i=
+mage/C5103AQGeQCasnjGqNQ/profile-displayphoto-shrink_100_100/0?e=3D21590244=
+00&amp;v=3Dbeta&amp;t=3D9UiPXK4GjfNxHQxGU_zECThQ1nFMFWCFguNbj8_XbQA" width=
+=3D"35" height=3D"35" border=3D"0" style=3D"border:none;text-decoration:non=
+e;outline:hidden;display:block;"></td> <td width=3D"5"> <table width=3D"3" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"font-family:Helve=
+tica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-si=
+ze:0px;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> <t=
+d width=3D"35" style=3D"background:#A7A7A7;color:#FFFFFF;" align=3D"center"=
+>+3</td> </tr> </tbody> </table></td> </tr> <tr> <td height=3D"15"> <table =
+width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"font-=
+family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height=
+:13px;font-size:13px;line-height:13px"> &nbsp; </div></td> </tr> </tbody> <=
+/table></td> </tr> <tr> <td align=3D"center"><a href=3D"https://www.linkedi=
+n.com/comm/feed/?trk=3Deml-wym-cta2&amp;midToken=3DAQGmOgFoL_CRRg&amp;trkEm=
+ail=3Deml-what_you_missed_v2-null-15-null-null-6r5gpt%7Ejlnfr0th%7Elg-null-=
+neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_what_you_missed_v2%3Bf3B%=
+2Fip2MSiaj5QC14MdhPA%3D%3D" style=3D"text-decoration:none;font-size:14px;co=
+lor:#0077B5">Go to LinkedIn</a> <img src=3D"https://static.licdn.com/scds/c=
+ommon/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"8" style=3D"b=
+order:none;text-decoration:none;outline:hidden;" alt=3D""></td> </tr> <tr> =
+<td height=3D"25"> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr>=
+ <td> <div style=3D"height:23px;font-size:23px;line-height:23px"> &nbsp; </=
+div></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr> <=
+/tbody> </table></td> </tr> <tr> <td></td> </tr> <tr> <td align=3D"left"> <=
+table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family=
+:Helvetica,Arial,sans-serif;" width=3D"100%" class=3D"responsive"> <tbody> =
+<tr> <td> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <di=
+v style=3D"height:10px;font-size:10px;line-height:10px"> &nbsp; </div></td>=
+ </tr> </tbody> </table></td> </tr> <tr> <td align=3D"left"> <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#999999;font-size=
+:11px;font-family:Helvetica,Arial,sans-serif;" width=3D"100%"> <tbody> <tr>=
+ <td>You are receiving Activity You Missed emails. <a style=3D"color:#0077B=
+5;text-decoration:none;" href=3D"https://www.linkedin.com/e/v2?e=3D6r5gpt-j=
+lnfr0th-lg&amp;t=3Dlun&amp;midToken=3DAQGmOgFoL_CRRg&amp;tracking=3Deml-gro=
+-wym-unsub&amp;ek=3Dwhat_you_missed_v2&amp;loid=3DAQETNLKYXXQV8AAAAWWkxNQcd=
+pk4Lb0zukpzFWRee7opo0Li7Zk5L5pRemecdRW19wXE2e-WRvFd43fpp33peD0&amp;eid=3D6r=
+5gpt-jlnfr0th-lg">Unsubscribe</a></td> </tr> <tr> <td></td> </tr> <tr> <td>=
+This email was intended for Jack Shelata (Software Engineer Intern at Comau=
+). <a href=3D"https://www.linkedin.com/e/v2?e=3D6r5gpt-jlnfr0th-lg&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_what_you_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D=
+%3D&amp;a=3DcustomerServiceUrl&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Dwhat_=
+you_missed_v2&amp;articleId=3D4788" style=3D"color:#0077B5;text-decoration:=
+none;">Learn why we included this.</a></td> </tr> <tr> <td>If you need assi=
+stance or have questions, please contact <a target=3D"_blank" href=3D"https=
+://www.linkedin.com/e/v2?e=3D6r5gpt-jlnfr0th-lg&amp;lipi=3Durn%3Ali%3Apage%=
+3Aemail_what_you_missed_v2%3Bf3B%2Fip2MSiaj5QC14MdhPA%3D%3D&amp;a=3Dcustome=
+rServiceUrl&amp;midToken=3DAQGmOgFoL_CRRg&amp;ek=3Dwhat_you_missed_v2" styl=
+e=3D"color:#0077B5;text-decoration:none;">LinkedIn Customer Service</a>.</t=
+d> </tr> <tr> <td> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr>=
+ <td> <div style=3D"height:10px;font-size:10px;line-height:10px"> &nbsp; </=
+div></td> </tr> </tbody> </table></td> </tr> <tr> <td>=C2=A9 2018 LinkedIn =
+Corporation, 1000 West Maude Avenue, Sunnyvale, CA 94085. LinkedIn and the =
+LinkedIn logo are registered trademarks of LinkedIn.</td> </tr> <tr> <td> <=
+table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"=
+height:10px;font-size:10px;line-height:10px"> &nbsp; </div></td> </tr> </tb=
+ody> </table></td> </tr> <tr> <td></td> </tr> <tr> <td> <table width=3D"1" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helve=
+tica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:10px;font-s=
+ize:10px;line-height:10px"> &nbsp; </div></td> </tr> </tbody> </table></td>=
+ </tr> </tbody> </table></td> </tr> <tr> <td> <table width=3D"1" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial=
+,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:20px;font-size:20px;l=
+ine-height:20px"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr> </t=
+body> </table></td> </tr> </tbody> </table></td> </tr> </tbody> </table></t=
+d> </tr> <tr> <td> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr>=
+ <td> <div style=3D"height:20px;font-size:20px;line-height:20px"> &nbsp; </=
+div></td> </tr> </tbody> </table></td> </tr> </tbody> </table> <img src=3D"=
+http://www.linkedin.com/emimp/ip_Tm5JMVozQjBMV3BzYm1aeU1IUm9MV3huOmQyaGhkRj=
+k1YjNWZmJXbHpjMlZrWDNZeTo=3D.gif" style=3D"width:1px; height:1px;"> </body>=
+ </html>
+------=_Part_768770_2118739684.1536067687525--
+

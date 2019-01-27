@@ -1,0 +1,189 @@
+Return-Path: <prvs=6788e17dc2=adpvantagehcmdonotreply@adp.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id wHlODiDiklsbPQ0AV+VKPg
+	for <jack@jackshelata.com>; Fri, 07 Sep 2018 15:40:00 -0500
+Return-path: <prvs=6788e17dc2=adpvantagehcmdonotreply@adp.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Fri, 07 Sep 2018 15:40:00 -0500
+Received: from mail3-2.adp.com ([170.146.220.101]:33814)
+	by gator3207.hostgator.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <prvs=6788e17dc2=adpvantagehcmdonotreply@adp.com>)
+	id 1fyNXr-003il4-Mp
+	for jack@jackshelata.com; Fri, 07 Sep 2018 15:40:00 -0500
+Received: from pps.filterd (dc1prppedgevm02.ga.adp.com [127.0.0.1])
+	by dc1prppedgevm02.ga.adp.com (8.16.0.21/8.16.0.21) with SMTP id w87KcU2p004957
+	for <jack@jackshelata.com>; Fri, 7 Sep 2018 16:39:48 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=es.adp.com; h=date : from : to :
+ message-id : subject : mime-version : content-type :
+ content-transfer-encoding; s=2013-03;
+ bh=HoyuAg6sHy5jAP+Fi32/UJnjbULGsFS2RhV0slicHF8=;
+ b=h6AkH7TA/wxXousMynXeS4h9HX5zpY1du095SicJsgadg+uYtQaYZHXUWusGHywSIMRY
+ lzoDIhxNe8cRC80HkA3a6pgLjK02GodEyLWaiAmlnSWKSjk8U77ufpCxqFL0fedH9L5k
+ Cak33Xw/jEx0+aFbzdjOuHzCvDzI8XyzQsLiMRcYwd5QQJ3F6pCqZQWz5DlTYSYpAolc
+ 3slhuuKUiFUZXdRgXncpZLpiB0F8feVDqXf9ND8g8Km03Nvofl1FNRc0xDKILEv+ePiZ
+ QDPskXowhmNaDRN+97C96GiywqP9zWNc3tf+FU1wMPeUm0ZFtjDTQCQjDFeO2hRW7Kft Qg== 
+Received: from dc1prrelay1.ga.adp.com ([11.0.5.22])
+	by dc1prppedgevm02.ga.adp.com with ESMTP id 2mbr87c7hm-1
+	for <jack@jackshelata.com>; Fri, 07 Sep 2018 16:39:48 -0400
+Received: from pps.filterd (dc1prrelay1.ga.adp.com [127.0.0.1])
+	by dc1prrelay1.ga.adp.com (8.16.0.22/8.16.0.22) with SMTP id w87JpO9F026403
+	for <jack@jackshelata.com>; Fri, 7 Sep 2018 16:39:47 -0400
+Received: from dc1drrtrap29 (dc1drrtrap29.whc.dc01.us.adp [11.1.224.43])
+	by dc1prrelay1.ga.adp.com with ESMTP id 2mbrg8ccmv-1
+	for <jack@jackshelata.com>; Fri, 07 Sep 2018 16:39:47 -0400
+Date: Fri, 7 Sep 2018 16:39:47 -0400 (EDT)
+From: "Ally Financial Inc. Recruiting Team" <ADPVantageHCMdonotreply@adp.com>
+To: jack@jackshelata.com
+Message-ID: <458981788.185111.1536352787876.JavaMail.tomcat@dc1drrtrap29>
+Subject: We Miss You! Ally Financial Inc. - IT Development Intern - 2019
+ Summer Internship Program Posting
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:,, definitions=2018-09-07_03:,,
+ signatures=0
+X-CFilter-Loop: Reflected
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:,, definitions=2018-09-07_11:,,
+ signatures=0
+X-Spam-Status: No, score=1.4
+X-Spam-Score: 14
+X-Spam-Bar: +
+X-Spam-Flag: NO
+
+<DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: arial, helvetica, sans-se=
+rif"><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: arial, helvetica, sans-se=
+rif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal"><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: ari=
+al, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: ari=
+al, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal"><img border=3D0 src=3D'https://recruiting.adp.co=
+m/portal-upload/RTI_1125607/htmlassets/ally_sig_2c_careers_200x70.png?x=3D0=
+.8070123834927775'></DIV>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal"><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: ari=
+al, helvetica, sans-serif">Jack:</SPAN></DIV><SPAN style=3D"FONT-SIZE: 11pt=
+; FONT-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt=
+; FONT-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal"><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: ari=
+al, helvetica, sans-serif">Our records show that the profile you began 3 da=
+ys ago is still incomplete. If you have continued interest for our IT Devel=
+opment Intern - 2019 Summer Internship Program&nbsp;position <SPAN>(Ally Re=
+quisition #&nbsp;18-6075</SPAN>)<SPAN> and wish to be considered for this o=
+pportunity, kindly log in to our<SPAN class=3DApple-converted-space> </SPAN=
+><STRONG><SPAN><SPAN style=3D"COLOR: #800080"><A style=3D"TEXT-DECORATION: =
+none" href=3D"https://recruiting.adp.com/srccar/public/email.trkr?_uid=3D50=
+11736803706&_c=3D1125607&_redirencoded=3Dhttps%3A%2F%2Frecruiting.adp.com%2=
+Fsrccar%2Fpublic%2FRTI.home%3Fc%3D1125607%26d%3DAllyCareers&_txt=3DAlly+Car=
+eer+Center" target=3D_blank><SPAN style=3D"COLOR: #800080">Ally Career Cent=
+er</SPAN></A></SPAN></SPAN></STRONG> at your earliest convenience and compl=
+ete the submission process. Please note that if you do not complete your ap=
+plication in the next 48 hours we will assume you are no longer interested =
+in this opportunity. </SPAN><BR></SPAN></DIV><SPAN style=3D"FONT-SIZE: 11pt=
+; FONT-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt=
+; FONT-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal"><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: ari=
+al, helvetica, sans-serif">Thank you,</SPAN></DIV><SPAN style=3D"FONT-SIZE:=
+ 11pt; FONT-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE:=
+ 11pt; FONT-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal"><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: ari=
+al, helvetica, sans-serif">Ally Recruiting Team</SPAN><BR><SPAN style=3D"FO=
+NT-SIZE: 11pt; FONT-FAMILY: arial, helvetica, sans-serif"><EM>Opportunity. =
+People. Experience.</EM></SPAN></DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT-F=
+AMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT-F=
+AMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal"><SPAN style=3D"FONT-SIZE: 11pt; FONT-FAMILY: ari=
+al, helvetica, sans-serif"><EM>Replies to this message are undeliverable. P=
+lease do not reply.</EM></SPAN></DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT-F=
+AMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT-F=
+AMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal">&nbsp;</DIV><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"><SPAN style=3D"FONT-SIZE: 11pt; FONT=
+-FAMILY: arial, helvetica, sans-serif"></SPAN></SPAN>
+<DIV style=3D"FONT-SIZE: 11px; FONT-FAMILY: 'Lucida Grande', 'Lucida Sans U=
+nicode', 'Trebuchet MS', Tahoma, sans-serif; WHITE-SPACE: normal; COLOR: #0=
+00000; FONT-STYLE: normal"><SPAN style=3D"FONT-SIZE: 8pt; FONT-FAMILY: aria=
+l, helvetica, sans-serif"><EM>(EID #AP-C3)</EM></SPAN></DIV></DIV><SPAN sty=
+le=3D"FONT-SIZE: 11pt; FONT-FAMILY: arial, helvetica, sans-serif"></SPAN></=
+DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><SPAN style=3D"FONT-SIZE: 8pt; FONT-FAMILY: arial,helvetica,sans-serif=
+"></SPAN>&nbsp;</DIV><img style=3D"display:none" border=3D0 height=3D1 widt=
+h=3D1 alt=3D"" src=3D"https://recruiting.adp.com/srccar/public/email.trkr?_=
+uid=3D5011736803706&_c=3D1125607"/><DIV style=3D"text-align: right;"><HR></=
+DIV>
+<DIV style=3D"text-align: right;">
+<P><SPAN style=3D"color: #ff0000;">By clicking the =E2=80=98Remove Me=E2=80=
+=99 link below, you are requesting to be removed from <U>all</U> Ally Recru=
+iting system generated emails and notifications, this includes status updat=
+es, reminders or requests for follow-up.</SPAN></P>
+</DIV>
+<DIV style=3D"text-align: right;"><a target=3D'_blank' href=3D'https://recr=
+uiting.adp.com/src/public/removeEmail.guid?emailAddress=3Djack%40jackshelat=
+a.com&_recruiterID=3D1668666107&_letterID=3D23480907&_c=3D1125607&_a=3Dv029=
+LSzgJm0hsxA2U1f_ZglHg%3D%3D'>Remove Me</a>&nbsp;</DIV>
+<DIV style=3D"text-align: right;">Ally Financial Inc.&nbsp;</DIV>
+<DIV style=3D"text-align: right;">&nbsp;</DIV>

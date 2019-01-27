@@ -1,0 +1,997 @@
+Return-Path: <linkedin@e.linkedin.com>
+Delivered-To: jack@jackshelata.com
+Received: from gator3207.hostgator.com
+	by gator3207.hostgator.com with LMTP id 8DC6JLrXNVwvGgkAV+VKPg
+	for <jack@jackshelata.com>; Wed, 09 Jan 2019 05:15:06 -0600
+Return-path: <linkedin@e.linkedin.com>
+Envelope-to: jack@jackshelata.com
+Delivery-date: Wed, 09 Jan 2019 05:15:06 -0600
+Received: from omp.e.linkedin.com ([199.7.202.92]:42951)
+	by gator3207.hostgator.com with esmtp (Exim 4.91)
+	(envelope-from <linkedin@e.linkedin.com>)
+	id 1ghBpC-002h6z-0a
+	for jack@jackshelata.com; Wed, 09 Jan 2019 05:15:06 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=linkedin; d=e.linkedin.com;
+ h=MIME-Version:Content-Type:Date:To:From:Reply-To:Subject:List-Unsubscribe:
+ Message-ID; i=linkedin@e.linkedin.com;
+ bh=faRZDW8H1+qMYpwmnt4cJ0MwPgQWhSjhXT0/xuQuvoY=;
+ b=xU2R1jaa85LjSKd/sxXgkLJjqpTpyoCc7ThMPBRBOfze7nnH4Moadfcb9nOMgsIFrWjeY6VARkH8
+   8+fji/G/6seZ38Afj9PiZUKnz7BoGTGcODPWTdbSXcJukraR2SvQ6HTvcKq1Swlf6Ks0Eokk4825
+   Kny67IQf2VbbtEYLyT4=
+Received: by omp.e.linkedin.com id h6nbqu2h0co8 for <jack@jackshelata.com>; Wed, 9 Jan 2019 03:14:55 -0800 (envelope-from <linkedin@e.linkedin.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----msg_border_gzaFhESzOm"
+Date: Wed, 9 Jan 2019 03:14:55 -0800
+To: jack@jackshelata.com
+From: =?UTF-8?B?QW5nZWxhIGZyb20gTGlua2VkSW4gUHJlbWl1bQ==?=
+ <linkedin@e.linkedin.com>
+Reply-To: =?UTF-8?B?QW5nZWxhIGZyb20gTGlua2VkSW4gUHJlbWl1bQ==?=
+ <donotreply@e.linkedin.com>
+Subject: Jack, thanks for being an active member
+Feedback-ID: 50563:13198515:oraclersys
+List-Unsubscribe: <https://e.linkedin.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DYQpglLjHJlYQGrbuWtn7McnKKgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjR&_ei_=EolaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0n_-IY8WJEWoD1o1EBLdJmVekn8XYKggQd-kmSUfUfdaqsLKtdxcnhemSAEfsBK4u1CIdzcGiDTEt7L2PgUcM1OkmUNw>, <mailto:unsubscribe-YQpglLjHJlYQGrbuWtn7McnKKgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjR@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: rHJsxrHJskoLtHlHQJhu
+X-rext: 5.interact5.EjIm4lgBfJgddng5QQeAKgXq4GVZHKhtg-oOHf088IPVboT8zr0
+X-cid: linkedin.21016
+Require-Recipient-Valid-Since: jack@jackshelata.com; Tue, 10 Mar 2015 18:28:00 -0700
+Message-ID: <0.1.1D9.7C0.1D4A80C8CBB59F6.0@omp.e.linkedin.com>
+X-Spam-Status: No, score=-1.3
+X-Spam-Score: -12
+X-Spam-Bar: -
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------msg_border_gzaFhESzOm
+Date: Wed, 9 Jan 2019 03:14:55 -0800
+Content-Type: multipart/alternative; boundary="----alt_border_AHF1yPvkpq_1"
+
+
+
+------alt_border_AHF1yPvkpq_1
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please view this email in a browser:=20
+https://e=2Elinkedin=2Ecom/pub/sf/FormLink?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGrb=
+uWtn7McnKKgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRVXMtX%3DYQpglLjHJlYQ=
+GruKJ4yPOiuvn07kYTFkhBmzcCD277bP3INiqk0ivnHO7juMm2n&_ei_=3DEgkqxaPelWEoSujA=
+eHvVt69ZDQvTHcPabl-I5qsJdziDIYPPo-XBtg=2EJg%3D%3D
+
+If you need assistance or have questions, please contact LinkedIn Customer =
+Service:=20
+https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGrbuWtn7McnK=
+KgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRVXtpKX%3DBRWWS&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0n_-IY8WJEWoD1o1EBLdJmVekn8XYKggQd-kmSUf=
+UfdaqsLKtdxcnhemSAEfsBK4u1CIdzcGiDTEt7L2PgUcM1OkmUNw=2EJg%3D%3D=20
+
+This is an occasional email to help you get the most out of LinkedIn=2E Uns=
+ubscribe: https://www=2Elinkedin=2Ecom/settings/li-announcements
+
+This email was intended for Jack Shelata=2E Learn why we include this: http=
+://help=2Elinkedin=2Ecom/app/answers/global/id/4788/ft/eng
+
+Copyright 2019, LinkedIn Corporation=2E All rights reserved=2E LinkedIn Cor=
+p=2E 1000 West Maude Avenue, Sunnyvale, CA 94085
+=2E
+
+------alt_border_AHF1yPvkpq_1
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head> <title>Untitled</title></head>
+<body>
+
+
+<=21-- HIDDEN PREHEADER START -->
+<=21--=5Bif =21mso=5D><=21-- -->
+<div style=3D=22display: none; font-size: 0; max-height: 0;width: 0; mso-hi=
+de: all; overflow: hidden; visibility: hidden;=22><span style=3D=22display:=
+ none; font-size: 0; max-height: 0;width: 0; mso-hide: all; overflow: hidde=
+n; visibility: hidden;=22>Enjoy your free trial=2E</span></div>
+<=21--<=21=5Bendif=5D-->
+<=21-- HIDDEN PREHEADER END -->
+
+<=21-- LITMUS PREVIEW TEXT TRICK START -->
+<div style=3D=22display: none; max-height: 0px; overflow: hidden;=22>
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+</div>
+<=21-- LITMUS PREVIEW TEXT TRICK END -->
+
+<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22>
+    <tr>
+      <td class=3D=22minwidth=22 align=3D=22center=22 style=3D=22min-width:=
+ 512px; background-color: =23f3f3f3;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td>
+ <=21-- TABLES START -->=20
+    =20
+     =20
+     =20
+<=21-- =7C=7C=7C MAIN BODY TABLE START =7C=7C=7C -->      =20
+<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td align=3D=22center=22>
+      	<table class=3D=22w100=22 align=3D=22center=22 width=3D=22512=22 bor=
+der=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<=21-- ADD ROW(S) HERE START -->
+       =20
+    <=21-- /// 1 UNIVERSAL HEADER ROW START /// -->   =20
+    <tr>
+      <td class=3D=22padt10m padb10m=22 align=3D=22center=22 style=3D=22bac=
+kground-color: white; padding-top: 15px; padding-bottom: 15px;=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- * LOGO START * -->
+      <td width=3D=2236=22 align=3D=22left=22><a href=3D=22https://e=2Elink=
+edin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGrbuWtn7McnKKgnYzazaL6dnzczb=
+WEzezdadolnqhwaMRCCbyzeIh2CFjRVXtpKX%3DCBAUU&_ei_=3DElQQfbOJ-alEDhyztCBNfiE=
+hZKVdjVH7O2MdbIo1uQdodxj-8T4kIv1jccbfKxazjdiYxvTpBCeVUSQR2HQ19gXWZ8Xd7uB0nn=
+phh7k-n0S5LWBmvMBp78D8KrcsGvvUnBHV7sfFU0hspCHvKHbqR5LR_XZahTxC-wrbgivHqkRdg=
+sXtJ_gnyg=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/res=
+ponsysimages/linkedin/contentlibrary/jeangrey/iconography/jean-grey-linkedi=
+n-logo=2Epng=22 width=3D=2241=22 alt=3D=22LinkedIn=22 style=3D=22display: b=
+lock; border: 0; font-size: 20px; font-weight: bold; font-family: sans-seri=
+f; color: =230D0D0D;=22 class=3D=22resizem=22></a></td>
+      	<=21-- * LOGO END * -->
+     =20
+      <td style=3D=22padding-left: 20px;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- * NAME START * -->
+      <td class=3D=22h3m=22 style=3D=22padding-right: 10px; font-family: He=
+lvetica Neue, Arial, sans-serif; font-size: 14px; text-align: right; color:=
+ =23737373;=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2=
+X%3DYQpglLjHJlYQGrbuWtn7McnKKgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRV=
+XtpKX%3DSWTDYBY&_ei_=3DElQQfbOJ-alEDhyztCBNfiEhZKVdjVH7O2MdbIo1uQdodxj-8T4k=
+Iv1jccbfKxazjdiYxvTpBCeVUSQR2HQ19gXWZ8Xd7uB0nnphh7k-n0S5LWBmvMBp78D8KrcsGvv=
+UnBHV7sfFU0hspCHvKHbqR5LR_XZahTxC-wrbgivHqkRdgsXtJ_gnyg=2E=22 style=3D=22co=
+lor:=237e7e7e; text-decoration:none;=22>Jack Shelata</a></td>
+      	<=21-- * NAME END * -->
+     =20
+      <td width=3D=2236=22 align=3D=22center=22>
+      	<table border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+    <tr>
+   =20
+ <=21-- * IMAGE START * -->
+
+<td align=3D=22center=22 style=3D=22-webkit-border-radius: 50%; -moz-border=
+-radius: 50%; border-radius: 50%; overflow: hidden;=22><a href=3D=22https:/=
+/e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGrbuWtn7McnKKgnYzaz=
+aL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRVXtpKX%3DSWTDYBY&_ei_=3DElQQfbOJ-alE=
+DhyztCBNfiEhZKVdjVH7O2MdbIo1uQdodxj-8T4kIv1jccbfKxazjdiYxvTpBCeVUSQR2HQ19gX=
+WZ8Xd7uB0nnphh7k-n0S5LWBmvMBp78D8KrcsGvvUnBHV7sfFU0hspCHvKHbqR5LR_XZahTxC-w=
+rbgivHqkRdgsXtJ_gnyg=2E=22><img src=3D=22https://media=2Elicdn=2Ecom/dms/im=
+age/C4E03AQHvz9UfxV0d_Q/profile-displayphoto-shrink_400_400/0?e=3D155131200=
+0&v=3Dbeta&t=3Dx63DCINsslfUgpqR82HNIcgaGT7dBIzm8EVJFtq-S10=22 width=3D=2236=
+=22 style=3D=22display: block; border: 0; background-color: =230077B5;=22 c=
+lass=3D=22resizem=22/></a></td>
+
+<=21-- * IMAGE END * -->
+
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+  </tr>
+  <=21-- /// 1 UNIVERSAL HEADER ROW END /// -->
+		=09
+		=09
+  <=21-- /// 70 SECTION DIVIDER START /// -->
+  <tr>
+    	<td align=3D=22center=22 style=3D=22background-color: =23ffffff;=22>
+        	<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 ce=
+llpadding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td style=3D=22border-top: 1px solid =23eeeeee;=22></td>
+    </tr>
+</table>
+        </td>
+    </tr>
+  <=21-- /// 70 SECTION DIVIDER END /// -->   =20
+
+
+<=21-- ADD ROW(S) HERE START --> =20
+  =20
+            <=21-- /// 4 EMAIL LOCKUPS HIGHTLIGHT ROW START /// -->
+            <tr>
+                <td style=3D=22=22>
+                    <table width=3D=22100%=22 border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                        <tr>
+                            <=21-- ** PADDING OF MODULE ** -->
+                            <td align=3D=22center=22 style=3D=22background-=
+color: =23ffffff;=22>
+                                <table width=3D=22100%=22 border=3D=220=22 =
+align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                                   =20
+                                    <=21-- / HEADLINE ROW START / -->   =20
+                                    <tr>
+                                        <td style=3D=22padding-top: 10px; p=
+adding-bottom: 12px;=22>
+                                            <table width=3D=22100%=22 borde=
+r=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                                                <tr>
+                                                   =20
+                                                    <=21-- * HEADLINE START=
+ * -->
+                                                    <td class=3D=22h2m=22 s=
+tyle=3D=22font-size: 14px; font-family: Helvetica Neue, Arial, sans-serif; =
+color: =23262626; text-align: center;=22><strong>LinkedIn</strong> <span st=
+yle=3D=22letter-spacing: 2px;=22>PREMIUM</span></td>
+                                                    <=21-- * HEADLINE END *=
+ -->
+                                                   =20
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <=21-- / HEADLINE ROW END / -->
+                                   =20
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <=21-- /// 4 EMAIL LOCKUPS HIGHTLIGHT ROW END /// -->
+
+<=21-- /// 15 BANNER RIGHT BUTTON PRIMARY START /// -->
+  <tr>
+   =20
+    	<=21-- 522x175 BACKGROUND-IMAGE - Note: Apply link to both TD and MSO =
+code and measure height for MSO code -->
+      <td background=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respons=
+ysimages/content/linkedin/Premium-Banner-Orange=2Epng=22 align=3D=22center=
+=22 style=3D=22background-size: cover; background-position: right center; b=
+ackground-repeat: no-repeat; background-color: =23ffffff; width: 100%;=22>
+      <=21--=5Bif gte mso 9=5D>
+  <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:vml=22 fill=3D=22true=22 s=
+troke=3D=22false=22 style=3D=22width: 512px; height: 110px; float: center;=
+=22>
+    <v:fill type=3D=22frame=22 src=3D=22https://static=2Ecdn=2Eresponsys=2E=
+net/i5/responsysimages/content/linkedin/Premium-Banner-Orange=2Epng=22 colo=
+r=3D=22=23094b7c=22 />
+    <v:textbox inset=3D=220,0,0,0=22>
+  <=21=5Bendif=5D-->
+	<div>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+
+    <=21-- /// 52 BASIC CARD RESOURCE BUTTON SECONDARY START /// -->
+            <tr>
+                <td class=3D=22padt0=22 align=3D=22center=22 style=3D=22pad=
+ding-top: 25px; padding-bottom: 35px;=22>
+                    <table class=3D=22w100=22 width=3D=2285%=22 border=3D=
+=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tr>
+                            <td>
+                               =20
+                                <table class=3D=22w100=22 width=3D=22100%=
+=22 border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22>
+                                    <tr>
+                                        <td class=3D=22expandm=22 align=3D=
+=22center=22 width=3D=2270%=22 style=3D=22padding-top:10px;=22>
+                                            <table class=3D=22w85=22 width=
+=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>   =20
+                                                <tr>
+                                                   =20
+                                                    <=21-- HEADLINE START -=
+->
+                                                    <td class=3D=22center p=
+adt20m=22 style=3D=22font-size: 24px; font-family: Helvetica Neue, Arial, s=
+ans-serif; color: =234d4d4d; text-align: left;=22>
+                                                        We love your ambiti=
+on
+                                                    </td>
+                                                    <=21-- HEADLINE END -->
+                                                   =20
+                                                </tr>
+                                                <tr>
+                                                   =20
+                                                    <=21-- COPY START -->
+                                                    <td class=3D=22center=
+=22 style=3D=22font-size: 14px; font-family: Helvetica Neue, Arial, sans-se=
+rif; color: =234d4d4d; text-align: left;=22>
+                                                        Here's one month of=
+ LinkedIn Premium for&nbsp;free=2E
+                                                    </td>
+                                                    <=21-- COPY END -->
+                                                   =20
+                                                </tr>                      =
+                         =20
+                                            </table>
+                                        </td>
+
+                                        <td class=3D=22expandm=22 align=3D=
+=22center=22>
+                                            <table class=3D=22w85=22 width=
+=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>   =20
+                                                <tr>
+                                                    <td align=3D=22center=
+=22>
+                                                        <table class=3D=22w=
+100=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspac=
+ing=3D=220=22>
+                                                           =20
+                                                        <=21-- / BLUE BUTTO=
+N START / -->
+                                                        <tr>
+                                                          <td style=3D=22pa=
+dding-top: 20px;=22 align=3D=22center=22>
+                                                          	<table border=3D=
+=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                                                                <tr>
+                                                                  <td style=
+=3D=22background-color: =230084BF; -webkit-border-radius: 2px; -moz-border-=
+radius: 2px; border-radius: 2px; overflow: hidden;=22>
+                                                                  	<table w=
+idth=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22>
+                                                                    <tr>
+   =20
+                                                                	<=21-- COP=
+Y START -->
+                                                                      <td c=
+lass=3D=22height0=22 height=3D=2225=22 style=3D=22padding-left: 16px; paddi=
+ng-right: 16px; font-family: Helvetica Neue, Arial, sans-serif; font-size: =
+14px; text-align: center; color: white; font-weight: bold;=22>
+                                                                          <=
+a href=3D=22https://e=2Elinkedin=2Ecom/pub/acc?_ri_=3DX0Gzc2X%3DYQpglLjHJlY=
+QGrbuWtn7McnKKgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRVXtpKX%3DSYWDDSY=
+&_ei_=3DElQQfbOJ-alEDhyztCBNfiEhZKVdjVH7O2MdbIo1uQdodxj-8T4kIv1jccbfKxazjdi=
+YxvTpBCeVUSQR2HQ19gXWZ8Xd7uB0nnphh7k-n0S5LWBmvMBp78D8KrcsGvvUnBHV7sfFU0hspC=
+HvKHbqR5LR_XZahTxC-wrbgivHqkRdgsXtJ_gnyg=2E=22 style=3D=22text-decoration: =
+none;=22><span style=3D=22display: block; width: 100%; padding-top: 7px; pa=
+dding-bottom: 7px; color: =23ffffff;=22>Upgrade&nbsp;free</span></a>
+                                                                      </td>
+                                                                  	<=21-- C=
+OPY END -->
+       =20
+                                                                    </tr>
+                                                                    </table>
+                                                                  </td>
+                                                                </tr>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                        <=21-- / BLUE BUTTO=
+N END / -->
+                                                                           =
+            =20
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+    <=21-- /// 52 BASIC CARD RESOURCE BUTTON SECONDARY END /// -->         =
+  =20
+        </table>
+	</div>
+<=21--=5Bif gte mso 9=5D>
+    </v:textbox>
+  </v:rect>
+  <=21=5Bendif=5D-->
+      </td>
+    </tr>
+  <=21-- /// 15 BANNER RIGHT BUTTON PRIMARY END /// -->
+
+    <=21-- /// 31 BODY LEFT TEXT BUTTON TERTIARY START /// -->
+            <tr>
+                <td align=3D=22center=22 style=3D=22background-color: white=
+; padding-top: 25px; padding-bottom: 15px;=22>
+                    <table width=3D=2285%=22 border=3D=220=22 align=3D=22ce=
+nter=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tr>
+                           =20
+                            <=21-- COPY START -->
+                            <td class=3D=22h2m=22 style=3D=22font-size: 15p=
+x; font-family: Helvetica Neue, Arial, sans-serif; color: =234D4D4D; text-a=
+lign: left; line-height: 1=2E4em;=22>
+                                Hi Jack,<br><br>
+                                Thanks for being an active member of Linked=
+In=2E To show our appreciation, we'd like to give you a special offer: one =
+free month of <a href=3D=22https://e=2Elinkedin=2Ecom/pub/acc?_ri_=3DX0Gzc2=
+X%3DYQpglLjHJlYQGrbuWtn7McnKKgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRV=
+XtpKX%3DSYWDDSY&_ei_=3DElQQfbOJ-alEDhyztCBNfiEhZKVdjVH7O2MdbIo1uQdodxj-8T4k=
+Iv1jccbfKxazjdiYxvTpBCeVUSQR2HQ19gXWZ8Xd7uB0nnphh7k-n0S5LWBmvMBp78D8KrcsGvv=
+UnBHV7sfFU0hspCHvKHbqR5LR_XZahTxC-wrbgivHqkRdgsXtJ_gnyg=2E=22 style=3D=22co=
+lor: =23008CC9; text-decoration: none;=22>LinkedIn&nbsp;Premium</a>=2E<br><=
+br>
+                                What's so great about Premium?
+                            </td>
+                            <=21-- COPY END -->
+                           =20
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+    <=21-- /// 31 BODY LEFT TEXT BUTTON TERTIARY END /// -->
+
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP START /// -->
+    <tr>
+     <td align=3D=22center=22 style=3D=22background-color: =23ffffff; paddi=
+ng-top:10px;=22 valign=3D=22top=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22>
+
+    <tr>
+      <td valign=3D=22top=22 width=3D=2244=22 style=3D=22padding-right: 10p=
+x;=22>
+      	<table border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- ICON START -->
+      <td align=3D=22center=22 valign=3D=22top=22><img src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/linkedin//contentlibrary/jea=
+ngrey/premium/iconography/jean-grey-premium-iconography-medal=2Epng=22 widt=
+h=3D=2235=22 alt=3D=22Insights=22 style=3D=22display: block; border: 0; ver=
+tical-align: top;=22 class=3D=22resize=22></td>
+		<=21-- ICON END -->
+
+    </tr>
+</table>
+      </td>
+      <td>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22font-size: 15px; font-family: Helvet=
+ica Neue, Arial, sans-serif; color: =234D4D4D; text-align: left; line-heigh=
+t: 1=2E4em;=22>
+          <strong>Competitive Insights</strong><br>
+          See how you rank against other applicants=2E
+      </td>
+      	<=21-- COPY END -->
+     =20
+    </tr>   =20
+   =20
+</table>
+      </td>
+    </tr>
+           =20
+</table>
+      </td>
+    </tr>
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP END /// -->
+
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP START /// -->
+    <tr>
+     <td align=3D=22center=22 style=3D=22background-color: =23ffffff; paddi=
+ng-top:15px;=22 valign=3D=22top=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22 style=3D=22border-top: 1px solid =23=
+eeeeee;=22>
+
+    <tr>
+      <td valign=3D=22top=22 width=3D=2244=22 style=3D=22padding-right: 10p=
+x; padding-top: 15px;=22>
+      	<table border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- ICON START -->
+      <td align=3D=22center=22 valign=3D=22top=22><img src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/linkedin//contentlibrary/jea=
+ngrey/premium/iconography/jean-grey-premium-iconography-profile-cards=2Epng=
+=22 alt=3D=22LinkedIn Profile=22 width=3D=2235=22 style=3D=22display: block=
+; border: 0; vertical-align: top;=22 class=3D=22resize=22></td>
+		<=21-- ICON END -->
+
+    </tr>
+</table>
+      </td>
+      <td style=3D=22padding-top: 10px;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22font-size: 15px; font-family: Helvet=
+ica Neue, Arial, sans-serif; color: =234D4D4D; text-align: left; line-heigh=
+t: 1=2E4em;=22>
+          <strong>Who's Viewed Your Profile</strong><br>
+          Know who's looked at your profile in the last 90&nbsp;days=2E
+      </td>
+      	<=21-- COPY END -->
+     =20
+    </tr>   =20
+   =20
+</table>
+      </td>
+    </tr>
+           =20
+</table>
+      </td>
+    </tr>
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP END /// -->
+
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP START /// -->
+    <tr>
+     <td align=3D=22center=22 style=3D=22background-color: =23ffffff; paddi=
+ng-top:15px;=22 valign=3D=22top=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22 style=3D=22border-top: 1px solid =23=
+eeeeee;=22>
+
+    <tr>
+      <td valign=3D=22top=22 width=3D=2244=22 style=3D=22padding-right: 10p=
+x; padding-top: 15px;=22>
+      	<table border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- ICON START -->
+      <td align=3D=22center=22 valign=3D=22top=22><img src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/linkedin//contentlibrary/jea=
+ngrey/premium/iconography/jean-grey-premium-iconography-inmail=2Epng=22 alt=
+=3D=22InMails=22 width=3D=2235=22 style=3D=22display: block; border: 0; ver=
+tical-align: top;=22 class=3D=22resize=22></td>
+		<=21-- ICON END -->
+
+    </tr>
+</table>
+      </td>
+      <td style=3D=22padding-top: 10px;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22font-size: 15px; font-family: Helvet=
+ica Neue, Arial, sans-serif; color: =234D4D4D; text-align: left; line-heigh=
+t: 1=2E4em;=22>
+          <strong>Contact hiring managers directly</strong><br>
+          Make more connections with 3 InMail&nbsp;credits=2E
+      </td>
+      	<=21-- COPY END -->
+     =20
+    </tr>   =20
+   =20
+</table>
+      </td>
+    </tr>
+           =20
+</table>
+      </td>
+    </tr>
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP END /// -->           =20
+
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP START /// -->
+    <tr>
+     <td align=3D=22center=22 style=3D=22background-color: =23ffffff; paddi=
+ng-top:15px; padding-bottom: 10px;=22 valign=3D=22top=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22 style=3D=22border-top: 1px solid =23=
+eeeeee;=22>
+
+    <tr>
+      <td valign=3D=22top=22 width=3D=2244=22 style=3D=22padding-right: 10p=
+x; padding-top: 15px;=22>
+      	<table border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- ICON START -->
+      <td align=3D=22center=22 valign=3D=22top=22><img src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/linkedin//contentlibrary/jea=
+ngrey/premium/iconography/jean-grey-premium-iconography-browser-play=2Epng=
+=22 alt=3D=22Learn=22 width=3D=2235=22 style=3D=22display: block; border: 0=
+; vertical-align: top;=22 class=3D=22resize=22></td>
+		<=21-- ICON END -->
+
+    </tr>
+</table>
+      </td>
+      <td style=3D=22padding-top: 10px;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22font-size: 15px; font-family: Helvet=
+ica Neue, Arial, sans-serif; color: =234D4D4D; text-align: left; line-heigh=
+t: 1=2E4em;=22>
+          <strong>LinkedIn Learning</strong><br>
+          Hone your skills with over 10,000 expert-led courses=2E=20
+      </td>
+      	<=21-- COPY END -->
+     =20
+    </tr>   =20
+   =20
+</table>
+      </td>
+    </tr>
+           =20
+</table>
+      </td>
+    </tr>
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP END /// -->           =20
+           =20
+<=21-- /// 29 BODY LEFT BUTTON PRIMARY START /// -->
+  <tr>
+  	<td align=3D=22center=22 style=3D=22background-color: =23ffffff; padding=
+-top: 10px; padding-bottom: 25px;=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22>  =20
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22padding-top: 5px; font-size: 15px; f=
+ont-family: Helvetica Neue, Arial, sans-serif; color: =234D4D4D; text-align=
+: center; line-height: 1=2E4em;=22>Get your free month=2E Cancel&nbsp;anyti=
+me=2E</td>
+      	<=21-- COPY END -->
+     =20
+    </tr>
+   =20
+   =20
+    <=21-- / BLUE BUTTON START / -->
+    <tr>
+      <td align=3D=22center=22 style=3D=22padding-top: 15px;=22>
+      	<table border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+    <tr>
+      <td align=3D=22center=22 style=3D=22background-color: =230084BF; -web=
+kit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; overfl=
+ow: hidden;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22height0=22 height=3D=2225=22 style=3D=22padding-left: =
+16px; padding-right: 16px; font-family: Helvetica Neue, Arial, sans-serif; =
+font-size: 14px; text-align: center; color: white; font-weight: bold;=22><a=
+ href=3D=22https://e=2Elinkedin=2Ecom/pub/acc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQ=
+GrbuWtn7McnKKgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRVXtpKX%3DSYWDDSY&=
+_ei_=3DElQQfbOJ-alEDhyztCBNfiEhZKVdjVH7O2MdbIo1uQdodxj-8T4kIv1jccbfKxazjdiY=
+xvTpBCeVUSQR2HQ19gXWZ8Xd7uB0nnphh7k-n0S5LWBmvMBp78D8KrcsGvvUnBHV7sfFU0hspCH=
+vKHbqR5LR_XZahTxC-wrbgivHqkRdgsXtJ_gnyg=2E=22 style=3D=22text-decoration: n=
+one;=22><span style=3D=22display: block; width: 100%; padding-top: 7px; pad=
+ding-bottom: 7px; color: =23ffffff;=22>Upgrade&nbsp;free</span></a></td>
+      	<=21-- COPY END -->
+       =20
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+    <=21-- / BLUE BUTTON END / -->
+   =20
+</table>
+      </td>
+  </tr>
+<=21-- /// 29 BODY LEFT BUTTON PRIMARY END /// -->=20
+
+  <=21-- /// 70 SECTION DIVIDER START /// -->
+  <tr>
+    	<td align=3D=22center=22 style=3D=22background-color: =23ffffff;=22>
+        	<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 ce=
+llpadding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td style=3D=22border-top: 1px solid =23eeeeee;=22></td>
+    </tr>
+</table>
+        </td>
+    </tr>
+  <=21-- /// 70 SECTION DIVIDER END /// -->             =20
+           =20
+<=21-- /// 39 BASIC LIST SENDER START /// -->
+    <tr>
+      <td align=3D=22center=22 style=3D=22background-color: white; padding-=
+top: 20px; padding-bottom: 25px;=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td valign=3D=22top=22 width=3D=2244=22 style=3D=22padding-right: 15p=
+x;=22>
+      	<table border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- IMAGE START -->
+      <td align=3D=22center=22 style=3D=22-webkit-border-radius: 50%; -moz-=
+border-radius: 50%; border-radius: 50%; overflow: hidden;=22><img src=3D=22=
+https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/linkedin/=
+LI-profile-angela-jew=2Ejpg=22 alt=3D=22Angela=22 width=3D=2254=22 style=3D=
+=22display: block; border: 0;=22 class=3D=22resize=22></td>
+		<=21-- IMAGE END -->
+
+    </tr>
+</table>
+      </td>
+      <td>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22padding-top: 5px; font-size: 14px; f=
+ont-family: Helvetica Neue, Arial, sans-serif; color: =234D4D4D; text-align=
+: left; line-height: 1=2E4em;=22>
+          Sincerely,<br>
+          Angela and the LinkedIn Premium&nbsp;team</td>
+      	<=21-- COPY END -->
+     =20
+    </tr>
+     </table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+<=21-- /// 39 BASIC LIST SENDER END /// -->           =20
+           =20
+           =20
+           =20
+<=21-- ADD ROW(S) HERE END -->   =20
+</table>
+      </td>
+  </tr>
+</table>
+<=21-- =7C=7C=7C MAIN BODY TABLE END =7C=7C=7C -->=20
+
+<=21-- =7C=7C=7C FOOTER TABLE START =7C=7C=7C -->
+<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td align=3D=22center=22>
+<=21-- Footer -->
+<table class=3D=22width320=22 width=3D=22512=22 border=3D=220=22 align=3D=
+=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22backgro=
+und-color:=23f2f2f2;=22>
+<tr>
+    <td class=3D=22width320=22 width=3D=22512=22 colspan=3D=223=22 align=3D=
+=22left=22 valign=3D=22top=22 bgcolor=3D=22=23f2f2f2=22 style=3D=22backgrou=
+nd-color:=23f2f2f2;=22>
+ =20
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2230=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+=20
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22font-family:Helvetica, Arial, sans-serif; font-siz=
+e:12px; font-weight:normal; color:=23737373; line-height:normal;=22>
+    After your promotional period, you automatically will be charged for a =
+subscription on a monthly or annual basis (at your choice) unless you  canc=
+el=2E This promotion ends on January 17 2019=2E  <a href=3D=22https://e=2El=
+inkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGrbuWtn7McnKKgnYzazaL6dnz=
+czbWEzezdadolnqhwaMRCCbyzeIh2CFjRVXtpKX%3DSWTDYDY&_ei_=3DEolaGGF4SNMvxFF7Ku=
+cKuWPHmTL0UBM56BNAisFmse0n_-IY8WJEWoD1o1EBLdJmVekn8XYKggQd-kmSUfUfdaqsLKtdx=
+cnhemSAEfsBK4u1CIdzcGiDTEt7L2PgUcM1OkmUNw=2E=22 style=3D=22color:=23008cc9;=
+ text-decoration:none;=22>Learn more=2E</a> =20
+
+<br><br>
+
+For Who's Viewed Your Profile, first & last name may not be listed for prof=
+ile viewers who have chosen to remain semi- or fully-anonymous via their pr=
+ivacy settings=2E=20
+
+</td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+ =20
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22font-family:Helvetica, Arial, sans-serif; font-siz=
+e:12px; font-weight:normal; color:=23737373; line-height:normal;=22><a href=
+=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGrbuWt=
+n7McnKKgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRVXtpKX%3DBRWUW&_ei_=3DE=
+olaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0n_-IY8WJEWoD1o1EBLdJmVekn8XYKggQd=
+-kmSUfUfdaoWeNSlMKpqMP-FqKMGYAXxC2I3VmVo8AKRto2esRWl8MKVDciCUhwq46yjLQrM0h5=
+VLy_ifTZcsamTgNkFOHFMuuKQBem0HwdfQK03KLIdvDgmPQJ2fW29SLGJuZz-Fg0Hmj6hs7A5B_=
+g0MTLS_w7jb4J4s3vom1o9=2E=22 style=3D=22color:=23737373; text-decoration:un=
+derline;=22>Unsubscribe</a>&nbsp;&nbsp;&nbsp;=7C&nbsp;&nbsp;&nbsp;<a href=
+=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGrbuWt=
+n7McnKKgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRVXtpKX%3DSAWCRD&_ei_=3D=
+EolaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0n_-IY8WJEWoD1o1EBLdJmVekn8XYKggQ=
+d-kmSUfUfdaqsLKtdxcnhemSAEfsBK4u1CIdzcGiDTEt7L2PgUcM1OkmUNw=2E=22 style=3D=
+=22color:=23737373; text-decoration:underline;=22>Help</a></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+ =20
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+ =20
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22><=21-- ***EDIT NOTE: Adjust the width on the table below to c=
+hange where the new lines wrap in the copy=2E  The width must be between 28=
+8 and 464=2E -->
+      <table class=3D=22width296=22 width=3D=22464=22 border=3D=220=22 alig=
+n=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+       =20
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-famil=
+y:Helvetica, Arial, sans-serif; font-size:12px; font-weight:normal; color:=
+=23737373; line-height:normal;=22>
+          This is an occasional email to help you get the most out of Linke=
+dIn=2E
+         <br><br>=20
+          This email was intended for  Jack Shelata (Computer Science Stude=
+nt -- University of Michigan College of Engineering)=2E <a href=3D=22https:=
+//e=2Elinkedin=2Ecom/pub/acc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGrbuWtn7McnKKgnYz=
+azaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRVXtpKX%3DSAWCSR&_ei_=3DElQQfbOJ-al=
+EDhyztCBNfiEhZKVdjVH7O2MdbIo1uQdodxj-8T4kIv1jccbfKxazjdiYxvTpBCeVUSQR2HQ19g=
+XWZ8Xd7uB0nnphh7k-n0S5LWBmvMBp78D8KrcsGvvUnBHV7sfFU0hspCHvKHbqR5LR_XZahTxC-=
+wrbgivHqkRdgsXtJ_gnyg=2E=22 style=3D=22color:=23008cc9; text-decoration:non=
+e;=22>Learn why we included this</a>=2E</td>
+        </tr>
+      </table></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width320=22 width=3D=22512=22 colspan=3D=223=22 align=3D=
+=22center=22 valign=3D=22top=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGrbuWtn7McnKKgnYzazaL6dnzczbWEzezdadolnqhw=
+aMRCCbyzeIh2CFjRVXtpKX%3DCBAUU&_ei_=3DElQQfbOJ-alEDhyztCBNfiEhZKVdjVH7O2Mdb=
+Io1uQdodxj-8T4kIv1jccbfKxazjdiYxvTpBCeVUSQR2HQ19gXWZ8Xd7uB0nnphh7k-n0S5LWBm=
+vMBp78D8KrcsGvvUnBHV7sfFU0hspCHvKHbqR5LR_XZahTxC-wrbgivHqkRdgsXtJ_gnyg=2E=
+=22 rilt=3D=22LOGO=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/=
+i5/responsysimages/linkedin/contentlibrary/oldcontent/cm_footer_and_text/fo=
+oter_phoenix_english=2Eimages/logo=2Epng=22 alt=3D=22LinkedIn Logo=22 borde=
+r=3D=220=22 style=3D=22display:block; border:none;=22  /></a></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22><=21-- ***EDIT NOTE: Adjust the width on the table below to c=
+hange where the new lines wrap in the copy=2E  The width must be between 28=
+8 and 464=2E -->
+      <table class=3D=22width296=22 width=3D=22450=22 border=3D=220=22 alig=
+n=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-famil=
+y:Helvetica, Arial, sans-serif; font-size:12px; font-weight:normal; color:=
+=23737373; line-height:normal;=22>&=23169; 2019, LinkedIn Corporation=2E Al=
+l rights reserved=2E LinkedIn Corporation&=2344; 1000 West Maude Ave=2E&=23=
+44; Sunnyvale&=2344; CA 94085 </td>
+        </tr>
+      </table></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 height=3D=2230=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+</td>
+  </tr></table></td>
+    </tr>
+</table>
+<=21-- =7C=7C=7C FOOTER TABLE END =7C=7C=7C -->=20
+     =20
+<=21-- TABLES END -->     =20
+      </td>
+    </tr>
+</table>
+      </td>
+  </tr>
+</table>
+
+
+
+
+<div class=3D=22gmailfix=22 style=3D=22white-space:nowrap; font:15px courie=
+r; line-height:0;=22>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div><br>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border: 0px; =
+padding: 0px; margin: 0px; position: absolute; display: none; float: left=
+=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img src=3D=22https://e=2Elinkedin=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGrbuWtn7McnKKgnYzazaL6dnzczbWEzezdadolnqhwaMRCCbyzeIh2CFjRVXHkMX%3Dw&=
+_ei_=3DEolaGGF4SNMvxFF7KucKuWPHmTL0UBM56BNAisFmse0n_-IY8WJEWoD1o1EBLdJmVekn=
+8XYKggQd-kmSUfUfdaqsLKtdxcnhemSAEfsBK4u1CIdzcGiDTEt7L2PgUcM1OkmUNw=2E=22></=
+img>
+</td>
+</tr>
+</table></body>
+</html>
+
+------alt_border_AHF1yPvkpq_1--
+
+------msg_border_gzaFhESzOm--
+
