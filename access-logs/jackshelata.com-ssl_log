@@ -8,3 +8,7 @@
 35.3.46.107 - - [27/Jan/2019:14:29:40 -0600] "GET /viewer/viewer.js HTTP/1.1" 200 2150287 "https://www.jackshelata.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
 35.3.46.107 - - [27/Jan/2019:14:29:40 -0600] "GET /viewer/viewer.css HTTP/1.1" 200 146219 "https://www.jackshelata.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
 35.3.46.107 - - [27/Jan/2019:14:29:40 -0600] "GET /favicon.ico HTTP/1.1" 200 5430 "https://www.jackshelata.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+192.30.252.44 - - [27/Jan/2019:14:46:25 -0600] "HEAD / HTTP/1.1" 200 - "-" "Mozilla/5.0 (compatible; GitHub Pages Health Check/1.8.1; +https://github.com/github/pages-health-check)"
+35.3.46.107 - - [27/Jan/2019:14:49:42 -0600] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+35.2.40.44 - - [27/Jan/2019:16:34:39 -0600] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+35.2.40.44 - - [27/Jan/2019:17:56:04 -0600] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
