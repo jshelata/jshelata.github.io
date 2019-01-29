@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 01/27/2019 04:42:52
-2019 1 27 4 42 52
-595 0 215 0 13 68 158790 460 378 0
-6 1 14 1 27
+# Webalizer V2.23-08 Incremental Data - 01/28/2019 01:59:30
+2019 1 28 1 59 30
+608 0 220 0 13 71 161013 472 384 0
+1 1 14 1 28
 18 0 5038 13 13 13
 24 0 6533 14 22 22
 13 0 3405 7 11 9
@@ -28,13 +28,13 @@
 15 0 3983 12 13 13
 17 0 3911 12 15 13
 26 0 6258 19 20 16
-10 0 2826 6 6 6
-0 0 0 0 0 0
+22 0 4752 11 17 11
+1 0 297 1 1 1
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 28 0 7779 20
-20 0 4879 16
+21 0 5176 17
 21 0 5590 14
 46 0 13031 42
 26 0 7146 19
@@ -43,13 +43,13 @@
 12 0 3178 10
 16 0 4291 14
 22 0 6093 17
-31 0 8814 23
+32 0 9087 24
 29 0 8112 28
 43 0 11917 37
-21 0 5454 18
-18 0 5063 9
+22 0 5742 18
+27 0 6155 18
 28 0 7472 15
-23 0 5586 17
+24 0 5859 18
 13 0 3616 10
 36 0 8817 22
 23 0 6385 15
@@ -68,8 +68,8 @@
 0
 0
 0
-0
-555
+1
+567
 0
 0
 0
@@ -113,11 +113,11 @@ msnbot-40-77-167-44.search.msn.com
 msnbot-157-55-39-163.search.msn.com
 0 1 0 281 1 1548060742
 -
-static.243.74.69.159.clients.your-server.de
-0 2 0 546 2 1547714055
--
 209.17.96.26.cloudsystemnetworks.com
 0 1 0 273 1 1546570370
+-
+static.243.74.69.159.clients.your-server.de
+0 2 0 546 2 1547714055
 -
 178-164-146-101.pool.digikabel.hu
 0 1 0 273 1 1546644485
@@ -155,17 +155,20 @@ jobqueue-listener.jobqueue.netcraft.com-u1f38dd660f5b11e993cd6208838d6ab1u-digit
 crawl-66-249-79-195.googlebot.com
 0 3 0 864 1 1548145023
 -
+209.17.97.26.cloudsystemnetworks.com
+0 1 0 273 1 1546879832
+-
 109.28.227.35.bc.googleusercontent.com
 0 3 0 852 1 1547357385
 -
-209.17.97.26.cloudsystemnetworks.com
-0 1 0 273 1 1546879832
+93-158-161-110.spider.yandex.com
+0 1 0 273 1 1548262787
 -
 li1552-149.members.linode.com
 0 1 0 273 1 1548090260
 -
-93-158-161-110.spider.yandex.com
-0 1 0 273 1 1548262787
+0587343916.wireless.umich.net
+0 1 0 273 1 1548606879
 -
 64.71.73.187
 0 1 0 83 0 0
@@ -194,11 +197,17 @@ ec2-54-218-253-193.us-west-2.compute.amazonaws.com
 torsrv6.snydernet.net
 0 1 0 134 1 1547779258
 -
+192.30.252.46
+0 3 0 0 1 1548598736
+-
 msnbot-207-46-13-242.search.msn.com
 0 1 0 291 0 0
 -
 130.156.231.35.bc.googleusercontent.com
 0 2 0 546 1 1546666535
+-
+192.30.252.44
+0 2 0 0 1 1548600385
 -
 crawl-66-249-73-137.googlebot.com
 0 1 0 292 0 0
@@ -233,11 +242,11 @@ ec2-13-57-27-145.us-west-1.compute.amazonaws.com
 5.45.64.76
 0 1 0 273 1 1546434059
 -
-ec2-52-35-156-89.us-west-2.compute.amazonaws.com
-0 1 0 273 1 1548365124
--
 msnbot-40-77-192-239.search.msn.com
 0 1 0 298 0 0
+-
+ec2-52-35-156-89.us-west-2.compute.amazonaws.com
+0 1 0 273 1 1548365124
 -
 69.171.251.6
 0 1 0 342 1 1547436678
@@ -326,6 +335,9 @@ msnbot-157-55-39-107.search.msn.com
 msnbot-157-55-39-24.search.msn.com
 0 1 0 291 0 0
 -
+35.3.46.107
+0 4 0 1092 1 1548600491
+-
 ec2-52-27-41-244.us-west-2.compute.amazonaws.com
 0 1 0 273 1 1547492839
 -
@@ -365,11 +377,11 @@ ec2-18-237-135-177.us-west-2.compute.amazonaws.com
 105.ip-54-36-189.eu
 0 1 0 273 1 1548290542
 -
-ec2-54-149-42-184.us-west-2.compute.amazonaws.com
-0 1 0 273 1 1547074813
--
 80.248.227.208
 0 4 0 1112 2 1548331772
+-
+ec2-54-149-42-184.us-west-2.compute.amazonaws.com
+0 1 0 273 1 1547074813
 -
 209.17.97.50.cloudsystemnetworks.com
 0 1 0 283 1 1547466076
@@ -387,7 +399,7 @@ ec2-54-214-140-199.us-west-2.compute.amazonaws.com
 0 2 0 520 1 1548261399
 -
 52.165.148.51
-0 57 0 15561 57 1548559156
+0 59 0 16131 59 1548640770
 -
 54.185.243.35.bc.googleusercontent.com
 0 5 0 1398 2 1547295064
@@ -416,11 +428,11 @@ ip-51-75-13.eu
 ip158.ip-54-38-57.eu
 0 1 0 273 1 1547729824
 -
-209.17.97.82.cloudsystemnetworks.com
-0 2 0 556 2 1548074887
--
 msnbot-207-46-13-156.search.msn.com
 0 2 0 582 0 0
+-
+209.17.97.82.cloudsystemnetworks.com
+0 2 0 556 2 1548074887
 -
 crawl-66-249-75-28.googlebot.com
 0 2 0 546 2 1546462993
@@ -509,11 +521,11 @@ msnbot-157-55-39-43.search.msn.com
 crawl-66-249-79-201.googlebot.com
 0 3 0 873 0 0
 -
-85.132.110.198
-0 1 0 83 0 0
--
 5-255-250-38.spider.yandex.com
 0 1 0 273 1 1548083747
+-
+85.132.110.198
+0 1 0 83 0 0
 -
 185.248.160.21
 0 1 0 273 1 1548353843
@@ -572,11 +584,11 @@ crawl-66-249-73-135.googlebot.com
 64.246.161.190
 0 2 0 572 1 1547347918
 -
-msnbot-40-77-167-48.search.msn.com
-0 1 0 281 1 1547004650
--
 151.106.60.152
 0 14 0 3888 1 1546948945
+-
+msnbot-40-77-167-48.search.msn.com
+0 1 0 281 1 1547004650
 -
 90.198.243.35.bc.googleusercontent.com
 0 4 0 1092 2 1547577941
@@ -604,6 +616,9 @@ scan18.sitelock.com
 -
 250.145.231.35.bc.googleusercontent.com
 0 2 0 546 1 1547814317
+-
+192.227.116.62
+0 1 0 288 0 0
 -
 93-158-161-69.spider.yandex.com
 0 1 0 283 0 0
@@ -748,23 +763,8 @@ scan20.sitelock.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-scan16.sitelock.com
-0 1 0 281 1 1548561183
--
-132.103.196.35.bc.googleusercontent.com
-0 3 0 852 1 1548554753
--
 52.165.148.51
-0 1 0 273 1 1548559156
--
-253.96.227.35.bc.googleusercontent.com
-0 3 0 852 1 1548551137
--
-47.92.90.246
-0 1 0 295 1 1548564172
--
-51.29.73.34.bc.googleusercontent.com
-0 1 0 273 1 1548551224
+0 1 0 297 1 1548640770
 -
 # End Of Table - sites (daily)
 # -referrers- 
@@ -777,7 +777,7 @@ http://pizza-tycoon.com/
 https://www.facebook.com/
 0 1
 - (Direct Request)
-0 495
+0 508
 http://jackshelata.com/
 0 48
 https://jackshelata.com/
@@ -808,6 +808,8 @@ Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
 0 3
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
 0 27
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 5
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
@@ -832,6 +834,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 9
 python-requests/2.9.1
 0 14
+Mozilla/5.0 (compatible; GitHub Pages Health Check/1.15.0; +https://github.com/github/pages-health-check)
+0 3
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 0 41
 Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
@@ -885,7 +889,7 @@ facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0
 0 2
 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
-0 10
+0 11
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.3
 0 14
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
@@ -903,21 +907,23 @@ Mozilla/5.0 (compatible; ips-agent)
 python-requests/2.21.0
 0 28
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
-0 3
+0 4
 Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
 0 1
 Mozilla/5.0 (compatible; DomainSONOCrawler/0.1; +http://domainsono.com)
 0 2
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
 0 1
+Mozilla/5.0 (compatible; GitHub Pages Health Check/1.8.1; +https://github.com/github/pages-health-check)
+0 2
 Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
 0 4
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
 0 12
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-0 2
 Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030624
 0 60
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 2
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
@@ -927,7 +933,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.0.15) Gecko/2009102815 Ubuntu/9.04 (jaunty) Firefox/3.0.15
 0 4
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
-0 5
+0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
 0 9
 Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Saf

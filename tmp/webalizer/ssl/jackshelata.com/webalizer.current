@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 01/27/2019 04:42:56
-2019 1 27 4 42 56
-820 639 241 10 14 61 171848646 556 369 0
-5 1 23 1 27
+# Webalizer V2.23-08 Incremental Data - 01/27/2019 17:56:04
+2019 1 27 17 56 4
+834 649 245 10 15 64 176329060 565 374 0
+10 1 23 1 27
 30 28 7247439 15 22 18
 30 24 4981993 16 18 14
 33 30 5072570 13 26 16
@@ -28,7 +28,7 @@
 25 21 7221314 14 16 11
 24 18 2733098 14 17 13
 36 25 5010251 21 25 18
-13 10 7001552 5 7 5
+27 20 11481966 10 16 10
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -46,11 +46,11 @@
 37 21 2686863 25
 37 20 448104 34
 56 37 12395394 40
-24 21 7230700 13
-31 23 9142918 14
+25 21 7231442 13
+42 33 13622590 21
 38 34 9807270 14
-28 24 5087056 18
-13 13 2497614 9
+29 24 5087056 19
+14 13 2497614 10
 23 19 5455297 15
 40 35 5211680 27
 42 38 3240456 32
@@ -60,7 +60,7 @@
 0
 0
 0
-639
+649
 0
 0
 0
@@ -71,7 +71,7 @@
 0
 0
 0
-13
+16
 0
 0
 27
@@ -92,7 +92,7 @@
 0
 0
 0
-102
+103
 0
 0
 0
@@ -102,23 +102,23 @@
 /sitemap.xml
 0 2 8319045105058736492 362 0 0
 /viewer/viewer.js
-0 71 7811883259363471928 151044378 0 0
+0 73 0 155344952 0 0
 /home/
-0 3 3328221908490007085 82347 0 0
+0 3 0 82347 0 0
 /favicon.ico
-0 11 16452495178849990201 48870 0 0
+0 12 0 54300 0 0
 /Jack_Shelata_Resume.pdf
-0 7 3472839362167701504 180834 0 0
+0 7 0 180834 0 0
 /banner.html
-0 1 8101253776476876148 1120 1 0
+0 1 0 1120 1 0
 /viewer/viewer.css
-0 60 3906642020662324785 8773140 0 0
+0 61 0 8919359 0 0
 /
-0 398 8317355112703091045 9991539 356 142
+0 407 0 10018988 361 144
 /googleab392654d653c1d4.html
-0 3 3675218770911035392 106 3 0
+0 3 0 106 3 0
 /robots.txt
-0 99 7165897045451879222 6039 0 0
+0 99 0 6039 0 0
 # End Of Table - urls
 # -sites- (monthly)
 msnbot-40-77-167-44.search.msn.com
@@ -127,11 +127,11 @@ msnbot-40-77-167-44.search.msn.com
 msnbot-157-55-39-163.search.msn.com
 0 1 1 27449 1 1548060743
 /
-static.243.74.69.159.clients.your-server.de
-0 2 2 54898 2 1547714056
-/
 209.17.96.26.cloudsystemnetworks.com
 0 2 1 185915 2 1548135047
+/
+static.243.74.69.159.clients.your-server.de
+0 2 2 54898 2 1547714056
 /
 178-164-146-101.pool.digikabel.hu
 0 1 1 27449 1 1546644486
@@ -175,12 +175,12 @@ ec2-54-191-100-135.us-west-2.compute.amazonaws.com
 crawl-66-249-79-195.googlebot.com
 0 5 5 72645 4 1548530769
 /
-msnbot-157-55-39-0.search.msn.com
-0 2 2 122 0 0
--
 209.17.96.210.cloudsystemnetworks.com
 0 1 1 27449 1 1548480285
 /
+msnbot-157-55-39-0.search.msn.com
+0 2 2 122 0 0
+-
 planetlab5.net.in.tum.de
 0 4 4 0 4 1548348450
 /
@@ -191,7 +191,7 @@ planetlab5.net.in.tum.de
 0 2 2 54898 2 1548326668
 /
 0587343916.wireless.umich.net
-0 2 1 2150287 1 1548513167
+0 4 1 2150287 3 1548611764
 /
 142.93.186.83
 0 1 0 226 1 1546773855
@@ -214,11 +214,17 @@ ec2-54-218-253-193.us-west-2.compute.amazonaws.com
 184-175-34-239.dsl.teksavvy.com
 0 2 2 27449 1 1546492071
 /
+192.30.252.46
+0 3 3 0 1 1548598736
+/
 msnbot-207-46-13-242.search.msn.com
 0 1 1 61 0 0
 -
 130.156.231.35.bc.googleusercontent.com
 0 2 2 45595 1 1546666535
+/
+192.30.252.44
+0 2 2 0 1 1548600385
 /
 225.85.196.35.bc.googleusercontent.com
 0 6 6 4647910 2 1547470503
@@ -307,11 +313,11 @@ crawl-66-249-65-101.googlebot.com
 209.17.96.234.cloudsystemnetworks.com
 0 1 1 27449 1 1548131533
 /
-msnbot-207-46-13-127.search.msn.com
-0 1 1 30139 0 0
--
 66.220.149.21
 0 1 1 524288 0 0
+-
+msnbot-207-46-13-127.search.msn.com
+0 1 1 30139 0 0
 -
 39.98.177.226
 0 1 0 746 1 1548545254
@@ -361,6 +367,9 @@ msnbot-207-46-13-87.search.msn.com
 msnbot-157-55-39-24.search.msn.com
 0 1 1 61 0 0
 -
+35.3.46.107
+0 6 5 4479672 1 1548600582
+/
 209.17.96.202.cloudsystemnetworks.com
 0 3 1 185871 3 1548455521
 /
@@ -397,11 +406,11 @@ ec2-54-202-212-36.us-west-2.compute.amazonaws.com
 ec2-18-237-135-177.us-west-2.compute.amazonaws.com
 0 2 2 54898 1 1547583912
 /
-ec2-54-149-42-184.us-west-2.compute.amazonaws.com
-0 2 2 54898 1 1547074813
-/
 80.248.227.208
 0 4 4 55020 2 1548331773
+/
+ec2-54-149-42-184.us-west-2.compute.amazonaws.com
+0 2 2 54898 1 1547074813
 /
 209.17.97.50.cloudsystemnetworks.com
 0 2 1 27501 2 1548354167
@@ -454,12 +463,12 @@ ip-51-75-13.eu
 174.138.52.140
 0 1 0 226 1 1546770647
 /
-209.17.97.82.cloudsystemnetworks.com
-0 3 2 213285 3 1547543002
-/
 msnbot-207-46-13-156.search.msn.com
 0 2 2 122 0 0
 -
+209.17.97.82.cloudsystemnetworks.com
+0 3 2 213285 3 1547543002
+/
 brie.ug.activeminds.net
 0 1 1 27449 1 1546466725
 /
@@ -484,12 +493,12 @@ ip182.ip-149-56-144.net
 ec2-35-166-56-44.us-west-2.compute.amazonaws.com
 0 2 2 54898 1 1548304617
 /
-crawl-66-249-79-192.googlebot.com
-0 3 3 28630 2 1548454805
-/banner.html
 188.92.74.189
 0 1 1 27449 1 1546376193
 /
+crawl-66-249-79-192.googlebot.com
+0 3 3 28630 2 1548454805
+/banner.html
 62.102.148.68
 0 1 1 27449 1 1548485952
 /
@@ -535,11 +544,11 @@ msnbot-157-55-39-43.search.msn.com
 178-154-246-138.spider.yandex.com
 0 1 1 61 0 0
 -
-51.68.77.204
-0 1 1 27449 1 1547498687
-/
 crawl-66-249-73-158.googlebot.com
 0 3 3 18268 1 1547271850
+/
+51.68.77.204
+0 1 1 27449 1 1547498687
 /
 47.92.101.198
 0 1 0 746 1 1548239228
@@ -625,12 +634,12 @@ ec2-35-165-190-53.us-west-2.compute.amazonaws.com
 64.246.161.190
 0 1 1 27449 1 1547347918
 /
-msnbot-40-77-167-48.search.msn.com
-0 1 1 27449 1 1547004905
-/
 151.106.60.152
 0 14 2 63802 1 1546948946
 -
+msnbot-40-77-167-48.search.msn.com
+0 1 1 27449 1 1547004905
+/
 90.198.243.35.bc.googleusercontent.com
 0 4 4 91190 2 1547577941
 /
@@ -661,6 +670,9 @@ scan18.sitelock.com
 250.145.231.35.bc.googleusercontent.com
 0 2 1 27449 1 1547814318
 /
+192.227.116.62
+0 1 0 742 0 0
+-
 209.17.96.242.cloudsystemnetworks.com
 0 2 1 185915 1 1547846001
 /
@@ -676,12 +688,12 @@ host-52-128-31-156.static.sprious.com
 msnbot-157-55-39-29.search.msn.com
 0 2 2 122 0 0
 -
-rate-limited-proxy-72-14-199-230.google.com
-0 2 1 795 1 1548040267
--
 host-24-112-3-225.vyvebroadband.net
 0 6 6 4647910 1 1547471097
 /
+rate-limited-proxy-72-14-199-230.google.com
+0 2 1 795 1 1548040267
+-
 c-73-145-52-4.hsd1.mi.comcast.net
 0 4 4 2329385 1 1546691036
 /
@@ -703,12 +715,12 @@ crawl-66-249-73-128.googlebot.com
 104.227.246.106
 0 1 1 27449 1 1546389712
 /
-rate-limited-proxy-72-14-199-225.google.com
-0 5 0 3710 1 1548040207
--
 crawl-66-249-75-1.googlebot.com
 0 2 2 18207 1 1546376046
 /
+rate-limited-proxy-72-14-199-225.google.com
+0 5 0 3710 1 1548040207
+-
 31.193.243.35.bc.googleusercontent.com
 0 2 1 27449 1 1547804105
 /
@@ -846,15 +858,30 @@ scan20.sitelock.com
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
+0587343916.wireless.umich.net
+0 2 0 0 2 1548611764
+/
+192.30.252.46
+0 3 3 0 1 1548598736
+/
+192.30.252.44
+0 2 2 0 1 1548600385
+/
 scan16.sitelock.com
 0 5 3 2325447 1 1548561187
 -
 132.103.196.35.bc.googleusercontent.com
 0 3 3 2323955 1 1548554754
 /
+35.3.46.107
+0 6 5 4479672 1 1548600582
+/
 253.96.227.35.bc.googleusercontent.com
 0 3 3 2323955 1 1548551138
 /
+192.227.116.62
+0 1 0 742 0 0
+-
 47.92.90.246
 0 1 0 746 1 1548564176
 -
@@ -876,15 +903,17 @@ https://www.facebook.com/
 https://www.google.com/
 0 2
 - (Direct Request)
-0 651
+0 660
 http://jackshelata.com/
 0 48
+http://jackshelata.com/wp/wp-login.php
+0 1
 https://jackshelata.com/
-0 22
+0 23
 http://burger-imperia.com/
 0 3
 https://www.jackshelata.com/
-0 10
+0 13
 http://127.0.0.1:5500/
 0 1
 http://www.jackshelata.com/
@@ -908,7 +937,7 @@ Mozilla/5.0 (X11; CrOS x86_64 10323.67.0) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
 0 64
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
-0 6
+0 14
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 7
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
@@ -929,6 +958,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) 
 0 50
 python-requests/2.9.1
 0 14
+Mozilla/5.0 (compatible; GitHub Pages Health Check/1.15.0; +https://github.com/github/pages-health-check)
+0 3
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 0 69
 Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
@@ -989,6 +1020,8 @@ Mozilla/5.0 (compatible; ips-agent)
 0 2
 python-requests/2.21.0
 0 27
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 1
 Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
 0 1
 Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16C101 Instagram 72.
@@ -997,14 +1030,16 @@ Mozilla/5.0 (compatible; DomainSONOCrawler/0.1; +http://domainsono.com)
 0 2
 Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 
 0 2
+Mozilla/5.0 (compatible; GitHub Pages Health Check/1.8.1; +https://github.com/github/pages-health-check)
+0 2
 Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
 0 19
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
 0 4
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-0 3
 Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030624
 0 60
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 3
 Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
 0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36

@@ -9,16 +9,16 @@ AWSTATS DATA FILE 7.6 (build 20161204)
 BEGIN_MAP 28
 POS_GENERAL 2013                
 POS_TIME 2664                
-POS_VISITOR 5707                
-POS_DAY 5779                
+POS_VISITOR 5717                
+POS_DAY 5789                
 POS_DOMAIN 3263                
 POS_LOGIN 3474                
 POS_ROBOT 3629                
 POS_WORMS 3761                
 POS_EMAILSENDER 3892                
 POS_EMAILRECEIVER 4035                
-POS_SESSION 5835                
-POS_SIDER 5972                
+POS_SESSION 5845                
+POS_SIDER 5982                
 POS_FILETYPES 4170                
 POS_DOWNLOADS 4234                
 POS_OS 4282                
@@ -34,7 +34,7 @@ POS_KEYWORDS 5214
 POS_MISC 2328                
 POS_ERRORS 5273                
 POS_CLUSTER 3330                
-POS_SIDER_404 5398                
+POS_SIDER_404 5408                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -46,10 +46,10 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20190127044252 30 5322 4675133748948
+LastLine 20190128015930 13 2261 8471183370327
 FirstTime 0
 LastTime 0
-LastUpdate 20190127083307 30 0 30 0 0
+LastUpdate 20190128082544 13 0 13 0 0
 TotalVisits 0                   
 TotalUnique 0                   
 MonthHostsKnown 0                   
@@ -58,22 +58,22 @@ END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
-TotalMisc 0 0 0
-JavaEnabled 0 0 0
-WindowsMediaPlayerSupport 0 0 0
-DirectorSupport 0 0 0
-PDFSupport 0 0 0
-RealPlayerSupport 0 0 0
-QuickTimeSupport 0 0 0
 JavascriptDisabled 0 0 0
 AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
 FlashSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
 0 0 0 0 20 28 7779
-1 0 0 0 17 20 4879
+1 0 0 0 18 21 5176
 2 0 0 0 14 21 5590
 3 0 0 0 42 46 13031
 4 0 0 0 20 26 7146
@@ -82,13 +82,13 @@ BEGIN_TIME 24
 7 0 0 0 10 12 3178
 8 0 0 0 14 16 4291
 9 0 0 0 17 22 6093
-10 0 0 0 24 31 8814
+10 0 0 0 25 32 9087
 11 0 0 0 28 29 8112
 12 0 0 0 37 43 11917
-13 0 0 0 20 21 5454
-14 0 0 0 12 18 5063
+13 0 0 0 21 22 5742
+14 0 0 0 21 27 6155
 15 0 0 0 18 28 7472
-16 0 0 0 21 23 5586
+16 0 0 0 22 24 5859
 17 0 0 0 10 13 3616
 18 0 0 0 25 36 8817
 19 0 0 0 15 23 6385
@@ -190,11 +190,12 @@ BEGIN_KEYWORDS 0
 END_KEYWORDS
 
 # Errors - Hits - Bandwidth
-BEGIN_ERRORS 4
-406 3 678
-302 555 154429
-403 12 1608
+BEGIN_ERRORS 5
+302 567 156355
 409 25 2075
+403 12 1608
+406 3 678
+301 1 297
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
