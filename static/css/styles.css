@@ -1,0 +1,170 @@
+/* .title {
+  text-align: center;
+  font-size: 38pt;
+  margin: 5px;
+}
+
+.sub-title {
+  text-align: center;
+  font-size: 24pt;
+  margin: 5px;
+} */
+
+/* header.name{
+  width: auto;
+} */
+
+html, body {
+  font-family: Noto Sans;
+  background-color: #90CCF4; /*#3B8BEB*/
+  color: black;
+  width: 100%;
+  margin: 0;
+  /* height: 100%; */
+  /* overflow: hidden; */
+}
+
+.flex-container {
+  margin: auto;
+  margin-top: 200px;
+  width: 95%;
+  max-width: 1000px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.about {
+  width: 95%;
+  margin: auto;
+  max-width: 1000px;
+  border-radius: 4px;
+  padding: 10px 10px;
+  margin-top: 20px;
+  font-size: 100%;
+  overflow: hidden;
+  /*border-spacing: 10px;*/
+  height: 575px;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* .about-text {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 58%;
+  text-align: left; 
+  vertical-align: middle;
+  border-radius: 8px;
+  float: right;
+  padding: 8px;
+  background-color: #F3D250;
+  height: 58%;
+} */
+
+.about-text {
+  background-color: #F3D250;
+}
+
+/* .about-contact {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 58%;
+  text-align: left; 
+  vertical-align: middle;
+  border-radius: 8px;
+  float: right;
+  padding: 8px;
+  background-color: #5da2d5;
+  margin-top: 10px;
+  height: 33.7%;
+} */
+
+.about-photo {
+  /* max-width: 38%;
+  float: left; */
+  margin: 10px;
+}
+
+.projects {
+  width: 95%;
+  max-width: 1000px;
+  margin: auto;
+  background-color: #F78888;
+  padding: auto;
+  color: black;
+  display: table;
+  border-radius: 10px;
+  height: 300px;
+  margin-top: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.project {
+  display: table-cell;
+  text-align: center;
+  width: 33%;
+  height: 100%;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  color: rgba(0, 0, 0, 0.678);
+  transition: color 0.25s ease-in;
+}
+
+
+hr {
+  width: 25%;
+  border-color: black;
+}
+
+#headshot {
+  max-width: 35%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.content {
+  margin-top: 200px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+
+/* Create a sticky/fixed navbar */
+#header {
+  overflow: hidden;
+  background-color: #ECECEC;
+  padding: 5px 5px; /* Large padding which will shrink on scroll (using JS) */
+  transition: 0.4s; /* Adds a transition effect when the padding is decreased */
+  position: fixed; /* Sticky/fixed navbar */
+  width: 100%;
+  top: 0; /* At the top */
+  z-index: 99;
+  color: black;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+/* Style the name */
+#header #name {
+  font-size: 38px;
+  font-weight: bold;
+  transition: 0.4s;
+}
+/* Style the school */
+#header #school {
+  font-size: 25px;
+  transition: 0.4s;
+}
