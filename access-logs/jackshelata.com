@@ -1,5 +1,0 @@
-52.165.166.139 - - [28/Jan/2019:06:08:35 -0600] "GET / HTTP/1.1" 301 297 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0"
-52.165.148.51 - - [28/Jan/2019:10:22:03 -0600] "GET / HTTP/1.1" 301 297 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0"
-192.30.252.42 - - [28/Jan/2019:12:34:33 -0600] "HEAD / HTTP/1.1" 301 - "-" "Mozilla/5.0 (compatible; GitHub Pages Health Check/1.8.1; +https://github.com/github/pages-health-check)"
-60.191.38.77 - - [28/Jan/2019:17:32:17 -0600] "GET / HTTP/1.1" 301 297 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0"
-60.191.38.77 - - [28/Jan/2019:18:08:05 -0600] "GET / HTTP/1.1" 301 297 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0"

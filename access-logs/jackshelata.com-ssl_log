@@ -1,8 +1,0 @@
-192.30.252.42 - - [28/Jan/2019:12:34:34 -0600] "HEAD / HTTP/1.1" 200 - "-" "Mozilla/5.0 (compatible; GitHub Pages Health Check/1.8.1; +https://github.com/github/pages-health-check)"
-209.17.96.218 - - [28/Jan/2019:12:58:50 -0600] "GET / HTTP/1.1" 400 52 "-" "Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)"
-209.17.97.2 - - [28/Jan/2019:14:39:10 -0600] "GET / HTTP/1.1" 400 52 "-" "Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)"
-209.17.97.18 - - [28/Jan/2019:15:13:28 -0600] "GET / HTTP/1.1" 401 158387 "-" "Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)"
-60.191.38.77 - - [28/Jan/2019:17:32:18 -0600] "GET / HTTP/1.1" 200 27524 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0"
-60.191.38.77 - - [28/Jan/2019:17:38:24 -0600] "GET / HTTP/1.1" 200 27524 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0"
-60.191.38.77 - - [28/Jan/2019:18:08:07 -0600] "GET / HTTP/1.1" 200 27524 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0"
-60.191.38.77 - - [28/Jan/2019:18:11:22 -0600] "GET / HTTP/1.1" 200 27524 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0"
