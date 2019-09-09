@@ -4,117 +4,32 @@
     <meta charset="UTF-8"/>
     <title>Jack Shelata</title>
     <meta name=”viewport” content=”width:device-width, initial-scale=1″>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/styles.css">
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Noto+Sans"/>
   </head>
   <body>
-    <header id="header">
-      <h1 id="name">Jack Shelata</h1>
-      <p id="school">Computer Science | University of Michigan</p>
-    </header>
-    <div class="flex-container">
-        <img src="/static/images/Headshot.png" alt="Jack Shelata Headshot" id="headshot"/>
-      <div style="background-color: red; height: 100px; width: 350px;">Flex Object</div>
-      <div style="background-color: red; height: 100px; width: 350px;">Flex Object</div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h1>Jack Shelata</h1>
+          <h4>University of Michigan</h4>
+          <h5>B.S.E. Computer Science '20</h5>
+          <p>
+            this is a test. this is a test. this is a test. 
+            this is a test. 
+            this is a test. 
+            this is a test. 
+            this is a test. 
+            this is a test. 
+
+          </p>
+        </div>
+        <div class="col-md-6">
+          <img src="/static/images/Headshot.png" alt="Jack Shelata Headshot" class="img-fluid rounded"/>
+        </div>
+      </div>
     </div>
-
-
-
-
-
-
-    <!-- <div class="content">
-      <div class="about">
-        <div class="about-photo">
-        <img src="/static/images/headshot.jpeg" alt="Jack Shelata Headshot" id="headshot"/>
-        </div>
-        <div class="about-text">
-          <h3 style="text-align: center;">About</h3>
-          <hr/>
-          <p>
-            Hi! I'm Jack! I love designing, developing, and producing sleek,
-            intelligent, effective solutions to any and all problems I can get
-            my hands on.
-          </p>
-          <p>
-            Right now, I am a third-year student at the University of Michigan where
-            I study Computer Science in the College of Engineering. I've studied
-            a broad range of computer science topics, some of my favorites of
-            which have been Web Development, Computer Security, and Logic Design.
-            I also have a lot of experience developing for robotics.
-          </p>
-          <p>
-            If you'd like to learn more about me, check out my resume
-          </p>
-          <p>
-
-          </p>
-      </div>
-      <div class="about-contact">
-        <h3 style="text-align: center;">Contact</h3>
-        <hr/>
-        
-      </div>
-      </div>
-      <div class="projects">
-        <div class="project">
-          <a href="https://github.com/jshelata/jshelata.github.io">
-            <h3>Personal Website</h3>
-          </a> 
-          <hr/>
-          <p>
-            I am constantly updating this website to practice my web dev skills.
-            Checkout my public GitHub repository to see how it all works!
-          </p>
-        </div>
-        <div class="project">
-          <a href="https://rest.engin.umich.edu/">
-            <h3>Robotic Exploration of Space Team</h3>
-          </a>
-          <hr/>
-          <p>
-            I am currently leading a team of software engineers as the Software
-            Lead of the Robotic Exploration of Space Team. We compete in the
-            NASA Robotic Mining Competition every year at the Kennedy Space
-            Center.
-          </p>
-        </div>
-        <div class="project">
-          <a href="https://github.com/jshelata/eDO_manual_ctrl">
-            <h3>e.Do Manual Control</h3>
-          </a>
-          <hr/>
-          <p>
-            As part of my summer 2018 intership, I was able to post some of my work
-            on my personal GitHub. This repository contains a manual control interface
-            for Comau's e.Do educational robot.
-          </p>
-        </div>
-      </div>
-
-
-      <footer>
-        Copyright &nbsp;©&nbsp; 2019, Jack Shelata
-      </footer> -->
-
-    </div>
-
-    <script>
-      // When the user scrolls down 80px from the top of the document, resize the navbar's padding and the logo's font size
-      window.onscroll = function() {scrollFunction()};
-
-      function scrollFunction() {
-        if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
-          document.getElementById("header").style.padding = "0px 0px";
-          document.getElementById("name").style.fontSize = "28px";
-          document.getElementById("school").style.fontSize = "0px";
-        } else {
-          document.getElementById("header").style.padding = "5px 5px";
-          document.getElementById("name").style.fontSize = "35px";
-          document.getElementById("school").style.fontSize = "25px";
-        }
-      }
-    </script>
 
   </body>
 </html>
