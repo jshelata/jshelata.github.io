@@ -1,21 +1,33 @@
 html, body {
   font-family: Noto Sans;
-  background-color: #3fa6eb
+  color: aliceblue;
+  background-color: #1a77b4
   /*background-image: url("../images/drone.jpg");
   background-repeat: no-repeat;
   background-size: 2000px 1000px;*/
 }
 
-a {
-  text-decoration: none;
-  color: inherit;
-}
-a:hover {
-  color: rgba(0, 0, 0, 0.678);
-  transition: color 0.25s ease-in;
+.img-fluid {
+  max-width: 340px;
+  height: auto;
+  margin: auto;    
+  display: block;
 }
 
-.img-fluid {
-  max-width: 50%;
-  height: auto;
+/* Style all font awesome icons */
+.fa, .fab{
+  color: aliceblue;
+  padding: auto;
+  /*font-size: 35px;*/
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  transition: color 0.15s ease-out;
+}
+
+/* Add a hover effect if you want */
+.fa:hover, .fab:hover {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.678);
+  transition: color 0.25s ease-out;
 }
