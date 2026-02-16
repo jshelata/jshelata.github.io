@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>URL Shortener | Jack Shelata</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="/static/css/styles.css">
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Noto+Sans" />
+  <link href="/static/fontawesome-free-5.12.1-web/css/all.css" rel="stylesheet" />
+  <link rel="apple-touch-icon" href="static/images/logo_apple_touch.png" />
+  <link rel="icon" type="image/png" href="static/images/logo_apple_touch.png" />
+  <style>
+    .shortener-card {
+      background: rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+      padding: 24px;
+      margin-top: 40px;
+      margin-bottom: 24px;
+    }
+
+    .shortener-card .form-control {
+      background-color: rgba(255, 255, 255, 0.95);
+      border: 1px solid rgba(255, 255, 255, 0.85);
+      color: #222;
+    }
+
+    .shortener-card .form-control:focus {
+      border-color: #b7def2;
+      box-shadow: 0 0 0 0.2rem rgba(183, 222, 242, 0.45);
+    }
+
+    .result-box {
+      background: rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+      padding: 18px;
+      word-break: break-word;
+    }
+
+    .result-box a {
+      color: #fff;
+      text-decoration: underline;
+    }
+
+    .btn-light {
+      font-weight: 600;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        <div class="shortener-card">
+          <h1 class="mb-2">URL Shortener</h1>
+          <p class="mb-4">Create a short link from your long URL.</p>
+
+          <form id="shortener-form" novalidate>
+            <div class="form-group">
+              <label for="long-url">Long URL</label>
+              <input id="long-url" class="form-control" type="url" placeholder="https://example.com/" required>
+              <small id="url-help" class="form-text text-white-50">Must be a valid URL with protocol.</small>
+            </div>
+
+            <div class="form-group">
+              <label for="ttl-seconds">TTL Seconds (optional)</label>
+              <input id="ttl-seconds" class="form-control" type="number" min="1" step="1"
+                placeholder="Defaults to 3600">
+              <small id="ttl-help" class="form-text text-white-50">If provided, must be an integer greater than
+                0.</small>
+            </div>
+
+            <button id="submit-btn" type="submit" class="btn btn-light">Create Short URL</button>
+          </form>
+        </div>
+
+        <div id="feedback" class="alert d-none" role="alert"></div>
+
+        <div id="result" class="result-box d-none">
+          <h4 class="mb-3">Short URL Created</h4>
+          <p class="mb-2"><strong>Short URL:</strong> <a id="result-short-url" href="#" target="_blank"
+              rel="noopener noreferrer"></a></p>
+          <p class="mb-2"><strong>Code:</strong> <span id="result-code"></span></p>
+          <p class="mb-0"><strong>Expires At:</strong> <span id="result-expires-at"></span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const API_ENDPOINT = "https://api.jackshelata.com/urls";
+    const form = document.getElementById("shortener-form");
+    const longUrlInput = document.getElementById("long-url");
+    const ttlInput = document.getElementById("ttl-seconds");
+    const submitBtn = document.getElementById("submit-btn");
+    const feedbackEl = document.getElementById("feedback");
+    const resultEl = document.getElementById("result");
+    const resultShortUrlEl = document.getElementById("result-short-url");
+    const resultCodeEl = document.getElementById("result-code");
+    const resultExpiresAtEl = document.getElementById("result-expires-at");
+
+    function showFeedback(message, type) {
+      feedbackEl.textContent = message;
+      feedbackEl.className = "alert alert-" + type;
+      resultEl.classList.add("d-none");
+    }
+
+    function hideFeedback() {
+      feedbackEl.className = "alert d-none";
+      feedbackEl.textContent = "";
+    }
+
+    function isValidUrl(url) {
+      try {
+        const parsed = new URL(url);
+        return parsed.protocol === "http:" || parsed.protocol === "https:";
+      } catch (_) {
+        return false;
+      }
+    }
+
+    function formatExpiresAt(expiresAt) {
+      if (typeof expiresAt !== "number") {
+        return "Unknown";
+      }
+
+      if (expiresAt <= 0) {
+        return "Never";
+      }
+
+      // Backend may return Unix seconds or milliseconds.
+      const date = new Date(expiresAt < 1000000000000 ? expiresAt * 1000 : expiresAt);
+      if (Number.isNaN(date.getTime())) {
+        return String(expiresAt);
+      }
+      return date.toLocaleString();
+    }
+
+    function validateInputs() {
+      const longUrl = longUrlInput.value.trim();
+      const ttlRaw = ttlInput.value.trim();
+
+      if (!longUrl) {
+        return { valid: false, message: "Long URL is required." };
+      }
+
+      if (!isValidUrl(longUrl)) {
+        return { valid: false, message: "Please enter a valid URL including http:// or https://." };
+      }
+
+      if (ttlRaw.length > 0) {
+        if (!/^\d+$/.test(ttlRaw)) {
+          return { valid: false, message: "TTL must be an integer greater than 0." };
+        }
+
+        const ttl = Number(ttlRaw);
+        if (!Number.isInteger(ttl) || ttl <= 0) {
+          return { valid: false, message: "TTL must be an integer greater than 0." };
+        }
+      }
+
+      return { valid: true };
+    }
+
+    async function submitShortenRequest(payload) {
+      const response = await fetch(API_ENDPOINT, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(payload)
+      });
+
+      let parsedBody = null;
+      try {
+        parsedBody = await response.json();
+      } catch (_) {
+        // Allow non-JSON errors to still surface status details.
+      }
+
+      if (!response.ok) {
+        const errorMessage = parsedBody && typeof parsedBody.error === "string"
+          ? parsedBody.error
+          : "Request failed with status " + response.status + ".";
+        throw new Error(errorMessage);
+      }
+
+      return parsedBody;
+    }
+
+    form.addEventListener("submit", async function (event) {
+      event.preventDefault();
+      hideFeedback();
+      resultEl.classList.add("d-none");
+
+      const validation = validateInputs();
+      if (!validation.valid) {
+        showFeedback(validation.message, "warning");
+        return;
+      }
+
+      const payload = { long_url: longUrlInput.value.trim() };
+      const ttlRaw = ttlInput.value.trim();
+      if (ttlRaw.length > 0) {
+        payload.ttl_seconds = Number(ttlRaw);
+      }
+
+      submitBtn.disabled = true;
+      submitBtn.textContent = "Creating...";
+
+      try {
+        const data = await submitShortenRequest(payload);
+        if (!data || typeof data.short_url !== "string" || typeof data.code !== "string") {
+          throw new Error("Unexpected response from server.");
+        }
+
+        resultShortUrlEl.textContent = data.short_url;
+        resultShortUrlEl.href = data.short_url;
+        resultCodeEl.textContent = data.code;
+        resultExpiresAtEl.textContent = formatExpiresAt(data.expires_at);
+        resultEl.classList.remove("d-none");
+      } catch (error) {
+        showFeedback(error.message || "Unable to create short URL.", "danger");
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = "Create Short URL";
+      }
+    });
+  </script>
+</body>
+
+</html>
