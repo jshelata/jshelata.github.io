@@ -44,6 +44,11 @@
       text-decoration: underline;
     }
 
+    .copy-btn-inline {
+      margin-left: 8px;
+      vertical-align: baseline;
+    }
+
     .btn-light {
       font-weight: 600;
     }
@@ -81,9 +86,11 @@
 
         <div id="result" class="result-box d-none">
           <h4 class="mb-3">Short URL Created</h4>
-          <p class="mb-2"><strong>Short URL:</strong> <a id="result-short-url" href="#" target="_blank"
-              rel="noopener noreferrer"></a></p>
-          <p class="mb-2"><strong>Code:</strong> <span id="result-code"></span></p>
+          <p class="mb-2">
+            <strong>Short URL:</strong>
+            <a id="result-short-url" href="#" target="_blank" rel="noopener noreferrer"></a>
+            <button id="copy-short-url" type="button" class="btn btn-sm btn-light copy-btn-inline">Copy</button>
+          </p>
           <p class="mb-0"><strong>Expires At:</strong> <span id="result-expires-at"></span></p>
         </div>
       </div>
@@ -91,7 +98,10 @@
   </div>
 
   <script>
-    const API_ENDPOINT = "https://api.jackshelata.com/urls";
+    const DEFAULT_API_ENDPOINT = "https://api.jackshelata.com/urls";
+    const LOCAL_API_ENDPOINT = "http://localhost:8000/urls";
+    const isLocalHost = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+    const API_ENDPOINT = isLocalHost ? LOCAL_API_ENDPOINT : DEFAULT_API_ENDPOINT;
     const form = document.getElementById("shortener-form");
     const longUrlInput = document.getElementById("long-url");
     const ttlInput = document.getElementById("ttl-seconds");
@@ -99,7 +109,7 @@
     const feedbackEl = document.getElementById("feedback");
     const resultEl = document.getElementById("result");
     const resultShortUrlEl = document.getElementById("result-short-url");
-    const resultCodeEl = document.getElementById("result-code");
+    const copyShortUrlBtn = document.getElementById("copy-short-url");
     const resultExpiresAtEl = document.getElementById("result-expires-at");
 
     function showFeedback(message, type) {
@@ -191,6 +201,29 @@
       return parsedBody;
     }
 
+    async function copyTextToClipboard(text) {
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+        return;
+      }
+
+      const tempInput = document.createElement("input");
+      tempInput.value = text;
+      document.body.appendChild(tempInput);
+      tempInput.select();
+      const copied = document.execCommand("copy");
+      document.body.removeChild(tempInput);
+
+      if (!copied) {
+        throw new Error("Copy failed. Please copy manually.");
+      }
+    }
+
+    function setCopyButtonState(label, disabled) {
+      copyShortUrlBtn.textContent = label;
+      copyShortUrlBtn.disabled = disabled;
+    }
+
     form.addEventListener("submit", async function (event) {
       event.preventDefault();
       hideFeedback();
@@ -213,13 +246,12 @@
 
       try {
         const data = await submitShortenRequest(payload);
-        if (!data || typeof data.short_url !== "string" || typeof data.code !== "string") {
+        if (!data || typeof data.short_url !== "string") {
           throw new Error("Unexpected response from server.");
         }
 
         resultShortUrlEl.textContent = data.short_url;
         resultShortUrlEl.href = data.short_url;
-        resultCodeEl.textContent = data.code;
         resultExpiresAtEl.textContent = formatExpiresAt(data.expires_at);
         resultEl.classList.remove("d-none");
       } catch (error) {
@@ -227,6 +259,26 @@
       } finally {
         submitBtn.disabled = false;
         submitBtn.textContent = "Create Short URL";
+      }
+    });
+
+    copyShortUrlBtn.addEventListener("click", async function () {
+      const shortUrl = resultShortUrlEl.textContent.trim();
+      if (!shortUrl) {
+        showFeedback("No short URL to copy yet.", "warning");
+        return;
+      }
+
+      try {
+        setCopyButtonState("Copying...", true);
+        await copyTextToClipboard(shortUrl);
+        setCopyButtonState("Copied!", true);
+        setTimeout(function () {
+          setCopyButtonState("Copy", false);
+        }, 1200);
+      } catch (error) {
+        setCopyButtonState("Copy", false);
+        showFeedback(error.message || "Unable to copy short URL.", "danger");
       }
     });
   </script>
