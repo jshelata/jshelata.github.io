@@ -92,9 +92,22 @@ async function submitShortenRequest(payload) {
   }
 
   if (!response.ok) {
-    const errorMessage = parsedBody && typeof parsedBody.error === "string"
-      ? parsedBody.error
-      : "Request failed with status " + response.status + ".";
+    let errorMessage = "Request failed with status " + response.status + ".";
+
+    if (response.status === 429) {
+      const retryAfter = response.headers.get("Retry-After");
+      if (retryAfter) {
+        const unit = retryAfter === "1" ? "second" : "seconds";
+        errorMessage = "Too many requests. You are being throttled. Try again in " + retryAfter + " " + unit + ".";
+      } else {
+        errorMessage = "Too many requests. You are being throttled. Please wait and try again.";
+      }
+    } else if (parsedBody && typeof parsedBody.detail === "string") {
+      errorMessage = parsedBody.detail;
+    } else if (parsedBody && typeof parsedBody.error === "string") {
+      errorMessage = parsedBody.error;
+    }
+
     throw new Error(errorMessage);
   }
 
