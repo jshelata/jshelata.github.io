@@ -4,6 +4,7 @@ const isLocalHost = window.location.hostname === "localhost" || window.location.
 const API_ENDPOINT = isLocalHost ? LOCAL_API_ENDPOINT : DEFAULT_API_ENDPOINT;
 const form = document.getElementById("shortener-form");
 const longUrlInput = document.getElementById("long-url");
+const customAliasInput = document.getElementById("custom-alias");
 const ttlInput = document.getElementById("ttl-seconds");
 const submitBtn = document.getElementById("submit-btn");
 const feedbackEl = document.getElementById("feedback");
@@ -75,6 +76,27 @@ function validateInputs() {
   return { valid: true };
 }
 
+function getDetailMessage(detail) {
+  if (typeof detail === "string") {
+    return detail;
+  }
+
+  if (Array.isArray(detail) && detail.length > 0) {
+    const first = detail[0];
+    if (first && typeof first.msg === "string") {
+      if (Array.isArray(first.loc) && first.loc.length > 0) {
+        const field = first.loc[first.loc.length - 1];
+        if (typeof field === "string" && field.length > 0) {
+          return field + ": " + first.msg;
+        }
+      }
+      return first.msg;
+    }
+  }
+
+  return null;
+}
+
 async function submitShortenRequest(payload) {
   const response = await fetch(API_ENDPOINT, {
     method: "POST",
@@ -93,6 +115,7 @@ async function submitShortenRequest(payload) {
 
   if (!response.ok) {
     let errorMessage = "Request failed with status " + response.status + ".";
+    const detailMessage = parsedBody ? getDetailMessage(parsedBody.detail) : null;
 
     if (response.status === 429) {
       const retryAfter = response.headers.get("Retry-After");
@@ -102,8 +125,12 @@ async function submitShortenRequest(payload) {
       } else {
         errorMessage = "Too many requests. You are being throttled. Please wait and try again.";
       }
-    } else if (parsedBody && typeof parsedBody.detail === "string") {
-      errorMessage = parsedBody.detail;
+    } else if (response.status === 409) {
+      errorMessage = detailMessage
+        ? detailMessage
+        : "That custom alias is already in use. Try a different alias.";
+    } else if (detailMessage) {
+      errorMessage = detailMessage;
     } else if (parsedBody && typeof parsedBody.error === "string") {
       errorMessage = parsedBody.error;
     }
@@ -149,6 +176,11 @@ form.addEventListener("submit", async function (event) {
   }
 
   const payload = { long_url: longUrlInput.value.trim() };
+  const customAlias = customAliasInput.value.trim();
+  if (customAlias.length > 0) {
+    payload.custom_alias = customAlias;
+  }
+
   const ttlRaw = ttlInput.value.trim();
   if (ttlRaw.length > 0) {
     payload.ttl_seconds = Number(ttlRaw);
