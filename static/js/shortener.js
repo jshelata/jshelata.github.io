@@ -12,6 +12,9 @@ const resultEl = document.getElementById("result");
 const resultShortUrlEl = document.getElementById("result-short-url");
 const copyShortUrlBtn = document.getElementById("copy-short-url");
 const resultExpiresAtEl = document.getElementById("result-expires-at");
+const turnstileWidgetEl = document.getElementById("turnstile-widget");
+let turnstileWidgetId = null;
+let turnstileToken = "";
 
 function showFeedback(message, type) {
   feedbackEl.textContent = message;
@@ -75,6 +78,53 @@ function validateInputs() {
 
   return { valid: true };
 }
+
+function getTurnstileSiteKey() {
+  if (!turnstileWidgetEl) {
+    return "";
+  }
+  return turnstileWidgetEl.dataset.sitekey ? turnstileWidgetEl.dataset.sitekey.trim() : "";
+}
+
+function hasConfiguredTurnstileSiteKey() {
+  const siteKey = getTurnstileSiteKey();
+  return siteKey.length > 0 && !siteKey.startsWith("REPLACE_WITH_");
+}
+
+function isTurnstileRequired() {
+  return !isLocalHost;
+}
+
+function resetTurnstileWidget() {
+  turnstileToken = "";
+  if (window.turnstile && turnstileWidgetId !== null) {
+    window.turnstile.reset(turnstileWidgetId);
+  }
+}
+
+window.initShortenerTurnstile = function () {
+  if (!turnstileWidgetEl || !window.turnstile || !isTurnstileRequired()) {
+    return;
+  }
+
+  if (!hasConfiguredTurnstileSiteKey()) {
+    return;
+  }
+
+  turnstileWidgetId = window.turnstile.render(turnstileWidgetEl, {
+    sitekey: getTurnstileSiteKey(),
+    theme: "auto",
+    callback: function (token) {
+      turnstileToken = token;
+    },
+    "expired-callback": function () {
+      turnstileToken = "";
+    },
+    "error-callback": function () {
+      turnstileToken = "";
+    }
+  });
+};
 
 function getDetailMessage(detail) {
   if (typeof detail === "string") {
@@ -186,6 +236,20 @@ form.addEventListener("submit", async function (event) {
     payload.ttl_seconds = Number(ttlRaw);
   }
 
+  if (isTurnstileRequired()) {
+    if (!hasConfiguredTurnstileSiteKey()) {
+      showFeedback("Turnstile is not configured on this page yet.", "danger");
+      return;
+    }
+
+    if (!turnstileToken) {
+      showFeedback("Please complete the human verification challenge.", "warning");
+      return;
+    }
+
+    payload.turnstile_token = turnstileToken;
+  }
+
   submitBtn.disabled = true;
   submitBtn.textContent = "Creating...";
 
@@ -202,6 +266,9 @@ form.addEventListener("submit", async function (event) {
   } catch (error) {
     showFeedback(error.message || "Unable to create short URL.", "danger");
   } finally {
+    if (isTurnstileRequired()) {
+      resetTurnstileWidget();
+    }
     submitBtn.disabled = false;
     submitBtn.textContent = "Create Short URL";
   }
