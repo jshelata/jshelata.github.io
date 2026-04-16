@@ -1,11 +1,16 @@
-const DEFAULT_API_ENDPOINT = "https://api.jackshelata.com/urls";
-const LOCAL_API_ENDPOINT = "http://localhost:8000/urls";
+const DEFAULT_API_BASE = "https://api.jackshelata.com";
+const LOCAL_API_BASE = "http://localhost:8000";
 const isLocalHost = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
-const API_ENDPOINT = isLocalHost ? LOCAL_API_ENDPOINT : DEFAULT_API_ENDPOINT;
+const API_BASE = isLocalHost ? LOCAL_API_BASE : DEFAULT_API_BASE;
+const CREATE_ENDPOINT = API_BASE + "/urls";
+const GOOGLE_STATUS_ENDPOINT = API_BASE + "/auth/google/status";
 const form = document.getElementById("shortener-form");
 const longUrlInput = document.getElementById("long-url");
 const customAliasInput = document.getElementById("custom-alias");
 const ttlInput = document.getElementById("ttl-seconds");
+const ttlHelpEl = document.getElementById("ttl-help");
+const permanentCheckbox = document.getElementById("is-permanent");
+const retentionModeGroupEl = document.getElementById("retention-mode-group");
 const submitBtn = document.getElementById("submit-btn");
 const feedbackEl = document.getElementById("feedback");
 const resultEl = document.getElementById("result");
@@ -13,8 +18,20 @@ const resultShortUrlEl = document.getElementById("result-short-url");
 const copyShortUrlBtn = document.getElementById("copy-short-url");
 const resultExpiresAtEl = document.getElementById("result-expires-at");
 const turnstileWidgetEl = document.getElementById("turnstile-widget");
+const googleAuthPanelEl = document.getElementById("google-auth-panel");
+const googleAuthHelpEl = document.getElementById("google-auth-help");
+const googleSigninButtonEl = document.getElementById("google-signin-button");
+const googleAuthStatusEl = document.getElementById("google-auth-status");
+const googleAuthNameEl = document.getElementById("google-auth-name");
+const googleAuthEmailEl = document.getElementById("google-auth-email");
+const googleAuthPermissionEl = document.getElementById("google-auth-permission");
+const googleSignoutBtn = document.getElementById("google-signout-btn");
+const defaultTtlHelpText = ttlHelpEl ? ttlHelpEl.textContent : "";
 let turnstileWidgetId = null;
 let turnstileToken = "";
+let googleButtonRendered = false;
+let googleIdToken = "";
+let googleAuthStatus = null;
 
 function showFeedback(message, type) {
   feedbackEl.textContent = message;
@@ -37,6 +54,10 @@ function isValidUrl(url) {
 }
 
 function formatExpiresAt(expiresAt) {
+  if (expiresAt === null || typeof expiresAt === "undefined") {
+    return "Never";
+  }
+
   if (typeof expiresAt !== "number") {
     return "Unknown";
   }
@@ -45,12 +66,15 @@ function formatExpiresAt(expiresAt) {
     return "Never";
   }
 
-  // Backend may return Unix seconds or milliseconds.
   const date = new Date(expiresAt < 1000000000000 ? expiresAt * 1000 : expiresAt);
   if (Number.isNaN(date.getTime())) {
     return String(expiresAt);
   }
   return date.toLocaleString();
+}
+
+function isPermanentSelected() {
+  return Boolean(permanentCheckbox && retentionModeGroupEl && !retentionModeGroupEl.classList.contains("d-none") && permanentCheckbox.checked);
 }
 
 function validateInputs() {
@@ -63,6 +87,10 @@ function validateInputs() {
 
   if (!isValidUrl(longUrl)) {
     return { valid: false, message: "Please enter a valid URL including http:// or https://." };
+  }
+
+  if (isPermanentSelected()) {
+    return { valid: true };
   }
 
   if (ttlRaw.length > 0) {
@@ -126,6 +154,82 @@ window.initShortenerTurnstile = function () {
   });
 };
 
+function getGoogleClientId() {
+  if (!googleAuthPanelEl) {
+    return "";
+  }
+  return googleAuthPanelEl.dataset.clientId ? googleAuthPanelEl.dataset.clientId.trim() : "";
+}
+
+function hasConfiguredGoogleClientId() {
+  const clientId = getGoogleClientId();
+  return clientId.length > 0 && !clientId.startsWith("REPLACE_WITH_");
+}
+
+function canUsePermanentLinks() {
+  return Boolean(googleAuthStatus && googleAuthStatus.allow_permanent);
+}
+
+function updateRetentionControls() {
+  const canUsePermanent = canUsePermanentLinks();
+  if (retentionModeGroupEl) {
+    retentionModeGroupEl.classList.toggle("d-none", !canUsePermanent);
+  }
+  if (!canUsePermanent && permanentCheckbox) {
+    permanentCheckbox.checked = false;
+  }
+
+  const permanentSelected = canUsePermanent && permanentCheckbox && permanentCheckbox.checked;
+  ttlInput.disabled = Boolean(permanentSelected);
+  ttlInput.placeholder = permanentSelected ? "Not used for permanent links" : "Defaults to 3600";
+  if (ttlHelpEl) {
+    ttlHelpEl.textContent = permanentSelected
+      ? "Permanent retention selected. TTL is ignored."
+      : defaultTtlHelpText;
+  }
+}
+
+function updateGoogleAuthUi() {
+  if (!googleSigninButtonEl || !googleAuthStatusEl || !googleAuthHelpEl) {
+    return;
+  }
+
+  const configured = hasConfiguredGoogleClientId();
+  const signedIn = Boolean(googleAuthStatus);
+
+  googleSigninButtonEl.classList.toggle("d-none", !configured || signedIn);
+  googleAuthStatusEl.classList.toggle("d-none", !signedIn);
+
+  if (!configured) {
+    googleAuthHelpEl.textContent = "Google login is not configured on this page yet.";
+    updateRetentionControls();
+    return;
+  }
+
+  googleAuthHelpEl.textContent = "Sign in with Google if you need access to never-expiring links.";
+
+  if (!signedIn) {
+    updateRetentionControls();
+    return;
+  }
+
+  googleAuthNameEl.textContent = googleAuthStatus.name || "Signed in with Google";
+  googleAuthEmailEl.textContent = googleAuthStatus.email || "";
+  googleAuthPermissionEl.textContent = googleAuthStatus.allow_permanent
+    ? "Infinite retention is enabled for this account."
+    : "This account can create expiring links only.";
+  updateRetentionControls();
+}
+
+function clearGoogleAuthState() {
+  googleIdToken = "";
+  googleAuthStatus = null;
+  if (window.google && window.google.accounts && window.google.accounts.id) {
+    window.google.accounts.id.disableAutoSelect();
+  }
+  updateGoogleAuthUi();
+}
+
 function getDetailMessage(detail) {
   if (typeof detail === "string") {
     return detail;
@@ -147,8 +251,107 @@ function getDetailMessage(detail) {
   return null;
 }
 
+function getResponseErrorMessage(response, parsedBody) {
+  const detailMessage = parsedBody ? getDetailMessage(parsedBody.detail) : null;
+
+  if (response.status === 429) {
+    const retryAfter = response.headers.get("Retry-After");
+    if (retryAfter) {
+      const unit = retryAfter === "1" ? "second" : "seconds";
+      return "Too many requests. You are being throttled. Try again in " + retryAfter + " " + unit + ".";
+    }
+    return "Too many requests. You are being throttled. Please wait and try again.";
+  }
+
+  if (response.status === 409) {
+    return detailMessage
+      ? detailMessage
+      : "That custom alias is already in use. Try a different alias.";
+  }
+
+  if (detailMessage) {
+    return detailMessage;
+  }
+
+  if (parsedBody && typeof parsedBody.error === "string") {
+    return parsedBody.error;
+  }
+
+  return "Request failed with status " + response.status + ".";
+}
+
+async function parseJsonResponse(response) {
+  try {
+    return await response.json();
+  } catch (_) {
+    return null;
+  }
+}
+
+async function fetchGoogleAuthStatus(credential) {
+  const response = await fetch(GOOGLE_STATUS_ENDPOINT, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({ google_id_token: credential })
+  });
+
+  const parsedBody = await parseJsonResponse(response);
+  if (!response.ok) {
+    throw new Error(getResponseErrorMessage(response, parsedBody));
+  }
+  return parsedBody;
+}
+
+window.initShortenerGoogleIdentity = function () {
+  if (!googleSigninButtonEl || !window.google || !window.google.accounts || !window.google.accounts.id) {
+    return;
+  }
+
+  if (!hasConfiguredGoogleClientId()) {
+    updateGoogleAuthUi();
+    return;
+  }
+
+  if (!googleButtonRendered) {
+    window.google.accounts.id.initialize({
+      client_id: getGoogleClientId(),
+      callback: async function (response) {
+        if (!response || !response.credential) {
+          showFeedback("Google sign-in did not return a usable credential.", "danger");
+          return;
+        }
+
+        try {
+          submitBtn.disabled = true;
+          const status = await fetchGoogleAuthStatus(response.credential);
+          googleIdToken = response.credential;
+          googleAuthStatus = status;
+          hideFeedback();
+          updateGoogleAuthUi();
+        } catch (error) {
+          clearGoogleAuthState();
+          showFeedback(error.message || "Unable to verify your Google login.", "danger");
+        } finally {
+          submitBtn.disabled = false;
+        }
+      }
+    });
+    window.google.accounts.id.renderButton(googleSigninButtonEl, {
+      theme: "outline",
+      size: "large",
+      text: "signin_with",
+      shape: "pill"
+    });
+    googleButtonRendered = true;
+  }
+
+  updateGoogleAuthUi();
+};
+
 async function submitShortenRequest(payload) {
-  const response = await fetch(API_ENDPOINT, {
+  const response = await fetch(CREATE_ENDPOINT, {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
@@ -156,36 +359,9 @@ async function submitShortenRequest(payload) {
     body: JSON.stringify(payload)
   });
 
-  let parsedBody = null;
-  try {
-    parsedBody = await response.json();
-  } catch (_) {
-    // Allow non-JSON errors to still surface status details.
-  }
-
+  const parsedBody = await parseJsonResponse(response);
   if (!response.ok) {
-    let errorMessage = "Request failed with status " + response.status + ".";
-    const detailMessage = parsedBody ? getDetailMessage(parsedBody.detail) : null;
-
-    if (response.status === 429) {
-      const retryAfter = response.headers.get("Retry-After");
-      if (retryAfter) {
-        const unit = retryAfter === "1" ? "second" : "seconds";
-        errorMessage = "Too many requests. You are being throttled. Try again in " + retryAfter + " " + unit + ".";
-      } else {
-        errorMessage = "Too many requests. You are being throttled. Please wait and try again.";
-      }
-    } else if (response.status === 409) {
-      errorMessage = detailMessage
-        ? detailMessage
-        : "That custom alias is already in use. Try a different alias.";
-    } else if (detailMessage) {
-      errorMessage = detailMessage;
-    } else if (parsedBody && typeof parsedBody.error === "string") {
-      errorMessage = parsedBody.error;
-    }
-
-    throw new Error(errorMessage);
+    throw new Error(getResponseErrorMessage(response, parsedBody));
   }
 
   return parsedBody;
@@ -231,9 +407,18 @@ form.addEventListener("submit", async function (event) {
     payload.custom_alias = customAlias;
   }
 
-  const ttlRaw = ttlInput.value.trim();
-  if (ttlRaw.length > 0) {
-    payload.ttl_seconds = Number(ttlRaw);
+  if (isPermanentSelected()) {
+    if (!googleIdToken || !canUsePermanentLinks()) {
+      showFeedback("Sign in with an approved Google account to create a permanent link.", "warning");
+      return;
+    }
+    payload.is_permanent = true;
+    payload.google_id_token = googleIdToken;
+  } else {
+    const ttlRaw = ttlInput.value.trim();
+    if (ttlRaw.length > 0) {
+      payload.ttl_seconds = Number(ttlRaw);
+    }
   }
 
   if (isTurnstileRequired()) {
@@ -274,6 +459,19 @@ form.addEventListener("submit", async function (event) {
   }
 });
 
+if (permanentCheckbox) {
+  permanentCheckbox.addEventListener("change", function () {
+    updateRetentionControls();
+  });
+}
+
+if (googleSignoutBtn) {
+  googleSignoutBtn.addEventListener("click", function () {
+    clearGoogleAuthState();
+    hideFeedback();
+  });
+}
+
 copyShortUrlBtn.addEventListener("click", async function () {
   const shortUrl = resultShortUrlEl.textContent.trim();
   if (!shortUrl) {
@@ -293,3 +491,6 @@ copyShortUrlBtn.addEventListener("click", async function () {
     showFeedback(error.message || "Unable to copy short URL.", "danger");
   }
 });
+
+updateGoogleAuthUi();
+updateRetentionControls();
